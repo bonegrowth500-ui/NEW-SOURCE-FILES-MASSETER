@@ -215,6 +215,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Habit automaticity | Median ~2 months; range from days to most of a year | Behavior complexity. **Never used to time outcomes** | EV (M) |
 | Unguided completion | Very low (MOOCs ~3% overall; apps ~4% retained at day 15). Paying/verified MOOC learners ~46% (selection + commitment) | Human touch; deadlines; payment | EV (S/M) |
 | Working alliance ↔ outcome | r≈.3 | — | EV (S) |
+| Rewarding the return after a lapse | In a month-long gym megastudy, rewarding a return after a missed workout outperformed most of dozens of other nudges | Why Never Miss Twice rewards the comeback, not the streak | EV (S in domain; transfer M–W) |
 | Markers per client | 2–3 pre-agreed changeable-column markers, thresholds set at baseline (never adherence alone, never appearance change) | Goal; what his record can measure | RULE |
 | Client check-in time | ~10 minutes a week to complete the weekly check-in | Instrument length; templates | RULE (D) |
 | Measured momentum (Round Two qualifier) | At the week-12 re-assessment: adherence at or above his threshold, and at least one marker still improving across its last two readings | Marker design | RULE |
@@ -233,6 +234,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Refund timing | Paid within 7 days of the request (fit window, exit right) or of the week-12 verdict (non-response clause); the plan-usefulness refund within 7 days of the request; a missed service deliverable credited or refunded (his choice) within 7 days of the miss | — | RULE |
 | Claim windows | Exit right: from the week-6 read until 7 days after it's delivered. Plan-usefulness refund: within 14 days of receiving the written plan. Fit window: 14–21 days from day one of delivery | — | RULE |
 | Stops outside the windows | A refer-out trigger that ends delivery at any point (jaw pain, sleep signs, distress, fixation): undelivered weeks refunded pro rata within 7 days. A voluntary stop after the exit window: no cash refund of delivered weeks; installments cancel forward; undelivered weeks can be deferred to a later start within 6 months | — | RULE |
+| Stopping before the week-6 read | After the fit window and before week 6, a client who asks to stop gets his week-6 read brought forward; the exit right's adherence condition is judged over the weeks delivered so far | — | RULE |
+| When corrective weeks run | Week 12 is never pushed back: the re-assessment happens on its date, and corrective weeks from a review error run after it, free, with their own read at the end | — | RULE |
 | Non-responder share; recommendation mix; share told "you don't need Round Two" | Measured from the founding clients; published once there are ≥30 graduates (≥30 assessments for the mix) | — | RULE |
 
 ## E. Persuasion effect sizes (explanation only; never a promise, always a range)

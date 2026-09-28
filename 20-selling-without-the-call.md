@@ -269,11 +269,11 @@ Email: [frequency]; one click to leave.
 | Segment | What it says | Branches |
 |---|---|---|
 | 1. Contract [~1 min] | "Recorded [date], [n] minutes; it ends in one recommendation, which can be 'don't buy'." | One |
-| 2. Your stall [~2 min] | His answers' pattern; the Canon's cause claim | Unmeasured · effort aimed at bone · bought before |
-| 3. The standard [~2 min] | The Canon's claims on bone and on your face; the kit on screen | Before segment 2 for a burned buyer |
+| 2. Your stall [~2 min] | His pattern; the Canon's cause claim | Unmeasured · aimed at bone · bought before |
+| 3. The standard [~2 min] | The Canon on bone and on your face; the kit | First, for a burned buyer |
 | 4. What 12 weeks deliver [~3 min] | The Card's lines; a sample weekly review | One |
-| 5. Recommendation and price [~2 min] | Tiers premium first; one recommendation; the price once; the question | The priority tier for the Optimizer |
-| 6. His likeliest question [~2 min] | One objection, answered from the terms or the record | Burned: guarantee terms · Optimizer: privacy · Ambivalent: another season's cost · Default: "I always quit" |
+| 5. Recommendation and price [~2 min] | Tiers premium first; one pick; the price once; the question | Priority tier for the Optimizer |
+| 6. His likeliest question [~2 min] | One objection, answered from the terms or the record | Burned: guarantee · Optimizer: privacy · Ambivalent: another season · Default: quitting |
 | 7. Ask and date [~1 min] | "If this fits, join the [Month] start here. It begins Monday [date], and you can join through [date]. If a question stands in the way, reply, and I'll answer it by voice note." | One |
 
 ## Template: The Five-Email Sales Sequence
@@ -282,11 +282,11 @@ Timing and exits are plumbing; these are the words. Every email makes one ask an
 
 | # | Link | Subject | What it says | Its one ask |
 |---|---|---|---|---|
-| 1 | Cause | "Months of work, nothing measured" | A link back to his result; the Canon's cause claim, word for word | Start the free 7-day log |
+| 1 | Cause | "Months of work, nothing measured" | A link back to his result; the Canon's cause claim | Start the free 7-day log |
 | 2 | Range, then Guide | "What I won't sell you" | The Honest Answer; "My face is not evidence for the method. The record is, published on the dates I committed to." | Read the sample plan |
-| 3 | Vehicle | "What I'd recommend for you" | A sample weekly review; the tiers premium first; one recommendation; the price once | Watch the walkthrough, then join |
-| 4 | Self | "If you've quit before" | One objection for his state, answered from the terms or his first fortnight | Reply with your question |
-| 5 | Now | "The [Month] start" | Knowing instead of guessing, with the Canon's line on how people read you; the stake, once; both starts | Join, or pick your start |
+| 3 | Vehicle | "What I'd recommend for you" | A sample weekly review; tiers premium first; one recommendation; the price once | Watch the walkthrough, then join |
+| 4 | Self | "If you've quit before" | His state's likeliest objection, answered from the terms or his first fortnight | Reply with your question |
+| 5 | Now | "The [Month] start" | Knowing instead of guessing, with the Canon's line on how people read you; the stake, once | Join, or pick your start |
 
 The third email, in full:
 
@@ -294,33 +294,33 @@ The third email, in full:
 >
 > [First name], here's what one week inside looks like: [a sample weekly review, labeled composite]. A record doesn't read itself; review turns it into a decision.
 >
-> The tiers, highest first: [Private, $[X], a call first, full this quarter] · the Program, $[Y] for 12 weeks: a written review of your week within [turnaround], one live group call a week with the camera optional, a written read at week 6, and a re-assessment at week 12. For you I'd recommend the Program from the [Month] start, because [his state's reason, such as "months of effort have been missing someone reading the record"]. Before you pay, you'll see the whole path and its likely cost over [9] months.
+> The tiers, highest first: [Private, $[X], a call first, full this quarter] · the Program, $[Y] for 12 weeks: a written review of your week within [turnaround], a weekly group call with the camera optional, a written read at week 6, and a re-assessment at week 12. For you, the Program from the [Month] start, because [his state's reason, such as "months of effort have been missing someone reading the record"]. You'll see the whole path and its [9]-month cost before you pay.
 >
 > [Watch the walkthrough, then join the [Month] start]
 >
 > Next start: Monday [date] · join through [date] · Email: [frequency]; one click to leave.
 
-His stage tag picks the start: "this month" names the next one, and "next month" the first start in that month. "Later" names the first start after his date, with the free Starter Path as a second option if the timing is a real constraint. The burned version swaps emails 1 and 2, adds the kit to the first, and answers "what if nothing changes?" in the fourth, and the Optimizer's third recommends the priority tier.
+His stage tag picks the start: the next one for "this month", the first in that month for "next month", and the first after his date for "later", with the free Starter Path as a second option. The burned version swaps emails 1 and 2, adds the kit, and answers "what if nothing changes?" in the fourth; the Optimizer's third recommends the priority tier.
 
-The order is the arc's, so each email stands on the one before it, and all five keep the Dignity Route's limits. A reply of "not for me" stops the sequence with nothing cheaper after it. "I can't afford it" gets the Starter Path once and the pause route, and nothing after it carries a price, an offer, or a date. The line you never send is "Last chance: your assessment credit runs out Friday", because a credit is never a deadline. The fifth email returns to the recommendation and closes the loop: "If [Month] isn't right, [Month + 1] starts [date], and it's just as real."
+The order is the arc's, so each email stands on the one before it, within the Dignity Route's limits. "Not for me" stops the sequence with nothing cheaper after it, and "I can't afford it" gets the Starter Path once and the pause route, with no price, offer, or date after it. The line you never send is "Last chance: your assessment credit runs out Friday", because a credit is never a deadline. The fifth email closes the loop on the recommendation: "If [Month] isn't right, [Month + 1] starts [date], and it's just as real."
 
 ## Templates: Voice Notes, DM Handoff Lines, and the Paid Session
 
 **Voice-note rules.**
 
 1. One question, in about 1–3 minutes, opening with his words.
-2. Calm and plain, with validation first if he's frustrated.
+2. Calm and plain, validating first if he's frustrated.
 3. At most one recommendation, with its date; ask for his date if he hasn't named one.
-4. One written line underneath: the recommendation, the price if he asked, both dates.
+4. A written line underneath: the recommendation, the price if he asked, both dates.
 5. Recorded and sent by you, never by a tool in your voice.
-6. Stop rules first, with no recommendation: "can't afford" gets the Starter Path once and the pause route; distress or fixation, a referral conversation; a minor, the education lane and a refund of anything paid.
-7. Jaw pain, bite, sleep, or a procedure gets a referral and no opinion from you.
+6. Stop rules first, with no recommendation: "can't afford" gets the Starter Path once and the pause route; distress, a referral conversation; a minor, the education lane and a refund.
+7. Jaw pain, bite, sleep, or a procedure gets a referral and no opinion.
 
 **Theo's note**, answering "What exactly happens if I do the work and nothing changes?":
 
 > **You:** "Theo, fair question, and after the last guarantee you had, you should check this one. Two things protect you. At week 6, if you've done the work and want to stop, you get a pro-rata refund for the weeks you haven't had. At week 12, if none of the markers we agree at baseline reaches its threshold while you've kept to the agreed work, you get a cash partial refund, fixed before you pay. Either is paid within seven days, and the terms are on the page I'm linking. My recommendation is still the April start. Your date is yours, so which day will you decide by?"
 
-Underneath goes one line: "The Program, [April 6] start, join through [April 17], $[2.8k]. Terms: [link]." The move supports his due diligence and repairs Guide with collectable terms, one firm recommendation, and his own date. If he answers "everyone says that", don't argue:
+Underneath goes one line: "The Program, [April 6] start, join through [April 17], $[2.8k]. Terms: [link]." The note supports his due diligence and repairs Guide with collectable terms, one firm recommendation, and his own date. If he answers "everyone says that", don't argue:
 
 > **You:** "Then check it against the terms page and the refunds I've published, and ask me about anything that doesn't match."
 
