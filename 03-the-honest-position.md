@@ -137,7 +137,7 @@ That's the paragraph. The spoken version runs under a minute and ends on a quest
 
 > There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. If what you want is to be at ease in photos and to stop guessing, that's where the work is. Which of those are you working on, and how would you know?
 
-The paragraph follows Fantasy to Expectation: the desire named vividly, then the obstacle and the plan in the same breath, then one line placing it beyond the face. Its yes rests on bounded agency, where genes set the range of what shows, guessing wastes it, and measurement shows where he is in it. And it's claim #1 in your Canon, the short set of calibrated core claims you repeat on every surface (Module 14).
+The paragraph follows Fantasy to Expectation: the desire named vividly, then the obstacle and the plan in the same breath, then one line placing it beyond the face. Its yes rests on bounded agency, where genes set the range of what shows, guessing wastes it, and measurement shows what's moving. And it's claim #1 in your Canon, the short set of calibrated core claims you repeat on every surface (Module 14).
 
 ### Null results are published beside the wins
 

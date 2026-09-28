@@ -245,6 +245,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Inoculation / prebunking | Moderate protection against later persuasion attempts | Build the capture standard before publishing anti-grift content | EV (S/M) |
 | Two-sided refutational messages | Small advantage over one-sided | Only when the counterargument is answered | EV (M) |
 | Mental contrasting (desire → obstacle → plan) | Moderate in meta-analysis, likely inflated by unpublished null results and concentrated in one research group | Fantasy to Expectation stands on honesty first, effect second | EV (M/C) |
+| Positive fantasy vs expectation | Indulging in a vivid positive fantasy predicts less effort and weaker outcomes than a grounded expectation of success | Why a destination is always paired with the obstacle and plan | EV (M; mostly one research group) |
+| Sustained exposure to corrections | Repeated corrections over months durably reduce a misperception where a single correction fades (one six-month field experiment) | Why the Canon repeats on a schedule | EV (M/W) |
 | Narrative persuasion | Small–moderate | Composites labeled | EV (M) |
 | Underestimating compliance with direct asks | People expect roughly half the yeses they get | Ask everyone, privately | EV (M) |
 | Peak-end memory | Final moments and peaks weigh heavily in retrospective judgment | Make the last fortnight the peak | EV (M) |
@@ -308,4 +310,5 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Private | Founding seats while minutes are spare; at Scaling only under the Parity Rule | RULE |
 | Paid self-serve products | Only after ~20 graduates have produced proof and a stall taxonomy | RULE |
 | The Dated Record | From month 1: publish the pre-commitment (what, at what sample size, on what schedule) and keep a dated log of process metrics (check-in completion, turnaround kept, claim rate, fit declines in aggregate). Outcome ranges with denominators first join the log at the proof milestone (≥10 graduates), labeled as a small sample; from ≥30 graduates they become the standing published log, with the non-responder share | RULE |
+| Canon rotation | Claim #1 (the Honest Answer) on every entry surface; each other canon claim at least every ~4–6 weeks across surfaces, in the same words; a resurfacing myth's claim runs first for ~2 weeks | RULE |
 | Guardrails (always) | Refund + dispute count (rolling) · complaint rate · fit-check signal and decline counts (aggregate) · refunds/exits among signal-flagged enrollees · promotional sends to paused leads (target zero) · affordability "no" share · non-responder share · review turnaround kept | RULE |
