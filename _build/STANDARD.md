@@ -35,3 +35,13 @@ Process → Educational → Observational → Outcome → Universal/Guaranteed/M
 - Is every outcome claim contextualized and every number a real range?
 - Is there any shame, fabricated proof, fake scarcity, or medical/structural guarantee? (must be zero)
 - Is force aimed at ideas/situations, never at people's worth?
+
+## OPERATIONAL RULES (added in 1.4 — how the hard lines bind in practice)
+- **Screen before charge.** Age fork at the door (legal adult where the buyer lives) and a brief appearance-concern screen before any paid step. A screen flag triggers a conversation and a referral route, never a label or a sale.
+- **Minors.** No paid offers, DM selling, calls, or payment plans with minors; an education-only lane. A minor's "I need to ask my parents" ends the sale. No parent-facing paid offers. No "younger bodies respond better" framing.
+- **Stop rules (force vs pressure).** A clear no ends the ask for that conversation. "I can't afford it" ends money talk: offer the Down-Path once, then stop. Acute distress, fixation, or "everything is ruined" language → no sale, referral. Follow-up is capped and pre-announced.
+- **Face-as-proof.** The operator's appearance is never evidence for the method; appearance attacks get a calm redirect to the measurement system.
+- **Numbers.** No number in public copy that doesn't come from the operator's own records; templates use bracketed placeholders; every published range names its denominator.
+- **Vocabulary.** Assess / audit / review / baseline / decision / plan / habit. Never diagnose, treat, analyze structure, score faces, or use clinical titles. Named refer-out triggers: sleep/snoring signs, jaw pain, bite/orthodontic issues, fixation/distress signals, minors.
+- **Surgery/filler.** Never an anchor, never "cheaper than surgery"; alternatives only as a "what each option is and isn't" map with referral.
+- **Sub-checks.** Dignity Check (after this, more capable or more defective?) on every emotional framing; Hostile-Screenshot Test before publishing; Payoff Test on every curiosity device.
