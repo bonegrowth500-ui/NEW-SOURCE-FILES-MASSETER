@@ -214,6 +214,9 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Working alliance ↔ outcome | r≈.3 | — | EV (S) |
 | Markers per client | 2–3 pre-agreed changeable-column markers, thresholds set at baseline (never adherence alone, never appearance change) | Goal; what his record can measure | RULE |
 | Client check-in time | ~10 minutes a week to complete the weekly check-in | Instrument length; templates | RULE (D) |
+| Measured momentum (Round Two qualifier) | At the week-12 re-assessment: adherence at or above his threshold, and at least one marker still improving across its last two readings | Marker design | RULE |
+| Round Two repeats | Once per graduate by default; a second only if Round Two's own week-12 read shows measured momentum and he asks. Otherwise the Hold or a clean finish | — | RULE |
+| Corrective weeks (review error) | The weeks the error cost, capped at 6, at no charge; logged in the Dated Record's claim rate | — | RULE |
 | One combined group call | Until ~12–15 concurrent clients, then split by stage | — | RULE |
 | Late entry into a running cohort | Through week 1–2 | — | RULE |
 | Appearance capture cadence | Baseline, ~week 6, week 12, then quarterly. Behavior logged and reviewed weekly. The free pre-purchase baseline stays on his device | — | RULE |
