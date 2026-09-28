@@ -36,7 +36,7 @@ A week-3 source check moves hours to the sources that work. Every founding clien
 5. **The R&D Harvest** (~800):
    - What each client must produce.
    - Stall taxonomy v1, instrument v1, capture standard v1.
-   - Process testimonials, asked only after the fit window, at a week-6 peak.
+   - Process testimonials, asked only after the fit window and after the week-6 exit decision is settled, at the next measured peak.
    - The Dated Record's process log starts here (03).
 6. **The Month-3 Gate** (~700):
    - Volume leg: fewer than ~15 held conversations by week 12 means fix sources, including the Band A paid test.
@@ -406,7 +406,7 @@ Claims, selling, review, and client communication stay with you. Freelancers do 
 4. **The Four Stories** (~900). Origin (never implying credentials), the Stall Told Back, the Transition (usable before outcome data), and the Case (with its range). Composites are labeled.
 5. **Testimonials and Integrity Levels** (~800):
    - Consent, typicality, incentives, disclosure.
-   - Timing: never before the fit window closes; the first process testimonial at the week-6 read, if it shows progress.
+   - Timing: never before the fit window closes and never in the week-6 exit conversation; the first process testimonial at the next measured peak after the exit decision, if his record shows progress.
    - Organic clips carry the range on screen; none in ads.
 6. **The Honest-Evidence Test and the Proof Stack** (~1,000). Teardowns with faces cropped or blurred; the honest-evidence standard; publication mechanics; the null-result stance.
 

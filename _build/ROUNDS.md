@@ -12,7 +12,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | draft done (7,374 w) → critique |
 | 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | critique done (2 blocking, 9 major) → rebuilding |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | critique done (0 blocking, 16 major) → rebuilding |
-| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | draft done (7,546 w) → critique |
+| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | critique done (1 blocking, 16 major) → rebuilding |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | critique done (0 blocking, 15 major) → rebuilding |
 
 ## Decisions made during Step 3
@@ -46,3 +46,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 04): the paid Starter tool is named only to not-now and not-a-fit buyers; never after 'I can't afford it', never when the money isn't his; a fit-check pause gets a reading-only version. Applies to 19, 20, 26 scripts and sequences.
 - R2 (from 06 critique): non-response clause defined: 'haven't moved' = no marker reached its threshold (one crossing = lever moves, no refund); below-adherence clients not covered (honest verdict; week-6 exit right was the route). Markers never read from photos; binary did-it items count as adherence. Path and Timeline Card: total cost over the first [6–9] months with a separate full-intensity Round Two line; the 'you don't need Round Two' share published at >=30 graduates. 07's clause wording must match.
 - R2 (from 05 critique): checkout enforces before payment (attestation, affordability question, Fit Check tier 2 before the pay button; pause tag blocks checkout; signal blocks same-day payment; BNPL/third-party financing off). Free-call booking form shows the public price range and asks the affordability question ('no' → free Starter Path + pause route, no call). Minor discovered after the fork: immediate exit to the education lane, delete data, refund anything paid. Default sample plans never recommend Program Async (Scaling-only, 13).
+- R2 (from 07 critique): first testimonial ask moved off the week-6 exit conversation to the first measured peak after the exit decision (from ~week 7) — LEDGER D row and briefs 09/16 updated; 22 must follow. New LEDGER B row: refunds paid within 7 days of request/verdict. Installment cap (≤3 × ≤⅓ take-home) binds: ~$2.8k plan cap at 20–24; above that, upfront from income/savings or a later start. Failed payment: reminder + retry, grace, delivery pauses, no fees/collections. Price Steps stay inside ledger bands; beyond the proof band is 13's.

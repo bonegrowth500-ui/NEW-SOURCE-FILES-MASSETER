@@ -218,7 +218,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Continuity/community churn | 4–8%/month typical; 8–15% open and cheap; 2–3% curated premium | Price; programming | EV (W) |
 | Lifetime value per client (before referrals) | ~$1.7–3.0k at opening prices; ~$2.6–3.8k at proof prices | Price; Round Two and Hold take; churn | PL (D) |
 | Referred customers | More loyal and more valuable than other acquisitions | Plan acquisition without referrals | EV (M) |
-| First testimonial ask | Never before the fit window closes. The first process-testimonial ask comes at the week-6 read if that read shows progress on his record | — | RULE |
+| First testimonial ask | Never before the fit window closes, and never in the conversation where the week-6 exit right is available. The first process-testimonial ask comes at the first measured peak after the week-6 exit decision is settled (from about week 7), if his record shows progress | — | RULE |
+| Refund timing | Paid within 7 days of the request (fit window, exit right) or of the week-12 verdict (non-response clause); the plan-usefulness refund within 7 days of the request | — | RULE |
 | Non-responder share; recommendation mix; share told "you don't need Round Two" | Measured from the founding clients; published once there are ≥30 graduates (≥30 assessments for the mix) | — | RULE |
 
 ## E. Persuasion effect sizes (explanation only; never a promise, always a range)
