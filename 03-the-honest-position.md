@@ -63,12 +63,12 @@ That's the **Outcome Map**: the bone question answered straight, by age and by e
 
 ### The mechanism decides the column
 
-Body composition sits in the first column and jaw change in the second, so the niche's commonest sentence lands on the seam: "get leaner and your jaw will show." Two questions sort it. First, what mechanism does the sentence claim? Fat, posture, grooming, and the camera are first-column mechanisms, oral-posture or chewing habits producing visible jaw change are second-column, and habits changing bone are third. Second, is it education about faces in general or a forecast about his? Education gets said at its tier. A forecast about his face goes in no column at all, because about him you report only what his own matched captures show, as an observation and never as a cause.
+Body composition sits in the first column and jaw change in the second, so the niche's commonest sentence lands on the seam: "get leaner and your jaw will show." Two questions sort it. First, what mechanism does the sentence claim? Fat, posture, grooming, and the camera are first-column, oral-posture or chewing habits producing visible jaw change are second-column, and habits changing bone are third. Second, is it education about faces in general or a forecast about his? Education gets said at its tier. A forecast about his face goes in no column, because about him you report only what his own matched captures show, as an observation, never a cause.
 
 | The sentence | Where it sorts | How you say it |
 |---|---|---|
 | "Leaner faces read with more jaw definition" | Changeable and measurable, as established education | Plainly, about faces in general |
-| "Get leaner and your jaw will sharpen" | A forecast about his face, so no column | "Body composition shows in the face. We'll track yours and read your captures at weeks 6 and 12." |
+| "Get leaner and your jaw will sharpen" | A forecast about his face, so no column | "Body composition shows in the face. We'll track yours and compare matched captures at weeks 6 and 12." |
 | "Mewing gave me a jawline" | Debated | "People report that. The evidence is photos, and it's unproven for adults." |
 | "Habits can widen an adult's jaw" | Never claimed | "There's no good evidence for that, and I don't sell it." |
 
@@ -98,7 +98,9 @@ The written recap carries his goal in his words, the plan, the recommendation, t
 
 ### Every outcome sentence gets a column
 
-Use the map as a filter before it's ever a speech: every outcome sentence you publish, say on a call, or print on a page gets a column before it ships. Publish the map itself on the Verify Page, the one page where a skeptic checks what you claim, charge, and refuse (Module 27), so what he hears in a video matches what he finds. Move a debated item only when the evidence moves, since a map that bends to demand stops being worth publishing, and never move the never-claimed column: it's the line on structural claims, written as a list. Run this way, the map sells before any call, because he arrives knowing what you won't claim.
+Use the map as a filter before it's ever a speech: every outcome sentence you publish, say on a call, or print on a page gets a column before it ships. Publish the map itself on the Verify Page, the one page where a skeptic checks what you claim, charge, and refuse (Module 27), so what he hears in a video matches what he finds.
+
+Move a debated item only when the evidence moves, since a map that bends to demand stops being worth publishing, and never move the never-claimed column: it's the line on structural claims, written as a list. Run this way, the map sells before any call, because he arrives knowing what you won't claim.
 
 ## 3. The Honest Answer
 
@@ -251,11 +253,11 @@ Picture the rival who starts copying you in year 3. He can take your map, your t
 
 The record binds you usefully, too, because a public, dated log makes any drift toward bigger claims visible to everyone who reads it. It's also what holds up a premium price later, once the honest stance is common.
 
-**When the signals disagree.** Say a rival launches with your Outcome Map nearly word for word and grows faster than you for a quarter. Your comments start asking what the difference is, while your eligible leads and held conversations hold steady. The position looks copied, but the business resting on it hasn't moved. Don't escalate your claims to stand apart, which walks you toward the column you refuse. Don't call him out either, which turns a fight about ideas into a fight between people. Answer the comment with the record: "Here's what I committed to in [month 1], and every entry since." More voices answering the bone question straight make a better market, and in it the oldest dated record gets checked first.
+**When the signals disagree.** Say a rival launches with your Outcome Map nearly word for word and outgrows you for a quarter. Your comments ask what the difference is, while your eligible leads and held conversations hold steady: the position looks copied, but the business resting on it hasn't moved. Don't escalate your claims to stand apart, which walks you toward the column you refuse, and don't call him out, which turns a fight about ideas into a fight between people. Answer the comment with the record: "Here's what I committed to in [month 1], and every entry since." More voices answering the bone question straight make a better market, and in it the oldest dated record gets checked first.
 
 ## Worked Example: Reid, Repositioning a Grift-Adjacent Channel
 
-Reid *(composite operator)* started from zero, and by month 5 his channel was growing faster than he'd planned. The growth came from the category's loudest formats, which is the common misread and an easy one to make: those formats are what the category rewards with views, and his title keyword is what people search.
+Reid *(composite operator)* started from zero, and by month 5 his channel was growing faster than he'd planned. The growth came from the category's loudest formats, which is the common misread and an easy one to make: those formats are what the category rewards with views, and the search term in his titles is what people type.
 
 **Month 5. The signs.** His last [six] titles promised results in days, his thumbnails showed his own jawline lit from above, his descriptor led with the category's bone promise, and every description carried a device affiliate code. Views ran at [~40k] a month, but most door completions came from under-18s, who get public education and a referral and nothing else. His eligible share of raw leads sat near the bottom of the 30–70% planning range, and he'd held [one] conversation in [three] weeks. On that call, a 27-year-old asked whether he could still change his jaw, and Reid heard himself hedge.
 
@@ -277,7 +279,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 
 **What he left alone.** He didn't add a platform, buy reach to replace the lost views, cut his founding price, or chase the old numbers with bolder hooks. Honest disagreement stayed up in his old comment threads, because deleting it would have been one more thing to explain.
 
-**Month 8. The outcome.** Views settled [~25%] below their peak. Raw leads per 1,000 engaged views rose from [~1] into the 2–5 early planning range, and his eligible share moved toward the middle of the 30–70% range. Held conversations reached [2–3] a week, with [2–3] clients in his founding group, the first cohort every early client joins. The 27-year-old came back after watching the Honest Answer and booked a fit conversation. Reid sits about [2–3] months behind a clean start, the real price of the misread, and inside Bands A–B, the reach bands worth planning on.
+**Month 8. The outcome.** Views settled [~25%] below their peak. Raw leads per 1,000 engaged views rose from [~1] into the 2–5 early planning range, and his eligible share moved toward the middle of the 30–70% range. Held conversations reached [2–3] a week, with [2–4] clients in his founding group, the first cohort every early client joins. The 27-year-old came back after watching the Honest Answer and booked a fit conversation. Reid sits about [2–3] months behind a clean start, the real price of the misread, and inside Bands A–B, the reach bands worth planning on.
 
 **What it shows.** The repositioning cost Reid views, affiliate income, and a few months, and it gained him eligible adults, because the same effort now pointed at people who could buy and could check his claims. The pre-commitment he posted with no clients is the first entry in a record no rival starting later can match.
 

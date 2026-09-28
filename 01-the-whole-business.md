@@ -38,7 +38,7 @@ Five things run short in this business, and the category makes each one shorter 
 | Reach | Only 30–70% of raw leads are eligible adults, and rating and comparison content pulls the youngest viewers fastest | Adult packaging, judged by eligible-adult yield: eligible leads per unit of reach, by source | Content and reply hours |
 | Trust | Faked before-and-afters, device grift, and a vocabulary that promised bone taught him to audit every claim | The Honest Answer, your straight public answer to the bone question (Module 3), and standards he can check | Some raw views, since a promise often out-clicks an honest title |
 | Minutes | Selling and care come out of one 20–25-hour week, and the core of each can't be handed off | Group and async forms that keep weekly review proactive | Some one-to-one feel, which Private, the premium seat, sells back |
-| Evidence | Outcomes are slow and confounded by weight change, growth into the early 20s, and camera distance | Measure everyone from day one; behavior weekly, appearance rarely | Patience: outcome ranges wait for about 30 graduates |
+| Evidence | Outcomes are slow and confounded by weight change, growth into the early 20s, and camera distance | Measure everyone from day one; behavior weekly, appearance rarely | Patience: outcome ranges start as a small sample at about 10 graduates and firm up at 30 |
 | Efficacy | He has tried for months and seen nothing he could measure | A small win he can verify before he pays | A little friction before his first conversation |
 
 **Pull a move only when what it relieves sits behind this month's constraint, and what it spends doesn't.**
@@ -69,7 +69,7 @@ When reach binds, every spare hour goes to the two things that create conversati
 
 ### Then conversations bind
 
-Past the early months the constraint moves to conversations, and it binds in one of two ways. The calendar can saturate: somewhere past 6–8 held conversations a week you run out of selling hours, or the wrong fits for a selling hour fill them. In this niche they have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. The signs: show rates sliding from about 80% toward 60% as bookings wait longer, most calls ending no-fit, and selling eating your content hours.
+Past the early months the constraint moves to conversations, and it binds in one of two ways. The calendar can saturate: somewhere past 6–8 held conversations a week you run out of selling hours, or the wrong fits for a selling hour fill them. In this niche they have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. The signs: show rates sliding from about 80% toward 60% as bookings wait longer, more than half your calls ending no-fit, and selling eating your content hours.
 
 Or the pipe can leak, with eligible leads arriving but too few becoming clients. The signs: fewer eligible leads reaching a held conversation than the 10–20% a fast reply should book, or held conversations closing below their range, 15–35% before proof and 25–45% with it, across two 30-conversation windows.
 
@@ -116,12 +116,12 @@ That's the **Stage Map**. Each stage has a binding constraint and a north star, 
 | Stage | Trailing revenue | Volume signal | Binding constraint | North star |
 |---|---|---|---|---|
 | Early | < ~$8k/month | < ~50 eligible leads/month; < ~15 concurrent clients | Reach, then conversations | Held qualified conversations/week, with cash collected |
-| Growing | ~$8–30k | ~50–400 eligible leads; ~15–35 clients | Conversion and selling minutes | Enrollments/month and eligible lead → enrollment |
-| Scaling | ~$30k+ | 400+ eligible leads; 35+ clients | Care minutes | Profit per operator hour |
+| Growing | ~$8–30k | ~50–150 eligible leads; ~15–25 clients | Conversion and selling minutes | Enrollments/month and eligible lead → enrollment |
+| Scaling | ~$30k+ | ~150+ eligible leads; ~25+ clients, or a waiting list | Care minutes | Profit per operator hour |
 
 Each north star is the number that moves first when the right lever works. Early, held conversations are the earliest countable sign that reach is working and the main thing that turns into cash, which is why month 3 is judged on them. Growing, eligible lead → enrollment shows whether the door and the call are leaking, something a rising enrollment count hides while leads are climbing. Scaling, profit per operator hour is the one measure that rewards the levers left once seats are full: price, templated review, and selling without a call.
 
-Deciding by one number still means watching a few. Each stage carries a short list, five numbers early and at most six later. Guardrails, such as refund and dispute counts and sends to paused leads, are watched at every stage; the list is Stage Metrics (Module 12). Mixed readings are common, and the $25k configuration is one: Scaling on revenue, with Growing's volume of roughly 120–285 eligible leads and 25–30 clients. The waiting list decides it, because a start that fills means care minutes bind.
+Deciding by one number still means watching a few. Each stage carries a short list, five numbers early and at most six later. Guardrails, such as refund and dispute counts and sends to paused leads, are watched at every stage; the list is Stage Metrics (Module 12). The $25k configuration reads as Scaling once eligible leads pass about 150; at 120–150 it sits on the edge, and the binding constraint decides.
 
 **When the signals disagree.** Say a few Optimizers, older buyers who pay for speed and privacy, bought early, and you're at [~$9–12k] a month with fewer than about 50 eligible leads. That's Growing on revenue and Early on volume, so go by the constraint. If your calendar has open slots and your inbox clears by lunch, reach binds, and a paid assessment would cost you the few conversations you have. If it's full of calls ending no-fit, conversations bind, and screening at your door comes before any new reach. Either way, keep the premium seats at the price their buyers chose and the Program inside the cash ceiling (Module 7).
 
@@ -138,7 +138,7 @@ That's the **Demand Equation**. Each term is a lever with a planning range, and 
 | Term | What it measures | Planning range (replace after ~30 events) | What moves it |
 |---|---|---|---|
 | Eligible adults | Eligible leads a month, by source | 30–70% of raw leads are eligible; long-form yields 1–10 raw leads per 1,000 engaged views (plan 2–5 early) | Adult packaging; decision-stage topics; the door's wording |
-| Conversion | Eligible lead → enrollment | 1.5–7% overall, 3–7% with a proven door; inside it, lead → held conversation 10–20% and held → client 15–35% before proof, 25–45% with it | Reply speed; the door; the call; proof |
+| Conversion | Eligible lead → enrollment | 1.5–7% overall, 3–7% with a proven door; inside it, lead → held conversation 10–20% and held → enrollment 15–35% before proof, 25–45% with it | Reply speed; the door; the call; proof |
 | Lifetime value | Revenue per client, before referrals | ~$1.7–3.0k at opening prices ($1.5–2.2k Program); ~$2.6–3.8k at proof prices ($2.4–3.2k) | Price; Round Two and Hold take |
 | Margin | Profit per dollar collected | 75–85% without paid reach; 65–80% with it. In the first months fixed costs dominate, so compute profit from costs | Freelancers; software; refunds; paid reach |
 | The cap | Concurrent clients your care hours allow | ~25–30 in Growing; ~40–45 in Scaling | Templated review; group-call load |
@@ -165,9 +165,9 @@ Start from the profit you want and ask what each earlier stage must produce. Tha
 |---|---|---|
 | Cash collected | ~$29–38k | $25k ÷ a 65–85% margin |
 | Enrollments | ~8–9 Program a month at ~$3.1k, plus the back end | The $25k configuration |
-| Held conversations | [~5–18] a month | Half or more enroll without a call; the rest close at 25–45% with proof |
+| Held conversations | ~8–17 a month | About half enroll without a call; the rest close at 25–45% with proof |
 | Eligible leads | ~120–285 a month at 3–7%; ~570 at 1.5% | Enrollments ÷ eligible lead → enrollment |
-| Reach | [~35–475k] engaged long-form views a month | Leads ÷ a 30–70% eligible share ÷ 2–5 raw leads per 1,000 views |
+| Reach | ~35–475k engaged long-form views a month | Leads ÷ a 30–70% eligible share ÷ 2–5 raw leads per 1,000 views |
 
 The spread in the eligible-leads row is the lesson. At a proven door's 3–7%, $25k needs roughly 120–285 eligible leads a month; at 1.5% it needs about 570, a breakout channel's reach. Conversion is the cheapest reach there is, so when the Reverse Funnel asks for more than your channel produces, change an earlier term first: conversion, price, or the back end. Run it when you set a target and again each quarter, as your own ratios replace the planning ranges.
 
@@ -246,7 +246,7 @@ Answer from your own records for the last four weeks, starting at the top. A lat
 1. Is there a waiting list for your next start? → Care minutes.
 2. Did review turnaround miss its stated window in any week? → Care minutes.
 3. Did you pause booking two weeks running to keep weeks under 25 hours, the last step of the De-Scoping Order, your fixed list of what gets cut first (Module 11)? → Care minutes.
-4. Did most weeks hold more than about 6–8 conversations, or did show rates slide toward 60%, or did most calls end no-fit? → Conversations: the calendar is saturated.
+4. Did most weeks hold more than about 6–8 conversations, or did show rates slide toward 60%, or did more than half end no-fit? → Conversations: the calendar is saturated.
 5. Did fewer than 10% of eligible leads reach a held conversation, or did your close rate sit below its range (15–35% before proof, 25–45% with it) for two 30-conversation windows? → Conversations: the pipe leaks.
 6. Are seats open while your eligible leads sit below your band's waypoint? → Reach.
 
@@ -265,9 +265,9 @@ Fill it in each quarter from your trailing three months. Where fewer than about 
 | 5. Enrollments needed a month | [ ] | ~8–9 at ~$3.1k for $25k | Line 3 ÷ line 4 |
 | 6. Capacity check | [ ] | ~8–10 new a month in Growing; ~12–15 in Scaling | If line 5 is above your ceiling, raise price or cut care minutes before seeking leads |
 | 7. Share enrolling without a call | [ %] | Early ~0–20%; Growing ~20–50%; Scaling ~50–70% | Your trailing share |
-| 8. Held conversations needed a month | [ ] | [~5–18] at the $25k mix; close 15–35% before proof, 25–45% with it | Line 5 × (1 − line 7) ÷ your close rate |
+| 8. Held conversations needed a month | [ ] | ~8–17 for $25k; close 15–35% before proof, 25–45% with it | Line 5 × (1 − line 7) ÷ your close rate |
 | 9. Eligible leads needed a month | [ ] | ~120–285 for $25k at 3–7%; ~570 at 1.5% | Line 5 ÷ your eligible lead → enrollment rate |
-| 10. Engaged views needed a month | [ ] | [~35–475k] at the $25k mix; 30–70% of raw leads eligible; 2–5 raw leads per 1,000 engaged long-form views early | Line 9 ÷ eligible share ÷ raw leads per view |
+| 10. Engaged views needed a month | [ ] | ~35–475k for $25k; 30–70% of raw leads eligible; 2–5 raw leads per 1,000 engaged long-form views early | Line 9 ÷ eligible share ÷ raw leads per view |
 | 11. Revenue per eligible lead | [$ ] | ~$25–210 | Lifetime value × eligible lead → enrollment rate |
 | 12. Maximum affordable cost per eligible lead | [$ ] | ~$10–70 | Line 11 ÷ 3 |
 
@@ -281,7 +281,7 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 
 **Growing.** Conversion and selling minutes bind. The trap is buying reach to fix a conversion problem: if eligible leads grow and enrollments don't, the fix is in your door and the call. Pull one lever a month, chosen at the monthly read, because two levers pulled together leave neither result readable at your volume.
 
-**Scaling.** Care minutes bind, often while your volume still reads Growing, and the waiting list is what tells you. The trap is templating review until the weekly contact thins: the minutes come back, and adherence, renewals, and proof leave with them. Raise price inside the cash ceiling before you trim the review itself.
+**Scaling.** Care minutes bind, and a waiting list marks Scaling even before your leads pass about 150. The trap is templating review until the weekly contact thins: the minutes come back, and adherence, renewals, and proof leave with them. Raise price inside the cash ceiling before you trim the review itself.
 
 ## Standard Check
 
@@ -304,8 +304,8 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 | Stage | Trailing revenue | Volume signal | Binding constraint | North star |
 |---|---|---|---|---|
 | Early | < ~$8k/month | < ~50 eligible leads/month; < ~15 clients | Reach, then conversations | Held qualified conversations/week + cash |
-| Growing | ~$8–30k | ~50–400 eligible leads; ~15–35 clients | Conversion, selling minutes | Enrollments/month + eligible lead → enrollment |
-| Scaling | ~$30k+ | 400+ eligible leads; 35+ clients | Care minutes | Profit per operator hour |
+| Growing | ~$8–30k | ~50–150 eligible leads; ~15–25 clients | Conversion, selling minutes | Enrollments/month + eligible lead → enrollment |
+| Scaling | ~$30k+ | ~150+ eligible leads; ~25+ clients, or a waiting list | Care minutes | Profit per operator hour |
 
 *Reach Bands*
 
