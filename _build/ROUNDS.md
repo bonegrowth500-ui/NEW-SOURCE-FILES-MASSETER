@@ -17,7 +17,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 09 | 09-the-founding-phase.md | a4d1beee624d836ef | a22bba410642a677c | draft done (7,501 w) → critique |
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | af28fb6227a00d9d0 | draft done (7,346 w) → critique |
 | 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | critique done (0 blocking, 13 major) → rebuilding |
-| 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | — | drafting |
+| 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | draft done (7,403 w) → critique |
 | 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | draft done (7,474 w) → critique |
 
 ## Decisions made during Step 3
@@ -68,3 +68,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (from 13): A4 $50k review line corrected to 4.0 h (22×7 + 14×6 min) → $50k week ~20.5 h (~21–22 with 1–2 Private seats at parity); model4.py aligned (20.55 h). New LEDGER rows: Private hours per 12-week seat (~14–15 with weekly calls; ~7–8 async-first); age band at intake (18–24/25–34/35+, aggregate only). Brief 09 stage note: Program Async is Scaling-only (pilots, not founding phases).
 - Integration: 06's week-12 table cell for a below-adherence client whose marker moved (not covered by the clause; honest read; Round Two only on measured momentum). 05 intake adds the age-band item (G row).
 - R3 round (11 critique): Cole = right reads, Reid = misreads (composite roles enforced); Cole starts templating at month 11 (Module 1). Routing help hides face-rating requests silently; distress/minor/purchase/client content → operator at once. Risk Register stays six flags; testimonials/endorsements fold into the claims-and-advertising flag.
+- R3 round (from 12): Module 03 (passed) put all outcome ranges at 30 graduates; sent 03's drafter a surgical fix to align with R3-4 (first ranges at the proof milestone as a labeled small sample; standing log at 30).
