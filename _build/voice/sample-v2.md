@@ -39,7 +39,7 @@ When reach binds, every spare hour goes to the two things that create conversati
 
 ### Then conversations bind
 
-Somewhere past 6–8 held conversations a week, the constraint moves. You have enough people; you don't have enough selling hours, or the wrong people are reaching your calendar. In this niche the wrong people have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. Each costs a full selling hour the door should have saved you. The signs: show rates sliding below about 70%, more than half your calls ending no-fit, and weeks where selling eats the hours you set aside for content.
+Somewhere past 6–8 held conversations a week, the constraint moves. You have enough people; you don't have enough selling hours, or the wrong people are reaching your calendar. In this niche the wrong people have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. Each costs a full selling hour the door should have saved you. The signs: show rates sliding toward about 60%, more than half your calls ending no-fit, and weeks where selling eats the hours you set aside for content.
 
 Now the right moves flip. This is when the **Call Cap**, a weekly limit on free conversations, earns its place (Module 5). Free conversations stay open up to about 6–8 a week for the buyers who most need one, and the overflow goes to a paid, credited Decision Assessment that screens for seriousness before you spend the hour and turns a free hour into paid judgment. It's when warm buyers should be able to enroll without a call, and when conversion becomes the number you watch.
 
@@ -93,7 +93,7 @@ Answer from your own records for the last four weeks. The first "yes" that descr
 
 1. Did you average fewer than 3 held qualified conversations a week? → Reach binds.
 2. Did most weeks hold more than 6–8 conversations? → You've reached the Call Cap: route the overflow to the Decision Assessment (Module 5).
-3. Is your show rate below about 70%, or are more than half your calls ending no-fit? → Conversations bind.
+3. Is your show rate sliding toward about 60%, or are more than half your calls ending no-fit? → Conversations bind.
 4. Did review turnaround miss its stated window in any week? → Care minutes bind, or your week is leaking.
 5. Is there a waiting list for your next start? → Care minutes bind.
 6. Did any week run past 25 hours? → Run the De-Scoping Order before adding anything (Module 11).

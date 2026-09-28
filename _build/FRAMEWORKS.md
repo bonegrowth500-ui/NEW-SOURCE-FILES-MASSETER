@@ -219,6 +219,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the Decision Assessment · the priority tier | The paid, credited written plan, worth its fee without buying · its faster version with a recorded walkthrough | 05 |
 | the written plan | The assessment's deliverable: the verdict with reasons, a measurement setup, what to stop spending on, which levers matter, one recommendation, a re-check date | 05 |
 | the pause route | A content-free tag that stops sales sequences and date sends for 60–90 days | 05 |
+| the signal pause | What a fit-check signal triggers: no same-day payment, adjusted expectations in writing, a cooling-off gap of at least 72 hours, no payment plan, and the fit window from day one of delivery | 05 |
 | speed to lead | Personal reply within hours → booked within 24–48 h → reminded → held | 05 |
 | age fork · education lane | "Legal adult where you live" · public content and a referral for under-18s, with no data kept | 05 |
 | the verification kit | The sample written plan (05) and the sample weekly review (06) | 05 |

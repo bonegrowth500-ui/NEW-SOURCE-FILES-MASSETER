@@ -10,7 +10,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | — | drafting |
-| 05 | 05-the-door.md | ac25cee9328b86fba | — | drafting |
+| 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | draft done (7,620 w) → critique |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | draft done (7,530 w) → critique |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | — | drafting |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | draft done (7,298 w) → critique |
@@ -41,3 +41,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 06): LEDGER D additions approved: markers per client 2–3 (RULE); client check-in time ~10 min/week (RULE D).
 - R2: marker DESIGN is owned by 06 (MAP/FRAMEWORKS win over DECISIONS R2 wording); 07 owns the clauses and runs the Collectability Test on the markers.
 - R2: Round Two re-captures follow Round Two's own weeks 6 and 12; everyone else goes quarterly after week 12.
+- R2 (from 05): 'the signal pause' registered as ○ (owner 05). sample-v2 show-rate bind sign aligned to LEDGER C ('toward about 60%'). Fit Check at every paid step (R2 beats THESES E13).
