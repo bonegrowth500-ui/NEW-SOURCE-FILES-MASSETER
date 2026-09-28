@@ -245,7 +245,7 @@ Picture the buyer who never comments. He watches for months and checks your page
 That set is the **Canon**: 5–7 calibrated core claims, the Honest Answer first, repeated on a fixed schedule in the same words on every surface. Claims carry Cause, Range, Vehicle, and Guide. Self and Now can't be broadcast, because his own evidence repairs them: his logged days and his stated stake. Here's a Canon a brand like yours could run:
 
 1. *(Range)* "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed."
-2. *(Cause)* "Most stalls are direction problems: months of real effort with no map and nothing measured."
+2. *(Cause)* "Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is."
 3. *(Vehicle)* "Behavior gets measured every week; appearance gets captured rarely, the same way every time."
 4. *(Vehicle)* "A record doesn't read itself; review turns it into a decision."
 5. *(Guide)* "By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you."

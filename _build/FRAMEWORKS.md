@@ -131,7 +131,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 
 | | Name | Definition | Status | Owner | Also in |
 |---|---|---|---|---|---|
-| ★ | **The Warmth Ladder** | Never ask for a rung the buyer isn't standing on. Warmth signals license direct selling with public prices; this module owns which asset may ask for what | extended | 18 | 05, 20, 23–26 |
+| ★ | **The Warmth Ladder** | Never ask for a rung the buyer isn't standing on. The rungs run Stranger → Returning → Assessed → Deciding; warmth signals license direct selling with public prices; this module owns which asset may ask for what | extended | 18 | 05, 20, 23–26 |
 | ◆ | **The Offer Pieces** | Offer video; who it's for and not; price with delivery math; objection piece; case piece | new | 18 | 23, 24 |
 | ◆ | **The Stake-to-Step Ratio** | One true stake, then most of the minutes on a step he can verify | new | 18 | 19, 26 |
 | ◆ | **The Pre-Publish Card** | One card of at most ten yes/no lines run before any asset ships | new | 18 | 23–27 |
@@ -246,7 +246,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | routing help · the AI rule · the no-show rule | Task-billed moderation plus one templated door link · AI assists behind the scenes, never speaks as you, and clients are told where it helps · one rule for no-shows and reschedules, with its time budgeted | 11 |
 | guardrails · Scaling Triggers | Numbers watched always · pre-set signals for each scaling move | 12 |
 | Private · the $50k configuration | The premium seat with fixed deliverables · the steady state that reaches the top of the target range | 13 |
-| bounded agency · effort vs direction | Genes set the range of what shows, guessing wastes it, and measurement shows what's moving (never a ceiling read off his face) · most stalls are direction problems | 14 |
+| bounded agency · effort vs direction | Genes set the range of what shows, guessing wastes it, and measurement shows what's moving (never a ceiling read off his face) · most stalls you see are direction problems, and measuring is how he'd know which verdict is his | 14 |
 | the Hold link · the Share link | The beliefs that buy continuity and make referral feel rigorous | 14 |
 | Sell in the Open · presence over pedigree | Announce structure, stake, and price early · sustained presence and visible standards carry trust | 15 |
 | the Scope Boundary · refer-out triggers | "I can't help with this, and here's who can" · sleep or snoring signs, jaw pain, bite concerns, distress or fixation, minors | 15 |

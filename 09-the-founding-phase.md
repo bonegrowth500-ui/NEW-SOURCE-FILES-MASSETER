@@ -275,7 +275,7 @@ Maya *(composite, welcome, not targeted)*, 28, came through a short, finished th
 
 **Week 10. A second Optimizer, and no spare minutes.** A second Optimizer books the priority tier and wants Private, but Adrian's seat fills the line and [two] week-6 reads land that fortnight. His plan shows both real options, the [April] group start and the Private seat Seat Math opens in [May]. It recommends the [May] seat, for the privacy he asked for, with a Decision Date of [April 24]. Sam joins on his own date that week.
 
-**Week 12. The gate.** [29] held conversations clear the volume leg, and [5] clients from [29] clear the conversion leg, so he keeps going. Month 3 alone held [12] conversations and [~$3.3k] in cash, inside what Band B plans for month 3. In week [10] the first client's review showed a marker moving, his first measured peak after the exit decision, and Cole asked for a process testimonial with separate consent. The harvest holds [five] stall patterns, [two] from men who didn't buy.
+**Week 12. The gate.** [29] held conversations clear the volume leg, and [5] clients from [29] clear the conversion leg, so he keeps going. Month 3 alone held [12] conversations and [~$3.3k] in cash, inside what Band B plans for month 3. In week [10] the first client's review showed a marker at its threshold with his logging on target, his first measured peak after the exit decision, and Cole asked for a process testimonial with separate consent. The harvest holds [five] stall patterns, [two] from men who didn't buy.
 
 Clients by label: warm network [1] · replies [0] · Permission-First Replies [1] · short-form [2] · long-form and search [1].
 

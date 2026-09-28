@@ -226,6 +226,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Continuity/community churn | 4–8%/month typical; 8–15% open and cheap; 2–3% curated premium | Price; programming | EV (W) |
 | Lifetime value per client (before referrals) | ~$1.7–3.0k at opening prices; ~$2.6–3.8k at proof prices | Price; Round Two and Hold take; churn | PL (D) |
 | Referred customers | More loyal and more valuable than other acquisitions | Plan acquisition without referrals | EV (M) |
+| Measured peak | A measurement moment where adherence is at or above his threshold and at least one marker has reached its threshold. At that point no refund decision is open: the exit window has closed and the non-response clause can't apply. Every Measured-Peak Ask (renewal, referral, testimonial, upgrade) waits for one | — | RULE |
 | First testimonial ask | Never before the fit window closes, and never in a conversation where a refund right is decided (the week-6 exit right, the week-12 non-response verdict); never asked of a client who claimed a refund. The first process-testimonial ask comes at the first measured peak after the week-6 exit decision is settled (from about week 7), if his record shows progress | — | RULE |
 | Testimonial asks per client | At most two asks; a no is final. Consent is scoped (where, how long, text-only by default) and never ghostwritten | — | RULE |
 | Teardown cadence | One teardown of a published category claim a quarter, plus one when a claim pattern recurs in door answers; faces cropped or blurred | Content calendar | RULE |
