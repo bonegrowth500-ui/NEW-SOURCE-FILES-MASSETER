@@ -14,7 +14,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | ✅ 3.5 passed (7,362 w) |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | ✅ 3.5 passed (7,371 w) |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
-| 09 | 09-the-founding-phase.md | a4d1beee624d836ef | — | drafting |
+| 09 | 09-the-founding-phase.md | a4d1beee624d836ef | a22bba410642a677c | draft done (7,501 w) → critique |
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | af28fb6227a00d9d0 | draft done (7,346 w) → critique |
 | 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | draft done (7,428 w) → critique |
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | — | drafting |
