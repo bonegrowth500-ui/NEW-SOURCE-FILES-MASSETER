@@ -12,7 +12,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | — | drafting |
 | 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | draft done (7,620 w) → critique |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | draft done (7,530 w) → critique |
-| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | — | drafting |
+| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | draft done (7,546 w) → critique |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | draft done (7,298 w) → critique |
 
 ## Decisions made during Step 3
@@ -42,3 +42,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2: marker DESIGN is owned by 06 (MAP/FRAMEWORKS win over DECISIONS R2 wording); 07 owns the clauses and runs the Collectability Test on the markers.
 - R2: Round Two re-captures follow Round Two's own weeks 6 and 12; everyone else goes quarterly after week 12.
 - R2 (from 05): 'the signal pause' registered as ○ (owner 05). sample-v2 show-rate bind sign aligned to LEDGER C ('toward about 60%'). Fit Check at every paid step (R2 beats THESES E13).
+- R2 (from 07): payment plans are the operator's own installments only; no third-party lenders or BNPL (the affordability question rules out new credit). Local consumer-credit classification is a Risk Register flag (11). LEDGER B row updated. Price Step announcements ride inside the start announcement (08's send rules).

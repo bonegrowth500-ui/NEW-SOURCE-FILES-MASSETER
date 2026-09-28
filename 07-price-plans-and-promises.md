@@ -3,11 +3,11 @@
 
 **The shift:** from *"Price by gut, discount to close, and treat guarantees as a risk"* to *"Price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."*
 
-Cole *(composite operator)* has a full [October] start: [8] seats taken and [3] names on the waiting list. His [December] start is priced [about 8%] higher, and the whole case for that step fits in three lines:
+Cole *(composite operator)* has a full [November] start: [8] seats taken and [3] names on the waiting list. His [January] start is priced [about 9%] higher, and the whole case for that step fits in three lines:
 
-1. Before the step: [8] seats × [$1.9k] = [$15.2k] a start.
-2. After it: [8] seats × [$2.05k] = [$16.4k], because the [one or two] buyers the step loses are replaced from the waiting list.
-3. What the extra [$1.2k] costs him: processing, about [$40]. The rest is profit.
+1. Before the step: [8] seats × [$2.2k] = [$17.6k] a start.
+2. After it: [8] seats × [$2.4k] = [$19.2k], because the [one or two] buyers the step loses are replaced from the waiting list.
+3. What the extra [$1.6k] costs him: processing, about [$50]. The rest is profit.
 
 At capacity, a step that loses a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. The same step in a half-empty month is a different bet. A discount is a bad bet in every month, because in this category a slashed price and a countdown are how the grifters sell.
 
@@ -25,7 +25,7 @@ When seats bind, the start fills before its date and a waiting list forms behind
 
 | | Seats bind | Buyers bind |
 |---|---|---|
-| Signs | A waiting list; starts full before their date; review turnaround near its stated limit | Open seats on start day; eligible leads under your band's waypoint; a close rate in range on too few conversations |
+| Signs | A waiting list; starts full before their date; review turnaround near its stated limit | Open seats on start day; eligible leads below plan; a close rate in range on too few conversations |
 | What a step does | Lost buyers are replaced from the list, so nearly all of it is profit | Each lost buyer leaves a seat empty and takes his lifetime value with him |
 | The move | Step on schedule | Announce no new step until starts fill; fix conversations or reach first |
 
@@ -64,13 +64,13 @@ The cash ceiling is the most a core container may cost the buyer it's built for.
 
 ### Capacity sets how far price has to climb
 
-The second limit is your week. Care minutes, the review, group-call, and milestone minutes each client takes per week, cap how many clients you can serve. At Growing's 18–20 minutes per client-week, your Capacity Ceiling, the clients your care hours allow at once, sits around 25–30. That's 8–10 new enrollments a month. Profit of $25k needs about $29–38k collected, and at that ceiling the Program gets there only near $3.1k, the top of the proof band, with the back end doing the rest.
+The second limit is your week. Care minutes, the review, group-call, and milestone minutes each client takes per week, cap how many clients you can serve. At Growing's 18–20 minutes per client-week, your Capacity Ceiling, the clients your care hours allow at once, sits around 25–30. That's 8–10 new enrollments a month. Profit of $25k needs about $29–38k collected. At that ceiling the Program, your 12-week flagship, gets there only near $3.1k, the top of the proof band ($2.4–3.2k) it can charge once proof exists, with the back end doing the rest.
 
-So capacity is a ceiling on volume, and it pushes price up from below. A price far under that level can fill every seat and still cap the business short of its target. That's why founding and opening prices are stages to step through, never a place to stay. Per care hour, a Program seat earns about $800 at proof prices in Growing and about $1,250–1,400 at the ceiling in Scaling. Every other offer you sell is judged against that yield.
+So capacity is a ceiling on volume, and it pushes price up from below. A price far under that level can fill every seat and still cap the business short of its target. That's why founding and opening prices are stages to step through, never a place to stay. Per care hour, a Program seat earns about $800 at proof prices in Growing and about $1,250–1,400 at the ceiling in Scaling, the yield every other offer is judged against.
 
 ### Credibility is what a skeptic believes before proof
 
-The third limit is belief. Before you have graduates, a buyer can check only your standards: the sample plan, the terms, and the Honest Answer, your straight public answer to the bone question. A price above what those can carry reads as grift to a man who has been sold to before. That's why the Program, your 12-week flagship, opens at $1.5–2.2k. The proof band, $2.4–3.2k, waits for the proof milestone, the point where graduates and published ranges can back it. Credibility rises as the rest of the system works: a guarantee honored in public, written plans, ranges with denominators, and months of a record anyone can check.
+The third limit is belief. Before you have graduates, a buyer can check only your standards: the sample plan, the terms, and the Honest Answer, your straight public answer to the bone question. A price above what those can carry reads as grift to a man who has been sold to before. That's why the Program starts in the opening band, $1.5–2.2k, and why the proof band waits for the proof milestone, the point where graduates and published ranges can back it. Credibility rises as the rest of the system works: a guarantee honored in public, written plans, ranges with denominators, and months of a record anyone can check.
 
 **Capacity decides how high price must climb; cash and credibility decide how high it may.**
 
@@ -138,7 +138,7 @@ Two mechanisms shape the design. Payments that fall due after the work has ended
 - A premium of 0–5%, covering processing and the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.95k] in full, or three payments of [$670], [$2.01k] in total."
 - Each installment at or below about a third of his monthly take-home: the cash ceiling split three ways.
 - The affordability question again, word for word, because the plan step is a paid step of its own.
-- No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, already pauses payment on a signal: nothing that day, expectations in writing, and at least 72 hours to cool off (Module 5). A plan is what lets a stretched buyer say yes, so a signal removes it first.
+- No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, already runs the signal pause when a signal shows: nothing paid that day, expectations in writing, and at least 72 hours to cool off (Module 5). A plan is what lets a stretched buyer say yes, so a signal removes it first.
 - Cancel-forward: a client who stops under the guarantee's week-6 or week-12 terms owes nothing further. His remaining installments stop, and whatever he paid for undelivered weeks comes back.
 
 | Option | Pick it when | What it costs |
@@ -166,7 +166,7 @@ That's the **Layered Guarantee**. Its six layers run in the order he'd meet them
 
 | Layer | What it covers | What he gets | How he claims |
 |---|---|---|---|
-| Statutory rights | Whatever the law where he lives gives; UK and EU consumers get ~14 days to cancel online services, with rules on early start | At least that, and never "no refunds" copy that misstates it | However the law allows |
+| Statutory rights | Whatever the law where he lives gives; UK and EU consumers get ~14 days to cancel online services, with rules on early start | At least that; never "no refunds" copy | However the law allows |
 | The fit window | The first 14–21 days of delivery, from baseline day | A full refund | A written request; any conversation is optional and feedback-only |
 | The service guarantee | Your inputs: reviews inside the stated turnaround (e.g., 48–72 h), the week-6 read, the week-12 re-assessment of his record, Hold and Private deliverables | Credit or refund per miss | None: you log misses and apply them |
 | The week-6 exit right | He did the work and asks to stop | Pro-rata for undelivered weeks (~half) | A written request |
@@ -177,7 +177,7 @@ Never on the list: his appearance, the one promise nobody can keep, which is why
 
 ### Each layer answers one failure
 
-**The fit window.** It counts from baseline day, the first day of delivery, because a buyer who paid [three weeks] before his start can't judge fit on a calendar that hasn't begun. Close it the day after his [third] weekly review, so he judges on delivered review rather than on your sales page. A written request is enough. Any conversation is feedback-only, with no re-pitch and no counter-offer. A refund he has to talk his way through is a sales call, and a burned buyer knows that pattern by its first line.
+**The fit window.** It counts from baseline day, the first day of delivery, because a buyer who paid [three weeks] before his start can't judge fit on a calendar that hasn't begun. Close it just after his [second] weekly review lands, inside 14–21 days, so he judges on delivered review rather than on your sales page. Any conversation is feedback-only, with no re-pitch and no counter-offer. A refund he has to talk his way through is a sales call, and a burned buyer knows that pattern by its first line.
 
 **The service guarantee.** Write your inputs as points: turnaround in hours, the week-6 read and the re-assessment by dates, and the Hold's quarterly review and the fixed deliverables of Private, your premium seat, on their cards. Log each miss and apply the credit before he asks. It's the one layer only you can see failing.
 
@@ -201,7 +201,7 @@ Dan *(composite, Struggler)* joins the [March] start. In week [4], one review la
 
 By week 12 he has logged [74 of 84] days, and the re-assessment shows both markers short. You raise the clause before he asks: the stated cash share within [5] working days, the verdict that this lever isn't moving for him on this plan, and no Round Two offer. He leaves with his money and with the knowing the program promised: which lever doesn't move for him, and what to stop buying. A client at the low end of the range can still say the business served him.
 
-State every layer before payment, in plain words, on the offer page and at checkout. Say it loudly in offer content too, because a guarantee persuades only when he meets it before the price. Publish your claim rate, the share of clients claiming each layer, in your public log every month. A policy page is a hygiene signal, required but cheap. A guarantee honored in public with its claim rate beside it is a costly signal a grifter can't afford to send: Costly vs Hygiene Signals (Module 15).
+State every layer in plain words before payment, on the offer page and at checkout, and say it loudly in offer content, because a guarantee persuades only when he meets it before the price. Publish your claim rate, the share of clients claiming each layer, in your public log every month. A policy page is a hygiene signal, required but cheap. A guarantee honored in public beside its claim rate is a costly one a grifter can't afford: Costly vs Hygiene Signals (Module 15).
 
 No consistency device, testimonial ask, or written reason is ever timed to his refund rights. The first testimonial ask waits until the fit window has closed. The reasons he writes at baseline are never quoted back when he asks to leave, and no pledge ever trades away a refund.
 
@@ -219,9 +219,9 @@ He'd take it apart a line at a time. "Every check-in" means one missed week void
 4. The payout is cash or a stated credit, on a stated timeline.
 5. Nothing is traded for it: no testimonial, no silence, no extra hoop.
 
-> "If you log at least [80%] of days and your two markers, set with you at baseline, haven't reached their thresholds at the week-12 re-assessment, you get [a fixed share inside 25–50%] of your fee back in cash within [5] working days. You don't need to ask; we'll raise it."
+> "If you log at least [80%] of days and your [two] markers, set with you at baseline, haven't reached their thresholds at the week-12 re-assessment, you get [a fixed share inside 25–50%] of your fee back in cash within [5] working days. You don't need to ask; we'll raise it."
 
-Theo can collect that one, so he can believe it. Run the test on every clause before it's published, again whenever a step changes the page, and on every claim you pay. A clause that's collectable on paper and slow in practice fails too.
+Theo can collect that one, so he can believe it. Run the test on every clause before it's published, again whenever a step changes the page, and on every claim you pay, since a clause that's collectable on paper and slow in practice fails too. Run it on each client's markers at baseline as well: a marker he can't read in his own record, or one only your eye can judge, makes the clause uncollectable before week 1 begins.
 
 ## 6. Refunds, Disputes, and Cash
 
@@ -235,7 +235,7 @@ The first complaint is a naming problem. Your billing descriptor, the name on hi
 
 ### Open early, hold reserves, keep other income
 
-Open your payment processor in the first weeks with small charges, such as Decision Assessment fees and the founding group's first payments. It then sees a clean history before larger charges arrive. Ask how it handles reserves on programs delivered over months. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. Keep your other income until your trailing 3-month profit covers your personal costs.
+Open your payment processor in the first weeks, while its charges are small ones such as plan installments and assessment fees. It then sees a clean history before larger charges arrive. Ask how it handles reserves on programs delivered over months. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. Keep your other income until your trailing 3-month profit covers your personal costs.
 
 That last rule protects the standard as much as the budget. An operator who needs this month's enrollments to pay his rent will feel his hand drift toward the discount, the longer plan, and the second ask after a clear no. Refund and dispute counts sit among your guardrails, the numbers you watch at every stage (Module 12). The reserve is what lets you honor every claim on the day it arrives.
 
@@ -243,23 +243,23 @@ That last rule protects the standard as much as the budget. An operator who need
 
 Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. His channel grows steadily, the kind of year to plan on. Here is his pricing year at eight decision points.
 
-**Month 0. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k], with [$1.6k] printed beside it for the [April] start. He opens his processor with the first Decision Assessment fees and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price to look serious, and any bonus.
+**Month 0. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k], with [$1.65k] printed beside it for the [March] start. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price to look serious, and any bonus.
 
-**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, fits on most counts, but one Fit Check answer shows a signal: he's saving for [a clinical procedure] and wants coaching first. The pause runs as written: nothing paid that day, expectations adjusted in writing, including that coaching never stands in for clinical care, and 72 hours to cool off. When he comes back asking for three installments, Cole declines the plan by the rule, in one plain line, with no label attached. Sam says "after the busy season", takes the Starter Path, and leaves with the next start and its price in writing.
+**Month 1. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, fits on most counts, but one Fit Check answer shows a signal: he's saving for [a clinical procedure] and wants coaching first. The signal pause runs as written: nothing paid that day, expectations adjusted in writing, including that coaching never stands in for clinical care, and 72 hours to cool off. When he comes back asking for three installments, Cole declines the plan by the rule, in one plain line, with no label attached. Sam says "after the busy season" and takes the Starter Path, handed over once. The pause route keeps every sales email and date announcement away from him for 60–90 days, so if he returns, he returns through the door.
 
-**Month 3. The first step.** The [February] and [March] starts filled, and his close rate reads [~27%] over his first [30] held conversations, inside 15–35%. The step to [$1.6k] lands as announced, naming what was added: [the check-in instrument and a printed capture guide]. The next, [$1.75k] for [June], goes out [five] weeks ahead.
+**Month 2. The first step.** The [January] and [February] starts filled, and his close rate so far reads [~27%], inside 15–35%. The step to [$1.65k] lands as announced, naming what was added: [the check-in instrument and a printed capture guide]. The [May] step, to [$1.8k], goes out [five] weeks ahead.
 
-**Month 5. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] working days, offers the feedback conversation once, and makes no counter-offer: no pause, no cheaper tier, no "give it one more week". Adrian declines the call, and the refund goes into the month's published claim rate.
+**Month 4. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] working days, offers the feedback conversation once, and makes no counter-offer: no pause, no cheaper tier, no "give it one more week". Adrian declines the call, and the refund goes into the month's published claim rate.
 
-**Month 7. A thin start.** The [August] start fills [4] of [8] seats. The step already announced for it happens anyway, to [$1.9k], because a reversed step teaches waiting, and the thin start is published like any other. The next announcement waits. Left alone: a discount to fill the empty seats, and a "last chance" email.
+**Month 7. An exit right paid.** Maya *(composite, welcome, not targeted)*, 28, a product designer, joined the [July] start at [$1.95k] on three payments of [$670], [$2.01k] in total. She has logged [39 of 42] days when a new role moves her to [night shifts], and at her week-6 read she asks to stop. She did the work, so the exit right applies: six of twelve weeks are undelivered, and she owes [$1,005] for the six she had. She has paid [$1,340], so her third payment is cancelled and [$335] comes back within [5] working days. Nobody quotes her baseline reasons back to her.
 
-**Month 8. An exit right paid.** Maya *(composite, welcome, not targeted)*, 28, a product designer, is on a three-payment plan of [$600], [$1.8k] in total, and has logged [39 of 42] days when a new role moves her to [night shifts]. At her week-6 read she asks to stop. She did the work, so the exit right applies: six of twelve weeks are undelivered, and she owes [$900] for the six she had. She has paid [$1.2k], so her third payment is cancelled and [$300] comes back within [5] working days. Nobody quotes her baseline reasons back to her.
+**Month 9. A thin start.** The [October] start fills [4] of [8] seats. The [November] step was announced before October opened, so it stands, because a reversed step teaches waiting, and the thin start is published like any other. The next announcement waits on the next start. Left alone: a discount to fill the empty seats, and a "last chance" email.
 
-**Month 9. The schedule resumes.** The [October] start fills with [3] names on its waiting list, and his close rate reads [~30%]. Both conditions hold again, so he announces [$2.05k] for [December], naming [a second group-call time] as the addition.
+**Month 10. The proof milestone.** The [November] start opens at [$2.2k] and fills with [3] names on its waiting list. His [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. Both step conditions hold and the milestone is met, so he announces [$2.4k] for [January], the first price inside the proof band, naming the published ranges as the addition.
 
-**Month 11. The proof milestone.** In [November] his [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. December's step lands as announced. He announces [$2.2k] for [February] and names the step after it, [$2.4k] in [April], as the first inside the proof band, with the published ranges as what was added.
+**Month 12. Into the proof band.** The [January] start opens at [$2.4k], about 0.86 months of a 20–24-year-old's take-home and well inside the cash ceiling. He'll read two 30-conversation windows of close rate before calling the step a success.
 
-**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, and the one thin start cost him a pause, never a reversal. At month 12 his Program sits at [$2.05k], his revenue at about [$12–15k] a month, and the cash ceiling [six or seven] steps away. The plan and guarantee rules did their work at the edges, and each case went into a claim rate any skeptic can check.
+**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, and the thin start cost him a check, never a reversal. At month 12 his revenue sits at about [$12–15k] a month, with the cash ceiling [four or five] steps away. The plan and guarantee rules did their work at the edges, and each case went into a claim rate any skeptic can check.
 
 ## Templates: Price Setting and the Step Announcement
 
@@ -282,11 +282,9 @@ Fill it in before you set a price and again before you announce a step. Where fe
 
 ### The step announcement
 
-Send it once, at least 30 days out, with one reminder before the start. Paused leads never receive it.
+Post it on the offer page at least 30 days before the step, and let it ride inside the announcement for the start before it, so it never needs a send of its own. Paused leads never receive it.
 
-> Subject: The Program's price from [date]
->
-> From the [date] start, the Program is [$new]. Every start before then stays at [$current], and anyone already enrolled keeps his price.
+> From the [month] start, the Program is [$new]. Every start before it stays at [$current], and the price belongs to the start you join, whenever you pay. Anyone already enrolled keeps his price.
 >
 > What's added at [$new]: [one line naming it]. Nothing is removed: reviews still land within [48] hours, and the week-6 read and week-12 re-assessment are unchanged.
 >
@@ -306,7 +304,7 @@ Send it once, at least 30 days out, with one reminder before the start. Paused l
 > 2. Fit window. For [21] days from your baseline day, a one-line message gets you a full refund. We'll offer a short call to hear what didn't fit; it's optional, and the refund doesn't depend on it.
 > 3. Service guarantee. Every weekly review within [48] hours of your check-in, your written week-6 read by [day], and your week-12 re-assessment by [day]. Each miss earns [a stated credit], applied without your asking. Hold and Private deliverables are on their cards, under the same guarantee.
 > 4. Week-6 exit right. If you've logged at least [80%] of days and want to stop at week 6, you get back what you paid for the weeks not delivered.
-> 5. Week-12 non-response clause. If you've logged at least [80%] of days and your two markers, set with you at baseline, haven't reached their thresholds, you get [a fixed share inside 25–50%] of your fee back in cash within [5] working days. We'll raise it, and we won't offer you Round Two.
+> 5. Week-12 non-response clause. If you've logged at least [80%] of days and your [two] markers, set with you at baseline, haven't reached their thresholds, you get [a fixed share inside 25–50%] of your fee back in cash within [5] working days. We'll raise it, and we won't offer you Round Two.
 > 6. Decision Assessment. If your written plan wasn't useful to you, tell us within [14] days and the fee comes back.
 > 7. What we never guarantee: how your face looks. No one can honestly promise that.
 >
