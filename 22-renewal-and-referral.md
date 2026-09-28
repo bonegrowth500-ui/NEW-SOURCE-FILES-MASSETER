@@ -325,7 +325,7 @@ What you never say: "Bring both of them and I'll take [$300] off each seat." If 
 
 ## Template: Identity-Safe Shareables
 
-Each is one screen or one page, with [Brand] and one link to your self-assessment. Each passes the Hostile-Screenshot Test, whether it would survive the category's harshest critic. It also passes the Honest-Evidence Test's six questions. None claims anything above the educational rung, and none holds a face, capture, price, or result of his.
+Each is one screen or one page, with [Brand] and one link to your self-assessment. Each passes the Hostile-Screenshot Test, whether it would survive the category's harshest critic, and the Honest-Evidence Test's six questions. None claims anything above the educational rung or holds a face, capture, price, or result of his.
 
 > **The capture card.** "Six conditions make a comparison photo mean something: the same distance, the same lens with no zoom, the camera at eye level, the same lamp with no overhead light, a neutral expression, and the same hour. Take one every few months at most, because in between, the light changes more than you do. [Brand] · [link]"
 
@@ -341,7 +341,7 @@ Each is one screen or one page, with [Brand] and one link to your self-assessmen
 
 **Growing.** A start graduates every month, so Round Two and the Hold sell at cohort scale. Asks also drift back onto the calendar through templates. The default move is one outline for every graduation call, with each client's peaks checked against his sheet. The trap is an automated week-12 email asking everyone for a referral, which reaches the flat reads and the clause.
 
-**Scaling.** Care minutes bind, and Round Two and the Hold sit below parity, so Seat Math caps both. The default is the written re-assessment with a recorded walkthrough, its asks one line each in the graduation letter. A live call is kept for a close case, full intensity, or Private. The trap is letting a steady flow of alumni referrals into the enrollment plan.
+**Scaling.** Care minutes bind, and Round Two clears parity only with volume and templated reviews, the Hold only near the top of its price range. Until each does, Seat Math caps it. The default is the written re-assessment with a recorded walkthrough, its asks one line each in the graduation letter. A live call is kept for a close case, full intensity, or Private. The trap is letting a steady flow of alumni referrals into the enrollment plan.
 
 ## Standard Check
 
