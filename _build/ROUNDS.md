@@ -20,7 +20,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | ✅ 3.5 passed (7,614 w) |
 | 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | ✅ 3.5 passed (7,611 w) |
 | 14 | 14-the-belief-chain.md | a89abc2dfc2ee7182 | a8010ad9e8a0be949 | draft done (7,602 w) → critique |
-| 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | — | drafting |
+| 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | ab6ffdd5f62788935 | draft done (7,589 w) → critique |
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | — | drafting |
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | draft done (7,582 w) → critique |
 
@@ -84,3 +84,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (12 final): Price Step gate: close rate read over the 30 held conversations since the last step landed; until 30 exist, filling starts carry the step alone; one readable window below range holds the next announcement, two send the work to the call. Call Cap fires on volume (most weeks > 6–8 held, selling eating content); show rate/no-fit at lower volume = fix screening (05), not a cap. LEDGER B and C updated; Modules 01 (checklist item 4), 05 (§3 and Stage Notes), 07 (§3 and worksheet) aligned.
 - R4 round (from 17): FRAMEWORKS Week-Zero Baseline covers no-call buyers (first seven logged days). Integration: 04 §5 says a baseline 'taken while he waited' counts, but 05 moved capture instructions to the recap/plan; harmonize in 4.3.
 - R4 round (from 14): LEDGER E row added: mental contrasting (moderate, likely inflated, one research group; EV M/C). FRAMEWORKS Belief Chain: a stop rule can mark a link you never work on.
+- R4 round (from 15): no stored tag records fit/insecurity answers; result-page branches computed at render time; all automated sequences follow Dignity Route limits by default (no dignity tag). Checking signal = 'many times a day' at both tiers; regular checking short of it = Dignity Route trigger. Added to DRAFTING standing rulings.

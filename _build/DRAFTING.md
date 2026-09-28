@@ -124,3 +124,8 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
   - The $50k week is about 20.5 h without Private.
   - The Hold and Round Two sit below parity at Scaling, so they sell while minutes are spare.
 - **Terms:** "eligible lead → enrollment" is the single conversion term. The stage thresholds are in LEDGER A2 (revised).
+- **Tags and privacy (round 4):**
+  - No stored tag records fit, goal-sensitivity, or insecurity answers. The stored tags are stage, Buyer State, route, and the content-free pause tag.
+  - Result-page branches (burned, dignity, Optimizer, Ambivalent) are computed at render time from his answers, and nothing is stored from them.
+  - Every automated sequence follows the Dignity Route's limits by default: stakes limited to time, money from here on, and guessing, with no missed-social-moment reflection. So no dignity tag is ever needed.
+  - The checking signal is "many times a day" at both tiers; regular checking short of that is a Dignity Route trigger, not a signal.

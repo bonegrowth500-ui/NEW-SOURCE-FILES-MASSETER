@@ -5,7 +5,7 @@
 
 The first comment under your first video, "What are your qualifications to say this?", is seven words long. By morning it has [a dozen] likes, and the next hundred viewers will read your reply before they finish the video. Say you hold no clinical title and have no graduates yet. This audience will still read your face as evidence, whichever way it looks. The easy replies are to dodge, to inflate, or to apologize, and each one teaches those viewers something you'll spend months unteaching.
 
-The man who asked has usually been sold to by people with better answers: a "specialist" badge, a white coat in the thumbnail, a jaw lit from above. So he isn't really asking about paper. He's asking whether anything you say can be checked. This module builds trust from things he can check: signals a grifter can't afford, a sale made in the open, and a plain statement of what your face proves. It adds a straight answer about qualifications, a scope held without hedging, plain words, and a route for the buyer whose real question is his worth. None of it needs a credential, and all of it grows stronger each month he watches.
+The man who asked has usually been sold to by people with better answers: a "specialist" badge, a white coat in the thumbnail, a jaw lit from above. So he isn't really asking about paper. He's asking whether anything you say can be checked. This module builds trust from what he can check: signals a grifter can't afford, a sale made in the open, a plain statement about your face, and a straight answer about qualifications. It adds plain words and a route for the buyer whose real question is his worth. None of it needs a credential, and all of it grows stronger each month he watches.
 
 ## 1. How Trust Forms Here
 
@@ -43,13 +43,13 @@ Anything an honest operator can say, a grifter can say too, so trust moves only 
 
 Every page in this category claims to be "science-based" and "honest about results", with a "money-back guarantee" underneath. Your buyer read all three on the page that sold him a device. Saying a thing costs nothing, so saying it proves nothing. A signal is believable only when sending it would hurt the sender if his claim were false. Some signals cost you whatever happens, the way turning a buyer away loses today's sale. Others cost you only when you fail, the way a guarantee pays out when you miss.
 
-A grifter can afford neither kind. The first eats the volume his model runs on. The second would pay out constantly, because his product fails constantly, while you pay it rarely because you guarantee only what you control. A signal also has to be visible without taking your word for it and pile up somewhere dated, so a good month can't be staged. Anything copied cheaply decays into talk, which is why the signals that last are the ones that record time.
+A grifter can afford neither kind. The first eats the volume his model runs on. The second would pay out constantly, because his product fails constantly, while you pay it rarely because you guarantee only what you control. He also has to be able to see a signal without taking your word for it, and it has to pile up somewhere dated, so a good month can't be staged. Anything copied cheaply decays into talk, which is why the signals that last are the ones that record time.
 
 ### Two lists, sorted by what faking them would cost
 
 Some signals every trustworthy operator must show, and a grifter can post them too. They're public prices, refund terms, a privacy page saying who sees photos, a "what we don't claim" block, and a comment policy. Their absence is a reason to leave, and their presence isn't a reason to buy. Write them once, and pair every stated limit with its reason and what to do instead, because a bare list of noes reads like the genetics shrug.
 
-Other signals would ruin a grifter to send. There's an honored guarantee with its claims published as counts, and the recommendation mix from your Decision Assessments, the paid written plans that may say "don't buy". There are fit-decline counts and a disclosure of how reviews are made. And there's the Dated Record, your published pre-commitment and dated log, started in month 1 (Module 3). That's **Costly vs Hygiene Signals**: hygiene signals are required but cheap, and costly signals are the ones a grifter can't afford. One line sorts any signal:
+Other signals would ruin a grifter to send. There's an honored guarantee with its claim rate published as rolling counts, and the recommendation mix from your Decision Assessments, the paid written plans that may say "don't buy". There are fit-decline counts and a disclosure of how reviews are made. And there's the Dated Record, your published pre-commitment and dated log, started in month 1 (Module 3). That's **Costly vs Hygiene Signals**: hygiene signals are required but cheap, and costly signals are the ones a grifter can't afford. One line sorts any signal:
 
 **A signal counts when faking it would cost a grifter more than the grift earns.**
 
@@ -59,13 +59,13 @@ Every costly signal proves one thing and leaves another open, and that gap is wh
 
 | Signal | Costly because | What it proves | What it can't prove | Starts |
 |---|---|---|---|---|
-| The guarantee, honored, with claim counts by layer | A grifter would pay on every failure, in public | You pay what your terms say you owe, within 7 days | That the program works: few claims can also mean terms nobody could collect | Your first refund window |
+| The guarantee, honored, with its claim rate by layer | A grifter would pay on every failure, in public | You pay what your terms say you owe, within 7 days | That it works: few claims can also mean terms nobody could collect | Your first refund window |
 | The recommendation mix | It admits how often a paid plan says "don't buy" | The assessment isn't a pitch in disguise | That each recommendation was right | ~30 assessments |
 | Fit-decline counts, in aggregate | Each decline is revenue refused | Your yes means something, and each no goes somewhere | That the men you accepted will do well | Your first conversations |
 | How reviews are made | A grifter's margin depends on hidden automation | What he pays for is what gets delivered | That your judgment is good | Before the first sale |
 | The Dated Record's outcome ranges | A grifter must bury the men it didn't work for | What happened to everyone, on a schedule set in advance | That it will work for him: each range is observed, not caused | 10 graduates, labeled a small sample; ~30 for the standing log |
 
-Only the last row speaks to "does it work?", and only once there are graduates to count. The rest speak to integrity and benevolence, which is most of what he needs first. The claim counts report on the Layered Guarantee: statutory rights, a fit window, a service guarantee on your inputs, a week-6 exit right, and a week-12 non-response clause (Module 7). Log the free corrective weeks your own review errors earn in the same count. It's the entry a grifter would never publish, because it admits the mistake was his.
+Only the last row speaks to "does it work?", and only once graduates exist. The rest speak to integrity and benevolence, which is most of what he needs first. The claim counts report on the Layered Guarantee: statutory rights, a fit window, a service guarantee on your inputs, a week-6 exit right, and a week-12 non-response clause (Module 7). Log the free corrective weeks your own review errors earn in the same count. It's the entry a grifter would never publish, because it admits the mistake was his.
 
 The review disclosure is the one operators resist, since it admits the template and the tools. It names who reads every log, what any tool touches and with whose consent, and the turnaround as one number. It persuades only while the work shown is the work delivered, so it changes the day your process does. A grifter can't publish his, because his "personal" feedback depends on nobody asking who writes it.
 
@@ -120,9 +120,9 @@ Attractive people are judged more socially skilled but barely more honest, and i
 
 ### Publish the statement before anyone asks
 
-Write the statement once and pin it where skeptics look. That's under your first long-form piece, in your profile, and on the Verify Page, where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts. It says what your face doesn't prove, which is whether the method works for anyone, and why: one face, no baseline, a seller's motive. It says what your face is for, which is knowing who's accountable, and where the proof lives: clients' matched captures and a log published whatever it shows. It closes on your rules: no thumbnails of your profile or jaw, no before/after of yourself, no filters.
+Write the statement once and pin it where skeptics look. That's under your first long-form piece, in your profile, and on the Verify Page, where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof lives, and the rules you keep. The rules are what make it costly: no thumbnails of your profile or jaw, no before/after of yourself, no filters.
 
-That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. It works like a costly signal. An operator who sells with his own jaw can't publish it, because it would retract his best ad.
+That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. An operator who sells with his own jaw can't publish it, because it would retract his best ad.
 
 ### Answer the attack with the system, once
 
@@ -178,9 +178,9 @@ Your words make claims before your arguments do, and with one kind of buyer your
 
 ### Clinical words smuggle in a title and a condition
 
-A clinical word makes three claims at once: that you hold the training to use it, that his face is a condition, and that he's receiving care instead of directing work. The first crosses the line on credentials without one false sentence, and the second drifts toward a medical claim. The third costs you the sale, because young men resist help framed as sickness, while framing help as taking command made men more willing to seek it in the research. Words also travel from your notes to your scripts to his mouth, so a client who tells a friend about his "protocol" is repeating your claim.
+A clinical word makes three claims at once: that you hold the training to use it, that his face is a condition, and that he's receiving care instead of directing work. The first crosses the line on credentials without one false sentence, and the second drifts toward a medical claim. The third costs you the sale, because young men resist help framed as sickness, while framing help as taking command improved men's attitudes toward seeking it in the research. Words also travel from your notes to your scripts to his mouth, so a client who tells a friend about his "protocol" is repeating your claim.
 
-That's why the **Plain-Language Rule** covers your private analysis too: action and data vocabulary, with the clinic's words and framing out and warmth and validation in. This is the one place the playbook prints the banned words, in quotation marks, so you know what's out:
+That's why the **Plain-Language Rule** covers your private notes too: action and data vocabulary, with the clinic's words and framing out and warmth and validation in. This is the one place the playbook prints the banned words, in quotation marks, so you know what's out:
 
 | Out | What it claims | Say instead |
 |---|---|---|
@@ -196,7 +196,7 @@ Negation doesn't clean a word, because "I don't diagnose anything" still puts a 
 
 ### The Dignity Route is for the buyer whose question is his worth
 
-Some buyers aren't asking whether the method works. They're asking whether they're worth the effort, and it shows in the grammar: he describes himself where others describe a situation. He says "I look weak in every photo," or asks if it's even worth it for someone like him. For him, standard force misfires. A missed moment reflected back becomes evidence against him, and a ladder climbed past his destination ends at a verdict on his worth. Shame, a judgment on the whole self, predicts withdrawal, while a gap that looks repairable predicts effort.
+Some buyers aren't asking whether the method works; they're asking whether they're worth the effort. You can hear it in the grammar, because this buyer describes himself where others describe a situation. He says "I look weak in every photo," or asks if it's even worth it for someone like him. For him, standard force misfires. A missed moment reflected back becomes evidence against him, and a ladder climbed past his destination ends at a verdict on his worth. Shame, a judgment on the whole self, predicts withdrawal, while a gap that looks repairable predicts effort.
 
 Three things put a buyer on the **Dignity Route**, the way of running a sale that keeps force off his worth. The first is insecurity-led language like his, heard at the door, on a call, or in a DM. The second is a non-acute signal on the Fit Check, the plain-language screen before any paid step (Module 5). The signal pause runs as written, with no payment that day and at least 72 hours to cool off. If he then enrolls, the route runs through the sale and the program. The third is checking frequency, meaning regular checking of his face in mirrors or photos, short of a signal.
 
@@ -216,7 +216,7 @@ The route moves where force points and leaves what you recommend alone. The ladd
 
 **Change the aim, never the recommendation.**
 
-Run it on Dan *(composite, Struggler)*, 24, who works in logistics and keeps a comparison-photo habit. On the call he says he checks his side profile "a few times a week" and looks weak in every photo, so the route runs. You reflect his stake as another year of checking and not knowing if anything's moving, and leave out the team photos he mentioned. The ladder stops at being taken seriously at work and knowing what's moving. Then comes the hard true thing, with full force: "You've spent eight months asking a mirror a question it can't answer. The guessing is what's wearing on you, and it ends when you measure."
+Run it on Dan *(composite, Struggler)*, 24, who works in logistics and keeps a comparison-photo habit. On the call he says he checks his side profile "a few times a week" and looks weak in every photo, so the route runs. You reflect his stake as another year of guessing and not knowing if anything's moving, and leave out the team photos he mentioned. The ladder stops at being taken seriously at work and knowing what's moving. Then comes the hard true thing, with full force: "You've spent eight months asking a mirror a question it can't answer. The guessing is what's wearing on you, and it ends when you measure."
 
 You show the tiers premium first, recommend the Program, your 12-week flagship, from [the next start], and state the price once. He answers yes to the affordability question, asked word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Then you ask for his decision, and he says yes. His captures run only on their fixed dates, and if his reported checking climbs, persuasion pauses for a referral conversation.
 
@@ -230,7 +230,7 @@ The Dignity Check asks whether he leaves more capable or more defective (Intro).
 | Declined: a fixation signal | "You're not a fit for the program." | "The useful next step is someone who can help with how much time this takes. Here's who. The reading is yours either way." |
 | A budget buyer: "I can't afford it" | "Maybe when you're in a better spot", or any cheaper offer | "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." |
 
-The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once, and money talk ends. He stays inside the group, because the group is adults who measure instead of guess, and a Starter Path user who keeps the practice belongs (Module 17).
+The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once, the pause route is set, and money talk ends. He stays inside the group, because the group is adults who measure instead of guess, and a Starter Path user who keeps the practice belongs (Module 17).
 
 ## Worked Example: Cole's First-Month Trust Audit
 
@@ -242,7 +242,7 @@ Cole (composite operator) starts from zero in [January]. By day [30] he has publ
 |---|---|---|---|---|
 | 1 | Channel | "What are your qualifications?" asked [four] times, answered [three] ways, once not at all | Three answers read as improvising | One Qualifications Answer, pinned under every long-form piece |
 | 2 | Channel | "His jaw is proof it works", the top comment on a short, unanswered | Silence let the face-as-proof premise stand | The face statement pinned, and one reply linking the log |
-| 3 | Channel | The Honest Answer's pitch gave the founding group's price, never who it isn't for, and [six] comments asked if it builds bone | Men it can't help were reading it as for them | A "not for" line in every decision-stage pitch |
+| 3 | Channel | His offer video gave the founding group's price but never said who it isn't for, and [six] comments asked if it builds bone | Men it can't help were reading it as for them | A "not for" line in every decision-stage pitch |
 | 4 | Page | "What we don't claim" listed three limits with no reasons | Bare noes read like the genetics shrug | Each limit gets its reason and what to do instead |
 | 5 | Page | "Personal review every week", with no word on how reviews are made | A line templating would one day make false | The review disclosure, on the page now |
 | 6 | Log | Pre-commitment posted, but [two] fit declines and his first turnarounds unrecorded | Month 1 would be rebuilt from memory | Record each event the day it happens |
@@ -265,7 +265,7 @@ The four beats hold in every channel, and only the length changes.
 
 **In the comments.** Pinned under every long-form piece:
 
-> **You:** "Fair question. I don't hold a clinical, dental, or medical qualification, and I don't give medical opinions or rate faces. I assess habits and presentation, write a plan, and review each client's record weekly. You can check all of it, including a sample plan and a dated log of every decline and refund: [link]. Jaw pain, bite trouble, snoring, or under 18? See [a dentist or doctor] first."
+> **You:** "Fair question. I don't hold a clinical, dental, or medical qualification, and I don't give medical opinions or rate faces. I assess habits and presentation, write a plan, and review each client's record weekly. You can check all of it, including a sample plan and a dated log of every decline and refund: [link]. Jaw pain, bite trouble, snoring, or under 18? See [a dentist, doctor, or orthodontist] first."
 
 **In a DM.** The one next step is the door:
 
@@ -278,7 +278,7 @@ The four beats hold in every channel, and only the length changes.
 > **You:** "Fair. I don't hold a clinical or dental qualification. I assess habits and presentation, write a plan from your record, and review it weekly. I don't give medical opinions or rate faces. You don't have to take my word for it: the sample plan, the terms, and my log are public. If you'd mentioned jaw pain, bite trouble, or snoring, I'd send you to a dentist or doctor first. You haven't. Does that answer it?"
 > *[Stop. Let him answer.]*
 
-Notice the order: the fact said plainly, the scope with its "don't", something he can open, and where your competence ends. Conceding the missing title and answering it on the spot works on a skeptic, because the answer is a check he can run himself.
+Notice the order, which is the Qualifications Answer in under a minute: the fact said plainly, the scope with its "don't", something he can open, and where your competence ends. Conceding the missing title and answering it on the spot works on a skeptic, because the answer is a check he can run himself.
 
 If he pushes:
 
@@ -296,7 +296,11 @@ Pin it under your first long-form piece, in your profile, and on the Verify Page
 
 > **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is clients' records: captures matched for distance, lens, light, and angle, and a dated log that publishes every result on a fixed schedule, flat ones included: [link]. You'll never see my profile in a thumbnail, a before/after of me, or a filter on my face.
 
-Its first sentence runs both ways, which lets you answer a hostile comment and a flattering one with the same words. When someone pushes with "so you admit you look weak?", quote that sentence, link the log, and stop at one reply per thread.
+Its first sentence runs both ways, which lets one reply answer a hostile comment and a flattering one alike. When someone pushes with "so you admit you look weak?", answer once and stop:
+
+> **You:** "My face doesn't prove anything either way. The proof is in the log: [link]."
+
+Never answer with a before/after of your own, because it would turn the statement into the thing it refuses.
 
 ## Checklists: Costly Signals and Vocabulary Swaps
 
@@ -351,18 +355,18 @@ Its first sentence runs both ways, which lets you answer a hostile comment and a
 | Review disclosure | What's sold is delivered | That your judgment is good |
 | Outcome ranges (10, then ~30 graduates) | What happened to everyone | That it works for him |
 
-**The answer.** Fact → scope → check → referral. **The statement.** What your face doesn't prove, why, what it's for, where the proof is, your rules. **The route.** Insecurity-led language, a non-acute signal, or regular checking → stakes of time, money from here on, and guessing; no missed moments; the ladder stops at the destination. **Vocabulary.** Assess, review, baseline, plan, block, record; never the clinic's words, even negated.
+**The answer.** Fact → scope → check → referral. **The statement.** What your face doesn't prove, why, what it's for, where the proof is, your rules. **The route.** Insecurity-led language, a non-acute signal, or regular checking → stakes of time, money from here on, and guessing; no missed moments; the ladder stops at the destination. **Vocabulary.** Assess, review, plan, record; never the clinic's words, even negated.
 
 **Framework cheat sheet**
 
 | Framework | Use it to… |
 |---|---|
-| **Costly vs Hygiene Signals** | Sort every trust signal by what faking it would cost, and publish the costly ones on schedule |
-| **What My Face Does and Doesn't Prove** | Keep your appearance out of the evidence, and answer appearance comments with the system |
-| **The Qualifications Answer** | Answer the credential question with the fact, the scope, the check, and the referral |
+| **Costly vs Hygiene Signals** | Sort signals by what faking them would cost, and publish the costly ones on schedule |
+| **What My Face Does and Doesn't Prove** | Keep your face out of the evidence, and answer appearance comments with the system |
+| **The Qualifications Answer** | Answer "what are your qualifications?" in four beats he can check |
 | **The Plain-Language Rule** | Swap the clinic's words for action and data words, and keep the warmth |
-| **The Dignity Route** | Aim force at time, money, and guessing for an insecurity-led buyer, and keep the recommendation firm |
+| **The Dignity Route** | Keep force off an insecurity-led buyer's worth while the recommendation holds |
 
 **Leans on:** the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Claim Ladder (Module 16) · State Routing (Module 19) · the Comment Courtroom (Module 23) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
 
-**Do this month:** pin the Qualifications Answer and the face statement wherever skeptics look; log declines, claims, and turnaround the day each happens, on a fixed publishing day; run the vocabulary search, then the trust audit, on the month's last day.
+**Do this month:** pin the Qualifications Answer and the face statement wherever skeptics look; log declines, claims, and turnaround the day each happens; run the vocabulary search and the trust audit on the month's last day.
