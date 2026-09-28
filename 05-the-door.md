@@ -81,7 +81,7 @@ What the call delivers is fixed, however you run it: his stall and goal said bac
 
 ### The Call Cap spends free hours where they change a decision
 
-Somewhere past 6–8 held conversations a week, the calendar starts eating the business. The signs arrive together: most weeks above that range, a show rate sliding toward about 60%, more than half of held conversations ending no-fit, and selling hours cutting into your content minimum.
+Somewhere past 6–8 held conversations a week, the calendar starts eating the business. The volume is the trigger: most weeks above that range, with selling hours cutting into your content minimum. A show rate sliding toward about 60%, or more than half of held conversations ending no-fit, at lower volume means the screening before the call needs work, not a cap.
 
 A free hour isn't worth the same to every buyer. It changes the decision of the uncertain buyer, who wants to talk it through or is wary after a purchase that let him down. It closes the high-intent buyer, ready to start and already past your offer page. The buyer who'd rather have it in writing loses little by getting a written plan, and he keeps it.
 
@@ -329,7 +329,7 @@ Answer from your records for your last 30 eligible leads.
 
 **Early.** Reach binds, so every eligible adult who finishes the door earns a personal reply within hours and a free conversation. The priority tier is the only paid assessment open from month 0, for the Optimizer who would rather pay than wait. The trap is adding a fee or a paid overflow because the week feels full. A full week with few held conversations is a reach problem, and friction makes it worse.
 
-**Growing.** The Call Cap starts to bind, and the overflow opens once the bind signs show together. Reserve the free slots by tag and send the rest to the Decision Assessment, judged on the economics after 30 events. The trap is booking first come, first served, so buyers who'd decide the same way in writing take the hours your uncertain buyers needed.
+**Growing.** The Call Cap starts to bind, and the overflow opens once most weeks run above 6–8 held conversations. Reserve the free slots by tag and send the rest to the Decision Assessment, judged on the economics after 30 events. The trap is booking first come, first served, so buyers who'd decide the same way in writing take the hours your uncertain buyers needed.
 
 **Scaling.** Care minutes bind, so assessments go async-first, the cap tightens below 6–8, and most enrollments come without a call. The trap is a plan template that has quietly stopped saying "don't buy". Read your recommendation mix each quarter, because a mix with no refusals means the plans have become pitches.
 

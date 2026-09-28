@@ -246,7 +246,7 @@ Answer from your own records for the last four weeks, starting at the top. A lat
 1. Is there a waiting list for your next start? → Care minutes.
 2. Did review turnaround miss its stated window in any week? → Care minutes.
 3. Did you pause booking two weeks running to keep weeks under 25 hours, the last step of the De-Scoping Order, your fixed list of what gets cut first (Module 11)? → Care minutes.
-4. Did most weeks hold more than about 6–8 conversations, or did show rates slide toward 60%, or did more than half end no-fit? → Conversations: the calendar is saturated.
+4. Did most weeks hold more than about 6–8 conversations? → Conversations: the calendar is saturated, and the Call Cap applies. If show rates slid toward 60% or more than half ended no-fit at lower volume, the door's screening needs the work instead.
 5. Did fewer than 10% of eligible leads reach a held conversation, or did your close rate sit below its range (15–35% before proof, 25–45% with it) for two 30-conversation windows? → Conversations: the pipe leaks.
 6. Are seats open while your eligible leads sit below your band's waypoint? → Reach.
 

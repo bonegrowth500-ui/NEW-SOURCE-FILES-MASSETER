@@ -94,7 +94,7 @@ Those are the **Price Steps**, and three rules run them.
 
 ### The gate decides what you announce, and an announcement always lands
 
-Plan steps of about 5–10% every second start. Before you announce one, check two conditions: your starts are filling, and your close rate over the last 30 held conversations sits inside its range, 15–35% before proof and 25–45% with it. If both hold, announce the step at least 30 days out, inside the announcement for the start before it. From then on it lands, whatever the next start looks like, because a step that reverses teaches every future buyer to wait. The conditions decide only whether you announce the next one.
+Plan steps of about 5–10% every second start. Before you announce one, check two conditions: your starts are filling, and your close rate over the 30 held conversations since the last step landed sits inside its range, 15–35% before proof and 25–45% with it. Until 30 have been held at the new price, the rate can't be read, so filling starts carry the step alone; one readable window below range holds the next announcement, and two send the work to the call (Module 19). If both hold, announce the step at least 30 days out, inside the announcement for the start before it. From then on it lands, whatever the next start looks like, because a step that reverses teaches every future buyer to wait. The conditions decide only whether you announce the next one.
 
 Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every recent start has filled. Under 30 held conversations the rate can't be read, so the only step is the founding price's stated end, and the next one waits for the count.
 
@@ -268,7 +268,7 @@ Fill it in before you set a price and before you announce a step, using planning
 | 4. Care minutes per client-week | [ ] | ~30–35 early; ~18–20 Growing; ~13–15 Scaling |
 | 5. Revenue per care hour | [$ ] | Price ÷ (12 × line 4 ÷ 60); ~$800 at proof prices in Growing |
 | 6. Proof milestone met? | [yes/no] | ≥10 graduates with consented process testimonials, plus first ranges |
-| 7. Close rate, last 30 held | [ %] | Inside 15–35% before proof, or 25–45% with it? |
+| 7. Close rate, 30 held since the last step | [ %] | Inside 15–35% before proof, or 25–45% with it? |
 | 8. Recent starts filled? | [yes/no] | Seats taken at each recent start |
 | 9. Proposed price | [$ ] | ~5% (line 7 in the lower half) to ~10% (upper half); under line 2; inside the band line 6 allows |
 | 10. What was added | [ ] | Only buyers from that start get it; nothing published is cut |

@@ -17,7 +17,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 09 | 09-the-founding-phase.md | a4d1beee624d836ef | a22bba410642a677c | ✅ 3.5 passed (7,593 w) |
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | af28fb6227a00d9d0 | ✅ 3.5 passed (7,606 w) |
 | 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | ✅ 3.5 passed (7,664 w) |
-| 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | critique done (0 blocking, 17 major) → rebuilding |
+| 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | ✅ 3.5 passed (7,614 w) |
 | 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | ✅ 3.5 passed (7,611 w) |
 
 ## Decisions made during Step 3
@@ -77,3 +77,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (13 final): parity ruling corrected: Round Two ≈$990/care h at $25k (below) but ≈$1,600 at $50k (above, from volume + templating); the Hold just below at both until ~$72–80. model4.py $50k configuration aligned with A5 (8 Program, 45 Hold members, no Private: $56.3k → $43.9–47.3k). New derived LEDGER rows: Private parity prices (async-first ≈$10k; weekly-call ≈$18–20k); two tiers vs one (≈$3k more profit at $50k volume).
 - R3 round (09 final): FRAMEWORKS Founding Sprint definition updated: five booking-source labels (warm network, replies, Permission-First Replies, native short-form, long-form and search); the founding page and speed to lead serve all sources. Round Two's first cohort = founding graduates (Early).
 - Integration: 01 sends Cole's [40] warm messages in month 2; 09 has them in weeks 1–2. Harmonize in 4.3.
+- R3 round (12 final): Price Step gate: close rate read over the 30 held conversations since the last step landed; until 30 exist, filling starts carry the step alone; one readable window below range holds the next announcement, two send the work to the call. Call Cap fires on volume (most weeks > 6–8 held, selling eating content); show rate/no-fit at lower volume = fix screening (05), not a cap. LEDGER B and C updated; Modules 01 (checklist item 4), 05 (§3 and Stage Notes), 07 (§3 and worksheet) aligned.
