@@ -87,7 +87,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 
 | | Name | Definition | Status | Owner | Also in |
 |---|---|---|---|---|---|
-| ★ | **The Founding Sprint** | First conversations without an audience: labeled sources (disclosed warm network, early replies, a founding page, native short-form, permission-first replies, speed to lead), 3–6 held conversations a week, a week-3 source check | new | 09 | 24, 25, 28 |
+| ★ | **The Founding Sprint** | First conversations without an audience: every held conversation labeled by its booking source (disclosed warm network, replies, Permission-First Replies, native short-form, long-form and search), with the founding page and speed to lead serving all of them; 3–6 held conversations a week; a week-3 source check | new | 09 | 24, 25, 28 |
 | ◆ | **The Dual-Purpose Conversation** | A disclosed fit-and-research conversation, with purpose, price, and "one recommendation" stated up front | new | 09 | 19 |
 | ◆ | **The Month-3 Gate** | Volume leg: fewer than ~15 held conversations by week 12 means fix sources. Conversion leg: fewer than 3 clients from 25+ means fix the offer or position | new | 09 | 12, 28 |
 | ★ | **The LTV Stack** | Lifetime value = Program + Round Two (per graduate) + Hold months + premium, with care minutes counted against each | new | 10 | 01, 13 |
