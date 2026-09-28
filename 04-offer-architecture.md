@@ -126,7 +126,7 @@ Five rungs do their damage by arriving before their trigger:
 | Built early | What it costs |
 |---|---|
 | A community before ~30 alumni | An empty room reads as failure, and its moderation comes out of review minutes |
-| Any self-serve product before ~20 graduates | Your earliest guesses, frozen into a product that few finish and fewer can show results from |
+| Any self-serve product before ~20 graduates | Your earliest guesses, frozen into a product you'll have to rewrite |
 | Program Async before the Program passes ~$3.2k | A cheaper copy of your flagship at a price the core buyer can already carry |
 | A second flagship, such as a six-month program | Two review rhythms and a split recommendation, when Round Two already offers the longer path at a lower first price |
 | The paid overflow while reach binds | Fewer conversations while every one counts |
@@ -153,7 +153,7 @@ The path runs two four-week blocks and ends in a trigger for coming back. Every 
 
 The week-8 self-check does the first job a reviewer would do. He sorts each of his goals into the Outcome Map's columns. Anything changeable and measurable, such as his habits, body composition, grooming, and how he's photographed, gets a measure he can keep. Anything never claimed, such as habits changing an adult's bone, gets a line through every product that promised it. That sort alone ends a lot of wasted spending, and it's a verdict he can reach without you.
 
-The net's human touch is a real choice, and one option fails here:
+The net's one human touch is still a real choice:
 
 | Option | Pick it when | What it costs |
 |---|---|---|
@@ -167,7 +167,7 @@ The net's human touch is a real choice, and one option fails here:
 
 The path goes out in the written recap within 24 hours, once, and it's never chased. When the reason is "I can't afford it", money talk ends there under a stop rule. The path is the one concrete next step, and the pause route is set: a content-free tag that stops sales sequences and date sends for 60–90 days. The path's own touches carry no offer, price, or date, so they run inside it.
 
-The Starter tool is the path's one paid item, a low-cost tool at $27–97, such as [a printable log and capture sheet]. It's named once, in the handover, with its price and the plain line that the path works without it. It's never named to a buyer who said he can't afford it or whose money isn't his. Naming any price would reopen money talk. Its checkout runs the Fit Check, the plain-language screen for fit signals before any paid step. It also asks the affordability question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Price endings barely matter, so choose a round number inside the range.
+The Starter tool is the path's one paid item, a low-cost tool at $27–97, such as [a printable log and capture sheet]. It's named once, in the handover, with its price and the plain line that the path works without it. It's never named to a buyer who said he can't afford it or whose money isn't his. Naming any price would reopen money talk. Its checkout runs the Fit Check, the plain-language screen for fit signals before any paid step. It also asks the affordability question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
 A buyer whose Fit Check paused the sale gets a reading-only version. It holds the Honest Answer, the Outcome Map, and what measuring would look like later, with no capture step, no appearance log, and no Starter tool. Where the signal was checking or fixation, the referral comes first, because measurement would feed the loop that's hurting him.
 
@@ -298,9 +298,9 @@ Three rules travel with it. It's sent once, and a "not now" with a date gets one
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Minutes and buyers are both scarce, so the ladder stays small. It holds the free fit conversation, the founding group, one founding Private seat, the priority tier, and the free Starter Path. The default move is writing the net before your first call, since the first "I can't afford it" can come in week one. The trap is building a product because followers ask for one; a template pack before 20 graduates sells a little and proves little.
+**Early.** Minutes and buyers are both scarce, so the ladder stays small. It holds the free fit conversation, the founding group, one founding Private seat, the priority tier, and the free Starter Path. The default move is writing the net before your first call, since the first "I can't afford it" can come in week one. The trap is letting the premium seat multiply: a second founding Private seat sold while group reviews run late spends the minutes your first proof comes from.
 
-**Growing.** Selling minutes bind, so the paid overflow switches on at the front. At the back, monthly Program starts and the first graduations switch on Round Two and the Hold. The default move is holding each buffer to its job, with Round Two offered only on measured momentum. The trap is chasing the buffers' revenue: an assessment pushed on a buyer who needed a free conversation, or Round Two sold to a graduate whose record doesn't support it.
+**Growing.** Selling minutes bind, so the paid overflow switches on at the front. At the back, monthly Program starts and the first graduations switch on Round Two and the Hold. The default move is holding each buffer to its job, with Round Two offered only on measured momentum. The trap is offering it to every graduate because it sells easily, when a graduate without momentum needed an honest "you don't need it" instead of a pitch.
 
 **Scaling.** Care minutes bind, and the ladder grows by tiers and leverage: Program Async under the ceiling, Private at parity, the Self-Serve System, the alumni room. The default move is adding tiers inside the flagship slot before any new slot. The trap is the menu, each option sensible on its own until the one recommendation becomes a list and buyers start asking which package again.
 
