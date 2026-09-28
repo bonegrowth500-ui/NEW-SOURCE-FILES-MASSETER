@@ -17,7 +17,7 @@ Good content earns respect, and only an ask turns respect into a decision, so ev
 
 Content in this niche earns respect easily and demand rarely. The category gives its method away, so viewers assume the videos are the product, and honest operators often keep their offer quiet because grifters sell loudly, as if a price were the grift. This buyer already knows you sell something, and what he punishes is a tactic he discovers later, like a price that appears only on a call.
 
-That's respect without demand: content that earns respect and creates no pull. With no free community to hold people, no second room exists where the sale can happen later. A viewer meets an ask in the asset, joins your list through your door, the one owned path from first click to one recommendation, or leaves. Respect tells him you're straight, but a decision also needs what's sold, what it costs, and when it starts.
+That's respect without demand: content that earns respect and creates no pull. With no free community to hold people, no second room exists where the sale can happen later. A viewer meets an ask in the asset, joins your list through your door, the one owned path from first click to one recommendation, or leaves.
 
 ### An ask can outrun the warmth
 
@@ -205,7 +205,7 @@ That's the Conversation-to-Content Loop: objections become content earlier in th
 
 ### One card clears every asset
 
-The **Pre-Publish Card** is one card of at most ten yes/no lines, run before any asset ships, clips and sends included. Each line asks one question with one test, so a no points at one fix. Your editor can run it first, but nothing posts without your sign-off, because claims approval stays with you. It costs minutes, far less than the refund or the screenshot any line prevents.
+The **Pre-Publish Card** is one card of at most ten yes/no lines, run before any asset ships, clips and sends included. Each line asks one question with one test, so a no points at one fix. Your editor can run it first, but nothing posts without your sign-off, because claims approval stays with you.
 
 ## Worked Example: Cole's October, Eight Assets and an Offer Video
 
@@ -340,7 +340,7 @@ A no on any line holds the asset.
 
 **Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the Loop's rule picks each month's objection piece. The trap is dates spoken into pieces meant to last, which turns every start into a re-shoot or a stale date.
 
-**Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private stays only at parity, near $10k and async-first, or goes, and Program Async, the program without the live call, joins the tiers under the core buyer's cash ceiling. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
+**Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private survives only at parity, earning per care hour what the group earns, which means an async-first seat at about $10k or more. Program Async, the program without the live call, joins the tiers under the core buyer's cash ceiling. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
 
 ## Standard Check
 

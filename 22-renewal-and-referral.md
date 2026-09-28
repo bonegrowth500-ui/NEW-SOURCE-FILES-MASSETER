@@ -35,7 +35,7 @@ In week [9], [his posture-habit marker] reached its threshold with [52] of [63] 
 
 ### Each ask has one home
 
-The operating rule: every ask waits for a measured peak, and each has its home. The renewal is argued once, at graduation, for Round Two, the lighter maintenance block, or the Hold, the quarterly measurement subscription. An upgrade to Private, the premium seat with fixed deliverables, waits for a record that calls for one. The referral is asked once, and testimonials get two asks at most, a no to either final.
+The operating rule: every ask waits for a measured peak, and each has its home. The renewal is argued once, at graduation, for Round Two, the lighter maintenance block, or the Hold, the quarterly measurement subscription. An upgrade to Private, the premium seat with fixed deliverables, waits for a record that calls for one.
 
 | Ask | Its measured peak | Never |
 |---|---|---|
@@ -45,7 +45,7 @@ The operating rule: every ask waits for a measured peak, and each has its home. 
 | Referral | Graduation, once | His fit or exit window; after "I can't afford it", which ends every ask in that conversation |
 | Upgrade to Private | One where his record calls for a full block | A record that calls for maintenance |
 
-Thresholds are set within reach of about 12 weeks' work for most clients who do it. So most peaks arrive in the last fortnight. Timed that way, every ask meets a man holding evidence he can check, and every yes holds up at the low end of the range.
+Thresholds are set within reach of about 12 weeks' work for most clients who do it. So most first peaks arrive in the Program's last month. Timed that way, every ask meets a man holding evidence he can check, and his yes still stands if his results land at the low end of the range.
 
 ## 2. The Peak-End Finish
 
@@ -81,7 +81,7 @@ At graduation his next step is argued from his own record against the timeline h
 
 Before he paid, he read the Path and Timeline Card, the one page that states what 12 weeks deliver and when change tends to show (Module 6). It priced his likely first [9] months down each path he could take next, full intensity included. So graduation brings no new offer. This category's usual renewal is a surprise next phase sold to everyone while he's most hopeful: the endless-tips pattern with an invoice.
 
-Round Two, the maintenance block for graduates whose record is still moving, and the Hold, the measurement subscription for graduates, are designed as offers elsewhere (Module 10). This module builds the argument for one of them, or for neither, and that argument is the **Renewal Case**. His record makes the case, and your job is to read it out.
+Both offers, Round Two and the Hold, are designed elsewhere (Module 10). This module builds the argument for one of them, or for neither, and that argument is the **Renewal Case**. His record makes the case, and your job is to read it out.
 
 ### Three facts from his sheet decide it
 
@@ -111,7 +111,7 @@ Run the decision as a short contract, the arc of Close by Contract, from an agre
 
 A yes goes to the Fit Check, the plain-language check for signals that buying could hurt him, and then to booking his start. A no ends money talk, with no Hold after a Round Two no and no plan or start date. He keeps his record and his quarterly date. The pause route, a content-free tag, stops sales sends for 60–90 days, then asks permission again. Nothing starts by default: Round Two ends at its own week 12, and the Hold begins only on his yes.
 
-"Let me think" is a deferral, a real objection to sort, and it isn't a no. Ask what he's weighing, then agree a decision date on or before the last day to join Round Two's next start. The Follow-Up Rule carries it from there: one check-in on that date, then one close-the-loop message.
+"Let me think" is a deferral, a real objection to sort, and it isn't a no. Ask what he's weighing, then agree his Decision Date, a day he picks on or before the last day to join Round Two's next start. The Follow-Up Rule carries it from there: a written recap within 24 hours, one check-in on his date, then one close-the-loop message.
 
 **When the signals disagree.** Say a graduate at a clear measured peak asks for [$200] off Round Two "as a returning client". His record says yes, but his request puts the price in question, so ask the affordability question first: it separates "I can't comfortably pay this" from "I'd like to pay less". A no ends money talk, with no Hold as the cheaper route and no trimmed-down block. A yes means you hold the price on his card and ask once more, because nobody pays less for the same seat. In a category known for "today only" offers, a discount would say the recommendation was a sale.
 
@@ -121,7 +121,7 @@ Testimonial and upgrade asks follow the same peak rule, and each adds a conditio
 
 ### A testimonial is evidence of what he'd say freely
 
-The testimonial rules live elsewhere: scoped, revocable consent, text only by default, his own words, no incentive, and everyone's range beside any result (Module 16). No ask comes before his fit window closes, or in a conversation that decides a refund, meaning the week-6 exit or the week-12 non-response verdict. None goes to a client who claimed a refund. Within that, he gets two asks at most, and a no to either is final. A client who came through the signal pause, the slower path a fit-check signal sets, or who arrived checking his photos, gives words only.
+The testimonial rules live elsewhere: scoped, revocable consent, text only by default, his own words, no incentive, and everyone's range beside any result (Module 16). No ask comes before his fit window closes, or in a conversation that decides a refund, meaning the week-6 exit or the week-12 non-response verdict. None goes to a client who claimed a refund. Within that, he gets two asks at most, and a no to either is final. A client who came through the signal pause, the slower path a fit-check signal sets, or who arrived checking his photos, gives words only, even if he offers a capture.
 
 The process ask comes at his first measured peak from about week 7, and the results ask once his week-12 verdict is written. Ask every client who reaches one. Asking only the men you expect to glow is selection, and a skeptic assumes it the moment he sees a wall of praise. Accounts written close to an experience also tend to read as more credible than memories of it. Keep the ask small: two or three lines, in his words, about what the record showed him.
 
@@ -129,12 +129,12 @@ The process ask comes at his first measured peak from about week 7, and the resu
 
 Private sells speed, privacy, and attention as fixed deliverables, and it promises no better result. At Scaling it sells only at parity, under the Premium Lane, the Optimizer's path from the priority tier to Private (Module 13). The ask is honest when his record calls for a full block and what he has asked for is what Private delivers. In a category where "precision" has meant a closer read of the face, every Private page, call, and recap says "We never read or score your face."
 
-Say a graduate at Scaling moved late. His week-6 read found a misdirection from outside your plan, [a routine he'd never logged]. Since the correction, that marker has improved at both readings, and [another marker] sits at its threshold. His check-ins show his rotating shifts never once fit the group call. So Private goes first, beside the same block priced as a Program:
+Say a graduate at Scaling moved late. His week-6 read found a misdirection from outside your plan, [a routine he'd never logged]. Since the correction, his logs have held above threshold, that marker has improved at both readings, and [another marker] sits at its own. His check-ins show his rotating shifts never once fit the group call. So Private goes first, beside the same block priced as a Program:
 
 > **You:** "Your record calls for twelve more weeks at full review. Private is [$10,000]: a recorded walkthrough of your plan at weeks 0, 4, 8, and 12, a deeper written review every week, written replies within a day on weekdays, up to [two] a week, and three short calls at times you choose. We never read or score your face. The same block in the group is [$3,900]. My recommendation is Private, because the call has never fit your shifts. Do you want to start it?"
 > *[Stop. Let him answer.]*
 
-A yes sends the affordability question to Private, word for word, then the Fit Check. Seat Math, the monthly caps set from measured care minutes, must hold a Private line. The seat must also pass the Parity Rule, earning at least what a Program seat earns per care hour.
+A yes sends the affordability question to Private, word for word, then the Fit Check. A no to that question ends money talk, and the group block isn't offered in Private's place. The seat itself must fit Seat Math, the monthly caps set from measured care minutes, and pass the Parity Rule, earning at least what a Program seat earns per care hour.
 
 On a record that calls for maintenance, no upgrade is asked. Adrian *(composite, Optimizer)*, 31, a consultant whose client travel kept him off most calls, asks whether Private would get him "further". His sheet shows momentum and nothing more. So you tell him no, since Round Two's review is written and the calls he missed cost him nothing.
 
@@ -144,7 +144,7 @@ Every client at a measured peak gets one direct, specific, private referral ask,
 
 ### Direct asks work more often than you'd guess
 
-Reid *(composite operator)* never asked. He assumed men in this niche keep the work to themselves and would find the question awkward. His referrals came only from clients who volunteered, [two] in his first year. Half of that was right: many men here do keep it private, since being seen to buy help with how your face photographs can read as insecurity. What Reid got wrong was the private yes, because people expect roughly half the yeses a direct, specific request actually gets.
+Reid *(composite operator)* never asked. He assumed men in this niche keep the work to themselves and would find the question awkward. His referrals came only from clients who volunteered, [two] in his first year. Half of that was right: many men here do keep it private, since being seen to buy help with how your face photographs can read as insecurity. What Reid got wrong was the answer in private, because people expect roughly half the yeses a direct, specific request actually gets.
 
 Two more findings shape the ask. Intentions to refer run well ahead of referrals made, so an ask must name a person and a small step. And people pass on what makes them look good, so what he forwards should make him look rigorous.
 
@@ -168,27 +168,31 @@ They travel further than you intend, and a large share of this category's most e
 
 ### The partner seat is the most specific ask of all
 
-The Training-Partner Seat is pair enrollment of two adults into one start, each through his own door, at the published price, with no pair discount (Module 10). At graduation it works as a referral: the graduate introduces the man he trains with, and he isn't part of the pair himself. The man who shares his gym, schedule, or home is often the one person who knows about the work. His check-ins usually name him.
+The Training-Partner Seat is pair enrollment of two adults into one start, each through his own door, at the published price, with no pair discount (Module 10). At graduation it works as a referral: the graduate introduces the man he trains with, and the graduate isn't part of the pair. The man who shares his gym, schedule, or home is often the one person who knows about the work. His check-ins usually name him.
 
 That partner has two routes in. He can enroll alone, as an ordinary buyer, or start with a partner of his own as a pair, two seats from one start's real cap. Either way he answers the age fork, the affordability question, and the Fit Check himself, in private. A graduate who offers to pay for his seat hears a plain no. Money that isn't the buyer's own routes the buyer to the Starter Path, the free sequenced path for anyone who shouldn't buy now.
 
 ## 6. Alumni Status and Graduation
 
-Graduation confers alumni status, a fact in his record that nothing he does next can add to or take away, and it's where every ask at a measured peak is made.
+Graduation confers alumni status, a dated fact in his record that nothing he does next can add to or take away, and it comes before any ask the graduation call makes.
 
 ### Alumni status is a dated fact, the same for every graduate
 
 Everyone who reaches week 12 graduates and keeps his whole record. Alumni status is that fact, dated in his record: [Brand] graduate, [date], reached week 12. Beside it go a label that leads with a count from his logs and his next capture date, on his own or in the Hold. When prices step up, alumni keep the rates they were shown. What the status means for who he is belongs to Adults Who Measure, the group of adults who measure instead of guess (Module 17).
 
-Nothing about it rests on his results, his purchases, or a refund right, and nobody presents it as something an exit costs. Take a graduate whose clause paid. He carries the same dated line as a man who renewed, a label with his own count, "[71] of [84] days logged", and his own quarterly date. The asks skip him, since his graduation isn't a measured peak, and his status is untouched.
+Nothing about it rests on his results, his purchases, or a refund right, and nobody presents it as something an exit costs. Take Client 10 in the worked example below, whose clause paid. He carries the same dated line as a man who renewed, a label with his own count, "[71] of [84] days logged", and his own quarterly date. The asks skip him, since his graduation isn't a measured peak, and his status is untouched.
+
+### The call confers the status before it asks for anything
+
+On the graduation call, the status comes first. His record is read in the verdict's order, then he's given the dated line and his label. Only then, at a measured peak, come the Renewal Case, the referral ask, and a results ask unless he has already said no. So no ask can read as the price of the status, and no answer changes it. A man who declines all three leaves with the same line as one who says yes to each.
 
 ### The room is opt-in, and nothing a graduate is owed sits inside it
 
-The alumni room is the Hold's paid room, open once about 30 alumni are in it, and each member chooses to join (Module 10). Standing inside comes from re-captures kept and logs sent, and no room, board, or email mentions who left. A graduate paid under the clause isn't offered the Hold, so he'll never be in the room. He loses nothing a graduate is owed, since his record, label, date, and status all live outside it.
+The alumni room is part of the Hold, opening once you have about 30 alumni, and each member chooses to join (Module 10). Standing inside comes from re-captures kept and logs sent, and no room, board, or email mentions who left. A graduate paid under the clause isn't offered the Hold, so the room isn't open to him. He loses nothing a graduate is owed, since his record, label, date, and status all live outside it.
 
 ## Worked Example: Cole's [May] Start, Weeks 10 to 12
 
-Cole (composite operator) is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,600], and with [six] Hold months at [$55], to [$2,930]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,765].
+Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,600], and with [six] Hold months at [$55], to [$2,930]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,765].
 
 Ten clients started in [May]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Client 9 took the exit right after his week-6 read and had his pro-rata refund within [five] days. He was asked for nothing then or since, and nobody in the group heard about it from Cole.
 
@@ -198,7 +202,7 @@ Client 10's readings have sat flat for [three] weeks at [83%] adherence, so his 
 
 **Week 11. A quiet week, on purpose.** Every client gets the same capture check: tripod mark, lamp, hour, expression. No lesson, survey, or billing notice goes out. Cole checks each sheet against the peak rule, so no ask can land beside a refund.
 
-**Week 12. Verdicts first, then the calls.** Every re-assessment goes out in writing before any call, and [eight] records reach a measured peak. Client 10's doesn't: at [85%] adherence no marker reached its threshold, so the clause pays its fixed share within [five] days. A referral to [the professional his question belongs with] goes with it. He gets the same finish minus the asks, and the same alumni status as anyone.
+**Week 12. Verdicts first, then the calls.** Every re-assessment goes out in writing before any call, and [eight] records reach a measured peak. Client 10's doesn't: at [85%] adherence, above his threshold, no marker reached its own, so the clause pays its fixed share within [five] days. A referral to [the professional his question belongs with] goes with it. He gets the same finish minus the asks, and the same alumni status as anyone.
 
 [Five] of the [eight] have measured momentum. Each hears Round Two recommended from his sheet, with the Hold priced beside it, and one plain question: does he want to start it? Dan, Adrian, and Client 6 say yes, answer the affordability question yes, and take Round Two, and Client 7's clear no is accepted without another word. That's [three] seats from [nine] graduates and [five] with momentum, above the planning ranges of about 10–26% and 20–40%. [Nine] is far too few events to read, so Cole logs it and waits for 30.
 
@@ -225,7 +229,7 @@ Each of the [eight] then hears one private referral question, and five hear the 
 
 **Weeks 13–20. What came back.** From those asks, one of Dan's roommates enrolled alone in [the next start] at the published price. The other said no to the money question and got the free path. Another man's Fit Check showed a signal, so his sale paused, with no payment that day and at least 72 hours to cool off. And a capture card Sam passed on reached Jordan *(composite, minor)*, 16, whose first answer at the door sent him to public content and an orthodontist referral, with nothing kept.
 
-**What it shows.** Every ask landed on a measured peak, and every missing ask had its reason in the record: an exit, a flat read, a paid refund. [Three] graduates heard they didn't need Round Two, and the start still renewed at a rate Cole won't trust until 30 graduates. The referrals came from one private question at the peak, and his plan had counted none of them.
+**What it shows.** Every ask landed on a measured peak, and every missing ask had its reason in the record: an exit, a flat read, a paid refund, or a no already given. [Three] graduates heard they didn't need Round Two, and the start still renewed at a rate Cole won't trust until 30 graduates. The referrals came from one private question at the peak, and his plan had counted none of them.
 
 ## Scripts: The Graduation Call and Its Asks
 
@@ -308,7 +312,7 @@ What you never say: "Could you mention how much sharper your jaw looks?" If he d
 >
 > **Dan:** "Both of them. They want to start together."
 >
-> **You:** "Each of them comes through the same door you used and answers his own questions about age, money, and fit, in private. If both want the same start, there's a pair seat, two seats in one month. If one would rather go alone, he enrolls like anyone else. It's the published price either way, with no discount for a pair, and neither hears anything about you from me."
+> **You:** "Each of them comes through the same door you used and answers his own questions about age, money, and fit, in private. If both want the same start, there's a pair seat, two seats in one start. If one would rather go alone, he enrolls like anyone else. It's the published price either way, with no discount for a pair, and neither hears anything about you from me."
 > *[Stop. Let him answer.]*
 
 Notice the move. The ask named the two men his check-ins already showed. It gave each his own route in, alone or as a pair, with the door's checks ahead of any price. A friend's enthusiasm can carry a man to the door, and the Fit Check still decides, in private, whether buying is right for him.
@@ -333,7 +337,7 @@ Each is one screen or one page, with [Brand] and one link to your self-assessmen
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Proof binds, because the proof milestone, 10 or more graduates with consented process testimonials plus the first outcome ranges, gates your next price band. So ask each founding client for a process testimonial at his first measured peak, and for one private referral at graduation. The trap is reading gratitude as a peak: asking a warm founding client in week 3, inside his fit window, with nothing on his record.
+**Early.** Proof binds, because the proof milestone, 10 or more graduates with consented process testimonials plus the first outcome ranges, gates your next price band. So ask each founding client for a process testimonial at his first measured peak, and for one private referral if he graduates at one. The trap is reading gratitude as a peak: asking a warm founding client in week 3, inside his fit window, with nothing on his record.
 
 **Growing.** A start graduates every month, so Round Two and the Hold sell at cohort scale. Asks also drift back onto the calendar through templates. The default move is one outline for every graduation call, with each client's peaks checked against his sheet. The trap is an automated week-12 email asking everyone for a referral, which reaches the flat reads and the clause.
 
@@ -370,7 +374,7 @@ Each is one screen or one page, with [Brand] and one link to your self-assessmen
 | His record | Recommendation |
 |---|---|
 | Moved, with momentum | Round Two, once |
-| Moved and holding | "You don't need Round Two"; the Hold, or his own date |
+| Moved and holding | "You don't need Round Two"; the Hold, or his own date if he catches his own misses |
 | Moved late, corrected from outside your plan | Full intensity, priced as a Program |
 | Your review's miss | Free corrective weeks, up to 6 |
 | No measured peak | No offer |

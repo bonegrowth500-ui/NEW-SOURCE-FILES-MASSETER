@@ -104,7 +104,7 @@ A composite with dated decision points: the signs → the read → the default m
 
 ### 3.6 Checklists
 
-5–8 items, each a yes/no question answerable from his own records, with the ledger threshold in the item and the consequence after an arrow.
+5–8 items, each a yes/no question answerable from his own records, with the ledger threshold in the item and the consequence after an arrow. The one exception is the Pre-Publish Card (Module 18), which by its definition may run to ten single, testable lines.
 
 ---
 
