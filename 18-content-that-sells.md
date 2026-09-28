@@ -326,7 +326,7 @@ A no on any line holds the asset.
 3. **Click Contract.** Is every hook's promise paid before the pitch? → Rewrite the hook or the body.
 4. **Claim Ladder.** Does every observational or outcome claim carry all six items of the Context Stack? → Drop it a rung, or cut it.
 5. **Canon.** Is every canon claim quoted word for word? → Paste it from your Canon.
-6. **Proof travel.** Does client proof run only where the Proof Portability Gradient and his written consent allow: never in ads, and in short-form only with range and denominator on screen (Module 27)? → Move it or cut it.
+6. **Proof travel.** Does client proof run only where the Proof Portability Gradient and his written consent allow: never in ads, never as a before/after pair outside long-form and the site library, and in short-form only with range and denominator on screen (Module 27)? → Move it or cut it.
 7. **Perspective line.** Does every destination line carry one line placing it beyond the face? → Add it.
 8. **Minors.** Is it free of rating, comparison, and minor-targeted framing? → Reframe it for adults, or don't ship it.
 9. **Launch Line.** Does every date pass all five tests, with any dated send carrying the start and its last day to join, the end of week 2? → Fix it, or cut the date.
