@@ -149,7 +149,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ◆ | **The Commit Ritual** | The review and decision at baseline, his written reasons (never quoted back in any exit), and the Expectation Document signed off | new | 21 | 17 |
 | ◆ | **The First-14** | A verifiable win inside the first fortnight and a reviewer's touch in the first 72 hours | new | 21 | 06 |
 | ◆ | **Every Plateau Renews the Decision** | A plateau re-read with his own data renews the decision to continue, adjust, or exit | new | 21 | 22 |
-| ◆ | **The Honest Exit** | When the markers say the lever doesn't move: stop, refund per the clause, refer | new | 21 | 07 |
+| ◆ | **The Honest Exit** | When the markers say the lever doesn't move, or he uses the week-6 exit right: stop cleanly, refund per the clause or the exit right, refer where a trigger applies | new | 21 | 07 |
 | ★ | **Measured-Peak Asks** | Renewal, referral, testimonial, and upgrade asks happen only at a measurement moment that shows progress on his record, never at a plateau, a flat read, or an exit | new | 22 | 10, 16 |
 | ◆ | **The Peak-End Finish** | Make the final fortnight the program's peak | new | 22 | 06 |
 | ◆ | **The Renewal Case** | Argue Round Two or the Hold from his own record against the timeline he accepted before paying, with an honest "you don't need it" when true | new | 22 | 10 |

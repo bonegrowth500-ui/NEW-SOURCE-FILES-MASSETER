@@ -231,6 +231,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Teardown cadence | One teardown of a published category claim a quarter, plus one when a claim pattern recurs in door answers; faces cropped or blurred | Content calendar | RULE |
 | Refund timing | Paid within 7 days of the request (fit window, exit right) or of the week-12 verdict (non-response clause); the plan-usefulness refund within 7 days of the request; a missed service deliverable credited or refunded (his choice) within 7 days of the miss | — | RULE |
 | Claim windows | Exit right: from the week-6 read until 7 days after it's delivered. Plan-usefulness refund: within 14 days of receiving the written plan. Fit window: 14–21 days from day one of delivery | — | RULE |
+| Stops outside the windows | A refer-out trigger that ends delivery at any point (jaw pain, sleep signs, distress, fixation): undelivered weeks refunded pro rata within 7 days. A voluntary stop after the exit window: no cash refund of delivered weeks; installments cancel forward; undelivered weeks can be deferred to a later start within 6 months | — | RULE |
 | Non-responder share; recommendation mix; share told "you don't need Round Two" | Measured from the founding clients; published once there are ≥30 graduates (≥30 assessments for the mix) | — | RULE |
 
 ## E. Persuasion effect sizes (explanation only; never a promise, always a range)

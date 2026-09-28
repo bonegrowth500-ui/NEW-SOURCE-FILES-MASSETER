@@ -26,7 +26,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 18 | 18-content-that-sells.md | a1c32178a5c126f98 | — | drafting |
 | 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | — | drafting |
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | — | drafting |
-| 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | — | drafting |
+| 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | draft done (7,582 w) → critique |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | — | drafting |
 
 ## Decisions made during Step 3
@@ -100,3 +100,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R4 round (14 final): bounded-agency gloss fixed in FRAMEWORKS and Module 03 ('measurement shows what's moving', never a ceiling read off his face). LEDGER E rows: positive fantasy vs expectation (M, one group); sustained exposure to corrections (M/W, one six-month field experiment). LEDGER H: Canon rotation rule (claim #1 on every entry surface; each claim every ~4–6 weeks in the same words; a resurfacing myth's claim first for ~2 weeks). 19, 20, 26 quote canon claims verbatim; 26 adopts the rotation; 05, 06, 21 adopt the 'misdirected' standard.
 - R4 round (15 final): Module 05 table clarified: distress 'yes, most days' or checking 'many times a day' (no checking 'most days' signal).
 - R4 round (16 final): LEDGER D rules: testimonial asks per client (≤2; a no is final; scoped consent; never ghostwritten); teardown cadence (quarterly + on recurring door-answer claim patterns). FRAMEWORKS Integrity Levels wording aligned (compare / show / claim).
+- R5 round (from 21): LEDGER B 'Stops outside the windows' (referral stop: pro-rata refund of undelivered weeks within 7 days at any point; voluntary stop after the exit window: installments cancel forward, undelivered weeks deferrable to a later start within 6 months, no cash refund of delivered weeks). FRAMEWORKS Honest Exit covers the exit right. 07 gets a surgical addition. Integration: 06's week-1 review 'one thing he did well' → phrase as a record fact, not a label (17's no-labels-in-fit-window rule).
