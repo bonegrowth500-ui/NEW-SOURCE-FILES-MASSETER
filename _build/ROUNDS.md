@@ -32,7 +32,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | 3.3 critique (draft 7,343 w) |
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | a7fe4f7646c3ef45b | 3.3 critique (draft 7,584 w) |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | — | 3.1–3.2 drafting |
-| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | — | 3.1–3.2 drafting |
+| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | (critic launched) | 3.3 critique (draft 7,579 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -121,3 +121,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (22 final): 'measured peak' registered ○ (owner 22). LEDGER B: Round Two joins on the monthly start calendar (its last day to join anchors a deferral). Seams fixed in passed modules: 16 L190 results ask needs adherence too; 06 week-12 offer rows say 'adherence met'; 10 §5 adds the partner-enrolls-alone route.
 - R6 round (from 24): before/after pairs live in long-form and the site library only (THESES E8, brief 27 §4); Module 16's clip condition fixed ('No before/after pair appears in the clip at all…'). LEDGER F TikTok trigger: a labeled trial matching Reels on eligible adults per editing hour over ~30 door completions. LEDGER F cadence (every other week early) wins over THESES E5 (weekly). Integration: 16's opening 'two posts sit in his feed' shows a matched pair in a feed; check against E8 in 4.1 (it's another coach's post, illustrative).
 - R6 round (from 23): LEDGER E rows approved: audio quality and credibility (M; one group); author replies in comments (M/W; mostly news-comment studies). THESES E2 vs 13 checked: consistent (the Age-Up Dial lowers the minors' share; 13's age lever is that same reduction; never pushes out adults in the 19–32 core band).
+- R6 round (from 27): FRAMEWORKS Proof Portability Gradient definition made explicit (matched before/afters only in long-form and the site library; organic short-form clips carry no pairs). 27's draft followed the older wording; fixed at rebuild. 'Eligible leads per dollar' turned into cost per eligible lead added (one term per concept); Band A test fires on the Month-3 Gate's volume leg (band unknowable at month 3). Integration: 27 extends 05 with an optional post-payment 'Where did you first hear about [Brand]?' question and 'no ad pixel on door pages'; add a line to 05 in 4.3 if 27 keeps them.

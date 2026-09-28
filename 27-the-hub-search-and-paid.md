@@ -74,7 +74,7 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, with its trigger, claim window, and payout (Module 7). The windows are what a burned buyer checks. The fit window, a full refund on his word, runs 14–21 days from baseline day, the first day of delivery. The exit right, a pro-rata refund for a client who did the work, runs from the week-6 read, the written mid-program review, until 7 days after it.
 
-A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days after he receives the plan. You raise the non-response clause, cash back when no marker moves despite his effort, yourself at week 12. Every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
+A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days after he receives the plan. At week 12 you raise the non-response clause yourself, cash back when no marker moves despite his effort. Every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
 
 The rest go up as built. The verification kit, a sample written plan and a sample weekly review, includes a plan that says "don't buy", because a plan that can refuse him is one he believes when it recommends (Module 5). The Path and Timeline Card, the one-page path and cost sent before payment, prices his first [9] months (Module 6). Its range runs from the Program, your 12-week flagship, alone, to the Program with Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. What My Face Does and Doesn't Prove, your public statement that your appearance is never evidence, goes up word for word (Module 15).
 
@@ -267,9 +267,9 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 One page, in text, in this order; dates and prices update each start, other changes by dated entry.
 
-> **Next start: [date] · last day to join: [date].** [Seat status, when informative.] [An announced Price Step: the next price and its start.]
+> **Next start: [date] · last day to join: [date].** [Seat status, when informative.] [Any announced Price Step: next price and start.]
 >
-> **Who we are.** [Brand] is [assessment, a written plan, and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. I hold no clinical, dental, or medical qualification, give no medical opinions, and rate no faces. I write or approve every review; [tool] tallies logged numbers only with your consent. No fees from device, supplement, or procedure sellers. Adults only.
+> **Who we are.** [Brand] is [assessment, a written plan, and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. I hold no clinical, dental, or medical qualification, give no medical opinions, and rate no faces. I write or approve every review; [tool] tallies logged numbers only with consent. No fees from device, supplement, or procedure sellers. Not for anyone under 18, or anyone after a change to bone.
 >
 > **What we don't claim.** That habits change adult bone: there's no good evidence, so we measure what can change. That habits even out asymmetry: [reason]. That coaching replaces dental, orthodontic, or medical care: jaw pain, bite problems, or loud snoring go to a dentist or doctor first. The same result for everyone: [reason]. No devices, and no before/after without matched conditions and its range.
 >
@@ -283,7 +283,7 @@ One page, in text, in this order; dates and prices update each start, other chan
 >
 > **Prices.** [Private: $, fixed deliverables, by call when a seat is open] · [The Program: $, or three payments totaling $, for [12] reviews within [48] hours, [12] group calls, two written reads, and three captures] · [The Decision Assessment: $; its faster priority tier: $] · [The Hold: $ a month] · [Round Two: $, offered only if your week-12 record is still improving] · The Starter Path, for anyone who shouldn't buy now: free.
 >
-> **Guarantee.** [We guarantee the work we control, and we pay on time.] Your legal rights come first. Fit window: cancel before baseline day or within [14–21] days of it, full refund. Service: a late review or read earns [a stated amount], cash or off your next payment, and my review errors earn free corrective weeks, up to 6. Exit right: log [80%] of days and ask between your week-6 read and 7 days after it; undelivered weeks come back, as they do if I refer you out. Non-response: log [80%], see no marker reach its threshold by week 12, and [a fixed share inside 25–50%] comes back in cash; I raise it. Decision Assessment: not useful? Tell me within 14 days, and the fee comes back. Every payout lands within 7 days. Never guaranteed: how your face looks. Claim counts: [link].
+> **Guarantee.** [We guarantee the work we control, and we pay on time.] Legal rights first. Fit window: cancel before baseline day or within [14–21] days of it, full refund. Service: a late review or read earns [a stated amount], cash or off your next payment, and my review errors earn free corrective weeks, up to 6. Exit right: log [80%] of days and ask between your week-6 read and 7 days after it; undelivered weeks come back, as they do if I refer you out. Non-response: log [80%], see no marker reach its threshold by week 12, and [a fixed share inside 25–50%] comes back in cash; I raise it. Decision Assessment: not useful? Say so within 14 days for the fee back. All payouts within 7 days. Never guaranteed: how your face looks. Claim counts: [link].
 >
 > **The record.** [Pre-commitment, dated month 1] · [Log, updated on (day)]
 >
@@ -291,7 +291,7 @@ One page, in text, in this order; dates and prices update each start, other chan
 
 ### The claims library
 
-| Claim, in its exact words | Column · rung · tier | Context it needs | May travel to | Entered |
+| Claim, word for word | Column · rung · tier | Context it needs | May travel to | Entered |
 |---|---|---|---|---|
 | "Body composition shows visibly in the face, and it can be measured." | Changeable · educational · established | None | Everywhere, ads included | [Month 1] |
 | "Every review arrives within [48] hours of your check-in." | None · process · your log | The turnaround count | Everywhere, ads included | [Month 1] |
@@ -304,11 +304,11 @@ Answer from your records before the first dollar; a no on any line holds the tes
 
 1. Did the Month-3 Gate's volume leg fail, under about 15 held conversations by week 12? → If not, paid waits for all three Ad Gates.
 2. Does every page one click from an ad pass the Destination Rule, with no condition name in a URL or event and no pixel where he answers? → Fix it before spending.
-3. Has each piece you'll push brought eligible leads through your door on its own, by its source tag? → If none has, make the pieces first.
+3. Has each piece you'll push brought eligible leads to your door on its own, by its source tag? → If none has, make the pieces first.
 4. Is the budget about $300–1,000 a month, adults only, with no interest, lookalike, or retargeting list? → Cut it back to the test.
-5. Is every ad free of feature questions, before/afters, client stories, and timeframes? → Rebuild it from the piece or the sample weekly review.
+5. Is every ad free of feature questions, before/afters, client stories, and timeframes? → Rebuild it from the piece or a sample review.
 6. Are the on and off blocks written, with the read due when on-weeks hold about 30 eligible leads? → Write them, then spend.
-7. Is the verdict written in advance: cost per eligible lead added, against a third of your revenue per eligible lead, roughly $10–70? → Write it and the re-test condition now.
+7. Is the verdict written in advance: cost per eligible lead added, against a third of revenue per eligible lead, roughly $10–70? → Write it and the re-test condition now.
 
 ## Stage Notes
 

@@ -178,7 +178,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ◆ | **The Complaint Budget** | Complaints under 0.1%, never at 0.3%; promotions to engaged segments only | new | 26 | — |
 | ★ | **The Verify Page** | Who we are, what we don't claim, what my face does and doesn't prove, privacy, the sample plan and weekly review, the Path and Timeline Card, prices, guarantee terms | new | 27 | 03, 15 |
 | ◆ | **The Destination Rule** | The destination is part of the post: one claims library governs videos, pages, and emails | new | 27 | 16, 18 |
-| ◆ | **The Proof Portability Gradient** | Which proof may travel where: process everywhere; outcome stories in long-form, email, and site; contextualized clips with range and denominator on screen in organic short-form; no outcome proof in ads | new | 27 | 16, 24 |
+| ◆ | **The Proof Portability Gradient** | Which proof may travel where: process everywhere; outcome stories in long-form, email, and site; matched before/afters only in long-form and the site library; contextualized outcome clips (no pairs) with range and denominator on screen in organic short-form; no outcome proof in ads | new | 27 | 16, 24 |
 | ◆ | **The Adult Reach Buy** | Paid reach pushing proven pieces to adults, judged against a holdout and the maximum affordable cost per eligible lead | new | 27 | 12, 01 |
 
 ### Part VII — The Build
