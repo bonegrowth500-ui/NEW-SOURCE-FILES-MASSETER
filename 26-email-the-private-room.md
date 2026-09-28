@@ -90,7 +90,7 @@ Every automated send also keeps the limits of the Dignity Route, the way of sell
 
 ### The pause route holds every promotional lane
 
-The pause route is where email most often breaks a stop rule, because a tool keeps sending until something tells it to stop. It's the door's content-free tag (Module 5). An endorsed distress or checking item sets it, and so does a pause from the Fit Check, your plain-language check before any payment. So does "I can't afford it" at a call, a checkout, a plan step, or in a reply. An answer you hear or read writes the same tag the door would, that day.
+The pause route is where email most often breaks a stop rule, because a tool keeps sending until something tells it to stop. It's the door's content-free tag (Module 5), set by an endorsed distress or checking item or by a pause from the Fit Check, your plain-language check before any payment. "I can't afford it" sets it too, at a call, a checkout, a plan step, or in a reply, and an answer you hear or read writes the same tag the door would, that day.
 
 For 60–90 days it blocks every sales sequence, date send, and checkout link, plus the abandoned-cart email. That email is the likeliest to cross it, since it fires on exactly the man who stopped at the affordability question. The tag holds the Canon Lane and the weekly letter too, because it records no reason. It can't tell the man who can't afford you from the man checking his face many times a day, and the second should hear nothing about measuring. What still reaches him was chosen by a person: your replies, and the check-ins of the Starter Path, your free sequenced path for anyone who shouldn't buy now, in the version you handed over.
 
@@ -118,7 +118,9 @@ Build the exits before the emails, because a sequence with one exit missing keep
 | He turns out to be a minor | Anywhere | Education lane; deleted everywhere, tags included; anything paid refunded |
 | He unsubscribes | Any email | Off every list at once, never re-added |
 
-That follow-up is the Follow-Up Rule: a recap within 24 hours, one check-in on his Decision Date, his personal date to decide by, and one close-the-loop (Module 19). The "not for me" link sits beside the unsubscribe in every sales email, so a man can end the pitch without leaving the list, and a clear no costs you no complaint. Two rows carry most of the risk. "I can't afford it" arrives in more places than the checkout, so a reply that says it writes the same tag. A minor can surface anywhere. Sending him to the education lane, public content and a referral with nothing kept, means deleting him from your tool that day, keeping no list of who he was, and never telling him when he could come back.
+That follow-up is the Follow-Up Rule: a recap within 24 hours, one check-in on his Decision Date, his personal date to decide by, and one close-the-loop (Module 19). The "not for me" link sits beside the unsubscribe in every sales email. A man can end the pitch without leaving the list, and his clear no costs you no complaint.
+
+Two rows carry most of the risk. "I can't afford it" arrives in more places than the checkout, so a reply that says it writes the same tag. A minor can surface anywhere, and sending him to the education lane, public content and a referral with nothing kept, means deleting him from your tool that day. Keep no list of who he was, and never tell him when he could come back.
 
 **Wire the exits before you write the emails.**
 
