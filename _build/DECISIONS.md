@@ -201,3 +201,26 @@ Four independent reviews stress-tested the Step 2 architecture: skeptical buyer 
 | R2-S4 | **Budgets in VOICE rule 20:** default ≈7,030; Part V (18–22) deep ~3,800–4,000 / worked example ~1,000 / extras ~1,500–1,700; Module 28 deep ~4,700 with the example as dated inserts / extras ~1,300. | Carries R2-6 and the script-budget disposition into the locked voice rules. |
 | R2-S5 | **Superseded files:** STYLE v3 points to FRAMEWORKS, VOICE, and the R2 files. REGISTRY is marked history only. THESES carries a precedence note (R2 files win on conflict). `voice/sample-v2.md` is updated to R2 names and numbers (Call Cap, Price Steps, Operator Review in 12, Constraint Sequence as §3). `voice/style-sheet.md` is generated from FRAMEWORKS. | One source of truth per concern before drafting starts. |
 | R2-S6 | **Checks run:** every one of the 234 registered names (114 named + 120 terms) appears in its owner's brief. Brief Owns lines match register owners, and every flagged pointer was reviewed (all false positives). Stale names return zero hits in the canonical files. | Step 2.5 exit criterion: the map holds. |
+
+## R3 — Step 3 drafting rulings (rounds 1–2)
+
+Rulings made while drafting, each surfaced by a drafter or critic and resolved inside the spec. LEDGER, FRAMEWORKS, BUSINESS, VOICE, and the briefs carry the changes.
+
+| # | Ruling | Why |
+|---|---|---|
+| R3-1 | **Leads needed** recomputed from LEDGER's own eligible lead → enrollment range: $25k ≈ 120–285/month at 3–7% (≈570 at 1.5%); $50k ≈ 185–435 (≈870). New derived rows: held conversations at the configurations; engaged long-form view equivalents | The old figures didn't follow from the ledger's conversion row |
+| R3-2 | **Stage volume signals** redrawn: Growing ~50–150 leads / ~15–25 concurrent; Scaling ~150+ / ~25+ or a waiting list | The $25k configuration should read as Scaling |
+| R3-3 | **One conversion term:** eligible lead → enrollment | One term per concept |
+| R3-4 | **Dated Record and proof milestone:** process metrics from month 1; first outcome ranges at the proof milestone (≥10 graduates) labeled as a small sample; the standing published log from ≥30 | FRAMEWORKS, LEDGER B, and LEDGER H disagreed |
+| R3-5 | **Registered terms:** the null-result stance (03); the signal pause (05) | Used, owned, and unregistered |
+| R3-6 | **Prevalence:** LEDGER G explains why the Fit Check exists; LEDGER C's signal share is what the operator plans with. Never convert the clinical analog into a claim about applicants | Overreach risk |
+| R3-7 | **Deferral evidence downgraded to contested** (choice-conflict replications failed; a key deadline study retracted in 2026). Real dates rest on honesty and planning. The Launch Line lists all five conditions everywhere | A drafter's verification found the ledger's MODERATE tier outdated |
+| R3-8 | **Marker design** is owned by 06 (MAP and FRAMEWORKS win over R2's wording); 07 owns the clauses. Markers: 2–3 per client, never read from photos, never binary did-it items. **"Haven't moved"** = no marker reached its threshold; below-adherence clients aren't covered by the clause | The clause wasn't collectable as written |
+| R3-9 | **Plans:** the operator's own installments only (no lenders, no BNPL). Each installment ≤ ~⅓ of take-home; above three such installments the first payment comes from savings. Failed payments pause delivery without fees or collections pressure | The affordability question rules out new credit |
+| R3-10 | **Guarantee timing:** refunds within 7 days of request or verdict; service misses credited or refunded within 7 days; exit right claimable until 7 days after the week-6 read; plan-usefulness refund within 14 days of the plan. Review errors earn free corrective weeks, never a paid block | Every layer must pass the Collectability Test |
+| R3-11 | **Testimonial timing:** never before the fit window closes, never in the week-6 exit conversation; first ask at the first measured peak after the exit decision (from ~week 7) | An ask timed to a refund right fails the House Standard |
+| R3-12 | **Checkout enforcement:** attestation, the affordability question, and Fit Check tier 2 run before any pay button; a pause tag blocks checkout; a signal blocks same-day payment. The free-call booking form shows the price range and asks the affordability question. A minor found after the fork is deleted and refunded | Checks after payment only decide refunds |
+| R3-13 | **The Starter Path:** buyer-controlled re-entry, never a money condition; nothing after "I can't afford it" carries a price, offer, or date. The paid Starter tool arrives with the ~20-graduate self-serve trigger; fit-paused buyers get the reading-only path | A stop rule reopened by the net itself |
+| R3-14 | **Real dates:** late entry through the end of week 2 (the start's decision point); announcements on the previous start's day, reminders the week before, both dates on every send; the credit appears once as a stated term, never beside a decision date | Credit windows are never deadlines |
+| R3-15 | **Age wording:** "men past the core band (over ~32)" replaces "men over 30" | The core band runs to 32 |
+| R3-16 | **Audit tooling:** the Quick Reference "Leans on:" line doesn't count toward pointer density | It's a reference list, not prose |

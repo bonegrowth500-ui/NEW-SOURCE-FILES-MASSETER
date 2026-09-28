@@ -135,25 +135,25 @@ So your plan earns nothing and ends before delivery does. Plans at Cost, the rul
 - Your own installments only, at most three, all due inside delivery. No lender and no buy-now-pay-later, because the affordability question rules out new credit.
 - A premium of 0–5%, covering processing and part of the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.95k] in full, or three payments of [$670], [$2.01k] in total."
 - Each installment at or below about a third of his monthly take-home.
-- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, the tag that stops sales and date sends to him for 60–90 days.
+- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, the tag that stops sales and date sends for 60–90 days, so nothing he receives carries a price, an offer, or a date.
 - No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, triggers the signal pause: nothing paid that day, expectations in writing, 72 hours or more to cool off, and no plan (Module 5).
 - Cancel-forward: a client who stops under the guarantee's week-6 or week-12 terms owes nothing further, and anything he paid for undelivered weeks comes back.
 
-The installment cap is the rule that binds. A third of roughly $2.8k is roughly $930, so for a buyer aged 20–24, three installments cap a plan near $2.8k. Above that he pays upfront from income or savings, or takes the Starter Path, the free sequenced path for anyone who shouldn't buy now, and joins a later start.
+The installment cap is the rule that binds. A third of roughly $2.8k is roughly $930, so for a buyer aged 20–24, three installments cap a plan near $2.8k. Above that he pays upfront from income or savings, or takes the Starter Path, the free sequenced path for anyone who shouldn't buy now, and comes back by his own reply.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
 | Pay in full only | The fee is small or the product short: an assessment, the Hold | Nothing, since there's no lump sum to split |
 | Your own plan at cost | The Program and Round Two, up to his installment cap | Part of the 3–8% uncollected, plus reminders and pauses to run |
-| Upfront, or a later start | The price is past his cap | Some buyers wait a start, and a few take the Starter Path |
+| Upfront, or the Starter Path | The price is past his cap | Some buyers take the Starter Path and return by their own reply |
 
-**Default: your own plan at cost beside pay-in-full, up to his cap; past it, upfront or a later start.** A buyer with steady income but no lump sum then pays from that income, which is what the affordability question asks. Switch to pay-in-full only if uncollected plan revenue runs above 3–8% for two 30-plan windows.
+**Default: your own plan at cost beside pay-in-full, up to his cap; past it, upfront or the Starter Path.** A buyer with steady income but no lump sum then pays from that income, which is what the affordability question asks. Switch to pay-in-full only if uncollected plan revenue runs above 3–8% for two 30-plan windows.
 
 A failed installment gets one reminder and one retry. If it's still unpaid after a short grace period, delivery pauses, with no late fee and no collections pressure. He chooses to pay and resume or to cancel forward. A missed payment from a man who passed the affordability question usually means his month changed, and chasing him turns a client into a dispute.
 
 The Hold bills monthly, so it carries a reminder before each charge and a one-click exit (Module 10). A subscription that earns from forgotten cancellations fails the graduate who reads his statement. Where local law counts installment plans as consumer credit, put that on your Risk Register, the short list of your biggest legal and platform risks. Take advice before offering one (Module 11).
 
-A buyer who asks for [six] payments is telling you the price is past his cap. A serial appearance purchaser, a man on a run of recent purchases each dropped for the next, gets the signal pause and no plan. For both, if the Program has to wait, the Starter Path is the honest next step, handed over once, reading-only after a signal.
+A buyer who asks for [six] payments is telling you the price is past his cap. A serial appearance purchaser, a man on a run of recent purchases each dropped for the next, gets the signal pause and no plan. For both, if the Program has to wait, the Starter Path is the honest next step, handed over once, reading-only after a signal, with any return on his own reply.
 
 ## 5. The Layered Guarantee
 
@@ -238,13 +238,13 @@ That last rule protects the standard too. An operator who needs this month's enr
 
 Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. It's the steady kind of year you should plan on. Here it is at seven decision points.
 
-**Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price to look serious, and any bonus.
+**Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
-**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the Starter Path in its reading-only version, handed over once. The pause route keeps every sales email and date announcement away from him.
+**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route keeps every sales email and date announcement away from him, and any return is his own reply.
 
 **Month 4. The first gated step.** By [April], [30] held conversations stand behind a close rate of [~27%], in the upper half of 15–35%, and his starts are filling. He announces [$1.8k] for [May], [five] weeks out, a step at the top of the range, naming [a second group-call time] as the addition.
 
-**Month 5. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] days, offers the feedback conversation once, and makes no counter-offer: no pause, no cheaper tier. Adrian declines the call, and the refund joins the rolling claim counts.
+**Month 5. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] days, offers the feedback conversation once, and makes no counter-offer. Adrian declines the call, and the refund joins the rolling claim counts.
 
 **Month 8. An exit right paid.** Maya *(composite, welcome, not targeted)*, 28, a product designer, joined the [July] start at [$1.95k] on three payments of [$670], [$2.01k] in total. She has logged [39 of 42] days when a new role moves her to [night shifts], and two days after her week-6 read she asks to stop. She did the work, so the exit right applies: six of twelve weeks are undelivered, and she owes [$1,005] for the six she had. She has paid [$1,340], so her third payment is cancelled and [$335] comes back within [5] days. Nobody quotes her baseline reasons back to her.
 
@@ -264,7 +264,7 @@ Fill it in before you set a price and before you announce a step, using planning
 |---|---|---|
 | 1. Core buyer's monthly take-home | [$ ] | ~$2.8k at 20–24; ~$3.9k at 25–34 (US) |
 | 2. Cash ceiling | [$ ] | Line 1 × 1–1.25; the core container stays under it |
-| 3. Plan cap | [$ ] | 3 × (~⅓ of line 1); above it, upfront or a later start |
+| 3. Plan cap | [$ ] | 3 × (~⅓ of line 1); above it, upfront or the Starter Path |
 | 4. Care minutes per client-week | [ ] | ~30–35 early; ~18–20 Growing; ~13–15 Scaling |
 | 5. Revenue per care hour | [$ ] | Price ÷ (12 × line 4 ÷ 60); ~$800 at proof prices in Growing |
 | 6. Proof milestone met? | [yes/no] | ≥10 graduates with consented process testimonials, plus first ranges |
@@ -315,7 +315,7 @@ It rides inside the start announcement and never gets a send of its own.
 
 ## Standard Check
 
-- **A price page with nothing invented.** Real tiers, premium first, countable delivery units, and no decoy, crossed-out price, or "total value" (*Present the price*). Every step names what only its start gets.
+- **A price page with nothing invented.** Real tiers, premium first, countable delivery units, and no decoy, crossed-out price, or "total value" (*Present the price*).
 - **A step he hears about.** Announced steps always land, and his written recap names the next price and its start, so a good-fit buyer never drifts past a step unaware (*Use real dates*).
 - **Plans that stop at his means.** His own installments only, at most three inside delivery, each under about a third of his take-home, with the affordability question at the plan step and no plan after a signal (the line on vulnerability).
 - **A guarantee he can collect.** Every layer passes the Collectability Test, and no testimonial ask or written reason is timed to his refund rights. Nothing is guaranteed about his face (the line on structural claims).
