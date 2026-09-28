@@ -196,7 +196,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Week-3 source check | If warm network plus replies produce fewer than 2 held conversations a week, shift ~2 h/week from long-form to short-form batches and permission-first replies | — | RULE |
 | Fit-check signal share (paid-step applicants) | ~5–20% show at least one signal; most continue after a conversation; acute signals are rare | Prevalence; wording | PL (D) |
 | Fit-check signal pause | No same-day payment; adjusted expectations in writing; ≥72 h cooling-off; no payment plan; fit window from day one of delivery. Checking or fixation → referral plus reading-only content | — | RULE |
-| Pause route | Set by an endorsed distress item, "can't afford" (call, checkout, or plan step), or a fit-check pause. No sales sequence or date sends for 60–90 days, then re-permission. It records no reason | — | RULE |
+| Pause route | Set by an endorsed distress item, "can't afford" (call, checkout, or plan step), or a fit-check pause. No marketing send of any kind (sales sequences, date sends, checkout links, unfinished-checkout notes, the Canon Lane, the weekly letter) for 60–90 days, then one re-permission ask carrying no price, offer, or date. It records no reason, so it protects the most vulnerable one | — | RULE |
 | Category's hardcore audience under 18 | Majority in self-selected samples | Packaging; adult positioning lowers it | EV (W) |
 | Decision points | Every assessed buyer meets one real decision point within ~2–4 weeks: the next monthly start (with its real seat cap) or an announced price step. Credit windows are **not** deadlines | Calendar design | RULE |
 | Late entry | Through the end of week 2 of a start; that last day to join is the start's decision point | Onboarding load | RULE |
@@ -282,6 +282,10 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Spam complaints | Target < 0.1%; never ≥ 0.3% | Pressure; dormant segments | RULE (S) |
 | Welcome flow vs broadcast (per recipient) | Several-fold more clicks and orders | E-commerce transfer | EV (M/W) |
 | Lead-age cohorts for revenue | 0–60 · 61–180 · 181–365 days; re-permission, don't delete | — | RULE |
+| Engaged (email) | A click or reply within ~60 days; opens don't count | Machine opens | RULE |
+| Re-permission timing | Silent leads get one re-permission ask at 181 days, or at 61 if the 61–180 cohort shows no revenue over a readable window; a yes restores the flow, silence or a no ends marketing mail | Cohort revenue | RULE (D) |
+| Welcome Arc length | ~10 days, shorter than the late-entry window | — | RULE (D) |
+| Unfinished checkout | One note, never to a paused lead (the pause blocks checkout) | — | RULE |
 | Promotion sends per start date | One announcement + one reminder, engaged segments only, never to paused leads. The announcement goes out on the previous start's day, the reminder the week before; every send carries both the start date and the last day to join | Launch Line | RULE |
 | Paid lead cost (Meta, broad benchmark) | ~$25–30 per raw lead → ~$36–100 per eligible lead | Objective; health-adjacent classification removes optimization | EV (M) / D |
 | Band A paid adult reach test | Default at months 3–4 once destinations pass the Destination Rule: ~$300–1,000/month pushing proven pieces to adults, judged against a holdout and the maximum affordable cost per eligible lead | Band; yield | RULE (D) |
