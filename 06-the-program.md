@@ -174,7 +174,7 @@ The Program's four milestones are written deliverables with dates, because a mil
 
 ### Baseline day starts the record
 
-Baseline day, the first review-and-decision ritual, falls in the first days after payment. It produces his first capture to the standard, seen only by you; his first log week, set against [his habit blocks]; his markers, signed with their thresholds; and the signed Expectation Document. Get it exactly right, because every later read is compared against this day. A baseline shot under the wrong light, or a vague marker, can't be repaired at week 12.
+Baseline day, the first review-and-decision ritual, falls in the first days after payment. It produces his first capture to the standard, seen only by you; his first log week; his markers, signed with their thresholds; and the signed Expectation Document. Get it exactly right, because every later read is compared against this day, and a vague marker can't be repaired at week 12.
 
 ### Markers are built to be collected
 
@@ -182,18 +182,18 @@ Markers are two or three pre-agreed measures from the changeable column, each wi
 
 **A marker is a changeable-column measure, read without photos, with a threshold that logging alone can't reach.**
 
-1. **Changeable column, read without photos.** Habits as they show up unprompted, body composition, and posture and breathing habits, each measured the same way every time. Captures stay observations, so posture is scored by spot-check and never from the side capture.
-2. **Who, how, when, and where.** The sheet names who takes each reading, usually him on a stated day; the method, as [placeholder]; and where it's recorded. You check the method on baseline day and the readings in each review.
-3. **A threshold that clears the noise.** Set it above the wobble in his baseline readings and within reach in 12 weeks for most clients who do the work. It's signed on day one and stays put, so a lever change at week 6 leaves the sheet alone.
-4. **Never adherence.** Adherence is the condition, printed before payment as [80%] of days logged. A yes-or-no that records whether he did the work is adherence in disguise, so test every marker: could a client who logged every day still miss it? If not, it isn't a marker.
-5. **Never appearance change.** Jaw change from habits is debated, and your eye would settle the claim, so an appearance marker is a structural guarantee through the back door.
-6. **Realistic for most, guaranteed for none.** Most adherent clients should reach at least one threshold, and none should be certain to.
+1. **Changeable column, read without photos.** Unprompted habits, body composition, and posture and breathing habits, measured the same way every time. Captures stay observations, so posture is scored by spot-check, never from the side capture.
+2. **Who, how, when, and where.** The sheet names who takes each reading, usually him on a stated day, the method as [placeholder], and where it's recorded. You check the method on baseline day and the readings in each review.
+3. **A threshold that clears the noise.** Above the wobble in his baseline readings, and within reach in 12 weeks for most clients who do the work. It's signed on day one and stays put when a lever changes at week 6.
+4. **Never adherence.** Adherence is the condition, [80%] of days logged, printed before payment. A yes-or-no on whether he did the work is adherence in disguise, so ask of every marker: could a client who logged every day still miss it? If not, it isn't a marker.
+5. **Never appearance change.** Jaw change from habits is debated and your eye would settle the claim, so an appearance marker is a structural guarantee through the back door.
+6. **Reachable for most, guaranteed for none.** Most adherent clients should reach at least one threshold, and none should be certain to.
 
-Two definitions go on the sheet beside the markers. "Moved" at week 12 means at least one marker reached its threshold, and one is enough: the lever moves for him, so the clause doesn't pay. "Moving" at week 6 means a marker has shifted past its baseline wobble in the right direction, and momentum, the case for Round Two, follows the rule you write at baseline, such as [one marker at threshold and another still climbing].
+Two definitions go on the sheet. "Moved" at week 12 means at least one marker reached its threshold, and one is enough: the lever moves for him, so the clause doesn't pay. "Moving" at week 6 means a marker has shifted past its baseline wobble in the right direction. Momentum, the case for Round Two, follows a rule you write at baseline, such as [one marker at threshold and another still climbing].
 
-Here's a sheet that passes. Dan's markers are [a posture-habit marker], [2] of [10] random spot-checks at baseline with a threshold of [6] of [10], tallied by him and read in each review, and [a body-composition measure], baseline [x], threshold [x − y], taken by him every [Monday morning] the same way. His adherence threshold is [80%] of days logged. A client who logged every day could still miss both thresholds, which is exactly why the clause can pay.
+Here's a sheet that passes. Dan's first marker is [a posture-habit marker]: [2] of [10] random spot-checks at baseline, threshold [6] of [10], tallied by him and read in each review. His second is [a body-composition measure], baseline [x], threshold [x − y], taken every [Monday morning] the same way. His adherence threshold is [80%] of days logged. A client who logged every day could still miss both thresholds, which is exactly why the clause can pay.
 
-A sheet that fails reads "jawline visibly sharper by week 12", which only a photo and your eye could settle, and "[posture routine] done daily", which is a yes-or-no on the work. "More confident" has no measure at all. Each would turn the clause into an argument.
+A sheet that fails reads "jawline visibly sharper by week 12", which only a photo and your eye could settle. It adds "[posture routine] done daily", a yes-or-no on the work, and "more confident", which has no measure at all. Each would turn the clause into an argument.
 
 ### The week-6 read asks the verdict question first
 
