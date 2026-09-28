@@ -96,7 +96,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Speed to lead (personal reply to every adult lead) | 1.0 | 0.5 | 0.25 | 0.25 |
 | Conversations / assessments | 4.5 (4–5 × ~1.0 h; 45-min dual-purpose call) | 3.0 (Call Cap + overflow) | 2.6 (~1.3 h/enrollment; ~50% no-call) | 2.8 (~1.0 h/enrollment; ~65–70% no-call) |
 | No-shows, recaps, follow-up | 0.5 | 0.5 | 0.5 | 0.4 |
-| Client review | 2.5 (founding group incl. milestones) | 3.75 (~20–25 × ~10 min) | 3.2 (~24 × ~8 min) | 3.6 (Program ~22 × 7 + Async ~14 × 6 min) |
+| Client review | 2.5 (founding group incl. milestones) | 3.75 (~20–25 × ~10 min) | 3.2 (~24 × ~8 min) | 4.0 (Program ~22 × 7 + Async ~14 × 6 min) |
 | Group calls | — (inside founding delivery) | 2.0 | 2.0 | 2.0 (Program tier only) |
 | Milestones (Commit Ritual, week-6 read, week-12 re-assessment) | (inside founding delivery) | 1.5 | 1.6 | 2.1 |
 | Round Two (maintenance format) | — | (inside review) | 0.35 | 0.4 |
@@ -105,7 +105,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Fit-check conversations, Starter Path hand-offs, renewal reviews | 0.25 | 0.5 | 0.5 | 0.5 |
 | Building (protected build line) | 1.5 | 1.25 | 1.0 | 1.0 |
 | Admin, freelancer briefs, Operator Review | 1.0 | 1.5 | 1.5 | 1.5 |
-| **Total** | **~19.75–20.25** | **~22.0** | **~19.75** | **~20.25** (~21–21.5 with 1–2 Private seats at parity) |
+| **Total** | **~19.75–20.25** | **~22.0** | **~19.75** | **~20.5** (~21–22 with 1–2 Private seats at parity) |
 | Protected content minimum | ~8.5 | ~6.75 | ~5.25 | ~5.0 |
 
 | Unit | Range | Moves it | Status |
@@ -128,7 +128,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Self-Serve System | — | ~15 × ~$197 ≈ $3k |
 | Decision Assessment fees (non-buyers) | ≈ $1k | ≈ $2.2k |
 | **Revenue → profit** | **≈ $31.5k → ≈ $24.5–26.5k** | **≈ $56k → ≈ $44–47k; small Price Steps over time carry it to ~$50k** |
-| Week | ~19.75 h | ~20.25 h (~21–21.5 with Private at parity) |
+| Week | ~19.75 h | ~20.5 h (~21–22 with 1–2 Private seats at parity) |
 | Eligible leads needed (≈ enrollments ÷ eligible lead → enrollment) | ~120–285/month at 3–7% (a proven door by Scaling); ~570 at 1.5% | ~185–435/month at 3–7% (~13 enrollments); ~870 at 1.5%. Band C–D reach, or Band B with a working paid reach lever |
 | Held conversations at the configuration | ~8–17/month (about half of enrollments close without a call; held → enrollment 25–45%) | ~9–18/month (~65–70% of enrollments without a call) |
 | Engaged long-form view equivalent | ~35–475k/month (120–285 eligible leads; 30–70% eligible share; 2–5 raw leads per 1,000 engaged views). Short-form and Instagram add reach not captured here | ~55–725k/month on the same assumptions |
@@ -153,6 +153,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Hold deliverables | One written review per quarter with the re-capture; weekly room prompts (once open); stated operator touch per member | — | RULE |
 | Open paid membership (option; Growing/Scaling; verified adults) | ~$29–59/month, only with budgeted moderation minutes | Moderation cost | PL (E) |
 | Private at Scaling (**Parity Rule**) | Sold only when price per operator hour ≥ cohort revenue per care hour (≈$1,250–1,400 at Scaling). In practice an async-first seat at ~$10k+, or no Private | Care minutes | RULE (D) |
+| Private hours per 12-week seat | ~14–15 with weekly calls; ~7–8 async-first (≈0.6 h/week) | Call cadence; templates | PL (D) |
 | Starter Path | A free sequenced path from month 0 (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger the buyer controls, never a money condition); human touches templated (no free live group). The low-cost Starter tool ($27–97, named once, never after "I can't afford it") is a paid self-serve product, so it arrives with the ~20-graduate trigger | — | PL |
 | Self-Serve System (the Starter tool's upgrade, after ~20 graduates) | ~$97–297 one-time: tools (logs, capture standard, self-review prompts, walkthroughs), not the stall taxonomy's decision rules. Its optional review is a Decision Assessment | Stall taxonomy; proof library | PL (E) |
 | Payment plans | ≤3 installments, all due inside delivery. Premium 0–5% (processing + expected leakage) stated as a total. Your own installments only: no third-party lenders or buy-now-pay-later, since the affordability question rules out new credit (where local law treats installment plans as consumer credit, that's a Risk Register flag for professional advice). Each installment at or below about a third of monthly take-home; above three such installments (≈$2.8k at 20–24), the first payment comes from savings and the remaining installments stay within the cap. A failed installment gets one reminder and one retry; after a 7-day grace period, delivery pauses (no fees, no collections pressure) until he pays and resumes or cancels forward. Cancel-forward after the fit window. No plan after a fit-check signal | Plan length vs delivery | RULE (M evidence) |
@@ -272,6 +273,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Metric | Range | Note | Status |
 |---|---|---|---|
 | Core buyer | 19–32; default protagonist 24 (Dan) | Optimizer 25–35, including over-30s by state | RULE |
+| Age band at intake | One multiple-choice item (18–24 · 25–34 · 35+) after the age fork, read only in aggregate for the buyer mix (Module 13's crossing trigger) | — | RULE |
 | Buyer income (US full-time) | Men 20–24 ≈ $42k/year gross (take-home ≈ $2.8k/month); ages 25–34 ≈ $59k/year (take-home ≈ $3.9k/month) | — | EV (S); take-home D |
 | Price in months of take-home pay (20–24 / 25–34) | $2.4k ≈ 0.86 / 0.61 · $2.8k ≈ 1.0 / 0.71 · $3.1k ≈ 1.1 / 0.79 · $3.5k ≈ 1.25 / 0.89 · $3.9k ≈ 1.4 / 1.0 · $4.5k ≈ 1.6 / 1.14 | The cash ceiling is measured here | PL (D) |
 | **Affordability question** (canonical; before every paid step, in every channel) | **"Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"** | "No" → Starter Path + pause route. Money that isn't his → Starter Path | RULE |

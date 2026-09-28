@@ -56,7 +56,7 @@ A week-3 source check moves hours to the sources that work. Every founding clien
 - Checklist: the R&D Harvest.
 - Hard case: many conversations, no clients (the conversion leg fires).
 
-**Stage-note angles.** Early: this module is the plan. Growing: found each new offer the same way (a founding cohort for Round Two or Program Async). Scaling: pilots, not founding phases.
+**Stage-note angles.** Early: this module is the plan. Growing: found each new offer the same way (a founding cohort for Round Two). Scaling: pilots for Program Async and later tiers, not founding phases.
 
 **Licenses in play.**
 - *Sell directly:* the founding page with price and seats → one recommendation in private conversations → did a good-fit buyer leave without an offer?

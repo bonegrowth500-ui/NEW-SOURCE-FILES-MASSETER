@@ -7,7 +7,7 @@ At [$26k] a month in profit, with a waiting list for his next start and a week o
 
 The first version adds hours: a second start each month, more calls, reviews written late at night. It breaks around week 6. Review turnaround slips past its stated window, and the clients who trusted his clock start claiming the credit it promised. The second version adds prices: a VIP tier, a one-to-one upgrade, [a low-ticket course], a bundle. Each line looks like revenue on its own. Together they turn one recommendation into a menu, while the one-to-one seats quietly eat the minutes his flagship ran on.
 
-The third version barely touches his week. It moves the flagship to an older buyer's cash ceiling and keeps a real tier under a younger buyer's. It sells a premium seat only where it earns what a flagship seat earns per hour of care. It templates review so the same minutes carry more clients, and it leans on a dated record no rival can back-fill. That version reaches the top of the range in about 21 hours a week, in year 2 or 3. Here are its math, its honest timing, and the guardrails that keep the core buyer safe.
+The third version barely touches his week. It moves the flagship to an older buyer's cash ceiling and keeps a real tier under a younger buyer's. It sells a premium seat only where it earns what a flagship seat earns per hour of care. It templates review so the same minutes carry more clients, and it leans on a dated record no rival can back-fill. That version reaches the top of the range in about 20–21 hours a week, in year 2 or 3. Here are its math, its honest timing, and the guardrails that keep the core buyer safe.
 
 ---
 
@@ -33,27 +33,27 @@ The $50k configuration is the steady state that reaches the top of the target ra
 | Self-Serve System | Not yet | ~15 × ~$197 ≈ $3k | Tools, after ~20 graduates |
 | Decision Assessment fees | ≈ $1k | ≈ $2.2k | Async-first at volume |
 | Revenue → profit | ≈ $31.5k → ≈ $24.5–26.5k | ≈ $56k → ≈ $44–47k | Small scheduled steps carry it toward ~$50k |
-| Week | ~19.75 h | ~21 h | Templates, not hours |
+| Week | ~19.75 h | ~20.25 h; ~21–21.5 with Private at parity | Templates, not hours |
 
 Read the table by where the new money comes from. Of roughly $24.5k in new revenue, the second tier brings about $14k. The Program's move to the older buyer's ceiling brings about $5k. The back end and the leverage lines bring most of the rest, net of the Private revenue the configuration won't count until a seat earns its hours. Held conversations barely move, from about 8–17 a month to about 9–18, because about 65–70% of enrollments come without a call.
 
-So the ceiling decision outweighs every other choice on this road. The second tier is the largest single line of growth, and it exists only because the Program crossed a ceiling.
+That makes the ceiling decision the pivot of this road. The second tier is the largest single line of growth, and it exists only because the Program crossed a ceiling.
 
-**$50k is two tiers at their ceilings, a matured back end, and leverage, inside about 21 hours.**
+**$50k is two tiers at their ceilings, a matured back end, and leverage, inside about 20–21 hours.**
 
 ### Care minutes set the path, and effort can't move them
 
-Profit here is eligible adults × conversion × lifetime value × margin, capped by care minutes (Module 1). At $50k the cap binds. The terms left to move are the ones that raise profit per care minute: price, the back end inside lifetime value, and the minutes each client-week costs.
+The Demand Equation says profit is eligible adults × conversion × lifetime value × margin, capped by care minutes (Module 1). Eligible adults are legal adults who could pay from their own income or savings without new credit. At $50k the cap binds. The terms left to move are the ones that raise profit per care minute: price, the back end inside lifetime value, and the minutes each client-week costs.
 
-The week shows how tightly that runs. Of about 21 hours, the care lines take roughly 9. Weekly review covers about 36 concurrent clients at 6–7 minutes each. The group call takes about 2 hours, for the Program tier alone, and milestones about 2 more. Round Two and the Hold share about an hour. Selling takes about 2.8 hours at roughly an hour per enrollment, content keeps its minimum of about 5, and the build line and admin take the rest. Each care line rests on a build: templated review, templated milestones, async assessments, and a tier with no live call.
+The week shows how tightly that runs. Of about 20 hours before any Private seat, the care lines take roughly 9. Weekly review covers about 36 concurrent clients at 6–7 minutes each. The group call takes about 2 hours, for the Program tier alone, and milestones about 2 more. Round Two and the Hold share about an hour. Selling takes about 2.8 hours at roughly an hour per enrollment, content keeps its minimum of about 5, and the build line and admin take the rest. Each care line rests on a build: templated review, templated milestones, async assessments, and a tier with no live call.
 
 More hours is the version that fails first, for a reason specific to what you sell. Every review is a read of a man's logs and, at the measurement points, of captures taken to your standard. It's where you catch the lines that call for a referral: distress, fixation, jaw pain, a checking habit. Tired review misses those lines before it misses anything else. So the design caps the week at 20–25 hours, which keeps the review sharp enough to be the product.
 
 ### The honest timing is years 2–3, and reach decides which year
 
-About 13 enrollments a month at a proven door's 3–7% means roughly 185–435 eligible leads a month, or about 870 at 1.5%. Eligible leads are adults who could pay from their own income or savings. That's above the month-9 range of Band B, the steady reach band, at 60–150, and inside Band C's 150–400. In engaged long-form views it's roughly 55–725k a month, at a 30–70% eligible share and 2–5 raw leads per 1,000 engaged views. Short-form and Instagram add reach those figures don't count. The eligible share swings the range most, because many of this category's most engaged viewers are under 18 and can't buy anything.
+About 13 enrollments a month at 3–7% eligible lead → enrollment, the rate of a proven door, means roughly 185–435 eligible leads a month, or about 870 at 1.5%. That's above the month-9 range of Band B, the steady reach band, at 60–150, and inside Band C's 150–400. In engaged long-form views it's roughly 55–725k a month, at a 30–70% eligible share and 2–5 raw leads per 1,000 engaged views. Short-form and Instagram add reach those figures don't count. The eligible share swings the range most, because many of this category's most engaged viewers are under 18 and can't buy anything.
 
-So $50k is the top of the range. It arrives in years 2–3 in Bands C–D, or in Band B once a paid reach lever works. That lever pushes proven pieces to adults, judged against a holdout and the most you'd pay for one eligible lead (Module 27). Plan on $25k, and count $50k as what the same system produces when reach keeps growing. It comes from price and leverage, never hours.
+So $50k is the top of the range. It arrives in years 2–3 in Bands C–D, where the channel breaks out, or in Band B once a paid reach lever works. That lever pushes proven pieces to adults, judged against a holdout and the most you'd pay for one eligible lead (Module 27). Plan on $25k, and count $50k as what the same system produces when reach keeps growing. It comes from price and leverage, never hours.
 
 ## 2. Price at the Ceiling and the Buyer-Mix Shift
 
@@ -61,7 +61,7 @@ Past $25k, price can rise only where a buyer can still pay it from his own pocke
 
 ### Each tier sits under its own buyer's ceiling
 
-The cash ceiling is about 1–1.25 months of the core buyer's take-home, payable without new credit (Module 7). Full-time take-home runs about $2.8k a month at 20–24 and $3.9k at 25–34, so the ceiling sits near $2.8–3.5k and $3.9–4.9k. Installments carry their own cap: at most three, each within about a third of monthly take-home. Together the caps place each tier:
+The cash ceiling, the first of the Three Ceilings on price, is about 1–1.25 months of the core buyer's take-home, payable without new credit (Module 7). US full-time take-home runs about $2.8k a month at 20–24 and $3.9k at 25–34, so the ceiling sits near $2.8–3.5k and $3.9–4.9k. Installments carry their own cap: at most three, each within about a third of monthly take-home. Together the caps place each tier:
 
 | Tier | Price | Months of take-home, 20–24 / 25–34 | Plan cap | Built for |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ Read the rows as a design. Program Async gives the core buyer a container he can
 
 Every paid step asks the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Each step toward a ceiling makes more buyers answer no, and for them no is the right outcome. So a step pays only while it loses a smaller share of buyers than its own percentage. At a 75–85% margin, a step that loses nobody lifts profit by about 1.2–1.3 times its size. While seats bind, the waiting list refills the seats a step empties; without one, each lost buyer takes his back end with him.
 
-Nor does price sell itself. Buyers read it as only a weak hint of quality, and where a big price with nothing behind it is the grift's signature, it reads as a warning. What carries a price past the younger buyer's ceiling is what the older buyer can check: deliverables, terms, and your record.
+Nor does price sell itself. Buyers read it as only a weak hint of quality, and where a big price with nothing behind it is the grift's signature, it reads as a warning. What carries it past the younger buyer's ceiling is what the older buyer can check: deliverables, terms, and your record.
 
 ### Two real tiers keep the core buyer inside the brand
 
-Program Async is the tier that lets the Program cross: the same written review on the same clock, the week-6 read, the week-12 re-assessment, and captures on the same calendar. It drops the group call, the Program's one synchronous hour, which saves real care minutes and makes its lower price honest. It stays real while men buy it for its own sake: the man on rotating shifts, the one who'd rather skip calls, the one whose own pocket carries this price. A tier built to make another look good is a decoy. It fails the client at the low end of the range who later sees why it was there, and decoys seldom work when options are described in words anyway.
+Program Async is the tier that lets the Program cross: the same written review on the same clock, the written week-6 read and week-12 re-assessment, and captures on the same calendar. It drops the group call, the Program's one synchronous hour, which saves real care minutes and makes its lower price honest. It stays real while men buy it for its own sake: the man on rotating shifts, the one who'd rather skip calls, the one whose own pocket carries this price. A tier built to make another look good is a decoy. It fails the client at the low end of the range who later sees why it was there, and decoys seldom work when options are described in words anyway.
 
-The order of checks keeps both tiers honest. Show them together before any paid step, premium first, with their delivery math and what his next [six] months are worth spent knowing, and recommend the one his week calls for. The affordability question runs at checkout for the tier he picks. A no, there or on the call, ends money talk. He gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, and the pause route, a tag that stops every sales and date message for 60–90 days. Program Async never follows that no as a rescue.
+The order of checks keeps both tiers honest. Show them together before any paid step, premium first, with their delivery math and what his next [six] months are worth spent knowing, and recommend the one his week calls for. The affordability question runs at checkout for the tier he picks. A no, there or on the call, ends money talk. He gets the Starter Path once, the free sequenced path for anyone who shouldn't buy now, and the pause route, a tag that stops every sales and date message for 60–90 days. Program Async never follows that no as a rescue.
 
 It opens through the standing door: the result page, the written plan's options, and the next start's regular announcement, with no window price, since a tier sold as an event is a launch. It exists only at Scaling, so no default Early or Growing sample plan recommends it.
 
@@ -93,13 +93,13 @@ Crossing works only if the buyers the new price was built for are already arrivi
 - **State.** Topics like [what a week of review looks like] speak to the man who has tried and is choosing, and raise eligible leads per view.
 - **The Optimizer.** The time-poor buyer who pays for speed and privacy needs a public premium page in working-life contexts he recognizes.
 
-Income targeting stays out: no audiences built on income or wealth, no "for high earners" copy, no income question at the door, no tier picked by a guess at his pay. Eligibility is adulthood plus a question he answers himself, and income targeting swaps his answer for your guess. It also turns price into status in a category that sells to young men's insecurity.
+Income targeting stays out: no audiences built on income or wealth, no "for high earners" copy, no income question at the door, no tier picked by a guess at his pay. Eligibility is adulthood plus a question he answers himself, and income targeting swaps his answer for your guess. It also turns price into status, in a category whose grift already trades on young men's insecurity.
 
 **Keep a real tier under the ceiling you cross, and move the mix by packaging, never by income.**
 
 The crossing runs on a test that fits on one card. Cross when all four hold:
 
-1. The Program sits at the proof band's top, about $3.2k, with the proof milestone met: 10 or more graduates with consented testimonials, plus first ranges.
+1. The Program sits at about $3.2k, the top of the proof band that the proof milestone opened: 10 or more graduates with consented testimonials, plus first ranges.
 2. Recent starts fill with names waiting.
 3. Your close rate over the last 30 held conversations sits inside 25–45%.
 4. Your last 30 or so enrollments, read in aggregate from intake age bands, are mostly 25–34.
@@ -134,7 +134,9 @@ Reid *(composite operator)* reaches a waiting list at [~$27k] a month and opens 
 
 Nothing in the offer was dishonest. Its price came from what felt premium instead of the minutes it spends. Reid honors every deliverable the three clients bought, to the end of their terms, and stops selling the seat. He rebuilds Private async-first: [a recorded plan review at weeks 0, 4, 8, and 12], [written replies within 24 hours on weekdays], and [a 20-minute call at baseline, week 6, and week 12]. That design takes about [7–8] hours, so it reaches parity near [$10k], and the page says so. The "precision plan" becomes a list of dated deliverables under one new line: "We never read or score your face."
 
-Run the rule at every monthly Seat Math reset, when you set seat caps from measured care minutes, and before you open any premium or back-end seat. While minutes are spare, it lets 1–2 founding Private seats at $4–6k run below parity (Module 9). Those minutes would otherwise sit idle, and the seats teach you what the Optimizer wants. Once a waiting list says minutes bind, Private sells only at parity: in practice an async-first seat at about $10k or more, or none. At the $50k configuration the default is no Private until a design passes. Under-pricing fails the buyer too, since a seat priced below its minutes is one you can't deliver on time once the Program fills.
+Run the rule at every monthly Seat Math reset, when you set seat caps from measured care minutes, and before you open any premium or back-end seat. While minutes are spare, it lets 1–2 founding Private seats at $4–6k run below parity (Module 9). Those minutes would otherwise sit idle, and the seats teach you what the Optimizer wants. Once a waiting list says minutes bind, Private sells only at parity: in practice an async-first seat at about $10k or more, or none.
+
+At the $50k configuration the default is no Private until a design passes, which keeps the week at about 20.25 hours. One or two async-first seats at parity would take it to about 21–21.5, and every added hour would earn what a flagship hour earns. Under-pricing fails the buyer too, since a seat priced below its minutes is one you can't deliver on time once the Program fills.
 
 ### The Premium Lane gives the Optimizer a path from month 0
 
@@ -173,7 +175,7 @@ The order is the economics. Templated review sits first because it touches every
 
 Review at 12–20 minutes per client-week is how you learn what a good review says. At the configuration's roughly 36 concurrent clients, that pace would eat most of the week's 9–10.5 care hours by itself, and at the slow end all of them. At 6–10 minutes the same clients fit, with the group call and milestones still inside the budget.
 
-The template holds what your first 20 or so clients taught you: the stall patterns and what to change for each, stock paragraphs for common weeks, and his markers, the two or three measures agreed at baseline, laid out so a slide shows at a glance. Timing is the whole risk. Template before about 20 clients and you freeze your weakest reviews into the product; template late and review eats the care hours your next start needed.
+The template holds what your first 20 or so clients taught you. It carries the stall patterns and what to change for each, stock paragraphs for common weeks, and his markers, the two or three measures agreed at baseline, laid out so a slide shows at a glance. Timing is the whole risk. Template before about 20 clients and you freeze your weakest reviews into the product; template late and review eats the care hours your next start needed.
 
 It shortens the writing, never the reading. You still read every log, because a template can't notice the line where a man mentions jaw pain or says he checked his face all week. Those lines call for a referral conversation. After you template, watch check-in completion and the non-responder share, the clients whose markers didn't move despite the work. If completion sits below its old level for two 30-event windows, the review has gotten too thin to keep men logging. Put minutes back before you add a seat.
 
@@ -183,7 +185,7 @@ Templating has one condition: the client knows before he pays. The Expectation D
 
 The other minutes worth buying back are selling minutes. At $25k about half of enrollments come without a call, at roughly 1.3 hours of selling each. At the configuration about 65–70% do, at roughly an hour each, which is how 13 enrollments fit inside about 2.8 selling hours a week.
 
-Two builds carry that shift. The async-first assessment turns the overflow from the Call Cap, the weekly limit on free fit conversations, into paid written judgment. Its fees from non-buyers grow from about $1k a month to about $2.2k. The Async Arc carries the rest: a warm buyer moves from the result page through a walkthrough and emails to enrollment, with no call.
+Two builds carry that shift. The async-first assessment answers the overflow from the Call Cap, the weekly limit on free fit conversations, with a written plan in about half the hours of a live one. Its fees from non-buyers grow from about $1k a month to about $2.2k. The Async Arc carries the rest: a warm buyer moves from the result page through a walkthrough and emails to enrollment, with no call.
 
 Neither build may skip a check. The written plan still ends in one recommendation that can be "don't buy", and the plan-usefulness refund still stands. The arc still runs the age attestation, the affordability question, and the Fit Check, the plain-language screen for signals that buying could hurt him, before any pay button. A pause tag still blocks checkout. Automation is where stop rules break most quietly, so every build that removes you from a step carries that step's checks with it.
 
@@ -191,7 +193,7 @@ Neither build may skip a check. The written plan still ends in one recommendatio
 
 At capacity the back end raises profit and results together, as long as each seat stays at the intensity it was priced for.
 
-Lifetime value here is the Program plus Round Two per graduate, plus Hold months, plus any premium seat, with each one's care minutes counted against it (Module 10). Round Two runs about $0.8–1.2k: biweekly async review, an optional group call, and re-captures at its own weeks 6 and 12. About 10–26% of graduates take it. The Hold runs $39–79 a month for the 20–40% who join, with a quarterly re-capture and written review, and it opens into the alumni room at about 30 alumni.
+The LTV Stack counts lifetime value as the Program plus Round Two per graduate, plus Hold months, plus any premium seat, with each one's care minutes counted against it (Module 10). Round Two runs about $0.8–1.2k: biweekly async review, an optional group call, and re-captures at its own weeks 6 and 12. About 10–26% of graduates take it. The Hold runs $39–79 a month for the 20–40% who join, with a quarterly re-capture and written review, and it opens into the alumni room at about 30 alumni.
 
 ### The back end earns because its minutes are few and scheduled
 
@@ -241,7 +243,7 @@ Cole *(composite operator)* reaches about [$26k] a month in profit at month [20]
 
 **Month [20]. The read: care minutes bind, and the ceiling is one step away.** He takes the scheduled step to [$3.2k], the proof band's top and the 20–24 ceiling, naming [a recorded walkthrough of the week-12 re-assessment]. Then he stops stepping the core container and writes the crossing test on one card. Three conditions hold. The fourth fails: his last [30] enrollments are only [~48%] aged 25–34, so Program Async waits. He moves the packaging instead, with a decision-stage series on [what the full path costs], adult working-life contexts in every thumbnail, and the premium page rewritten as dated deliverables. Left alone: a new tier, a third platform, and extra hours.
 
-**Month [23]. The crossing.** His last [30] enrollments now read [~60%] aged 25–34. The waiting list holds, and his close rate over [30] held conversations sits at [~38%]. Program Async opens at [$2.6k] from the next start. It appears on the result page, in the written plan's options, and beside the Program on the tier card. The regular start announcement and its reminder carry one line about it, with no window price. The Program steps to [$3.45k] at the start after, naming [a second group-call time]. He logs the affordability "no" share over the last two windows, [~12%], as the level to watch.
+**Month [23]. The crossing.** His last [30] enrollments now read [~60%] aged 25–34. The waiting list holds, and his close rate over [30] held conversations sits at [~38%]. Program Async opens at [$2.6k] from the next start, on the result page, in the written plan's options, and beside the Program on the tier card. The regular start announcement and its reminder carry one line about it, with no window price. The Program steps to [$3.45k] at the start after, naming [a second group-call time]. He logs the affordability "no" share over the last two windows, [~12%], as the level to watch.
 
 **Months [24–30]. The queue.** Review is already templated, so the build line goes to milestone templates and a tighter review near [7] minutes. Next comes the async-first assessment template, which cuts each overflow plan from about [1.2] hours to [0.6]. Then the Async Arc moves his no-call share from about [50%] toward [65%]. He rewrites the Expectation Document's review disclosure before the tighter template touches anyone, because it must be true on the day a buyer reads it. Check-in completion holds near [85%] through two windows, so the template stays.
 
@@ -251,9 +253,9 @@ Cole *(composite operator)* reaches about [$26k] a month in profit at month [20]
 
 On the call Cole shows the tiers premium first and recommends the Program. Its [48]-hour turnaround, camera-optional call, and fixed reads carry what Adrian wants. Cole states [$3.9k] once, holds the silence, and asks. At checkout the affordability question and the Fit Check run as always, and Adrian enrolls. Private's deliverables move up the queue.
 
-**Months [32–38]. The top of the range.** The Self-Serve System ships at [~$197] with tools only, and the Round Two and Hold terms are rewritten for volume. The Hold steps from [$59] to [$69] for new members, while alumni keep their rate. Eligible leads sit near [220–260] a month. By month [33], profit reads [~$44–47k] on about [21] hours. Two small steps inside each tier's ceiling carry it to [~$48–50k] by month [38].
+**Months [32–38]. The top of the range.** The Self-Serve System ships at [~$197] with tools only, and the Round Two and Hold terms are rewritten for volume. The Hold steps from [$59] to [$69] for new members, while alumni keep their rate. Eligible leads sit near [220–260] a month. By month [33], profit reads [~$44–47k] on about [20] hours, with no Private seat. Two small steps inside each tier's ceiling carry it to [~$48–50k] by month [38].
 
-**What it shows.** The road from [$26k] to the top of the range took three decisions in order: cross the ceiling only after the mix moved, template before adding seats, and refuse the seat that failed parity with a buyer ready to pay. Band B needed a working reach lever to make the leads exist. The week grew by about an hour, because the rest came from price and leverage, never hours.
+**What it shows.** The road from [$26k] to the top of the range took three decisions in order: cross the ceiling only after the mix moved, template before adding seats, and refuse the seat that failed parity with a buyer ready to pay. Band B needed a working reach lever to make the leads exist. The week barely grew, because the rest came from price and leverage, never hours.
 
 ## Templates: The Parity Calculator, the Tier Card, and the Buyer-Mix Dashboard
 
@@ -280,16 +282,16 @@ Sell when line 8 reaches line 4, with seats capped in Seat Math. When it doesn't
 
 Scaling only. Premium first, every tier real, and the same checks before every pay button.
 
-> Private · [$10k+] · [n] seats this quarter, open at parity only
+> Private · [$10k+] · [n] seats this quarter [listed only while the seat passes the parity calculator]
 > [Recorded plan reviews at weeks 0, 4, 8, and 12] · [written replies within 24 hours on weekdays] · [a 20-minute call at baseline, week 6, and week 12] · captures on the same calendar as every client. For the adult who wants speed, privacy, and fixed deliverables; not for anyone after a better result than the Program gives. We never read or score your face. Next step: [book a Private call].
 >
 > The Program · [$3.9k] · [n] seats in the [month] start
-> A written review of your week within [48] hours, one live group call a week with your camera optional, the week-6 read, the week-12 re-assessment, and captures at baseline, week 6, and week 12.
+> A written review of your week within [48] hours, one live group call a week with your camera optional, the week-6 read, the week-12 re-assessment, and captures at baseline, week 6, and week 12. For the adult who wants weekly review and a live room doing the same work.
 >
 > Program Async · [$2.8k] · [n] seats in the [month] start
-> The same reviews, reads, and captures, without the live call.
+> The same reviews, reads, and captures, without the live call. For the adult whose shifts or privacy rule out a fixed call.
 >
-> Every tier gets the same straight answer about what can and can't move, and the same reviewer. What changes is speed, the live call, and how much one-to-one time you buy. What you're after, being taken seriously and at ease in photos and rooms, lives in more than your face, and every tier works on the parts you can measure: [12] written reviews and two reads, so the next [six] months are spent knowing instead of guessing. At checkout we'll ask whether this is comfortable from your own income or savings, without new credit or buy-now-pay-later. If no tier is, the Starter Path is free.
+> Every tier gets the same straight answer about what can and can't move, and the same reviewer. What changes is speed, the live call, and how much one-to-one time you buy. What you're after, being taken seriously and at ease in photos and rooms, lives in more than your face, and every tier works on the parts you can measure: [12] written reviews and two reads, so the next [six] months are spent knowing instead of guessing. None of them is for anyone under 18, anyone who wants a promise about his bone structure, or anyone who'd need credit to pay. Next step: [take the self-assessment]. At checkout we'll ask whether this is comfortable from your own income or savings, without new credit or buy-now-pay-later. If no tier is, the Starter Path is free.
 
 ### The buyer-mix dashboard
 
@@ -324,13 +326,13 @@ Read it monthly beside your other stage numbers: five numbers and two guardrails
 
 ## Quick Reference
 
-**In one line.** Reach $50k with price at the cash ceiling, two real tiers, premium seats at parity, templated delivery, and a record no one can copy: price and leverage, never hours.
+**In one line.** Reach $50k through price at the ceiling, two real tiers, premium seats at parity, templated delivery, and a record no one can copy: price and leverage, never hours.
 
 **Takeaways**
-- About 8 Program enrollments at about $3.9k and 5 Program Async at about $2.8k, plus the back end and leverage, make roughly $56k of revenue and $44–47k of profit in about 21 hours. Plan it for years 2–3.
+- About 8 Program enrollments at about $3.9k and 5 Program Async at about $2.8k, plus back end and leverage: roughly $56k of revenue and $44–47k of profit in about 20–21 hours. Plan it for years 2–3.
 - Cross the 20–24 ceiling only with a real tier under it and a 25–34 majority; the affordability "no" share is the guardrail.
-- A premium or back-end seat earns what a flagship seat earns per care hour, about $1,250–1,400 at Scaling, or it sells only while minutes are spare.
-- Build in order of hours saved, and template only what you've disclosed.
+- A premium or back-end seat earns a flagship seat's $1,250–1,400 per care hour, or it sells only while minutes are spare.
+- Build in order of hours saved: templated review takes 12–20 minutes per client-week down to 6–10, once disclosed.
 - The Dated Record defends the price; the Self-Serve System never sells decision rules.
 
 *The tiers and the lane by stage*
@@ -345,10 +347,10 @@ Read it monthly beside your other stage numbers: five numbers and two guardrails
 
 | Framework | Use it to… |
 |---|---|
-| **The Parity Rule** | Sell a premium or back-end seat below the flagship's rate per care hour only while minutes are spare |
-| **The Premium Lane** | Give the Optimizer a public path: the priority tier, founding Private seats, then Private at parity |
-| **The Buyer-Mix Shift** | Cross the cash ceiling with a real tier under it, moving the mix by packaging, never income |
+| **The Parity Rule** | Sell any seat below the flagship's rate per care hour only while minutes are spare |
+| **The Premium Lane** | Give the Optimizer a public path: priority tier, founding Private seats, Private at parity |
+| **The Buyer-Mix Shift** | Cross the ceiling with a real tier under it, moving the mix by packaging, never income |
 
 **Leans on:** the Demand Equation (Module 1) · the Dated Record (Module 3) · the Self-Serve System (Module 4) · the Three Ceilings and Price Steps (Module 7) · founding Private seats (Module 9) · the LTV Stack (Module 10) · the Build Queue (Module 11) · the Age-Up Dial (Module 23).
 
-**Do this month:** Run the parity calculator on every premium and back-end seat, and close any that fails while you have a waiting list. Build the buyer-mix dashboard and write your crossing test beside it. Put the next Build Queue item on your build line, disclosure first.
+**Do this month:** Run the parity calculator on every premium and back-end seat; close any that fails while you have a waiting list. Build the buyer-mix dashboard with your crossing test beside it. Put the next Build Queue item on your build line, disclosure first.
