@@ -179,7 +179,7 @@ Jordan *(composite, minor)*, 16, clicks through after a video, meets the fork, a
 
 **When the signals disagree.** Say an adult passes the fork, reads as a Struggler on every signal, and ladders to a clear destination. Then, at the affordability question, he says his parents are covering it. Fit says yes and eligibility says no. Affordability comes first, because it's the check that protects him rather than the sale. It asks whether the decision is comfortable for the person who carries it, and that person isn't in the conversation.
 
-Money that isn't his goes to the Starter Path, with its re-entry point said plainly: when it's comfortable from his own income or savings, the door is open. If he adds that he couldn't pay it himself, that's a no, so money talk ends and the pause route is set. A partner with shared finances is different, since that money is his too, and a joint decision gets time and a written recap instead of probes. The rule costs you a sale this month. It saves you a dispute from a cardholder who never agreed to anything, and it keeps the brand clear of parent-funded selling.
+Money that isn't his goes to the Starter Path, with its re-entry point said plainly: the door opens again whenever he writes back, and the same questions run then. If he adds that he couldn't pay it himself, that's a no, so money talk ends and the pause route is set. A partner with shared finances is different, since that money is his too, and a joint decision gets time and a written recap instead of probes. The rule costs you a sale this month. It saves you a dispute from a cardholder who never agreed to anything, and it keeps the brand clear of parent-funded selling.
 
 ## 5. Buying Triggers
 
