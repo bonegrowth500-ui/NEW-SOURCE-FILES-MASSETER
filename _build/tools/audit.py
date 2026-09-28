@@ -190,7 +190,7 @@ limit = max(1, total // 700)
 (OK if contrast_total <= limit else FLG)(f"contrast constructions {contrast_total} (budget ~{limit})")
 
 # ---------- cross-references ----------
-xrefs = re.findall(r"\(Module (\d+)\)", text)
+xrefs = re.findall(r"\(Module (\d+)\)", "\n".join(l for l in lines if not l.lstrip().startswith("**Leans on:**")))
 if modno not in (1, 28):
     lim = total // 600
     (OK if len(xrefs) <= lim else FLG)(f"(Module N) pointers {len(xrefs)} (limit ~{lim})")

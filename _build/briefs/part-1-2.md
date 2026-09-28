@@ -70,7 +70,7 @@
 **Sections.**
 1. **The stalled adult** (~800). The core buyer (19–32), the Struggler Gap Triad, and why "more information" never fixed it. The rejected buyer alternatives (Optimizer-first, breathing-first, parent-funded teens) and why.
 2. **The Destination Ladder** (~900). Laddering questions. Naming the destination without making his face the cause, and always adding one perspective line. Fantasy to Expectation is named and pointed to 14.
-3. **Buyer States** (~1,000). The four states: signals, needs, fears, and what each will pay for. States move. Women and over-30s are welcome, not targeted. The Optimizer is 25–35, including over-30s by state.
+3. **Buyer States** (~1,000). The four states: signals, needs, fears, and what each will pay for. States move. Women and men past the core band are welcome, not targeted. The Optimizer is 25–35, including over-30s by state.
 4. **The Eligibility Rule** (~900):
    - The age fork.
    - The canonical affordability question, as policy (the spoken line is in 19): income or savings; money that isn't his → the Starter Path.

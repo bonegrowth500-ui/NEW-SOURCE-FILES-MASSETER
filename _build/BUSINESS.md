@@ -23,7 +23,7 @@ Profit grows first through conversations and price steps, then through conversio
 | **Core buyer** | The employed **Self-Taught Struggler**, 19–32. Default protagonist: **Dan**, 24 | Months of solo effort, nothing measured, grift-fatigued |
 | **States** (not segments) | Struggler · **Burned Struggler** (bought before, let down; verification first) · **Optimizer** (25–35, including over-30s by state; speed, precision as deliverables, privacy) · **Ambivalent** (sees the need, keeps deferring) | Route by state; the offer stays the same |
 | **Eligibility** | Legal adult where he lives (age fork), plus the canonical affordability question before every paid step: *"Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"* | Never student status; never income targeting |
-| **Welcome, not targeted** | Women; men over 30 | Examples may include them |
+| **Welcome, not targeted** | Women; men past the core band (over ~32) | Examples may include them |
 | **Education only** | Minors: public content and an orthodontist referral; no email, intake, calls, or offers | The line on vulnerability (no selling to minors) |
 | **What he buys** | The destination (taken seriously, at ease in photos and rooms, knowing instead of hoping) via the vehicle (judgment, measurement, review) | Name the destination; never the face as its cause; always one perspective line |
 

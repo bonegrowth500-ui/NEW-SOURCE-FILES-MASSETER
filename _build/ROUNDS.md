@@ -7,7 +7,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | Module | File | Drafter agent | Critic agent | Status |
 |---|---|---|---|---|
 | 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | ✅ 3.5 passed (7,463 w) |
-| 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | critique done (0 blocking, 15 major) → rebuilding |
+| 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 
 ## Decisions made during Step 3
@@ -28,3 +28,6 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 ## Integration notes for Step 4 (seams to fix in 4.1/4.3)
 - 03 glosses "your door" as "the self-assessment every lead starts with"; harmonize door glosses with 05's definition (self-assessment is the door's first step).
 - 16 §6 recaps the null-result stance with 03's gloss; 19 reuses 03's spoken Honest Answer verbatim.
+- R1: "men over 30" → "men past the core band (over ~32)" in BUSINESS §2 and brief 02 (core band runs to 32; Optimizer 25–35 by state).
+- R1: audit.py no longer counts the Quick Reference "Leans on:" line toward (Module N) density.
+- 02 integration note: 01 and 03 should recap Dan's door answer, the say-back, and Theo's route rather than re-run them.
