@@ -129,6 +129,7 @@ A composite with dated decision points: the signs → the read → the default m
 | Adults who could pay | eligible adults | sellable, qualified leads |
 | The brand's straight answer about bone | the Honest Answer | "the honest map" |
 | Appearance photos taken to the standard | captures | pics, progress pics |
+| The conversion rate from eligible lead | eligible lead → enrollment | lead → client, lead → sale |
 
 **Capitalization:** framework and offer names exactly as in the FRAMEWORKS.md name column (the style sheet in `voice/style-sheet.md`, generated after Step 2.5 renames). Offers: the Program, Program Async, Round Two, the Hold, Private, the Decision Assessment (and its priority tier, lowercase), the Starter Path, the Self-Serve System, the Premium Lane, the Training-Partner Seat. Groups: the founding group, the alumni room (lowercase).
 

@@ -6,7 +6,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 
 | Module | File | Drafter agent | Critic agent | Status |
 |---|---|---|---|---|
-| 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | critique done (2 blocking, 10 major) → rebuilding |
+| 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | rebuilt (7,463 w), audit clean → final touch-ups for A2/ledger rulings |
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | critique done (0 blocking, 15 major) → rebuilding |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | critique done (0 blocking, 11 major) → rebuilding |
 
@@ -20,3 +20,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R1 note: sample-v2's Cole placeholders were adjusted by 01's drafter to fit Band B; the sample stays a voice reference, not a number source.
 - R1: BUSINESS §2 'the line on minors' → 'the line on vulnerability (no selling to minors)' (minors sit under the vulnerability line).
 - R1: prevalence ruling for 02: LEDGER G (clinical analog, reason the Fit Check exists) vs LEDGER C row 'fit-check signal share' (what the operator sees: ~5–20how a signal; most continue; acute rare). Never convert G into a claim about applicants' condition.
+- R1 (from 01's rebuild): LEDGER A2 stage volume signals redrawn so the $25k configuration reads as Scaling: Growing ~50–150 leads / ~15–25 concurrent; Scaling ~150+ leads / ~25+ concurrent or a waiting list. sample-v2 Stage Map updated.
+- R1: proof milestone vs Dated Record: outcome ranges first join the log at the proof milestone (≥10 graduates) labeled as a small sample; standing published log from ≥30.
+- R1: "eligible lead → enrollment" is the single conversion term (VOICE §4 one-term table; LEDGER standardized).
+- R1: LEDGER additions approved from 01: held conversations at the configuration (~8–17/month at $25k; ~9–18 at $50k); engaged long-form view equivalent (~35–475k/month at $25k; ~55–725k at $50k); conversation-bind signs row (Call Cap trigger).

@@ -46,7 +46,7 @@ Models: `models/model4.py` (weeks, configurations, parity) and `models/model5.py
 | Free-call selling ceiling at ~5 selling h/week | ~3–10 enrollments/month | Close rate; hours per call | PL (D) |
 | Price leverage | +1% price → ~+1.2–1.3% profit at 75–85% margin if volume holds. When seats bind, a raise that loses a smaller share of buyers than its % flows almost entirely to profit | Margin; share of buyers lost | PL (D) |
 | Capacity Ceiling (care hours ~9–10.5/week) | Growing ~25–30 concurrent (~8–10 new enrollments/month). Scaling ~40–45 concurrent (~12–15/month) | Templated review; milestone templates; group-call load | PL (D) |
-| Revenue per eligible lead | ~$25–210 (LTV $1.7–3.0k × eligible lead → client 1.5–7%) | Conversion; price; back end | PL (D) |
+| Revenue per eligible lead | ~$25–210 (LTV $1.7–3.0k × eligible lead → enrollment 1.5–7%) | Conversion; price; back end | PL (D) |
 | Maximum affordable cost per eligible lead | At most about a third of revenue per eligible lead, so roughly $10–70 | Margin target; conversion | RULE (D) |
 
 ### A2. Stages (trailing 3-month average + a volume signal)
@@ -54,8 +54,8 @@ Models: `models/model4.py` (weeks, configurations, parity) and `models/model5.py
 | Stage | Revenue | Volume signal | Binding constraint | North star |
 |---|---|---|---|---|
 | **Early** | < ~$8k/month | < ~50 eligible leads/month; < ~15 concurrent clients | Reach, then conversations | Held qualified conversations/week + cash collected |
-| **Growing** | ~$8–30k/month | ~50–400 eligible leads/month; ~15–35 concurrent | Conversion + selling minutes | Enrollments/month + eligible lead → enrollment |
-| **Scaling** | ~$30k+/month | 400+ eligible leads/month; 35+ concurrent | Care minutes | Profit per operator hour |
+| **Growing** | ~$8–30k/month | ~50–150 eligible leads/month; ~15–25 concurrent | Conversion + selling minutes | Enrollments/month + eligible lead → enrollment |
+| **Scaling** | ~$30k+/month | ~150+ eligible leads/month; ~25+ concurrent, or a waiting list | Care minutes | Profit per operator hour |
 
 Mixed signals (e.g., Growing on revenue, Early on volume): the binding constraint decides which moves apply. The sequence can slide back after a lever is pulled (a raise can hand the constraint back to conversations).
 
@@ -129,7 +129,9 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Decision Assessment fees (non-buyers) | ≈ $1k | ≈ $2.2k |
 | **Revenue → profit** | **≈ $31.5k → ≈ $24.5–26.5k** | **≈ $56k → ≈ $44–47k; small Price Steps over time carry it to ~$50k** |
 | Week | ~19.75 h | ~21 h |
-| Eligible leads needed (≈ enrollments ÷ eligible lead → client) | ~120–285/month at 3–7% (a proven door by Scaling); ~570 at 1.5% | ~185–435/month at 3–7% (~13 enrollments); ~870 at 1.5%. Band C–D reach, or Band B with a working paid reach lever |
+| Eligible leads needed (≈ enrollments ÷ eligible lead → enrollment) | ~120–285/month at 3–7% (a proven door by Scaling); ~570 at 1.5% | ~185–435/month at 3–7% (~13 enrollments); ~870 at 1.5%. Band C–D reach, or Band B with a working paid reach lever |
+| Held conversations at the configuration | ~8–17/month (about half of enrollments close without a call; held → enrollment 25–45%) | ~9–18/month (~65–70% of enrollments without a call) |
+| Engaged long-form view equivalent | ~35–475k/month (120–285 eligible leads; 30–70% eligible share; 2–5 raw leads per 1,000 engaged views). Short-form and Instagram add reach not captured here | ~55–725k/month on the same assumptions |
 
 ## B. Offers & pricing (PL; anchors M)
 
@@ -176,13 +178,14 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Self-assessment start → lead | ~40% (≈65% completion) | Question count; value of the result | EV (W–M) |
 | Landing-page conversion | All-traffic median ~6–7% across industries; email-sourced traffic converts several-fold higher | Warmth; plain language; mobile | EV (M) |
 | Eligible lead → held fit conversation | 10–20% with a personal reply within hours and booking within 24–48 h | Reply speed; booking friction; book-first (log while waiting) | PL (E) |
-| Held conversation → client, before proof | 15–35% | Warmth; qualification; offer fit | PL (W) |
-| Held conversation → client, with proof | 25–45% | Proof; state routing | PL (W/E) |
+| Held conversation → enrollment, before proof | 15–35% | Warmth; qualification; offer fit | PL (W) |
+| Held conversation → enrollment, with proof | 25–45% | Proof; state routing | PL (W/E) |
 | Eligible lead → Decision Assessment (≈60 days; overflow route) | 2–7% | Source; stage tag | PL (E) |
 | Decision Assessment → program | 25–45% | Speed to slot; plan clarity; fit check | PL (E) |
 | Warm offer-page visitor → enrollment (call-optional) | ~1–3% | Warmth; the Async Arc; proof | PL (E) |
 | Share of enrollments with no live call | Early ~0–20%; Growing ~20–50%; Scaling ~50–70% | The Async Arc; tiering | PL (E) |
 | Show rate by booking lead time | ~80% next day → ~60% at 14 days | Reminders; lead time; payment | EV (M) |
+| Conversation-bind signs (Call Cap trigger) | Most weeks above ~6–8 held conversations; show rate sliding toward ~60%; more than half of held conversations ending no-fit; selling hours eating the content minimum | Door screening; book-first; Readiness Tags | RULE (THESES B5) |
 | Lead-response speed | Contact within the hour ≫ later | — | EV (M, transfer) |
 | **Call Cap** | Free fit conversations open up to ~6–8 held a week, reserved (by Readiness Tags) for uncertain or high-intent buyers; overflow → paid or async Decision Assessment. Judged on profit per operator hour per 100 eligible leads over ≥30 events | — | RULE |
 | Month-3 Gate | **Volume leg:** fewer than ~15 held conversations by week 12 → a reach problem; fix sources (shift hours to short-form and replies; the Band A paid test). **Conversion leg:** fewer than 3 clients from 25+ held conversations → fix the offer or position before building further | — | RULE |
@@ -287,5 +290,5 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Starts | Monthly entry into a standing group from the founding group onward, pinned near real landmarks; expect New-Year intent | RULE (EV M landmarks; W seasonality in this niche) |
 | Private | Founding seats while minutes are spare; at Scaling only under the Parity Rule | RULE |
 | Paid self-serve products | Only after ~20 graduates have produced proof and a stall taxonomy | RULE |
-| The Dated Record | From month 1: publish the pre-commitment (what, at what sample size, on what schedule) and keep a dated log of process metrics (check-in completion, turnaround kept, claim rate, fit declines in aggregate). Outcome metrics (ranges with denominators, the non-responder share) join the log once ≥30 clients have graduated | RULE |
+| The Dated Record | From month 1: publish the pre-commitment (what, at what sample size, on what schedule) and keep a dated log of process metrics (check-in completion, turnaround kept, claim rate, fit declines in aggregate). Outcome ranges with denominators first join the log at the proof milestone (≥10 graduates), labeled as a small sample; from ≥30 graduates they become the standing published log, with the non-responder share | RULE |
 | Guardrails (always) | Refund + dispute count (rolling) · complaint rate · fit-check signal and decline counts (aggregate) · refunds/exits among signal-flagged enrollees · promotional sends to paused leads (target zero) · affordability "no" share · non-responder share · review turnaround kept | RULE |

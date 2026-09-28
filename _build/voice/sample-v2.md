@@ -131,8 +131,8 @@ Answer from your own records for the last four weeks. The first "yes" that descr
 | Stage | Trailing revenue | Volume signal | Binding constraint | North star |
 |---|---|---|---|---|
 | Early | < ~$8k/month | < ~50 eligible leads/month; < ~15 clients | Reach, then conversations | Held qualified conversations/week + cash |
-| Growing | ~$8–30k | ~50–400 eligible leads; ~15–35 clients | Conversion, selling hours | Enrollments/month + eligible lead → enrollment |
-| Scaling | ~$30k+ | 400+ eligible leads; 35+ clients | Care minutes | Profit per operator hour |
+| Growing | ~$8–30k | ~50–150 eligible leads; ~15–25 clients | Conversion, selling hours | Enrollments/month + eligible lead → enrollment |
+| Scaling | ~$30k+ | ~150+ eligible leads; ~25+ clients, or a waiting list | Care minutes | Profit per operator hour |
 
 **Framework cheat sheet**
 
