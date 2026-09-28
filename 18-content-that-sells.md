@@ -113,7 +113,7 @@ The offer page runs in one fixed order, and the offer video speaks it aloud. Eac
 
 That's the Page Sequence. The Honest Answer is also the first claim of your Canon, the few core claims you repeat in fixed words, and its no about bone must come before any yes about habits. Trust follows the path because proof means little until he knows what it proves, and the Fill History, each start's cap and fill published at close, shows the caps are real.
 
-Private, the premium seat, leads the tiers only while a seat is open, and it's never named without its fixed deliverables and the line "We never read or score your face."
+Private, the premium seat, leads the tiers only while a seat is open. It's never named without its fixed deliverables and the line "We never read or score your face."
 
 ### The case piece waits for the record
 
@@ -241,7 +241,7 @@ He hides the rating requests under his published comment policy and re-cuts the 
 
 **Mid-November. What sold, and why.** November closes at [6] of [8], and one ask per asset shows where each buyer came from: [three] through the objection piece's pitch, [two] through the announcement, and [one] through a fit conversation booked from the stall email. [Five] of the [six] watched the offer video first. The objection piece had [about a third] of the Range piece's views and most of the offer-page visits, because it answered the doubt his log heard most, for viewers warm enough to hear a price. The Range piece did its own job, drawing the most door starts.
 
-One start is too few to plan on, so he tallies [three]. Vehicle pieces trace to [2], [3], and [3] buyers from September to November, against [0–1] from Range pieces, so Vehicle keeps its slot until the log's top objection changes.
+One start is too few to plan on, so he tallies [three]. Vehicle pieces, the offer video included, trace to [2], [3], and [3] buyers from September to November, against [0–1] from Range pieces, so Vehicle keeps its slot until the log's top objection changes.
 
 **What it shows.** The piece with the most views sold least, and the one that sold answered the doubt his buyers actually had, on a rung warm enough to hear a price. The ladder broke only where the card wasn't run. With [6] enrollments, November's cash runs at roughly [$13–15k], inside what Band B allows for a Growing month.
 
