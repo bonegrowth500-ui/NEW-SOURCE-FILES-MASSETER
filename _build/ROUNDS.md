@@ -18,7 +18,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | af28fb6227a00d9d0 | ✅ 3.5 passed (7,606 w) |
 | 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | ✅ 3.5 passed (7,664 w) |
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | critique done (0 blocking, 17 major) → rebuilding |
-| 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | critique done (0 blocking, 14 major) → rebuilding |
+| 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | ✅ 3.5 passed (7,611 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -74,3 +74,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (09 critique): source label = booking source; Month-3 Gate reads volume and conversion, not bands (band unknowable at m3; paid test is the default fix when volume fails); conversion-leg fix order (replay calls → position/Card/price → one change at a time); founding price never extended; composites never cross a House Standard line, even as contrast (Reid's misreads are strategic).
 - R3 round (12 critique): Small Numbers Lie operationalized: event = one unit of a rate's denominator; window = time to ~30 of them; rates under ~10% are read through their stages (lead→held 10–20%, held→enrollment 15–45%, no-call route) or after ~30 enrollments. Leak Trace ranks by profit lost this month per route (free call / assessment / no-call); back-end joints by lost LTV per graduate.
 - R3 round (10/11 final): 'measured momentum' registered ○ (owner 10). LEDGER B derived row: back-end revenue per care hour (Round Two ≈$990 at $25k; Hold ≈$680 at $25k, ≈$1,190 at $50k; Hold parity only near $72–80/month templated). LEDGER H speed-to-lead automation trigger aligned with the design-week line (template the first reply you approve after two weeks over the line). Module 06: review disclosure prose (no message routing) and the Card's full-intensity line (outside-the-plan misdirection priced; your review miss = free corrective weeks). audit.py skips Leans on/Do this month lines in rhythm checks.
+- R3 round (13 final): parity ruling corrected: Round Two ≈$990/care h at $25k (below) but ≈$1,600 at $50k (above, from volume + templating); the Hold just below at both until ~$72–80. model4.py $50k configuration aligned with A5 (8 Program, 45 Hold members, no Private: $56.3k → $43.9–47.3k). New derived LEDGER rows: Private parity prices (async-first ≈$10k; weekly-call ≈$18–20k); two tiers vs one (≈$3k more profit at $50k volume).

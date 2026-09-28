@@ -112,11 +112,10 @@ config('$25k configuration (year ~2; Band B-C)', [
     ('Private ~1 seat a quarter x $5k (spare minutes)', 5000 / 3),
 ], (0.78, 0.84))
 config('$50k configuration (year 2-3; Band C-D)', [
-    ('Program 7/mo x $3.9k (above band; 25-34 majority)', 7 * 3900),
+    ('Program 8/mo x $3.9k (above band; 25-34 majority)', 8 * 3900),
     ('Program Async 5/mo x $2.8k (under the 20-24 ceiling)', 5 * 2800),
-    ('Round Two 12 x 18% x $1.2k (maintenance format)', 12 * 0.18 * 1200),
-    ('Hold ~60 members x $69 (~24 months after first graduation)', 60 * 69),
-    ('Private ~2 seats a quarter x $8k (async-first, at parity)', 2 * 8000 / 3),
+    ('Round Two 13 x 18% x $1.2k (maintenance format)', 13 * 0.18 * 1200),
+    ('Hold ~45 members x $69 (ramping)', 45 * 69),
     ('Self-Serve System ~15 x $197', 15 * 197),
     ('Decision Assessment fees from non-buyers (async)', 2200),
 ], (0.78, 0.84))
