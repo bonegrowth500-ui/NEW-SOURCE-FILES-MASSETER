@@ -361,8 +361,8 @@ The other cases, one line each:
 | A verified adult, ready | One recommendation and a checkout link |
 | Asking about Private | A call before any payment |
 | Showing a Fit Check signal | The pause conversation; no payment that day |
-| Paused | No sales content anywhere for 60–90 days, then a request for permission |
-| Under 18 | The education lane; nothing kept, anything paid refunded |
+| Paused | No sales content for 60–90 days, then a permission ask |
+| Under 18 | The education lane; nothing kept, any payment refunded |
 
 **Framework cheat sheet**
 

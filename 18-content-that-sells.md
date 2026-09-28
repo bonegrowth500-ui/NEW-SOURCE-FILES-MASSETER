@@ -42,9 +42,9 @@ That's the **Warmth Ladder**: never ask for a rung the buyer isn't standing on. 
 
 Reid tallies a month of his own signals. About half his long-form watch time comes from returning viewers. [~110] adults finished his self-assessment, [~60] opened his coaching page, and [~15] replied to his result email. Then he lists what each rung was asked for. His videos asked everyone to subscribe, the Stranger rung's ask, though most viewers stood a rung higher. His result email asked for nothing, and his coaching page asked for an application with no price. The warmest people in his business met the smallest asks.
 
-He changes the asks and leaves the content alone. Each decision-stage video gets a short pitch after its payoff: the offer, who it's for and who it isn't, the price, and one link. The result email carries one recommendation, its price, and the next start, and the coaching page shows the price, premium tier first, with checkout behind the checks. The shorts already sent strangers to the door, so they stay. Over his next [two] starts, enrollments move from [1–2] a start toward [4–5], inside what Band B, the steady planning band, allows.
+He changes the asks and leaves the content alone. Each decision-stage video gets a short pitch after its payoff. The result email carries one recommendation, its price, and the next start, and the coaching page shows the price, premium tier first, with checkout behind the checks. The shorts already sent strangers to the door, so they stay. Over his next [two] starts, enrollments move from [1–2] a start toward [4–5], inside what Band B, the steady planning band, allows.
 
-Tag every asset with a rung when you plan it, from the coldest viewer it's built to reach, and give it that rung's ask. Email sits on the Assessed rung, since only adults who finished your door are on your list. Your surfaces map onto the rungs by type, as discovery surfaces, trust engines, and relationship surfaces (Module 23). Each month, count the people on each rung and the asks each got, because a rung with people and no ask is where respect without demand hides.
+Tag every asset with a rung when you plan it, from the coldest viewer it's built to reach, and give it that rung's ask. Email sits on the Assessed rung, since only adults who finished your door are on your list. Your surfaces map onto the rungs by type, as discovery surfaces, trust engines, and relationship surfaces (Module 23). Each month, count each rung's people and asks, because a rung with people and no ask is where respect without demand hides.
 
 ## 2. One Ask per Asset and the Belief Sentence
 
@@ -52,15 +52,15 @@ Each asset repairs one link and makes one ask, because an asset that asks for ev
 
 ### One primary ask, and at most one ranked secondary
 
-The closing minute of an asset carries one request well. Stack four and each gets a sliver of attention. In this category the stack is also a tell, since "comment below, link in bio, use my code" is how grift channels close, and a viewer who hears three asks starts hunting for the trick. Within what the rung allows, the link picks the ask. A Cause or Range piece leaves him wanting a read on his own case, so it asks for the door. A Vehicle, Guide, Self, or Now piece has him weighing what you sell, so it asks for the offer page.
+The closing minute of an asset carries one request well. Stack four and each gets a sliver of attention. Here the stack is also a tell, since "comment below, link in bio, use my code" is how grift channels close, and a viewer who hears three asks starts hunting for the trick. Within what the rung allows, the link picks the ask. A Cause or Range piece leaves him wanting a read on his own case, so it asks for the door. A Vehicle, Guide, Self, or Now piece has him weighing what you sell, so it asks for the offer page.
 
-A ranked secondary is one quieter ask for the viewer a rung below, said once and after the primary, such as the free self-assessment for the man who isn't ready. That's One Ask per Asset: one primary ask per asset, with at most one ranked secondary. A Returning-rung piece whose ask is the door still names the offer and its price, because he's owed that before any step. One tagged link also gives each asset one number, which tells you whether it moved the belief it was built for.
+A ranked secondary is one quieter ask for the viewer a rung below, said once and after the primary, such as the free self-assessment for the man who isn't ready. That's One Ask per Asset: one primary ask per asset, with at most one ranked secondary. A Returning-rung piece whose ask is the door still names the offer and its price. One tagged link also gives each asset one number, which tells you whether it moved its belief.
 
 **One link repaired, one ask made.**
 
 ### The belief sentence tags every asset
 
-Write the belief sentence before you make the asset: the before-and-after belief it's built to move, tagged with its link. The links are the Belief Chain's six, the beliefs a purchase completes: Cause, Range, Vehicle, Guide, Self, and Now (Module 14). The before comes in a buyer's words from your objection log, the running list of doubts heard on calls, in check-ins, and at exits. The after is the belief that holds the link. Add the rung and the ask, and the tag fits on one line:
+Write the belief sentence before you make the asset: the before-and-after belief it's built to move, tagged with its link. The links are the Belief Chain's six, the beliefs a purchase completes: Cause, Range, Vehicle, Guide, Self, and Now (Module 14). The before comes in a buyer's words from your objection log, the running list of doubts heard on calls, in check-ins, and at exits. The after is the belief that holds the link, and with the rung and the ask, the tag fits on one line:
 
 | Asset | Link | Before, in his words | After | Rung | Ask |
 |---|---|---|---|---|---|
