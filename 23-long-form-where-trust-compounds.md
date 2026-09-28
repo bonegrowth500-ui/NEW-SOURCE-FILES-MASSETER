@@ -122,7 +122,7 @@ No thumbnail ever uses your own profile or jaw as an aspirational before/after, 
 
 The dial lowers the minors' share at every stage and never aims at an adult age band. Read it at your door's age fork, and guard the other side with the 18–24 share of adult completions, read in aggregate from the door's age-band item. If a package pushes that share down, pull it back, because nothing may push out adults inside your 19–32 core. At Scaling the dial does the same job. Any change in your adult mix comes from the Buyer-Mix Shift's state lever and its page for Optimizers, buyers with more money than time, read as an observed mix (Module 13).
 
-The default puts every piece at each lever's first position. Turn a lever one position further when a package's minors' share at the fork runs above your channel's over about 30 door completions. Early, one piece rarely reaches 30, so read the platform's audience-age report per piece and pool pieces by package type until the pool does.
+The default puts every package at each lever's first position or past it. Turn a lever one position further when a package's minors' share at the fork runs above your channel's over about 30 door completions. Early, one piece rarely reaches 30, so read the platform's audience-age report per piece and pool pieces by package type until the pool does.
 
 ### Titles are promises the piece must pay
 
@@ -173,7 +173,7 @@ The Start Here Series is a five-piece progression of decision-stage topics that 
 |---|---|---|---|---|---|
 | 1 | "Can an adult change his jaw with habits?" | Range | Stranger | Claim 1: the Honest Answer's three sentences | The door |
 | 2 | "Eight months in and nothing to show" | Cause | Returning | "Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is." | The door, with the offer named and its price on the end card |
-| 3 | "What measuring looks like" | Vehicle | Returning | "Behavior gets measured every week; appearance gets captured rarely, the same way every time." | The offer page, then the door |
+| 3 | "What measuring looks like, for adults" | Vehicle | Returning | "Behavior gets measured every week; appearance gets captured rarely, the same way every time." | The offer page, then the door |
 | 4 | "How to check anyone selling this, me included" | Guide | Returning | "My face is not evidence for the method. The record is, published on the dates I committed to." | The offer page, then the door |
 | 5 | "What happens after the self-assessment, and what it costs" | Vehicle | Returning | "A record doesn't read itself; review turns it into a decision." | The offer page, then the door |
 
@@ -181,7 +181,7 @@ The playlist plays the five in order, so each keeps the ask its rung and link se
 
 ### The fifth piece speaks the price
 
-The fifth piece carries the series' spoken pitch segment. It names the offer, who it's for and who it isn't, and the destination with one line placing it beyond the face. Then it gives the public price with what's in it, and the likely cost of his first [9] months from the Path and Timeline Card he reads before paying. Record it as a two-minute module you swap at each Price Step, because steps can land every second start and a re-shoot costs 4–6 hours. Anyone under 18 hears that it isn't for him, and the date line points to the page.
+The fifth piece carries the series' full pitch segment. It names the offer, who it's for and who it isn't, and the destination with one line placing it beyond the face. Then it gives the public price with what's in it, and the likely cost of his first [9] months from the Path and Timeline Card he reads before paying. Record it as a two-minute module you swap at each Price Step, because steps can land every second start and a re-shoot costs 4–6 hours. Anyone under 18 hears that it isn't for him, and the date line points to the page.
 
 Pin the series as a playlist at the front of your channel and link it in every description. Assemble it in your first quarter from pieces you'd make anyway. At Growing, re-film the weakest at your higher bar and add the Offer Pieces, the five pieces that answer a warm buyer's questions on your offer page. Replace a piece when its scorecard sits below plan for two readings or a claim it quotes changes.
 
