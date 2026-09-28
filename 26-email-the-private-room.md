@@ -246,7 +246,7 @@ Cole is in Growing, in Band B. His list holds [~420] eligible adults, so his Thu
 
 **Day 0, Tuesday March 10. Four tags.** Dan *(composite, Struggler)*, 24, finishes the door at [9 pm] with [eight months] of [his routine] behind him and nothing measured. His tags read stage "next month", Struggler, route no-call, no pause. The read: April is his start, and nothing about March's closing week will reach him. His result email lands in [three] minutes. Within the hour he opens a result recommending the Program, Cole's 12-week flagship, from the April start at $[price], stated once. Cole's personal reply goes out the next morning. Left alone: March. A man who said "next month" and hears "join by Friday" gets a deadline built from your calendar instead of his answer.
 
-**Days 1–6. His Welcome Arc, on his clock.** Welcome 1 arrives on day 1; he reads it and clicks nothing, which is fine, since it asks nothing new. Email 1 on day 2 starts his free 7-day log. Email 2 on day 4 gets a click to the sample plan, and email 3 on day 6 recommends the Program with its price and both April dates. He watches the walkthrough that night. Not sent: the Thursday letter, the Canon Lane, and anything about March.
+**Days 1–6. His Welcome Arc, on his clock.** Welcome 1 arrives on day 1 and draws no click, which is fine, since it asks nothing new. Email 1 on day 2 starts his free 7-day log. Email 2 on day 4 gets a click to the sample plan, and email 3 on day 6 recommends the Program with its price and both April dates. He watches the walkthrough that night. Not sent: the Thursday letter, the Canon Lane, and anything about March.
 
 **Day 8, Wednesday March 18. His date, by reply.** Before email 4 goes out, Dan answers email 3: "I get paid on the [27th]. Can I decide then?" The read: a Decision Date by message, well inside April's last day to join. He wrote from the address his result went to, so he counts as a verified adult, and Cole answers himself: "Yes. The April group starts Monday the 6th, and you can join through the 17th. It's $[price] for 12 weeks. I'll check in on the 27th, and here's the checkout if you want it sooner: [link]." Emails 4 and 5 become one check-in on the 27th. Left alone: a second recommendation.
 
@@ -335,7 +335,7 @@ Answer from your email tool's reports and your send log, after every promotional
 - **Zero promotional sends to a paused lead.** One content-free tag holds every sequence, date send, checkout link, cart email, weekly letter, and Canon Lane send for 60–90 days, counted after every start (the line on vulnerability).
 - **Sequences that end at his decision.** Dates come from the calendar at send time, both travel together, no credit appears, and nothing sends after the last day to join (*Use real dates*; the line on fake scarcity).
 - **One recommendation for every ready lead.** Each sequence names the offer, its price once, and one step, and a reply from his result address can get a checkout link (*Sell directly*).
-- **Four labels, and replies that stay yours.** No tag holds a fit or goal answer, every automated send keeps the Dignity Route's stakes (*Name the stakes*), and no helper answers a reply.
+- **Consent, four labels, and replies that stay yours.** Every address agreed to a stated pace at the door, no tag holds a fit or goal answer, every automated send keeps the Dignity Route's stakes (*Name the stakes*), and no helper answers a reply.
 
 ## Quick Reference
 
@@ -356,7 +356,8 @@ Answer from your email tool's reports and your send log, after every promotional
 | Complaints | Under 0.1% a send; never 0.3% |
 | Clicks · unsubscribes | 2–5% · 0.1–0.4% per send |
 | Date sends | One announcement, one reminder; engaged only; both dates |
-| Lead-age cohorts | 0–60 · 61–180 · 181–365 days |
+| Canon Lane | One claim a send, word for word, [one] a [month]; nothing to buy |
+| Lead-age cohorts | 0–60 · 61–180 · 181–365 days; silent leads asked once at 181 |
 
 **Framework cheat sheet**
 

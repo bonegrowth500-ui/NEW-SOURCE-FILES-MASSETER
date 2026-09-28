@@ -72,7 +72,9 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **Privacy.** He's about to hand you his face, so say where it goes. Name what you collect and who sees his photos, which is only you, never the group, an editor, or a tool. Give each record its retention period, and say that deletion means everything, everywhere, confirmed in writing. Then name the four labels you keep: when he could start, his situation, his route, and a pause flag that stops sales email for 60–90 days and records no reason. No label records a fit or insecurity answer, and no answer reaches an ad platform.
 
-**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, with its trigger, claim window, and payout (Module 7). The windows are what a burned buyer checks. The fit window, a full refund on his word, runs 14–21 days from baseline day, the first day of delivery. The exit right, a pro-rata refund for a client who did the work, runs from the week-6 read, the written mid-program review, until 7 days after it. A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days after he receives the plan. You raise the non-response clause, cash back when no marker moves despite his effort, yourself at week 12. Every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
+**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, with its trigger, claim window, and payout (Module 7). The windows are what a burned buyer checks. The fit window, a full refund on his word, runs 14–21 days from baseline day, the first day of delivery. The exit right, a pro-rata refund for a client who did the work, runs from the week-6 read, the written mid-program review, until 7 days after it.
+
+A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days after he receives the plan. You raise the non-response clause, cash back when no marker moves despite his effort, yourself at week 12. Every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
 
 The rest go up as built. The verification kit, a sample written plan and a sample weekly review, includes a plan that says "don't buy", because a plan that can refuse him is one he believes when it recommends (Module 5). The Path and Timeline Card, the one-page path and cost sent before payment, prices his first [9] months (Module 6). Its range runs from the Program, your 12-week flagship, alone, to the Program with Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. What My Face Does and Doesn't Prove, your public statement that your appearance is never evidence, goes up word for word (Module 15).
 
@@ -263,7 +265,7 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 ### The Verify Page
 
-One page, in text, in this order; dates and prices update each start, and other changes go in by dated entry.
+One page, in text, in this order; dates and prices update each start, other changes by dated entry.
 
 > **Next start: [date] · last day to join: [date].** [Seat status, when informative.] [An announced Price Step: the next price and its start.]
 >
@@ -275,7 +277,7 @@ One page, in text, in this order; dates and prices update each start, and other 
 >
 > **Privacy.** We collect your self-assessment answers and email; as a client, check-ins, captures at weeks 0, 6, and 12, and messages. Captures are stored in [where] and seen only by [first name], never the group, an editor, or a tool. Answers are kept [period], fit-check answers [a short period], client records [period] after you leave; on request, everything is deleted and confirmed in writing within [days]. Your record carries four labels: when you could start, your situation, your route, and a pause flag that records no reason. How you feel about your appearance is never a label, and no answer reaches an ad platform. Public use needs your separate, revocable consent. Cohorts can be pseudonymous, and your card statement reads "[Brand]".
 >
-> **Check the work first.** [A sample written plan, a composite, ending "don't buy"] · [A sample weekly review, a composite, real format]
+> **Check the work first.** [Sample written plan, a composite, ending "don't buy"] · [Sample weekly review, a composite]
 >
 > **The whole path.** [Your Path and Timeline Card]: what 12 weeks deliver, when change tends to show, and your likely cost over the first [9] months, from [the Program alone] to [with Round Two and the Hold].
 >
