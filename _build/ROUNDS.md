@@ -32,7 +32,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | 3.3 critique (draft 7,343 w) |
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | a7fe4f7646c3ef45b | 3.3 critique (draft 7,584 w) |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | — | 3.1–3.2 drafting |
-| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | (critic launched) | 3.3 critique (draft 7,579 w) |
+| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | ac108ae2b0e5a083e | 3.3 critique (draft 7,579 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
