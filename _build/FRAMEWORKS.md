@@ -178,7 +178,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ◆ | **The Complaint Budget** | Complaints under 0.1%, never at 0.3%; promotions to engaged segments only | new | 26 | — |
 | ★ | **The Verify Page** | Who we are, what we don't claim, what my face does and doesn't prove, privacy, the sample plan and weekly review, the Path and Timeline Card, prices, guarantee terms | new | 27 | 03, 15 |
 | ◆ | **The Destination Rule** | The destination is part of the post: one claims library governs videos, pages, and emails | new | 27 | 16, 18 |
-| ◆ | **The Proof Portability Gradient** | Which proof may travel where: process everywhere; outcome stories in long-form, email, and site; none in ads | new | 27 | 16, 24 |
+| ◆ | **The Proof Portability Gradient** | Which proof may travel where: process everywhere; outcome stories in long-form, email, and site; contextualized clips with range and denominator on screen in organic short-form; no outcome proof in ads | new | 27 | 16, 24 |
 | ◆ | **The Adult Reach Buy** | Paid reach pushing proven pieces to adults, judged against a holdout and the maximum affordable cost per eligible lead | new | 27 | 12, 01 |
 
 ### Part VII — The Build
@@ -251,7 +251,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | Sell in the Open · presence over pedigree | Announce structure, stake, and price early · sustained presence and visible standards carry trust | 15 |
 | the Scope Boundary · refer-out triggers | "I can't help with this, and here's who can" · sleep or snoring signs, jaw pain, bite concerns, distress or fixation, minors | 15 |
 | evidence tier · observed, not caused | Established / plausible / debated · the phrasing rule for published ranges | 16 |
-| Points for Process, Ranges for Results · the Proof Stack · Integrity Levels | Fixed facts as points, outcomes as tight ranges · proof matched to the doubt, published on a pre-committed schedule · three levels of before/after discipline | 16 |
+| Points for Process, Ranges for Results · the Proof Stack · Integrity Levels | Fixed facts as points, outcomes as tight ranges · proof matched to the doubt, published on a pre-committed schedule · three levels of before/after discipline: Matched (same capture conditions), In context (the Context Stack attached), Placed (shown within the published range and its denominator) | 16 |
 | Earned Labels · measurement rituals · the Identity Threshold | Labels rest on his record · the review-and-decision moments at baseline, re-captures, and graduation · committing costs identity as well as money | 17 |
 | One Ask per Asset · the belief sentence · the Click Contract · the Page Sequence · the Conversation-to-Content Loop · respect without demand · price with delivery math | One primary ask per asset · before/after belief, tagged by link · every hook is a promise · promise → frame → path → trust → next step · objections become content · content that earns respect but no pull · itemized delivery and the seat cap, never minutes | 18 |
 | the Decision Date · the Follow-Up Rule · the Selling-Skill Loop · the objection map | His personal date, tied to the next real decision point · recap within 24 h, one check-in, one close-the-loop · recorded, scored calls and an objection log · the niche's deciding objections, by link | 19 |
