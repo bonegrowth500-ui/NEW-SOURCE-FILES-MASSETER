@@ -155,7 +155,7 @@ def prose_paragraphs(body_lines):
         if not s:
             if buf: paras.append(" ".join(buf)); buf = []
             continue
-        if s.startswith(("#", "|", ">", "- ", "* ", "---")) or re.match(r"^\d+\. ", s) or (s.startswith("*") and not s.startswith("**")):
+        if s.startswith(("#", "|", ">", "- ", "* ", "---", "**Leans on:**", "**Do this month:**")) or re.match(r"^\d+\. ", s) or (s.startswith("*") and not s.startswith("**")):
             if buf: paras.append(" ".join(buf)); buf = []
             continue
         buf.append(s)

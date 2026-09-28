@@ -239,6 +239,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the founding group · founding Private seats | Every founding client in one group from the first, with 1:1-level review while it's small · 1–2 premium seats while minutes are spare | 09 |
 | the R&D Harvest | What founding clients must produce: stall taxonomy, check-in instrument, capture standard, process testimonials | 09 |
 | the warm-network source · the week-3 source check | A labeled planning source of early conversations · the week-3 shift of hours if sources underdeliver | 09 |
+| measured momentum | The Round Two qualifier: at week 12, adherence at or above his threshold and at least one marker still improving across its last two readings | 10 |
 | Round Two · the Hold · the alumni room | A maintenance block for clients with measured momentum · the measurement subscription · the room it opens into at ~30 alumni | 10 |
 | Community Options · the Training-Partner Seat | The alumni room by default, an in-cohort peer space, or an open paid membership · pair enrollment | 10 |
 | the Keep-List · the Build Queue · the Risk Register | What stays with you · leverage builds in order of hours saved · the biggest risks only | 11 |
