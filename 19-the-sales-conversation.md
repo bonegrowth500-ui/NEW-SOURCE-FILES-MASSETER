@@ -3,13 +3,13 @@
 
 **The shift:** from *"Closing is pressure or luck"* to *"I close by contract, with force aimed at the situation and routes for burned and insecure buyers."*
 
-Near the end of a fit conversation, a 24-year-old who has put about eight months into [his routine], with nothing measured, says the six words every operator in this category hears weekly:
+Near the end of a fit conversation, a 24-year-old with about eight months of [his routine] behind him, nothing measured, says the six words every operator in this category hears weekly:
 
 > **Dan** *(composite, Struggler)*: "Makes sense. I need to think about it."
 
-Most operators answer in one of two ways. One says "No pressure," sends nothing, and never hears from him again, while he goes back to guessing until another channel sells him the next gadget. The other cuts the price for today, and a man who has scrolled past the category's countdown discounts hears exactly what he expected. Both lose the sale, and the first also fails him, because a good-fit buyer left to guess is let down as surely as one who was pushed.
+Most operators answer in one of two ways. One says "No pressure," sends nothing, and never hears from him again, and he goes back to guessing. The other cuts the price for today, and a man who has scrolled past the category's countdown discounts hears exactly what he expected. Both lose the sale, and the first also fails him, because a good-fit buyer left to guess is let down as surely as one who was pushed.
 
-A contract-based close hears the same words from a different place. Earlier, Dan agreed the call would end in a clear yes or a clear no, and he named what another year of guessing would cost him. So you ask what he's weighing, find the missing belief, answer it from his own record, and ask again. If he still wants time, he leaves with a date on a real start. This module is that close, with its routes for burned and insecure buyers and the lines that stop it.
+A contract-based close hears the same words from a different place. Earlier, Dan agreed the call would end in a clear yes or a clear no, and he named what another year of guessing would cost him. So you ask what he's weighing, find the missing belief, answer it from his record, and ask again, and if he still wants time, he leaves with a date on a real start. This module is that close, with its routes for burned and insecure buyers and the lines that stop it.
 
 ## 1. The Contract and the Arc
 
@@ -17,9 +17,9 @@ A close in this category holds when it works as a contract: a structure he agree
 
 ### He punishes the move he uncovers
 
-Your buyer has met the free strategy call that turns into a pitch halfway through, or its mirror image, the friendly chat that ends in a checkout link. He knows a call about a paid program is a sale. What he holds against you is a move he uncovers, because one hidden move tells him the whole call was staged, and he discounts everything you said before it.
+Your buyer has met the free strategy call that turns into a pitch halfway through, or the friendly chat that ends in a checkout link. He knows a call about a paid program is a sale. What he holds against you is a move he uncovers, because one hidden move tells him the whole call was staged, and he discounts everything you said before it.
 
-So the structure comes first, out loud. The contract names what you'll ask, the straight answer about what can and can't change, the one recommendation and price at the end, and both good endings, a clear yes or a clear no. Laid out, it leaves his guard nothing to find. "No is fine" persuades little on its own, and it earns its place only when it's structurally true: a real free path for anyone who shouldn't buy, money talk that ends at "I can't afford it", and follow-up fixed in advance.
+So the structure comes first, out loud: what you'll ask, the straight answer about what can and can't change, one recommendation and a price at the end, and two good endings, a clear yes or a clear no. Laid out, it leaves his guard nothing to find. "No is fine" persuades little on its own, and it earns its place only when it's structurally true: a real free path for anyone who shouldn't buy, money talk that ends at "I can't afford it", and follow-up fixed in advance.
 
 ### Each step stands on the one before
 
@@ -28,18 +28,18 @@ Each step needs the one before it. A summary needs his words, a recommendation n
 | Step | What you do | What it prevents |
 |---|---|---|
 | 1. Contract | Agree the structure and both good endings | A pitch he uncovers |
-| 2. Excavate | His months, his checks, his conclusion | Selling before he names a need |
-| 3. Summary | Goal, stake, and gap, in his words, confirmed | Aiming at the wrong goal |
+| 2. Excavate | His months, his checks, his conclusion | Selling before a named need |
+| 3. Summary | Goal, stake, and gap, confirmed in his words | The wrong goal |
 | 4. Recommend | One option, from his reasons | A menu that stalls him |
 | 5. Price | Real tiers top first, the price once, silence | Apology, discount, decoy |
 | 6. Affordability | The question, word for word, about his pick | Selling past his means |
-| 7. Ask | "Do you want to start on [date]?" | A good-fit buyer left unasked |
-| 8. Sort | Up to two probes per real objection | Answering the wrong objection |
+| 7. Ask | "Do you want to start on [date]?" | A good-fit buyer unasked |
+| 8. Sort | Up to two probes per real objection | The wrong objection answered |
 | 9. Decision Date | His own date to decide by, on a real point | "I'll let you know" |
 | 10. Day one | Baseline day, his first review, booked on the call | A yes that cools |
-| 11. Recap | Written within 24 hours, in his words | A decision made from memory |
+| 11. Recap | Written within 24 hours, in his words | A decision from memory |
 
-That's **Close by Contract**, the close that agrees its structure first and runs in order to the ending it named. Said as one line:
+That's **Close by Contract**, the close that agrees its structure first and runs in order to the ending it named:
 
 **Agree the ending first, earn each step, and leave with day one, a clear no, or a date.**
 
@@ -47,9 +47,9 @@ Run it on every live selling conversation, from the free fit conversation to a c
 
 ### The floor holds on a live call
 
-The Informed-Client Test, the check every tactic passes in both directions (Intro), gets its hardest use on a call. Its ceiling asks whether a client anywhere in your range, the low end included, would still say the call served him after seeing exactly what you did. Its floor says that letting a screened, good-fit buyer who can pay talk himself out of the right decision fails him too. The floor applies once he's through the door's checks and while no stop rule has fired, and a stop rule always wins.
+The Informed-Client Test, the check every tactic passes in both directions (Intro), applies on every call. Its ceiling asks whether a client anywhere in your range, the low end included, would still say the call served him after seeing exactly what you did. Its floor says that letting a screened, good-fit buyer who can pay talk himself out of the right decision fails him too. The floor applies once he's through the door's checks and while no stop rule has fired, and a stop rule always wins.
 
-Force is a stake in his words, one confident recommendation, an explicit ask, up to two probes per real objection, and a real date. Pressure is asking again after a clear no, reopening money after "I can't afford it", selling into distress, invented urgency, or shame. Embedded commands, the false takeaway, and the assumptive close that books day one before his yes all fail the ceiling, because each works only while he can't see it.
+Force is a stake in his words, one confident recommendation, an explicit ask, up to two probes per real objection, and a real date. Pressure is asking again after a clear no, reopening money after "I can't afford it", selling into distress, invented urgency, or shame. Embedded commands, false takeaways, and an assumptive close that books day one before his yes fail the ceiling, since each works only while he can't see it.
 
 ## 2. Excavation and the Implication Question
 
@@ -61,15 +61,15 @@ Describe the program before he has named a need and you've handed him something 
 
 His answers also set his route and surface the stops. A past purchase that promised structural change marks a burned buyer, and talk about his worth or regular checking of his face puts him on the Dignity Route, the way of selling that keeps force off his worth. Jaw pain, loud snoring, or a bite concern means a referral note before anything is sold, and checking many times a day ends the sale.
 
-What he bought is history. It shows how he was sold before, so it goes in your notes and stays there, out of the summary, the recommendation, the price, and the recap, because a price argued from money already lost is the recovery pitch this category runs on burned men.
+What he bought is history. It shows how he was sold before, so it stays in your notes, out of the summary, the recommendation, the price, and the recap, since a price argued from money already lost is the recovery pitch this category runs on burned men.
 
 ### The ladder climbs to his life, then stops
 
-Run the Destination Ladder, two questions that climb from the feature he names to the life behind it and one that grounds it, stopping once the answer leaves his face (Module 2). "A sharper jaw" becomes "I'd stop dodging the camera at work", and the grounding question finds the quarterly team photo. The top rung, in his words, is what your recommendation argues from.
+Run the Destination Ladder, two questions that climb from the feature he names to the life behind it and one that grounds it, stopping once the answer leaves his face (Module 2). "A sharper jaw" becomes "I'd stop dodging the camera at work", and the grounding question finds the quarterly team photo your recommendation will argue from.
 
 ### He names the stake
 
-Waiting looks free in this niche. Outcomes are slow, so another month seems to cost only a month, and a man who believes that can defer for a year without ever deciding to. Stakes move people by small to moderate amounts, mostly when they already believe they can act, and framing a cost as a loss instead of a gain changes almost nothing. So the stake has to be accurate, and his, because a cost he says out loud is one he can't argue with later:
+Waiting looks free in this niche, because outcomes are slow and another month seems to cost only a month, so a man can defer for a year without ever deciding to. Stakes move people by small to moderate amounts, mostly when they believe they can act, and framing a cost as a loss instead of a gain changes almost nothing. So the stake has to be accurate, and his, since a cost he says out loud is one he can't argue with later:
 
 > **You:** "If the next 12 months look like the last [eight], what does that cost you?"
 > *[Stop. Let him answer, however long it takes.]*
@@ -90,25 +90,25 @@ Recommend one thing for the reasons he gave you, show every real tier top first,
 
 ### One recommendation, argued from his summary
 
-Options stall people most when they're complex and the chooser is unsure what he wants, which describes a man eight months into not knowing which lever matters. So recommend one thing, argued from his confirmed summary. It's usually the Program, your 12-week flagship, and it can be Private, the premium seat with fixed deliverables; the Starter Path, the free sequenced path for anyone who shouldn't buy now; "don't buy"; or a referral.
+Options stall people most when they're complex and the chooser is unsure what he wants, which describes a man eight months into not knowing which lever matters. So recommend one thing, argued from his confirmed summary. It's usually the Program, your 12-week flagship, and otherwise Private, the premium seat with fixed deliverables; the Starter Path, the free sequenced path for anyone who shouldn't buy now; "don't buy"; or a referral.
 
-Before any price, walk the Path and Timeline Card, the page that shows the whole path and its likely cost before payment (Module 6). Say what 12 weeks deliver, that his log shows within two weeks whether the work is happening, and that jaw change from habits is debated and unpromised, so the price belongs to a path he has already seen.
+Before any price, walk the Path and Timeline Card, the page that shows the whole path and its likely cost before payment (Module 6). Say what 12 weeks deliver, that his log shows within two weeks whether the work is happening, and that jaw change from habits is debated and unpromised, so the price belongs to a path he has seen.
 
 ### Every real tier, top first, and the price once
 
-Show the real tiers, top first, say which you recommend, and state its price once. The premium tier anchors honestly only because it's real, a seat someone buys, while a tier built to make the next look cheap is a decoy this buyer spots at once. Then stop talking. The first words after a price are usually an apology, a justification, or a discount, each saying you doubt your own number, and silence lets him do the math in months of his own pay.
+Show the real tiers, top first, say which you recommend, and state its price once. The premium tier anchors honestly only because it's real, a seat someone buys, while a tier built to make the next look cheap is a decoy this buyer spots at once. Then stop talking, because the first words after a price are usually an apology, a justification, or a discount, and silence lets him do the math in months of his own pay.
 
 That's **Premium First, Price Once**: show the real tiers premium-first, recommend one, state the price once, and hold the silence. The honest anchors are the delivery math he can count and the value of months not wasted, another year of guessing beside a year in which he knows. Asked how much of your time he gets, he hears deliverables with dates, because minutes describe your cost and invite a per-minute price. Surgery, filler, hourly rates, an invented "total value", and what he already spent stay away from the price.
 
 ### The spoken affordability line
 
-Then comes the question he'll hear before every payment you take. Once he has said which tier he'd pick, ask it word for word, about that tier:
+Then comes the question he'll hear before every payment you take. Once he has named the tier he'd pick, ask it word for word, about that tier:
 
 > **You:** "I ask everyone this before any payment. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
 It follows the tiers because by then he has seen every real option, so a no can't be met with a cheaper one. A yes lets the checkout run the Fit Check, the plain-language check for signs that buying could hurt him (Module 5), before any pay button. A no ends money talk: the Starter Path once, tool-free, and the pause route, the tag that stops sales and date sends for 60–90 days before asking his permission again.
 
-Nothing after a no carries a price, an offer, or a date, so there's no plan, no lower tier, no "when things settle down", and no Program Async, the tier without the live call. Money that isn't his gets the same free path. What he says aloud sets the same tag a checkout answer would, so no abandoned-cart email reaches a man who told you no on a call.
+Nothing after a no carries a price, an offer, or a date, so there's no plan, no lower tier, no "when things settle down", and no Program Async, the tier without the live call. Money that isn't his gets the same free path, and what he says aloud sets the same tag a checkout answer would, so no abandoned-cart email reaches a man who told you no on a call.
 
 ### Plans and the guarantee in their places
 
@@ -321,11 +321,11 @@ About 20–30 minutes, or 45 in the founding months. Quoted lines are word for w
 
 Add seat status only when it could change his start: "This start has [8] seats, and [5] are taken."
 
-6. **Sort, date, day one.** "Fair. What would you be weighing?" → the link's check question → his evidence → "Given that, does [the Program from March 2] still fit what you want?" If he needs time: "The [March] start's last day to join is [March 13]. What date will you decide by?" On a yes: "Let's book baseline day now: [date, time]. Your recap reaches you within 24 hours."
+6. **Sort, date, day one.** "Fair. What would you be weighing?" → the link's check question → his evidence → "Given that, does [the Program from March 2] still fit what you want?" If he needs time: "The [March] start's last day to join is [March 13]. What date will you decide by?" On a yes: "Let's book baseline day now: [date, time]."
 
 7. **A stop, at any step.** Its line from the stop-rule table in section 5, word for word, and nothing after it.
 
-Every line does one job in Close by Contract's order, and the order keeps each line safe. The price follows a summary he confirmed, so it lands as the price of his plan. The question follows the tiers, so a no can't meet a cheaper one, and the ask follows the question, so you only ask a man who has told you the money is comfortable. The two marked silences are where calls leak: after the stake and after the price, he speaks first.
+Every line does one job in Close by Contract's order, and the order keeps each line safe. The price follows a summary he confirmed, so it lands as the price of his plan. The question follows the tiers, so a no can't meet a cheaper one, and the ask follows the question, so you only ask a man who has told you the money is comfortable. The two marked silences are where calls leak, because he has to speak first.
 
 The pushback variant comes right after the price:
 
@@ -333,14 +333,14 @@ The pushback variant comes right after the price:
 >
 > **You:** "It's a real amount. Is it that it isn't comfortable, or that you're not sure it's worth it?"
 
-If it isn't comfortable, that's a no to the question, and the affordability stop line follows. If it's the worth, the link is Vehicle, so give the deliverables and the year he doesn't spend guessing, then ask again. The line you never say is "If price is the issue, I can do something for you today", a discount that teaches every later buyer to wait. Then return: "Given that, does [the Program from March 2] still fit what you want?"
+If it isn't comfortable, that's a no to the question, and the affordability stop line follows. If it's the worth, the link is Vehicle: the deliverables, the year he doesn't spend guessing, then the ask again. The line you never say is "If price is the issue, I can do something for you today", a discount that teaches every later buyer to wait.
 
 ### The fourteen answers, by link
 
 Each answer returns to the recommendation and the ask, unless a stop line has fired.
 
 1. **"Adults can't change anyway."** *Range.*
-> **You:** "You're right to push on that. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. If what you want is to be at ease in photos and to stop guessing, that's where the work is. Which of those are you working on, and how would you know?"
+> **You:** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. If what you want is to be at ease in photos and to stop guessing, that's where the work is. Which of those are you working on, and how would you know?"
 
 2. **"It's all free on YouTube."** *Vehicle.*
 > **You:** "A lot of it is, and some of it's good. What it can't do is read your week. A record doesn't read itself; review turns it into a decision."
@@ -352,18 +352,18 @@ Each answer returns to the recommendation and the ask, unless a stop line has fi
 > **You:** "So have I. Ask six things of any result, mine included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? My face is not evidence for the method. The record is, published on the dates I committed to."
 
 5. **"What if nothing changes?"** *Guide.*
-> **You:** "Then you'll know, and you'll stop paying for guessing. By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you. Log at least [80%] of days, and if none of your markers, the measures we set on baseline day, reaches its threshold, [a fixed share inside 25–50%] of what you paid comes back in cash within 7 days. Done the work and want out at week 6? You get back what you paid for the weeks left, and the first [14–21] days carry a full refund. What I won't guarantee is how your face looks."
+> **You:** "Then you'll know. By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you. Log at least [80%] of days, and if none of your markers, the measures we set on baseline day, reaches its threshold, [a fixed share inside 25–50%] of what you paid comes back in cash within 7 days. Done the work and want out at week 6? You get back what you paid for the weeks left. What I won't guarantee is how your face looks."
 
 6. **"I need to think about it."** *Now, or a hidden link.*
 > **You:** "Fair. What would you be weighing?"
 
-To a burned buyer instead: "Of course. Here's what I'd check: a sample written plan, a sample weekly review, and the guarantee terms. Which start do you want to decide for, and by when?"
+To a burned buyer instead: "Of course. Here's what I'd check: a sample written plan, a sample weekly review, and the guarantee terms. Which start do you want to decide for?"
 
 7. **"How much of your time do I get?"** *Vehicle.*
-> **You:** "You get 12 written reviews within [48] hours of each check-in, 12 live group calls, a written read at week 6, a re-assessment at week 12, and three captures to one standard. You're paying for judgment on your record every week, and a year you don't spend guessing."
+> **You:** "You get 12 written reviews within [48] hours of each check-in, 12 group calls, a written read at week 6, a re-assessment at week 12, and three matched captures. You're paying for judgment on your record, and a year you don't spend guessing."
 
 8. **"Who sees my photos?"** *Guide.*
-> **You:** "Only me. Captures are stored at [where], never shown in the group, and deleted when you ask. You can join under a handle with your camera off, the charge shows as [a discreet name], and nothing is published without consent you can take back."
+> **You:** "Only me. Captures are stored at [where] and deleted when you ask. You can join under a handle, camera off, the charge shows as [a discreet name], and nothing is published without consent you can take back."
 
 9. **"How many minutes a day?"** *Self.*
 > **You:** "[Minutes a day] on [habit blocks], about 10 minutes for the weekly check-in, and one [60]-minute call a week. Walk me through a normal weekday, and let's find where they'd go."
@@ -372,17 +372,17 @@ To a burned buyer instead: "Of course. Here's what I'd check: a sample written p
 > **You:** "What happened the last time?" *[Let him answer.]* "You didn't quit because you're weak. You quit because nothing showed you it was working. This week you logged [six] of [seven] days with nobody reading them."
 
 11. **"How long, and what's the total?"** *Range, Guide.*
-> **You:** "Your log shows within two weeks whether the work is happening. Body composition and posture habits show over months, and jaw change from habits is debated, so I don't promise it. Over your first [9] months the likely total runs from $[2,400] for the Program alone to $[3,447] with Round Two, a lighter follow-on block, and a few months of the Hold, our measurement subscription."
+> **You:** "Your log shows within two weeks whether the work is happening, and jaw change from habits is debated, so I don't promise it. Over your first [9] months the likely total runs from $[2,400] for the Program alone to $[3,447] with Round Two, a lighter follow-on block, and a few months of the Hold, our measurement subscription."
 
 12. **"Can I stop paying?"** *Guide.*
-> **You:** "Yes. Leave in the first [14–21] days with one line for a full refund, or at week 6 if you've done the work, and your remaining payments stop. If a payment fails, the program pauses with no fees and no collections until you carry on or stop there."
+> **You:** "Yes. Leave in the first [14–21] days for a full refund, or at week 6 if you've done the work, and your remaining payments stop. If a payment fails, the program pauses with no fees until you carry on or stop."
 
 13. **"I need to ask my parents," or "my partner."** *Eligibility, then Now.*
 > **You:** "Whose money would it be?"
 
-If it's his parents': "Then I'd hold off, because the question I ask everyone is about your own income or savings. Here's the Starter Path, free, and the door opens whenever you write back." If he couldn't pay it himself, that's a no, and the pause route is set. If the money is his, shared with a partner: "Makes sense. Everything goes in your recap so you can go through it together. What date do you want to decide by?" No probes.
+If it's his parents': "Then I'd hold off, because I only take money that's comfortable from your own income or savings. Here's the Starter Path, free, and the door opens whenever you write back." If he couldn't pay it himself, that's a no, and the pause route is set. If it's shared with a partner: "Makes sense. Everything goes in your recap so you can go through it together. What date do you want to decide by?" No probes.
 
-14. **"I'm 17. I'd need to ask my parents."** *A stop rule.* No answer, only the minor's stop line, then deletion and a refund of anything paid, with no offer and no "later".
+14. **"I'm 17. I'd need to ask my parents."** *A stop rule.* Only the minor's stop line, then deletion and a refund of anything paid, with no offer and no "later".
 
 ## Templates: The Recap and the Follow-Up
 
@@ -445,13 +445,13 @@ Score one recorded call a week, and your last 30 held conversations once a month
 **In one line.** Agree the ending first, let him name the stake, recommend once, price once, ask, and leave with day one, a clear no, or a Decision Date.
 
 **Takeaways**
-- The contract comes first because a buyer who knows the structure has nothing left to uncover.
+- The contract comes first, because a buyer who knows the structure has nothing left to uncover.
 - The affordability question follows the tiers and asks about his pick, so a no meets the free Starter Path, never a cheaper tier.
 - Every objection names a link: sort it, probe twice at most, repair it with his record, and return to the ask.
 
 **The arc.** Contract → excavate → summary → one recommendation → tiers top first, price once, silence → the affordability line → ask → sort → Decision Date → day one → recap.
 
-**The objection map.** Range: adults can't change, the orthodontist, the timeline. Vehicle: free content, time for money. Guide: faked proof, nothing changes, privacy, stopping payment. Self: minutes, quitting. Now: "I need to think". Whose money first: an adult's parents or partner. A minor: stop.
+**The objection map.** Range: adults can't change, the orthodontist, the timeline. Vehicle: free content, time for money. Guide: faked proof, nothing changes, privacy, stopping payment. Self: minutes, quitting. Now: "I need to think". Money first: an adult's parents or partner. A minor: stop.
 
 | State | Route |
 |---|---|
@@ -461,7 +461,7 @@ Score one recorded call a week, and your last 30 held conversations once a month
 | Ambivalent | Now; his reasons; a real date |
 | Insecurity-led | The Dignity Route, over any state |
 
-**Stops and follow-up.** A clear no ends the ask; "I can't afford it" gets the Starter Path and the pause route; distress gets a referral; a minor ends the call. Then the Follow-Up Rule: a recap within 24 hours, one check-in, one close-the-loop.
+**Stops and follow-up.** A clear no ends the ask; "I can't afford it" gets the Starter Path and the pause route; distress, a referral; a minor ends the call. The Follow-Up Rule: a recap within 24 hours, one check-in, one close-the-loop.
 
 **Framework cheat sheet**
 

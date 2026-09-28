@@ -25,7 +25,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 | 18 | 18-content-that-sells.md | a1c32178a5c126f98 | — | drafting |
 | 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | — | drafting |
-| 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | — | drafting |
+| 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | draft done (7,610 w) → critique |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | draft done (7,582 w) → critique |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | — | drafting |
 
@@ -101,3 +101,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R4 round (15 final): Module 05 table clarified: distress 'yes, most days' or checking 'many times a day' (no checking 'most days' signal).
 - R4 round (16 final): LEDGER D rules: testimonial asks per client (≤2; a no is final; scoped consent; never ghostwritten); teardown cadence (quarterly + on recurring door-answer claim patterns). FRAMEWORKS Integrity Levels wording aligned (compare / show / claim).
 - R5 round (from 21): LEDGER B 'Stops outside the windows' (referral stop: pro-rata refund of undelivered weeks within 7 days at any point; voluntary stop after the exit window: installments cancel forward, undelivered weeks deferrable to a later start within 6 months, no cash refund of delivered weeks). FRAMEWORKS Honest Exit covers the exit right. 07 gets a surgical addition. Integration: 06's week-1 review 'one thing he did well' → phrase as a record fact, not a label (17's no-labels-in-fit-window rule).
+- R5 round (from 20): LEDGER H rows: voice-note replies (~1–3 min, recorded by you, one recommendation); paid group decision session (~$25–50, named honestly, anonymous, credited under DA terms). Module 05: 'burned route' → 'Burned Struggler state tag' (tags = stage, Buyer State, route [call/assessment/no-call], pause).

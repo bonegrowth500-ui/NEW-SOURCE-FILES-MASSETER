@@ -265,7 +265,7 @@ Cole gives no view on the procedure, since that's a surgeon's question. His writ
 
 1. "Are you a legal adult where you live?" Yes / No → No: the education lane, nothing stored.
 2. "What do you want to change, in your own words?" → Read by you, never a tag.
-3. "What have you tried, and for how long? Did anything you bought promise to change your face?" → His history; a failed promise sets the burned route.
+3. "What have you tried, and for how long? Did anything you bought promise to change your face?" → His history; a failed promise sets the Burned Struggler state tag.
 4. "What are you measuring now?" Nothing / Photos sometimes / A log → The provisional read.
 5. "What made you look for help now?" → His trigger.
 6. "When could you start?" This month / Next month / Later, and when? → His stage.

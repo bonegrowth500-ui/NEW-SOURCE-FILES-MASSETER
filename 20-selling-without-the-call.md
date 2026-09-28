@@ -13,7 +13,7 @@ Calls are your scarcest selling resource, so at scale most enrollments have to h
 
 ### The hours run out before the buyers do
 
-A fit conversation costs about an hour all-in early on, and about 0.75 hours once prep and the recap are templated. That's affordable while reach binds, because each eligible adult, a legal adult able to pay from his own income or savings, counts, and each call teaches you how buyers decide. As volume grows, those hours come out of the same week that review and content need. At the $50k configuration, the top of your target range, about 13 enrollments a month fit inside roughly 2.8 selling hours a week. That works only because about 65–70% of those buyers never need a call.
+A fit conversation costs about an hour all-in early on, and about 0.75 hours once prep and the recap are templated. While reach binds, that's affordable: eligible adults, legal adults who could pay from their own income or savings, are scarce, and each call teaches you how buyers decide. As volume grows, those hours come out of the same week that review and content need. At the $50k configuration, the top of your target range, about 13 enrollments a month fit inside roughly 2.8 selling hours a week. That works only because about 65–70% of those buyers never need a call.
 
 The signs show up before the numbers do. Men who have watched every long-form video book a call only to ask for the start date. Warm buyers write "can I just join?" at midnight, and selling hours start eating the content minimum that brings next month's leads.
 
@@ -63,7 +63,7 @@ Two things don't travel: adapting to him in the moment, and his stake said aloud
 
 Build the arc from calls that worked. Record calls with his consent, mark the lines that moved a buyer, and put those lines on the pages, because an arc written from guesses sells a version of you no buyer has met. Give each beat one owning asset, and read the no-call route monthly, from result page to payment. Then fix the one beat where most eligible adults leave, and judge each change over about 30 events, since a smaller count is mostly noise.
 
-Each drop-off names a beat. Men who read their result and never open the walkthrough didn't believe the cause, and men who leave the walkthrough at the price segment never got the standard or the vehicle. Men who stop at the affordability question, the checkout's one-sentence money check, are answering it, and that drop is the one you never chase.
+Each drop-off names a beat. Men who read their result and never open the walkthrough didn't believe the cause, and men who leave at the price segment never got the standard. Men who stop at the affordability question, the checkout's one-sentence money check, have answered it, and you never chase that drop.
 
 ### Threshold continuity keeps the checkout in the same voice
 
@@ -204,7 +204,7 @@ Cole is in month [16], Growing, with the Program at [$2.8k] and starts on first 
 
 **Day 4. Adrian's plan.** The plan reads his stall as unmeasured and recommends the Program from [April 6], because his goal needs weekly review and a written review within [48 hours] fits his travel. Private would buy speed he doesn't need, and Cole's [one] Private seat is taken this quarter. The plan names the stake as another [quarter] of guessing between trips, and it states the credit once, as a term. Cole records a [nine]-minute walkthrough of it, the one stretch of Adrian's path that needed him, paid for by the fee. The read: Vehicle and Self, repaired by a plan built around his calendar.
 
-**Day 5. Adrian enrolls.** He follows the plan's link to the April checkout, where the checks run again because it's his second paid step, and none signals. The Card sits above the pay button, and he pays the balance after his credit. His free log arrives with the confirmation, so his first seven logged days become his week zero. He'll join the group call under a handle, camera off.
+**Day 5. Adrian enrolls.** He follows the plan's link to the April checkout, where the checks run again because it's his second paid step, and nothing signals. The Card sits above the pay button, and he pays the balance after his credit. His free log arrives with the confirmation, so his first seven logged days become his week zero. He'll join the group call under a handle, camera off.
 
 **Day 6. Theo's question.** Theo has read both samples and watched the burned branch of the walkthrough. He replies to the third email: "The last thing I bought had a guarantee too. What exactly happens if I do the work and nothing changes?" The read: due diligence on Guide, and the question he asked is the real one, so there's nothing to probe. Within [three] hours Cole sends a [90]-second voice note, the one moment of Theo's path that needed him.
 
@@ -254,13 +254,13 @@ Email: [frequency]; one click to leave.
 
 | Segment | What it says | Branches |
 |---|---|---|
-| 1. Contract [~1 min] | "Recorded [date], [n] minutes. It ends in one recommendation and its price, which can be 'don't buy'." | One version |
+| 1. Contract [~1 min] | "Recorded [date], [n] minutes; it ends in one recommendation, which can be 'don't buy'." | One |
 | 2. Your stall [~2 min] | His answers' pattern; the Canon's cause claim | Unmeasured · effort aimed at bone · bought before |
-| 3. The standard [~2 min] | The Canon's claims on bone and on your face; what you refuse; the "don't buy" count | One version |
-| 4. What 12 weeks deliver [~3 min] | The Card's lines; a sample weekly review on screen | One version |
-| 5. Recommendation and price [~2 min] | Tiers premium first; one recommendation; the price once; the affordability question | The priority tier for the Optimizer |
+| 3. The standard [~2 min] | The Canon's claims on bone and on your face; the "don't buy" count | One |
+| 4. What 12 weeks deliver [~3 min] | The Card's lines; a sample weekly review on screen | One |
+| 5. Recommendation and price [~2 min] | Tiers premium first; one recommendation; the price once; the question | The priority tier for the Optimizer |
 | 6. His likeliest question [~2 min] | One objection, answered from the terms or the record | Burned: guarantee terms · Optimizer: privacy · Ambivalent: another season's cost · Default: "I always quit" |
-| 7. Ask and date [~1 min] | The link; both dates; "reply with one question and I'll answer by voice note" | One version |
+| 7. Ask and date [~1 min] | The link; both dates; "reply with one question, and I'll answer by voice note" | One |
 
 ## Template: The Five-Email Sales Sequence
 
@@ -288,13 +288,14 @@ The third email, in full:
 
 "This month" names the next start, and "next month" the one after. "Later" names the start after his date, with the free Starter Path as the fifth email's second option if the timing is a real constraint. The burned version swaps the first two emails and keeps the stake to one line, and the Optimizer's third email recommends the priority tier.
 
-The order is the arc's, so each email stands on the one before: cause before standard, standard before price, the objection after the recommendation it answers, and the date last. All five keep the Dignity Route's limits, because a sequence can't hear who's reading.
+The order is the arc's, so each email stands on the one before it, and all five keep the Dignity Route's limits, because a sequence can't hear who's reading.
 
 If he replies "not for me", the sequence stops and nothing cheaper follows. If he replies "I can't afford it", he gets the Starter Path once and the pause route, and nothing after it carries a price, an offer, or a date. The line you never send is "Last chance: your assessment credit runs out Friday", because a credit is never a deadline. The fifth email returns to the recommendation and closes the loop: "If [Month] isn't right, [Month + 1] starts [date], and it's just as real."
 
 ## Templates: Voice Notes, DM Handoff Lines, and the Paid Session
 
 **Voice-note rules.**
+
 1. One question, answered in a minute or two, opening with his words.
 2. Calm and plain: validation first if he's frustrated, with no hype and no hurry.
 3. One recommendation and the date it depends on; if he hasn't named a date, ask which one he'll decide by.
@@ -317,6 +318,7 @@ If he replies "not for me", the sequence stops and nothing cheaper follows. If h
 This is *Sell directly* at full strength: one recommendation, the price once, both dates, and the link, with the checks left to the checkout. His rota date became his Decision Date, set before the last day to join, which repairs the Now link. If he asks for [$2.5k], the price holds, and he hears again exactly what it buys. The line you never send is "Price goes up soon, lock it in now." At "I can't afford it", the stop rule ends it: the Starter Path once, and the pause route.
 
 The other cases, one line each:
+
 - *Unverified adult:* "Happy to help. Everything starts with a short self-assessment: [link]. You'll get a written result, and I reply to every one myself."
 - *Asking about Private:* "Private starts with a [20]-minute call, because its deliverables are set for you and priced to them. Book here: [link]. The same checks run before any payment."
 - *"I can't afford it":* "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write."
