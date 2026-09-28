@@ -9,6 +9,11 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | ✅ 3.5 passed (7,463 w) |
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
+| 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | — | drafting |
+| 05 | 05-the-door.md | ac25cee9328b86fba | — | drafting |
+| 06 | 06-the-program.md | a7ee757e20232197b | — | drafting |
+| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | — | drafting |
+| 08 | 08-real-dates.md | abac773561fc0f762 | — | drafting |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
