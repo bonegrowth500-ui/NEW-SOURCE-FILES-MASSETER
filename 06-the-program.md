@@ -5,13 +5,15 @@
 
 Picture two starts of 10 clients. Cole and Reid, both composite operators, give their clients the same lessons, the same [habit blocks], and the same price. Reid adds a group chat and "message me anytime". Cole adds a check-in due every Sunday, a written review back by Tuesday whether the week went well or badly, and one live call on Thursdays.
 
-In week 1 you can't tell the starts apart. By week 6 you can: [8] of Cole's 10 are still logging, and Reid can't say how many of his are, because his inbox has gone quiet the way inboxes go quiet when men stop. By week 12 the gap is money. Cole's clients have matched captures and a record to decide from, so the ones with momentum renew and the rest leave knowing why. Reid's clients have the content they owned before they paid, plus a feeling about the mirror.
+In week 1 you can't tell the starts apart. By week 6 you can: [8] of Cole's 10 are still logging. Reid can't say how many of his are, because his inbox has gone quiet the way inboxes go quiet when men stop.
 
-The material never separated the two starts. This module builds the Program, your flagship, around what did: a rhythm of proactive review, a calendar of measurement, seat caps sized by the minutes both cost, and a written path, total cost included, that he reads before he pays.
+By week 12 the gap is money. Cole's clients have matched captures and a record to decide from, so the ones with momentum renew and the rest leave knowing why. Reid's clients have the content they owned before they paid, plus a feeling about the mirror.
+
+The material never separated the two starts. This module builds the Program, your flagship, around what did: proactive review and a calendar of measurement, sized by the minutes they cost. And it puts the whole path, total cost included, in writing before he pays.
 
 ## 1. What the Program Is For, and the Evidence
 
-The Program, your 12-week flagship of weekly review, one live group call, a written week-6 read, and a week-12 re-assessment, is where the business makes its results, its proof, its renewals, and its margin. All four are made or lost in the weekly review, which is why the review is the product and the lessons are packaging.
+The Program, your 12-week flagship, is where the business makes its results, its proof, its renewals, and its margin. It runs on weekly review, one live group call, a written week-6 read, and a week-12 re-assessment, and all four outputs are made or lost in the weekly review. That's why the review is the product and the lessons are packaging.
 
 Dan *(composite, Struggler)*, 24, arrives after about eight months of [his current routine] with nothing measured and a comparison-photo habit. He has never been short of content, because the category has handed him videos, tips by the thousand, and a vocabulary that promised bone. What he has never had is someone reading his record every week and telling him what it says.
 
@@ -27,11 +29,11 @@ The evidence on delivering behavior-change help comes from adjacent fields, prog
 | Monitoring helps moderately, and more when progress is recorded, reported, and reviewed | His logged, reported, reviewed week is the Program's spine |
 | Unguided courses and apps are rarely finished | More content is the one thing he doesn't need |
 
-The weak joint is the transfer. Those trials measured mood scores and weight, while his goals sit in slower, noisier places: habits he holds all day, body composition, how he's photographed. What carries the effect, though, is a person checking whether the work is happening, and there's no obvious reason that mechanism should care what the work is. It's also the one thing a stalled Struggler has never had, which is why the design leans on it while your sales copy never quotes it as a result.
+The weak joint is the transfer. Those trials measured mood and weight, while his goals sit in slower, noisier places: habits he holds all day, body composition, how he's photographed. What carries the effect, though, is a person checking whether the work is happening. There's no obvious reason that mechanism should care what the work is, and it's the one thing a stalled Struggler has never had. That's why the design leans on it, even though your sales copy never quotes it as a result.
 
 ### The weekly review makes four things
 
-The four outputs the business runs on come out of the same weekly loop, so a start that loses the loop loses all four at once. That's why the review gets your best minutes.
+The four outputs the business runs on come out of the same weekly loop, so a start that loses the loop loses all four at once. That's why the review gets your best minutes, and the lesson library gets whatever is left over.
 
 - **Results.** His record is the first result he can hold. Appearance moves slowly, but within two weeks the log shows whether the work is happening, and by week 12 his captures and his markers, the measures he agrees at the start, show what moved.
 - **Proof.** Captures taken to one standard, logs kept on schedule, and consented process testimonials are the proof a skeptic in this category will accept, and they exist only where the weekly loop produced them.
@@ -46,7 +48,7 @@ The Program runs on a weekly rhythm you start, so he never has to ask for contac
 
 In this category, the moment a client most needs contact is the moment he's least likely to ask for it. A man who has missed four days of a program about his face doesn't write to his coach that night. He waits for better news, and silence feels safer than a report, because shame sits close to this work. "Message me anytime" hands the whole burden of contact to the person least able to carry it, which is how Reid's start went quiet.
 
-The mechanism is scheduled, proactive contact. When someone checks whether the work is happening on a schedule the client doesn't control, adjacent programs lose roughly half as many people, while help he has to request adds little. Frequency matters more than volume, so a short contact every week does more than a long one every fortnight. And the check-in doubles as monitoring, which works best when progress is written down, handed to someone, and read.
+The mechanism is scheduled, proactive contact. When someone checks whether the work is happening, on a schedule the client doesn't control, adjacent programs lose roughly half as many people. Help he has to request adds little. Frequency matters more than volume, so a short contact every week does more than a long one every fortnight. And the check-in doubles as monitoring, which works best when progress is written down, handed to someone, and read.
 
 Put those pieces together and the week has a shape. He logs his days and submits one check-in on a fixed day, whatever the week held. You read every log and send a written review within a turnaround you state as a single point, such as [48] hours. Once a week the group meets live. That's the **Review Rhythm**: proactive async review every week, on a stated clock, plus one live group call.
 
@@ -54,32 +56,32 @@ Put those pieces together and the week has a shape. He logs his days and submits
 
 ### Dan's first month shows the rhythm catching a slide
 
-Dan's check-in is due Sunday at [8 pm], and his review arrives by Tuesday at [8 pm], the [48]-hour point in his written terms. In week 1 he logs [6] of [7] days, rates his effort [4] of [5], and the review names one specific thing he did well. Week 3 is different: the log shows [3] of [7] days and one blocker, [warehouse overtime]. Under "message me anytime", this is the week he goes quiet, because a man who has just missed half his week doesn't volunteer it.
+Dan's check-in is due Sunday at [8 pm]. His review arrives by Tuesday at [8 pm], the [48]-hour point in his written terms. In week 1 he logs [6] of [7] days and rates his effort [4] of [5], and the review names one specific thing he did well. Week 3 is different: the log shows [3] of [7] days and one blocker, [warehouse overtime]. Under "message me anytime", this is the week he goes quiet, because a man who has just missed half his week doesn't volunteer it.
 
 Under the rhythm he doesn't have to. The check-in is due whether the week went well or not, and on Tuesday the review reads the misses as information: every one fell on an overtime shift. It moves one [habit block] to [before his shift], leaves everything else alone, and asks one question back. On Thursday's call the group hears the pattern, never his name. In week 4 he logs [6] of [7], and nobody has said a word about his face, because nothing in the record called for it.
 
-State the turnaround as a point, never "within a few days", because a window he can't hold you to isn't a promise, and this one is guaranteed. Pick a point your worst week can keep: somewhere inside 48–72 hours holds even when two starts' milestones land together. The call keeps one fixed time for the same reason, since a rhythm that moves around stops working as one.
+State the turnaround as a point, never "within a few days", because a window he can't hold you to isn't a promise. Yours is a promise, and you guarantee it. Pick a point your worst week can keep: somewhere inside 48–72 hours holds even when two starts' milestones land together. The call keeps one fixed time for the same reason, since a rhythm that moves around stops working as one.
 
 ### The check-in takes minutes to fill and minutes to read
 
-The check-in is the instrument the whole rhythm reads, so design it for two clocks: his, which should stay near [10] minutes a week, and yours, which sets how many seats the Program can hold. Four parts are enough:
+The check-in is the instrument the whole rhythm reads, so design it for two clocks. His should stay near [10] minutes a week, because a longer form gets skipped in exactly the weeks you need it most. Yours sets how many seats the Program can hold. Four parts are enough:
 
 - **The log.** Days done for each planned [habit block], entered daily and submitted weekly.
 - **The blocker.** One line on what got in the way, which is where most stalls here show up as timing or consistency problems.
 - **Two ratings.** Effort, and how well the plan fit his week, each on a [1–5] scale. A plan that fits badly shows up in the second rating a week before it shows up as missed days.
 - **One question.** Answered in writing in the review, which keeps questions from turning into a message stream.
 
-What stays out matters as much: no photos, because appearance is captured on fixed dates and nowhere else, and no health questions. If he volunteers jaw pain, bite trouble, snoring, distress, or an urge to keep checking his face, the review routes him to a referral conversation instead of coaching through it.
+What stays out matters as much: no photos, because appearance is captured on fixed dates and nowhere else, and no health questions. If he volunteers jaw pain, bite trouble, snoring, distress, or an urge to keep checking his face, the review routes him to a referral conversation. It never coaches through it.
 
-The instrument's design sets your minutes. Early, write every review from scratch, because your first clients are teaching you what a good review says and which signs catch a slide; expect about 12–20 minutes per client-week while you learn. After roughly 20 clients, freeze what you've learned into a structured template, and review drops to about 6–10 minutes. Template earlier and you freeze your weakest reviews into the product. The template shortens the writing and never the reading, since every log is still read by you.
+The instrument's design sets your minutes. Early, write every review from scratch, at about 12–20 minutes per client-week, because your first clients are teaching you what a good review says and which signs catch a slide. After roughly 20 clients, freeze what you've learned into a structured template, and review drops to about 6–10 minutes. Template earlier and you freeze your weakest reviews into the product. Either way, the template shortens the writing and never the reading.
 
 ### One live call a week holds the group
 
-The call is the Program's only synchronous hour, so give it a fixed shape. It opens with the week's patterns from the check-ins, no names attached, then one topic and two or three opt-in hot seats on process. It closes with one commitment from each member, reported to you privately afterward; sharing it with the room is his choice, never a requirement. Run one combined call until about 12–15 concurrent clients, then split it by program stage, because past that size a man in week 2 and a man in week 10 need different conversations and the quiet members stop speaking.
+The call is the Program's only synchronous hour, so give it a fixed shape. It opens with the week's patterns from the check-ins, no names attached, then one topic and two or three opt-in hot seats on process. It closes with one commitment from each member, reported to you privately afterward. Sharing it with the room is his choice, never a requirement. Run one combined call until about 12–15 concurrent clients, then split it by program stage, because past that size a man in week 2 and a man in week 10 need different conversations.
 
-Status in the room comes from the record. Members can join under a handle with cameras off, and nobody's photo or face is ever discussed. If the group wants a board, make it opt-in and put logged process on it, such as check-ins on time and days logged, never appearance, and handle the bottom of the board privately in the review. That's how a room of adults who measure instead of guess signals seriousness: through standards anyone in it can meet.
+Status in the room comes from the record. Members can join under a handle with cameras off, and nobody's photo or face is ever discussed. If the group wants a board, make it opt-in and put logged process on it, such as check-ins on time and days logged, never appearance. Handle the bottom of the board privately, in the review. That's how a room of adults who measure instead of guess signals seriousness: through standards anyone in it can meet.
 
-Late entry closes after week 2. Starts run as monthly entry, a new start every month into a standing group (Module 8), so a man who enrolls mid-month joins the running start through week 1–2. Any later and his first reviews land after the call has moved on, while the next start is only weeks away.
+Late entry closes after week 2. Starts run as monthly entry, a new start every month into a standing group (Module 8). A man who enrolls mid-month joins the running start through week 1–2. Any later and his first reviews land after the call has moved on, while the next start is only weeks away.
 
 ## 3. The Measurement Calendar and the Capture Standard
 
@@ -89,19 +91,19 @@ Behavior gets measured every week and appearance only on fixed dates, to one sta
 
 Appearance evidence in this category is slow and confounded. The changes that are real for adults, in body composition, posture habits, and grooming, mostly take months rather than weeks to show in matched captures. They also share the frame with weight swings, haircuts, a tan, and for men in their early 20s, the last of their growth. Frequent checking carries its own cost: in experiments, body checking raised dissatisfaction, and the Struggler arrives with a comparison-photo habit already running.
 
-So measurement runs on two schedules. Behavior is logged daily and reviewed weekly. Appearance is captured to one standard at baseline, around week 6, and at week 12, then quarterly for anyone who stays measured after graduation, and never in between. That's the **Measurement Calendar**, short enough to say in one line:
+So measurement runs on two schedules. Behavior is logged daily and reviewed weekly. Appearance is captured to one standard at baseline, around week 6, and at week 12. After that it's quarterly for anyone who stays measured past graduation, and never in between. That's the **Measurement Calendar**, short enough to say in one line:
 
 **Behavior every week; captures at 0, 6, and 12, then quarterly; nothing in between.**
 
 The "never" does three jobs. It stops a noisy weekly signal from being read as progress or failure. It gives him a reason to retire the daily mirror check, because there's nothing to compare against until the date. And it protects the proof, since an interim photo under a bathroom light is exactly the unmatched before-and-after this category is known for.
 
-Ask every client not to take interim comparison photos, and read a rising urge to check as a cue for a referral conversation, never as a lapse in discipline. A client in Round Two takes its own weeks 6 and 12 as his next dates. A free baseline he took before buying stays on his own device, and the first capture you ever see is the one taken on baseline day.
+Ask every client not to take interim comparison photos. Read a rising urge to check as a cue for a referral conversation, never as a lapse in discipline. A client in Round Two takes its own weeks 6 and 12 as his next dates. A free baseline he took before buying stays on his own device, and the first capture you ever see is the one taken on baseline day.
 
 ### A capture means something only when the conditions match
 
-A photo records its conditions as faithfully as it records his face. A phone held at arm's length enlarges whatever sits nearest the lens, so the nose grows while the jaw and ears recede, and the same phone a few feet away renders proportions close to how people see him across a room. Overhead light carves shadows under the jaw, and a dipped chin or a clenched jaw changes the outline more than months of habits could. Most tells of manufactured proof live in these variables, so the only honest comparison is one where none of them moved.
+A photo records its conditions as faithfully as it records his face. A phone held at arm's length enlarges whatever sits nearest the lens, so the nose grows while the jaw and ears recede. The same phone a few feet away renders proportions close to how people see him across a room. Overhead light carves shadows under the jaw, and a dipped chin or a clenched jaw changes the outline more than months of habits could.
 
-That's the **Capture Standard**: matched distance, lens, angle, light, expression, and time of day, for every capture.
+Most tells of manufactured proof live in these variables, so the only honest comparison is one where none of them moved. That's the **Capture Standard**: matched distance, lens, angle, light, expression, and time of day, for every capture.
 
 | Condition | The standard | What drifts without it |
 |---|---|---|
@@ -112,19 +114,19 @@ That's the **Capture Standard**: matched distance, lens, angle, light, expressio
 | Expression | Neutral, lips together, jaw relaxed, no flexing | Flexing and smiling change the outline |
 | Time of day | The same [hour], with grooming noted | Faces look puffier at some hours; hair and stubble change the frame |
 
-Keep every original, unedited and unfiltered, with its date and conditions written down, which the Integrity Levels, three levels of before-and-after discipline, require of anything you later publish (Module 16). When you compare captures at the milestones, check the conditions first and the changeable column second, meaning the Outcome Map's list of what adults can change and measure (Module 3). Never read structure: no lines drawn on his face, no angles measured, no score.
+Keep every original, unedited and unfiltered, with its date and conditions written down. The Integrity Levels, three levels of before-and-after discipline, require that of anything you later publish (Module 16). When you compare captures at the milestones, check the conditions first and the changeable column second. That column is the Outcome Map's list of what adults can change and measure (Module 3), and structure isn't on it. So never read structure: no lines drawn on his face, no angles measured, no score.
 
 ### Privacy is part of delivery
 
-Captures are the most sensitive thing he gives you, and in this category the easiest to screenshot. So you're the only one who sees them: never the group, never an editor or the helper who moderates your comments, never a tool that isn't needed to store them. Cohorts are pseudonymous and camera-optional, because the Optimizer who hates being seen in a program and the Struggler who doesn't want his handle tied to his face both need a room they'll use. Fit-check and health-adjacent answers stay out of anything marketing touches, and anything is deleted on request.
+Captures are the most sensitive thing he gives you, and in this category the easiest to screenshot. So you're the only one who sees them: never the group, never an editor or the helper who moderates your comments, never a tool that isn't needed to store them. Cohorts are pseudonymous and camera-optional. The Optimizer who hates being seen in a program and the Struggler who doesn't want his handle tied to his face both need a room they'll use. Fit-check and health-adjacent answers stay out of anything marketing touches, and anything is deleted on request.
 
 The tools, retention rules, and consent behind those promises are operations, built with the rest of your week's systems (Module 11). What the client experiences is simpler, and it's the sentence to put in writing: nobody but his reviewer ever sees his face.
 
 ## 4. Before Payment: The Path and Timeline Card and the Expectation Document
 
-Before he pays, he reads the whole path, what it's likely to cost him in total, and how his reviews are made, because calibration is margin. Satisfaction follows results measured against expectations, so the same record reads as success to a man who expected habits and as failure to a man who expected a new jaw. A client who expected visible change by week 6 quits at the first flat capture, and every surprise after payment comes back as a refund, a dispute, or a screenshot.
+Before he pays, he reads the whole path, what it's likely to cost him in total, and how his reviews are made, because calibration is margin. Satisfaction follows results measured against expectations. The same record reads as success to a man who expected habits and as failure to a man who expected a new jaw. A client who expected visible change by week 6 quits at the first flat capture, and every surprise after payment comes back as a refund, a dispute, or a screenshot.
 
-Calibration means accuracy, not modesty. You state what the Program reliably delivers with full conviction and what it doesn't just as plainly, in two documents: a one-page card he can read in a minute, and the fuller terms he signs once he's in.
+Calibration means accuracy, not modesty. You state what the Program reliably delivers with full conviction, and what it doesn't just as plainly. That takes two documents: a one-page card he can read in a minute, and the fuller terms he signs once he's in.
 
 ### The Path and Timeline Card states the path with conviction
 
@@ -139,15 +141,15 @@ The **Path and Timeline Card** is one page sent before payment. It answers the f
 
 The Expectation Document, the fuller written terms of the work, goes out with the Path and Timeline Card before payment and is signed after. It holds five things: the time commitment; what can and can't move for him, sorted by the Outcome Map's columns; plateaus, announced in advance; his markers and what "moved" will mean; and how reviews are made.
 
-The last item is the one operators skip and skeptics look for first. It says that you read every log yourself and write or approve every review from a structured template. It names which tools help and with what, such as summarizing his daily entries, and states that no tool touches a check-in without his consent or ever writes to him as you. It says who routes messages and that no tool, editor, or helper ever sees his captures or health-adjacent answers. And it gives the turnaround as one point: "within [48] hours of your check-in".
+The last item is the one operators skip and skeptics look for first. It says that you read every log yourself and write or approve every review from a structured template. It names which tools help, such as summarizing his daily entries, and says no tool touches a check-in without his consent or writes to him as you. It says who routes messages, and that no tool, editor, or helper ever sees his captures or health-adjacent answers. And it gives the turnaround as one point: "within [48] hours of your check-in".
 
-Disclosure comes first because the facts land differently afterward. A client who learns after paying that software drafted part of his reviews feels deceived even if the reviews were good, which fails the Informed-Client Test's ceiling, whether he'd still endorse what you did knowing everything (Intro). Disclosed before he pays, the same facts read as a standard.
+Disclosure comes first because the facts land differently afterward. A client who learns after paying that software drafted part of his reviews feels deceived, even if the reviews were good. That fails the Informed-Client Test's ceiling, whether he'd still endorse what you did knowing everything (Intro). Disclosed before he pays, the same facts read as a standard.
 
-Signing comes after payment for the opposite reason: signed before, the document would be a closing device. Signed on baseline day, it's the first act of the work, and it never conditions his refund rights. Around it sits follow-through psychology with its own design: the Commit Ritual, the review and decision that open the Program, and the First-14, a win he can verify inside two weeks. The Plateau Plan announces plateaus in advance, which is why the document carries a plateau clause: a flat week 5 then reads as scheduled, never as failure (Module 21).
+Signing comes after payment for the opposite reason: signed before, the document would be a closing device. Signed on baseline day, it's the first act of the work, and it never conditions his refund rights. Around it sits follow-through psychology with its own design. The Commit Ritual, the review and decision that open the Program, comes first, and the First-14 builds a win he can verify inside two weeks. The Plateau Plan announces plateaus in advance, which is why the document carries a plateau clause: a flat week 5 then reads as scheduled, never as failure (Module 21).
 
 ### The sample weekly review shows the product before he buys
 
-A skeptic's real question is what the weekly review looks like, so show him one. The sample weekly review is half of the verification kit, the sample plan and sample review a skeptic inspects before buying (Module 5), written as a labeled composite in the exact format.
+A skeptic's real question is what the weekly review looks like, so show him one. The sample weekly review is half of the verification kit, the sample plan and sample review a skeptic inspects before buying (Module 5). Write it as a labeled composite in the exact format.
 
 > *Sample weekly review, composite client, real format. Week [4] · [handle] · check-in received [Sunday 8:40 pm] · review sent [Tuesday 7:15 am], inside the [48]-hour turnaround.*
 >
@@ -165,19 +167,19 @@ A skeptic's real question is what the weekly review looks like, so show him one.
 >
 > *I read your full log and wrote this review from our template. [Tool] summarized your daily entries into the Logged line. Nobody else sees your check-ins or captures.*
 
-What never appears in a review is part of the sample too: no comment on his face, no reading of a photo, no guess about bone. For Theo *(composite, Burned Struggler)*, 26, who verifies everything, this page decides it, because it shows him exactly what he'd be buying. His "I need to think" is due diligence, so support it: send the kit, the Path and Timeline Card, and the Expectation Document, recommend the Program once and firmly, and let him choose his date.
+What never appears in a review is part of the sample too: no comment on his face, no reading of a photo, no guess about bone. For Theo *(composite, Burned Struggler)*, 26, who verifies everything, this page decides it, because it shows him exactly what he'd be buying. His "I need to think" is due diligence, so support it. Send the kit, the Path and Timeline Card, and the Expectation Document, recommend the Program once and firmly, and let him choose his date.
 
 ## 5. Milestones and Markers
 
-Four milestones break up the weekly rhythm: baseline day, the week-6 read, the week-12 re-assessment, and graduation. Each is a written deliverable with a date, because a milestone he can't hold in his hand is one you'll skip on a busy week.
+The Program's four milestones are written deliverables with dates, because a milestone he can't hold in his hand is one you'll skip on a busy week. They are baseline day, the week-6 read, the week-12 re-assessment, and graduation, and each one breaks up the weekly rhythm with a decision.
 
 ### Baseline day starts the record
 
-Baseline day, the first review-and-decision ritual, falls in the first days after payment. It produces four things: his first capture to the standard, seen only by you; his first log week, set against [his habit blocks]; his markers with their thresholds; and the signed Expectation Document. Get it exactly right, because every later read is compared against this day, and a baseline shot under the wrong light or a vague marker can't be repaired at week 12.
+Baseline day, the first review-and-decision ritual, falls in the first days after payment. It produces four things: his first capture to the standard, seen only by you; his first log week, set against [his habit blocks]; his markers with their thresholds; and the signed Expectation Document. Get it exactly right, because every later read is compared against this day. A baseline shot under the wrong light, or a vague marker, can't be repaired at week 12.
 
 ### Markers are built to be collected
 
-Markers are pre-agreed measures from the changeable column, with thresholds set at baseline, that say whether the work moved anything. They feed the week-12 non-response clause, a partial cash refund when markers stay flat despite effort. That clause is one layer of the Layered Guarantee, the promises you make on what you control, and every layer must pass the Collectability Test: could a client who did the work actually collect (Module 7)? So a marker is a contract term, and it has to read the same to him, to you, and to a stranger.
+Markers are pre-agreed measures from the changeable column, with thresholds set at baseline, that say whether the work moved anything. They feed the week-12 non-response clause, a partial cash refund when markers stay flat despite effort. That clause is one layer of the Layered Guarantee, the promises you make on what you control. Every layer must pass the Collectability Test: could a client who did the work actually collect (Module 7)? So a marker is a contract term, and it has to read the same to him, to you, and to a stranger.
 
 **Marker rule: changeable column, threshold at baseline, never adherence alone, never appearance.**
 
@@ -188,27 +190,31 @@ Markers are pre-agreed measures from the changeable column, with thresholds set 
 5. **Never appearance change.** No marker reads a photo, a jawline, or a profile. Jaw change from habits is debated and your eye would settle the claim, so an appearance marker is a structural guarantee through the back door.
 6. **A few per client, from his goal.** At least one should be something he can clearly move in 12 weeks by doing the work, so the sheet tests the plan and not his luck.
 
-Here's a sheet that passes. Dan's markers are [habit marker], [2] of [10] spot-checks at baseline with a threshold of [7] of [10]; [body-composition measure], baseline [x], threshold [x − y]; and [presentation marker], baseline [no], threshold [yes]. His adherence condition is [80]% of check-ins and [75]% of days logged, and "moved" means [two] of [three] markers at threshold at week 12. Anyone holding his records could score it. A sheet that fails reads "jawline visibly sharper by week 12", which is appearance settled by your eye; "log [70] of [84] days", which is adherence alone; and "more confident", which has no measure at all.
+Here's a sheet that passes. Dan's markers are [habit marker], [2] of [10] spot-checks at baseline with a threshold of [7] of [10]; [body-composition measure], baseline [x], threshold [x − y]; and [presentation marker], baseline [no], threshold [yes]. His adherence condition is [80]% of check-ins and [75]% of days logged. "Moved" means [two] of [three] markers at threshold at week 12, and anyone holding his records could score it.
+
+A sheet that fails reads "jawline visibly sharper by week 12", which only your eye could settle. It adds "log [70] of [84] days", which is adherence alone and can't fail, and "more confident", which has no measure at all. Each of the three would turn the clause into an argument.
 
 ### The week-6 read asks the verdict question first
 
-The week-6 read, the written mid-program read, keeps the Program honest because it asks the verdict question first: given your adherence, is the lever moving? It reads his process markers, meaning check-ins and logged days, then the early changeable-column signals and the week-6 capture, checked against baseline for matched conditions. It lands, in writing, on one of four outcomes: adjust one lever, hold the plan, refer him out, or the exit right, a pro-rata refund of undelivered weeks for a client who did the work and wants to stop. It arrives inside the usual turnaround, because a late read teaches him the milestones are soft.
+The week-6 read, the written mid-program read, keeps the Program honest because it asks the verdict question first: given your adherence, is the lever moving? It reads his process markers, meaning check-ins and logged days, then the early changeable-column signals and the week-6 capture, checked against baseline for matched conditions. It lands, in writing, on one of four outcomes: adjust one lever, hold the plan, refer him out, or the exit right. The exit right is a pro-rata refund of undelivered weeks for a client who did the work and wants to stop. The read arrives inside the usual turnaround, because a late read teaches him the milestones are soft.
 
 **When the signals disagree.** Say a client's logs are near-perfect, [~95]% of days, and every marker sits at baseline at week 6. The work happened and nothing moved, so check three things in order. First the measurement: did capture conditions drift, was each marker measured the same way both times, and was a threshold unrealistic for six weeks? Second the direction: was the lever right for his goal? If the plan was misdirected, adjust one lever and say in writing that the miss was yours.
 
-Third, if the measurement holds and the direction was sound, the lever may simply not move for him, the last of the Stall Verdicts, the three honest reasons a stall happens (Module 14). Week 6 doesn't settle that: the adjusted plan runs, and week 12 decides with the clause ready. What you never do is search his photos for a change the markers didn't show, stretch the Program to postpone the verdict, or blame his consistency.
+Third, if the measurement holds and the direction was sound, the lever may simply not move for him. That's the last of the Stall Verdicts, the three honest reasons a stall happens (Module 14). Week 6 doesn't settle it: the adjusted plan runs, and week 12 decides with the clause ready. What you never do is search his photos for a change the markers didn't show, stretch the Program to postpone the verdict, or blame his consistency.
 
 ### The week-12 re-assessment ends in a verdict
 
-The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side, scores every marker against its threshold, and writes the verdict: what moved, what didn't, and what he should do next. The next step comes from the record, never from your quota. With measured momentum, Round Two may be offered. With markers moved and habits holding, he's told plainly that he doesn't need it, and the Hold is there if he wants the quarterly re-capture. With markers flat despite adherence at or above the agreed condition, the non-response clause pays, the verdict says so, and nothing is offered.
+The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side and scores every marker against its threshold. Then it writes the verdict: what moved, what didn't, and what he should do next. The next step comes from the record, never from your quota.
+
+With measured momentum, Round Two may be offered. With markers moved and habits holding, he's told plainly that he doesn't need it, and the Hold is there if he wants the quarterly re-capture. With markers flat despite adherence at or above the agreed condition, the non-response clause pays, the verdict says so, and nothing is offered.
 
 ### Graduation hands him his record
 
-Graduation, the week-12 finish into alumni status, is a deliverable like the others. He receives his whole record in a form he keeps: every capture with its conditions, his logs, the scored marker sheet, the re-assessment, and his next capture date, [a quarterly date he keeps with you in the Hold or on his own]. A graduate who owns his record can keep measuring without you, and that's the promise you sold him, delivered.
+Graduation, the week-12 finish into alumni status, is a deliverable like the others. He receives his whole record in a form he keeps: every capture with its conditions, his logs, the scored marker sheet, and the re-assessment. It ends with his next capture date, [a quarterly date he keeps with you in the Hold or on his own]. A graduate who owns his record can keep measuring without you, and that's the promise you sold him, delivered.
 
 ## 6. Seat Math and the Container
 
-The Program's capacity is a number you calculate every month from measured minutes, and its length is a choice with a default. Both decide whether the review stays good as the business grows.
+The Program's capacity is a number you calculate every month from measured minutes, and its length is a choice with a default. Both decide whether the review stays good as the business grows. Get either wrong and the first thing to go is the turnaround you promised.
 
 ### Seat Math turns minutes into caps
 
@@ -216,11 +222,11 @@ Seat Math, the seat caps for the Program, Round Two, the Hold, and Private, set 
 
 **Program seats = care minutes left after the fixed lines ÷ minutes per client-week.**
 
-Run it in four steps. Start with the care hours your designed week allows for reading logs, comparing captures, and writing reads, about 9–10.5 once you're Growing, set so client work can't eat your protected content hours. Subtract the fixed lines: the group calls at about 2 hours, then the Hold and any Private seat, each from its own measured minutes. Divide what's left by one Program client-week, meaning review minutes plus milestone time spread over the 12 weeks, to get concurrent seats. Divide by three for the monthly start cap, since each client stays 12 weeks and a start opens every month.
+Start with the care hours your designed week allows for reading logs, comparing captures, and writing reads: about 9–10.5 once you're Growing, set so client work can't eat your content hours. Subtract the fixed lines: the group calls at about 2 hours, then the Hold and any Private seat, each from its own measured minutes. Divide what's left by one Program client-week, meaning review minutes plus milestone time spread over the 12 weeks, to get concurrent seats. Divide that by three for the monthly start cap, since each client stays 12 weeks and a start opens every month.
 
-At Growing, that looks like this: [615] care minutes a week, less [120] for calls, [15] for the Hold, and [30] for one Private seat, leaves [450]. At [10] minutes of review and [5] of milestones per client-week, that's [30] concurrent seats and a cap of [10] a month, the top of the Growing range of about 25–30 concurrent and 8–10 new enrollments. Template review toward 6–10 minutes, and the same hours hold about 40–45 concurrent at Scaling, where all-in care runs about 13–15 minutes.
+At Growing, that looks like this: [615] care minutes a week, less [120] for calls, [15] for the Hold, and [30] for one Private seat, leaves [450]. At [10] minutes of review and [5] of milestones per client-week, that's [30] concurrent seats and a cap of [10] a month. That's the top of the Growing range, about 25–30 concurrent and 8–10 new enrollments. Template review toward 6–10 minutes, and the same hours hold about 40–45 concurrent at Scaling, where all-in care runs about 13–15 minutes.
 
-The back-end caps come from their own lines: Round Two's biweekly reviews, the Hold's quarterly written reviews, and a Private seat's fixed deliverables. When a line is full, the offer waits however much a buyer wants it, because the service guarantee, your promise on turnaround and milestones, covers Hold and Private deliverables too. Private sells only while minutes are spare, and at Scaling only when it earns at least what a Program seat earns per care hour. Recalculate on the first of each month from last month's measured minutes, so that when review time per client creeps up, the cap drops before the turnaround slips.
+The back-end caps come from their own lines: Round Two's biweekly reviews, the Hold's quarterly written reviews, and a Private seat's fixed deliverables. When a line is full, the offer waits, however much a buyer wants it. The reason is the service guarantee, your promise on turnaround and milestones, which covers Hold and Private deliverables too. Private sells only while minutes are spare, and at Scaling only when it earns at least what a Program seat earns per care hour. Recalculate on the first of each month from last month's measured minutes, so the cap drops before the turnaround slips.
 
 ### A 12-week container is the default
 
@@ -231,11 +237,15 @@ The back-end caps come from their own lines: Round Two's biweekly reviews, the H
 | 6 months | Clients reliably need the half-year and the price still fits the cash ceiling | Roughly double the first price, a long sag in the middle, and months some clients don't need |
 | Async-only | Price must pass the cash ceiling, or a buyer can't make a live call | No live call, so less belonging for the men who need the room |
 
-**Default: 12 weeks.** It holds two matched capture intervals, a written read at the midpoint with six weeks left to act on it, and a first price inside the cash ceiling, about 1–1.25 months of a young employed buyer's take-home. Habits take anywhere from days to most of a year to become automatic, and Round Two and the Hold carry that spread for the men whose records call for it, while the rest are told they're done. Switch when the Program's price must pass about $3.2k, where it meets the cash ceiling for buyers in their early 20s: add async-only as Program Async, the same review without the live call, as a real tier under that ceiling (Module 13).
+**Default: 12 weeks.** It holds two matched capture intervals and a midpoint read with six weeks left to act on it. Its first price fits inside the cash ceiling, about 1–1.25 months of a young employed buyer's take-home. Habits take anywhere from days to most of a year to become automatic, so Round Two and the Hold carry the months after for the men whose records call for it.
+
+Switch when the Program's price must pass about $3.2k, where it meets the cash ceiling for buyers in their early 20s. At that point, add async-only as Program Async, the same review without the live call, as a real tier under the ceiling (Module 13).
 
 ## Worked Example: Cole's [April] Start, 10 Clients Through 12 Weeks
 
-Cole (composite operator) is Growing, with about [30] concurrent clients across three monthly starts, review templated at about [10] minutes per client-week, and two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill. Among the 10 are Dan; Theo, who chose his own date after reading the verification kit; Adrian *(composite, Optimizer)*, 31, who joins under a handle with his camera off; and Sam *(composite, Ambivalent)*, 22, who enrolled in the gap before his busy season. All 10 read the Path and Timeline Card and the Expectation Document before paying.
+Cole (composite operator) is Growing, with about [30] concurrent clients across three monthly starts. His review is templated at about [10] minutes per client-week, and he runs two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill.
+
+Dan is among the 10, and so is Theo, who chose his own date after reading the verification kit. Adrian *(composite, Optimizer)*, 31, joins under a handle with his camera off, and Sam *(composite, Ambivalent)*, 22, enrolled in the gap before his busy season. All 10 read the Path and Timeline Card and the Expectation Document before paying.
 
 | Weeks | What each client receives | Cole's minutes for the 10 |
 |---|---|---|
@@ -249,15 +259,15 @@ Cole (composite operator) is Growing, with about [30] concurrent clients across 
 
 **Week 0. A capture retaken.** Adrian's first set arrives shot at arm's length under a ceiling light. Cole's baseline notes name the two conditions and resend the standard, and a matched set comes back the next evening. Every later comparison rests on that set, so those extra [10] minutes protect everything after them. By week 3, [four] clients have opted into the process board under their handles, ranked on check-ins on time and days logged, and nobody's face appears anywhere in the group.
 
-**Week 6. An exit right.** Sam's busy season arrives [a month] early. He has submitted every check-in and logged [~85]% of days, and his read comes back "moving, hold", but he asks to stop. Cole processes the pro-rata refund of the undelivered weeks, about half the price, within [three] days, with no re-pitch and no quoting of the reasons Sam wrote on baseline day. Sam leaves with his record so far.
+**Week 6. An exit right.** Sam's busy season arrives [a month] early. He has submitted every check-in and logged [~85]% of days, and his read comes back "moving, hold", but he asks to stop. Cole processes the pro-rata refund of the undelivered weeks, about half the price, within [three] days. There's no re-pitch, nobody quotes back the reasons Sam wrote on baseline day, and he leaves with his record so far.
 
 **Week 6. A flat read.** Theo has logged [~95]% of days, and every marker sits at baseline. Cole runs the checks in order. The captures match, each marker was measured the same way, and the thresholds were fair for six weeks. That leaves direction, so the read adjusts one lever, [second adjustment], and says in writing that week 12 will decide.
 
-**Week 12. Nine verdicts.** [Six] clients' markers pass their thresholds and [two] pass partly. Theo's stay flat with adherence above the agreed condition, so the non-response clause pays him [25–50]% of the price in cash within [five] days. His verdict says the lever doesn't move for him and names the habits worth keeping anyway, and nothing is offered.
+**Week 12. Nine verdicts.** [Six] clients' markers pass their thresholds and [two] pass partly. Theo's stay flat with adherence above the agreed condition, so the non-response clause pays him [25–50]% of the price in cash within [five] days. His verdict says the lever doesn't move for him and names the habits worth keeping anyway, and nothing is offered. He still graduates with his full record, because he did everything the Program asked.
 
-Of the eight graduates, [four] have momentum that more review would carry and are offered Round Two, and [one] takes it. [Three], Dan among them, are told plainly they don't need it: his [habit marker] went from [2] to [8] of [10] spot-checks, [two] of his three markers cleared threshold, and the habits now run without prompting. Cole recommends the Hold to Dan for its quarterly re-capture and asks; Dan takes it, as do [two] others.
+Of the other eight, [four] have momentum that more review would carry and are offered Round Two, and [one] takes it. [Three], Dan among them, are told plainly they don't need it. Dan's [habit marker] went from [2] to [8] of [10] spot-checks, [two] of his three markers cleared threshold, and the habits now run without prompting. Cole recommends the Hold to Dan for its quarterly re-capture and asks; Dan takes it, as do [two] others.
 
-**What it shows.** The start cost Cole about [36] hours, roughly [19] minutes per client-week, inside the Growing range of about 18–20, which is why his Seat Math can promise [10] seats and still keep the turnaround. Two refunds went out without an argument, because the exit terms and the markers were written before anyone paid. Theo's flat record will sit in the non-responder share Cole publishes at 30 graduates, beside the ones that moved.
+**What it shows.** The start cost Cole about [36] hours, roughly [19] minutes per client-week and inside the Growing range of about 18–20, so his Seat Math can promise [10] seats and keep the turnaround. Two refunds went out without an argument, because the exit terms and the markers were written before anyone paid. Theo's flat record joins the non-responder share Cole publishes at 30 graduates.
 
 ## Templates: The Check-In Form and the Marker Sheet
 
@@ -325,11 +335,11 @@ Run it on the first of each month from last month's measured minutes. If line 4 
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** What binds is the instrument itself: the check-in, Capture Standard, and review template don't exist until the founding group, every founding client in one group from the first, builds them. Review it at a one-to-one level while it has fewer than about four members, at about 30–35 care minutes per client-week. The trap is a Path and Timeline Card with a hole where Round Two and the Hold should be; price both on it before anyone pays.
+**Early.** What binds is the instrument itself. The check-in, Capture Standard, and review template don't exist until the founding group, every founding client in one group from the first, builds them. Review it at a one-to-one level while it has fewer than about four members, at about 30–35 care minutes per client-week. The trap is a Path and Timeline Card with a hole where Round Two and the Hold should be; price both on it before anyone pays.
 
 **Growing.** Care minutes start to bind as starts stack, and turnaround slips first. Template review after about 20 clients, split the call by program stage at about 12–15 concurrent, and run Seat Math monthly to hold all-in care near 18–20 minutes. The trap is selling one more seat by stretching the turnaround you promised; cap the start instead.
 
-**Scaling.** At about 13–15 all-in minutes, review can get too thin to keep men logging, so let price carry the margin, and when the Program must pass the cash ceiling, run Program Async under it. The trap is letting Program Async become the Program minus the care, when it's the same review without the call.
+**Scaling.** At about 13–15 all-in minutes, review can get too thin to keep men logging, so let price carry the margin. When the Program must pass the cash ceiling, run Program Async under it. The trap is letting Program Async become the Program minus the care, when it's the same review without the call.
 
 ## Standard Check
 
@@ -370,4 +380,4 @@ Run it on the first of each month from last month's measured minutes. If line 4 
 
 **Leans on:** the Commit Ritual, the First-14, and the Plateau Plan (Module 21) · the Layered Guarantee and the Collectability Test (Module 7) · Integrity Levels (Module 16) · monthly entry (Module 8) · Program Async (Module 13).
 
-**Do this month:** write your check-in form and Capture Standard and run both on your next client; draft your Path and Timeline Card and Expectation Document, including how reviews are made; run Seat Math on last month's measured minutes and state the next start's cap.
+**Do this month:** write your check-in form and Capture Standard and use both with your next client; draft your Path and Timeline Card and Expectation Document; run Seat Math on last month's minutes and state the next start's cap.

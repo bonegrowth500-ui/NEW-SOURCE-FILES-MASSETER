@@ -210,6 +210,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Habit automaticity | Median ~2 months; range from days to most of a year | Behavior complexity. **Never used to time outcomes** | EV (M) |
 | Unguided completion | Very low (MOOCs ~3% overall; apps ~4% retained at day 15). Paying/verified MOOC learners ~46% (selection + commitment) | Human touch; deadlines; payment | EV (S/M) |
 | Working alliance ↔ outcome | r≈.3 | — | EV (S) |
+| Markers per client | 2–3 pre-agreed changeable-column markers, thresholds set at baseline (never adherence alone, never appearance change) | Goal; what his record can measure | RULE |
+| Client check-in time | ~10 minutes a week to complete the weekly check-in | Instrument length; templates | RULE (D) |
 | One combined group call | Until ~12–15 concurrent clients, then split by stage | — | RULE |
 | Late entry into a running cohort | Through week 1–2 | — | RULE |
 | Appearance capture cadence | Baseline, ~week 6, week 12, then quarterly. Behavior logged and reviewed weekly. The free pre-purchase baseline stays on his device | — | RULE |

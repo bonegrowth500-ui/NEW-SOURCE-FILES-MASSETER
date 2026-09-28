@@ -11,7 +11,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | — | drafting |
 | 05 | 05-the-door.md | ac25cee9328b86fba | — | drafting |
-| 06 | 06-the-program.md | a7ee757e20232197b | — | drafting |
+| 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | draft done (7,530 w) → critique |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | — | drafting |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | draft done (7,298 w) → critique |
 
@@ -38,3 +38,6 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - 02 integration note: 01 and 03 should recap Dan's door answer, the say-back, and Theo's route rather than re-run them.
 - R2 (from 08): deferral evidence downgraded to contested (choice-conflict replications failed; a key deadline study retracted in 2026). New LEDGER E row; THESES P10 and persuasion SYNTHESIS T14 annotated. Real dates rest on honesty and planning, never on a deferral effect. Fresh-start evidence is for starting a goal, not purchase timing.
 - R2: FRAMEWORKS Launch Line definition now has all five conditions (matches STANDARD §6 and HOUSE_STANDARD).
+- R2 (from 06): LEDGER D additions approved: markers per client 2–3 (RULE); client check-in time ~10 min/week (RULE D).
+- R2: marker DESIGN is owned by 06 (MAP/FRAMEWORKS win over DECISIONS R2 wording); 07 owns the clauses and runs the Collectability Test on the markers.
+- R2: Round Two re-captures follow Round Two's own weeks 6 and 12; everyone else goes quarterly after week 12.
