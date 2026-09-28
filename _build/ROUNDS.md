@@ -22,7 +22,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 14 | 14-the-belief-chain.md | a89abc2dfc2ee7182 | — | drafting |
 | 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | — | drafting |
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | — | drafting |
-| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | — | drafting |
+| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | draft done (7,582 w) → critique |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -82,3 +82,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (09 final): FRAMEWORKS Founding Sprint definition updated: five booking-source labels (warm network, replies, Permission-First Replies, native short-form, long-form and search); the founding page and speed to lead serve all sources. Round Two's first cohort = founding graduates (Early).
 - Integration: 01 sends Cole's [40] warm messages in month 2; 09 has them in weeks 1–2. Harmonize in 4.3.
 - R3 round (12 final): Price Step gate: close rate read over the 30 held conversations since the last step landed; until 30 exist, filling starts carry the step alone; one readable window below range holds the next announcement, two send the work to the call. Call Cap fires on volume (most weeks > 6–8 held, selling eating content); show rate/no-fit at lower volume = fix screening (05), not a cap. LEDGER B and C updated; Modules 01 (checklist item 4), 05 (§3 and Stage Notes), 07 (§3 and worksheet) aligned.
+- R4 round (from 17): FRAMEWORKS Week-Zero Baseline covers no-call buyers (first seven logged days). Integration: 04 §5 says a baseline 'taken while he waited' counts, but 05 moved capture instructions to the recap/plan; harmonize in 4.3.

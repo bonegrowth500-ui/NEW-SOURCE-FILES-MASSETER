@@ -124,7 +124,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ◆ | **The Four Stories** | Origin, Stall Told Back, Transition, Case, each with its context | new | 16 | 18, 19 |
 | ★ | **Adults Who Measure** | "Adults who measure instead of guess": membership is the practice (logs kept, captures on schedule, decisions from the record) | new | 17 | 21, 22, 23 |
 | ◆ | **Let Him Succeed Before He Pays** | A free 7-day behavior log while he waits for his conversation: mastery before money | new | 17 | 05, 20 |
-| ◆ | **The Week-Zero Baseline** | His pre-purchase log (and his own-device baseline) becomes week zero; his DIY months become data | new | 17 | 05, 04 |
+| ◆ | **The Week-Zero Baseline** | His pre-purchase log (and his own-device baseline) becomes week zero, or, for a buyer who enrolls without a call, his first seven logged days; his DIY months become data | new | 17 | 05, 04 |
 | ◆ | **Quiet Commitments** | Commitments go to the reviewer and stay private by default. Sharing and process leaderboards are opt-in, inside the closed cohort | new | 17 | 10, 21 |
 
 ### Part V — Selling and Transformation
