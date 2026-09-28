@@ -338,10 +338,10 @@ The other cases, one line each:
 
 ## Standard Check
 
-- **Selling by message.** The DM Handoff gives a verified adult one recommendation and a checkout link, *Sell directly* at full strength, while an unverified contact gets the door and Private gets a call. The attestation, the affordability question, and the Fit Check still run before the pay button, which holds the line on vulnerability.
+- **Selling by message.** The DM Handoff sells a verified adult directly, with one recommendation and a checkout link (*Sell directly* at full strength), while unverified contacts get the door. The attestation, the question, and the Fit Check still run before the pay button, which holds the line on vulnerability.
 - **Dates in every send.** Each email names the start and its last day to join, runs on his clock, skips paused leads, and never mentions a credit: *Use real dates*, with the line on fake scarcity kept.
 - **Branches that store nothing.** The result page computes its branches as it loads, no tag holds a fit or insecurity answer, and every automated asset keeps the Dignity Route's stakes (*Name the stakes*).
-- **Your voice, labeled.** Every voice note is yours and ends in one recommendation and his date (*Close*). The walkthrough carries its recording date and the paid session says what it is, so neither crosses the line on fake scarcity.
+- **Your voice, labeled.** Every voice note is yours and ends in one recommendation and his date (*Close*), and the walkthrough and the paid session say plainly what they are, clear of the line on fake scarcity.
 
 ## Quick Reference
 
@@ -349,8 +349,8 @@ The other cases, one line each:
 
 **Takeaways**
 - The Async Arc runs seven beats in the call's order: his stall, a better cause, your standard, one recommendation, the price, the ask, a real date.
-- The result page is the first sales conversation: his stall in his words, a provisional cause, your standard, one rung with its price and dates, and one step. Its branches are computed as it loads, and only four tags are kept.
-- Five emails run cause, standard, recommendation and price, objection, and date, each within the Dignity Route's limits, with both dates, a stop at any no, and no send to a paused lead.
+- The result page answers in that order, from his stall in his words to one rung with its price and dates, and its branches are computed as it loads.
+- Five emails run cause, standard, price, objection, and date, with both dates in each and none to a paused lead.
 - A call earns its hour when lift × price ÷ call-hours beats the hour's alternative; Private and stop-rule conversations get one regardless.
 
 **Who gets what**
