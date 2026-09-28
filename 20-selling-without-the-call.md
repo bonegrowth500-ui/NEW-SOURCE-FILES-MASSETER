@@ -257,11 +257,11 @@ Whatever you decide: [the free 7-day log]. If you join, it's your week zero.
 Email: [frequency]; one click to leave.
 ```
 
-- **Burned.** Open the page with the kit: "Check us first: [a sample plan that says 'don't buy'] · [a sample weekly review] · [the guarantee terms] · [the Verify Page, with your recommendation mix after about 30 assessments]." End the recommendation with "Your date is yours" and the next two starts, both dates each, with a free slot below.
+- **Burned.** Open with the kit: "Check us first: [a sample plan that says 'don't buy'] · [a sample weekly review] · [the guarantee terms] · [the Verify Page, with the recommendation mix after about 30 assessments]." End with "Your date is yours", both starts with both dates, and a free slot.
 - **Dignity, worked out as the page loads and never stored.** Open with "That's a hard way to feel, and it makes sense after months without an answer." Add the Canon's "Behavior gets measured every week; appearance gets captured rarely, the same way every time." Keep every other line, his answers included, off photos, and end at "In 12 weeks you'd know instead of guessing."
-- **Optimizer.** The recommendation becomes "[Priority assessment], $[350–600]: your written plan within [48 hours], with a recorded walkthrough of it", plus "Only I see your photos; calls are camera-optional; billing reads [Brand]."
-- **Ambivalent.** Above the recommendation: "A question only you can answer: if the next [season] looks like the last one, what does it cost you in time and guessing?" Name the start after his date beside the next one.
-- **Referral first.** At the top: "Before anything else, it's worth asking [a dentist or doctor] about [what you described]. I'll write to you today." Payment waits for that note.
+- **Optimizer.** The recommendation becomes "[Priority assessment], $[350–600]: your written plan within [48 hours], with a recorded walkthrough", plus "Only I see your photos; calls are camera-optional; billing reads [Brand]."
+- **Ambivalent.** Above the recommendation: "A question only you can answer: if the next [season] looks like the last one, what does it cost you in time and guessing?"
+- **Referral first.** At the top: "Before anything else, ask [a dentist or doctor] about [what you described]. I'll write to you today." Payment waits for that note.
 - **Paused.** Below the header, only: "[A plain line.] Help: [resources]. To talk, reply, and I'll answer personally. Free reading: [articles with no offer, price, date, or capture tool]."
 
 **The walkthrough outline.** Seven segments, recorded separately; his answers pick the branches as the page loads.

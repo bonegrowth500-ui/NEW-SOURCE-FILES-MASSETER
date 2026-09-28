@@ -27,7 +27,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | critique done (2 blocking, 13 major) → rebuilding |
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | critique done (0 blocking, 11 major) → rebuilding |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | critique done (2 blocking, 12 major) → rebuilding |
-| 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | draft done (7,490 w) → critique |
+| 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | critique done (0 blocking, 11 major) → rebuilding |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
