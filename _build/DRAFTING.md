@@ -140,3 +140,5 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
 - **Training-Partner Seat (round 5):** pair enrollment of two adults into one start, each through his own door. At graduation it's a referral variant: the graduate introduces the person he trains with. No pair discount.
 - **Warmth Ladder rungs (round 5):** Stranger → Returning → Assessed → Deciding. Surfaces map onto these by pointer (Module 18).
 - **Evergreen content and dates (round 5):** evergreen videos and pages never speak specific dates; they point to "the next start and its last day to join" on a page that updates. Only dated sends carry dates.
+- **Before/after pairs (round 6):** matched pairs live in long-form and the site library only; never in short-form, Instagram posts or carousels, or ads (THESES E8; Module 27's gradient). Organic short-form may carry contextualized outcome stories with range and denominator on screen.
+- **TikTok trigger (round 6):** add TikTok only after a labeled trial matches Reels on eligible adults per editing hour over ~30 door completions (LEDGER F).

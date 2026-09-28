@@ -274,7 +274,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | YouTube impressions CTR | Most videos 2–10% | Surface; audience warmth | EV (M) |
 | Organic engagement per post (median) | TikTok ~1.7%; Instagram ~0.4%; X ~0.03% | Averages run higher than medians | EV (M) |
 | Content cadence | Early: the Honest Answer, then long-form every other week + 4–7 native short-form/week + result email and welcome flow. Growing: 3/month long-form + weekly email. Scaling: 2–3/month. Batch filming every two weeks | Editing budget | RULE |
-| Default short-form platforms | Shorts first (it feeds the long-form channel), Reels second (it feeds the Instagram router). TikTok only if eligible-adult yield by source proves out | Minor exposure; yield | RULE (D) |
+| Default short-form platforms | Shorts first (it feeds the long-form channel), Reels second (it feeds the Instagram router). TikTok only if eligible-adult yield by source proves out: a labeled trial that matches Reels on eligible adults per editing hour over ~30 door completions | Minor exposure; yield | RULE (D) |
 | Email clicks per delivered | 2–5% (deep niches higher) | One link; stage match | EV (M) |
 | Unsubscribes per send | 0.1–0.4% | Frequency; relevance | EV (M) |
 | Spam complaints | Target < 0.1%; never ≥ 0.3% | Pressure; dormant segments | RULE (S) |

@@ -220,7 +220,7 @@ A pair below Level 1 isn't a before/after; it's two photos, and it never appears
 
 Where each kind of proof may travel is the Proof Portability Gradient: process proof everywhere, outcome stories in long-form, email, and your site, contextualized clips in organic short-form with range and denominator on screen, and no outcome proof in ads (Module 27). Short-form carries a result further than any page, so use it, on four conditions.
 
-The range, denominator, and "observed, not caused" stay on screen as long as the claim does. No pair sits in the first frame, which travels alone as a thumbnail. The clip opens on an adult situation, because rating-style openings pull the youngest viewers fastest in a category whose hardcore audience is majority under 18. And each clip passes the Clip Context Check: an extracted clip is an original claim, so put the caveat back or drop the clip (Module 24).
+The range, denominator, and "observed, not caused" stay on screen as long as the claim does. No before/after pair appears in the clip at all, since pairs live in long-form and your site library, where their context travels with them. The clip opens on an adult situation, because rating-style openings pull the youngest viewers fastest in a category whose hardcore audience is majority under 18. And each clip passes the Clip Context Check: an extracted clip is an original claim, so put the caveat back or drop the clip (Module 24).
 
 ## 6. The Honest-Evidence Test and the Proof Stack
 
