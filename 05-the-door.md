@@ -33,7 +33,7 @@ So the rule is Sell the Decision, Not a Face Rating: every step delivers a judgm
 
 ## 2. The Self-Assessment and Speed to Lead
 
-The self-assessment is the door's first step, and its job is routing: it sorts who he is and what he needs before anything is sold, then hands every adult to a reply within hours.
+The self-assessment is the door's first step, and its job is routing: it sorts who he is before anything is sold, then hands every adult to a reply within hours.
 
 ### The fork comes before any field that keeps data
 
@@ -75,7 +75,7 @@ The fit conversation is the door's human step: free for every eligible adult whi
 
 The fit conversation, the free, disclosed first call that ends in one recommendation, runs 20–30 minutes. In the founding months it's the Dual-Purpose Conversation, a fit-and-research call of about 45 minutes. Its booking page says what a skeptic would otherwise suspect. The call is free, you'll ask for a yes or a no, and it ends in one recommendation, which may be a program, the Starter Path, the free sequenced path for anyone who shouldn't buy now, or "don't buy".
 
-The page also shows your public price range and asks the affordability question before he can pick a slot. A no books nothing: he gets the Starter Path without its paid tool, and the pause route is set, so the hour you'd have spent learning he can't pay never happens. To a man who has met the category's "free strategy call", a pitch discovered halfway through confirms everything he feared. Disclosed and priced, the same ask is the structure he agreed to, which is how Close by Contract, the close that agrees its structure first, opens (Module 19).
+The page also shows your public price range and asks the affordability question before he can pick a slot. A no books nothing: he gets the Starter Path without its paid tool, and the pause route is set, so the hour you'd have spent learning he can't pay never happens. To a man who has met the category's "free strategy call", a pitch discovered halfway through confirms everything he feared. Disclosed and priced, the same ask is the structure he agreed to, which is how Close by Contract, the close that agrees its structure first and carries the question's spoken form, opens (Module 19).
 
 What the call delivers is fixed, however you run it: his stall and goal said back in his words, one recommendation, the price stated once, the ask, and a written recap within 24 hours. It ends in a yes, a no, or his Decision Date, the date he agrees to decide by. Anything the call hears sets the same tag a checkout would: "I can't afford it" sets the pause route, a signal starts the pause, and a minor ends it. A screened, good-fit buyer who leaves un-asked has been failed as surely as one who was pushed.
 
@@ -109,7 +109,7 @@ No pay button exists until three checks have passed, because a check that runs a
 
 Warm routes, plan links, and checkout links in a DM take payment with nobody watching, so the checks live in the checkout itself. The order is fixed: the attestation, the affordability question, then the Fit Check's second tier. The pay button appears only after a yes and no signal. The checkout also reads the pause tag, and a paused buyer sees "I'll reply to you personally" in its place until he gives permission again. Buy-now-pay-later and third-party financing stay switched off, because the question itself rules out new credit, so the only plan is your own installments, offered after a yes.
 
-The second tier runs at booking of every paid step, from either assessment tier to the Starter tool, a plan, or a checkout link in a DM. Every item is multiple choice, so the checkout can act before payment, and his words come in the conversation a signal opens. It asks about checking, avoidance, what the concern crowds out, procedures, recent purchases, and referral signs. Its first line says some answers mean a conversation before payment. You read the answers, no freelancer sees them, and none reaches a marketing tool.
+The second tier runs at booking of every paid step, from either assessment tier to the Starter tool, a plan, or a checkout link in a DM. Every item is multiple choice, so the checkout can act before payment, and his words come in the conversation a signal opens. Its first line says some answers mean a conversation before payment. You read the answers, no freelancer sees them, and none reaches a marketing tool.
 
 Clinical figures explain why you check everyone. Serious appearance concern runs well above the general population's rate among people seeking appearance change, strong in clinics and weak as a transfer to coaching buyers (Module 2). A planning figure says what you'll see: roughly 5–20% of paid-step applicants show at least one signal, most continue after a conversation, and acute signals are rare. After about 30 applicants, your aggregate counts replace that range.
 
@@ -169,7 +169,7 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
 
 | Part | What it holds | Why he keeps it without buying |
 |---|---|---|
-| The verdict, with reasons | Unmeasured, misdirected, or "this lever doesn't move for you", argued from his record | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
+| The verdict, with reasons | One of the three Stall Verdicts, unmeasured, misdirected, or "this lever doesn't move for you", argued from his record | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
 | A measurement setup | What to log weekly, when to capture, what not to measure | Every month he spends alone from here becomes evidence |
 | What to stop spending on | Named purchases and habits that can't show him anything | Money and months back, the plainest return a non-buyer gets |
 | The levers that matter | His goal sorted into changeable, debated, never claimed, and referral | The category's noise cut to a short list he can act on |
@@ -296,13 +296,13 @@ Signals are "many times a day", "often" on 2 or 3, a booked consultation, and "[
 >
 > [Brand] · Decision Assessment · Written plan for Theo, 26 · [date]
 >
-> What you told us: "the forward growth the [device] promised", and nothing else matters right now. Tried: the [device] for [months], and [a course].
+> What you told us: "the forward growth the [device] promised", and nothing else for now. Tried: the [device] for [months], and [a course].
 >
-> The verdict: misdirected. Your effort went at bone, and habits don't change the shape of an adult's bone, so nothing could show where you were looking.
+> The verdict: misdirected. Your effort went at bone, and habits don't change an adult's bone, so nothing could show where you looked.
 >
 > Measurement setup, if you want one: log [habit block A] weekly; captures on your own phone, to the attached conditions, at [date] and six weeks later.
 >
-> Stop spending on: the [device]'s refills, the course's next tier, anything that promises structural change.
+> Stop spending on: [device] refills, the course's next tier, anything promising structural change.
 >
 > Levers: changeable, how you're photographed and body composition; debated, visible jaw change from habits; not changed by habits, the bone. Worth seeing: an orthodontist or surgeon, if the shape matters enough to ask. We give no opinion on that.
 >
@@ -370,6 +370,6 @@ Answer from your records for your last 30 eligible leads.
 | **The Call Cap** | Keep free conversations for uncertain and high-intent buyers, and send the overflow to a paid written decision |
 | **The Fit Check** | Hold any paid step on a plain-language signal before a pay button appears |
 
-**Leans on:** Let Him Succeed Before He Pays and the Week-Zero Baseline (Module 17) · Close by Contract (Module 19) · the Async Arc (Module 20) · the Warmth Ladder (Module 18) · Readiness Tags (Module 26) · the Path and Timeline Card (Module 6) · the plan-usefulness refund (Module 7).
+**Leans on:** Let Him Succeed Before He Pays and the Week-Zero Baseline (Module 17) · Close by Contract (Module 19) · the Async Arc (Module 20) · the Warmth Ladder (Module 18) · Stall Verdicts (Module 14) · Readiness Tags (Module 26) · the Path and Timeline Card (Module 6) · the plan-usefulness refund (Module 7).
 
 **Do this month:** build door v0 with both checkouts and the pause tag; test it with five leads, including a minor who surfaces on a call, until none reaches a pay button or a sales email; post a "don't buy" sample plan.

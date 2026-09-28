@@ -3,10 +3,10 @@
 
 **The shift:** from *"Price by gut, discount to close, and treat guarantees as a risk"* to *"Price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."*
 
-Cole *(composite operator)* has a full [November] start: [8] seats taken and [3] names on the waiting list. His [January] start is priced [about 9%] higher, and the whole case for that step fits in three lines:
+In his second year, Cole *(composite operator)* has a full [May] start: [8] seats taken and [3] names on the waiting list. His [July] start is priced [about 8%] higher, and the whole case for that step fits in three lines:
 
-1. Before the step: [8] seats × [$2.2k] = [$17.6k] a start.
-2. After it: [8] seats × [$2.4k] = [$19.2k], because the [one or two] buyers the step loses are replaced from the waiting list.
+1. Before the step: [8] seats × [$2.6k] = [$20.8k] a start.
+2. After it: [8] seats × [$2.8k] = [$22.4k], because the [one or two] buyers the step loses are replaced from the waiting list.
 3. What the extra [$1.6k] costs him: processing, about [$50]. The rest is profit.
 
 At capacity, a step that loses a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. The same step in a half-empty month is a different bet. A discount is a bad bet in every month, because in this category a slashed price and a countdown are how the grifters sell.
@@ -39,9 +39,7 @@ What moves him is what the price visibly buys: delivery units he can count, term
 
 **At capacity, price is the profit lever; before proof, it's a weak signal that only your record can back.**
 
-One move fails both jobs: discounting to close. When seats bind, it gives away profit you'd have kept. When buyers bind, it teaches the next buyer to wait. Buyers who later learn that someone paid less for the same seat also tend to buy less from that seller, and the best customers pull back most. A founding price with its next price printed beside it is a real price. A price that drops for the man who hesitates is a discount.
-
-Get the two jobs straight and price becomes the calmest lever you have. Small, scheduled, and announced in advance, it adds profit in full months and costs nothing in trust, because every buyer saw it coming.
+One move fails both jobs: discounting to close. When seats bind, it gives away profit you'd have kept. When buyers bind, it teaches the next buyer to wait. A founding price with its next price printed beside it is a real price, and a price that drops for the man who hesitates is a discount. Read which job price is doing before you move it, and every raise either lands as profit or waits for the proof that will carry it.
 
 ## 2. The Three Ceilings
 
@@ -49,7 +47,7 @@ Every price you set has to fit under three separate limits, and in this niche ea
 
 ### Cash is measured in months of take-home
 
-The first limit is his pay. Full-time men aged 20–24 earn about $42k a year, roughly $2.8k a month after tax. Full-time workers aged 25–34 earn about $59k, roughly $3.9k a month. A price that looks modest against a year is most of a month against his account:
+The first limit is his pay. In the US, full-time men aged 20–24 earn about $42k a year, roughly $2.8k a month after tax. Full-time workers aged 25–34 earn about $59k, roughly $3.9k a month. A price that looks modest against a year is most of a month against his account:
 
 | Program price | Months of take-home at 20–24 | Months at 25–34 | Where it sits |
 |---|---|---|---|
@@ -60,7 +58,7 @@ The first limit is his pay. Full-time men aged 20–24 earn about $42k a year, r
 | $3.9k | ~1.4 | ~1.0 | Past the 20–24 ceiling; inside 25–34 |
 | $4.5k | ~1.6 | ~1.14 | Past the 20–24 ceiling; inside 25–34 |
 
-The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own eligibility rule agree. Installments follow the same logic and stay at or below about a third of monthly take-home. Three installments on a $2.8k price each come to about a third of a 20–24-year-old's month, so the plan rule and the ceiling meet in the same place.
+The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own eligibility rule agree. Installments carry a cap of their own, about a third of monthly take-home each, and for a buyer aged 20–24 that cap binds first, near $2.8k.
 
 ### Capacity sets how far price has to climb
 
@@ -84,7 +82,7 @@ He moves the price into the opening band at [$1.8k] before anyone has paid. He p
 
 Read all three ceilings when you set a price and again before every scheduled step. Cash comes from the table and moves only if your buyers' age mix does. Capacity comes from your monthly seat count. Credibility comes from your close rate against its range, and from whether the proof milestone is met. The ceiling that binds now sets the price, and the next one tells you how far the steps can run.
 
-The founding group, every early client in one group from the first, pays a price set in your founding phase (Module 9). It's a real price near the real one, with the next price printed beside it. The first Program price is one scheduled step above it, low in the opening band, and published with the step after it. Starting low gives the steps room to run before the proof milestone, so price keeps rising on schedule instead of stalling at the band's top while you wait for graduates.
+The founding group, every early client in one group from the first, pays a price set in your founding phase (Module 9). That price goes out with its stated end: the next price and the start it applies to. The end is the one step announced before any gate can be read, because a founding price with no end is a discount with no date. It lands low in the opening band, which leaves the later steps room to run before the proof milestone, so price keeps rising on schedule instead of stalling at the band's top while you wait for graduates.
 
 ## 3. The Price Steps
 

@@ -10,7 +10,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | critique done (1 blocking, 16 major) → rebuilding |
-| 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | critique done (2 blocking, 9 major) → rebuilding |
+| 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | ✅ 3.5 passed (7,425 w) |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | ✅ 3.5 passed (7,362 w) |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | critique done (1 blocking, 16 major) → rebuilding |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
@@ -51,6 +51,8 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 04 critique): Starter tool ($27–97) is a paid self-serve product → arrives with the ~20-graduate trigger; before that the Starter Path is free and tool-free. Re-entry trigger is buyer-controlled, never a money condition. LEDGER B + BUSINESS updated.
 
 ## Integration notes (continued)
+- 19, 20, 25, 26 must write call-heard answers to the same tags, block checkout on the pause tag, never send abandoned-cart email to paused buyers, and delete + refund late-found minors (05's rules).
+- Theo gets a 'don't buy' sample plan in 05 but a Program recommendation in 03: events are self-contained, but check plausibility in 4.1 (consider another composite for 05's sample).
 - 18–20 and 27 recaps of the Path and Timeline Card use its [9]-month total-cost horizon.
 - 02 §5 says 'nearest start after it'; 08 offers the next start first. Harmonize in 4.3.
 - 19's written recap must omit the credit (08 ruling: the credit appears once, as a stated term, in the written plan).
