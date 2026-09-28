@@ -131,3 +131,5 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
   - The checking signal is "many times a day" at both tiers; regular checking short of that is a Dignity Route trigger, not a signal.
 - **Status and refund rights (round 4):** status (founding, alumni, membership, boards) is never contingent on not using a refund right. Exits are never mentioned in the room or on boards.
 - **Dignity Route in practice (round 4):** a buyer on the route never hears his missed social moments reflected back, even ones he stated as his goal. Keep the destination at "knowing instead of guessing".
+- **Stop rules leave no record (round 4):** when a stop rule ends a sale, nothing beyond "stopped: stop rule" is recorded; no words or reasons feed content planning, the objection log, or the Conversation-to-Content Loop.
+- **Verdict integrity (round 4):** "misdirected" needs a named lever, a documented correction, and early movement on it at the next reading; otherwise "the lever doesn't move for this person" stands. Never relabel it to sell more time.
