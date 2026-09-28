@@ -1,5 +1,7 @@
 # THESES v2 — First-principles foundation (Step 1.4, revised after 5-lens critique)
 
+> **Precedence note (Step 2.5).** Where this file conflicts with the R2 files (HOUSE_STANDARD v2, BUSINESS v2, LEDGER v3, FRAMEWORKS v2, MAP v2, VOICE, and `briefs/` v2), those win. That covers module numbers, framework names, the founding offer, the fit-check and pause rules, the guarantee clauses, the cash ceiling, and the banned vocabulary. The theses remain the reasoning base, cited by ID in the briefs.
+
 Working file (removed at ship). The intellectual backbone every module stands on. v2 integrates the adversarial critique (operator, spec, evidence, buyer, persuasion-force lenses — see `critique/` and DECISIONS R1). Nothing here is cited in the playbook; everything is rewritten natively.
 
 Evidence tags: **S** strong · **M** moderate · **W** weak · **D** derived · **C** contested · **E** estimate (the operator's own data replaces it) · **H** hypothesis to test. "Transfer" = evidence from an adjacent domain applied by analogy.

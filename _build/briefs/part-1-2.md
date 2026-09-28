@@ -1,311 +1,442 @@
-# BRIEFS — Part I (01–04) and Part II (05–09) · Step 2.4
+# BRIEFS v2 — Part I (01–03) and Part II (04–08) · Step 2.4, revised in 2.5
 
-**Brief format.** Argument · Belief shift · Opening frame · Sections (with word budgets) · Frameworks (owned ★/◆; recapped ↺ with the owner) · Worked example · Extras · Stage-note angles · Standard Check focus · Quick Reference · Dependencies · Research for 3.1 · Guardrails.
-**Default budget (~7,000; band 6,300–7,700):** opening ~200 · deep sections ~4,700 · worked example ~700 · extras ~650 · Stage Notes ~350 · Standard Check ~200 · Quick Reference ~350.
-**Always:** the default buyer, door, ladder, and numbers come from BUSINESS.md and LEDGER.md. Every recapped framework gets at most two sentences plus "see Module N". No technique content (Technique Firewall). The composite cast is defined in VOICE.md.
+**Brief format.** Argument · Belief shift · Opening frame · Sections (relative weights) · Frameworks (★/◆ owned; ○ terms; ↺ recapped with the owner) · Worked example · Extras · Stage-note angles · Licenses in play · Standard Check focus · Quick Reference · Dependencies · Research for 3.1 · Guardrails.
+
+**Default budget (VOICE rule 20):** opening ~200 · deep sections ~4,900 · worked example ~700 · extras ~600 · Stage Notes ~200 · Standard Check ~130 · Quick Reference ~300 (≈7,030; band 6,300–7,700). Section figures are relative weights scaled to ~4,900, with in-section cases and the "When the signals disagree" hard case included.
+
+**Always:**
+- The default buyer, door, ladder, and numbers come from BUSINESS v2 and LEDGER v3. Names and owners come from FRAMEWORKS v2. Voice and cast come from VOICE.md.
+- Recaps are at most two sentences, followed by "(Module N)".
+- The Technique Firewall applies: method content appears only as bracketed placeholders or at category level.
+- Standard Checks cite House Standard items by name.
+
+**Licenses in play** lists each House Standard item the module uses, as: default → licensed stronger variant → under-use question. Drafting must reach the default wherever it applies, and the stronger variant wherever its license holds.
 
 ---
 
 ## 01 · The Whole Business
 
-**Argument.** You run a judgment business in the most trust-starved corner of self-improvement. Five things are scarce here (reach, trust, minutes, evidence, efficacy), and which one binds moves in a fixed order: reach, then conversations, then care minutes. Almost every expensive mistake in this niche comes from solving the wrong constraint, like charging for calls while leads are scarce, pumping content while care minutes are full, or discounting when capacity is the real limit. Decide for the constraint that binds this month, and the rest of the playbook becomes a set of levers you pull in the right order.
+**Argument.** You run a judgment business in the most trust-starved corner of self-improvement, and it has an equation. Five things are scarce (reach, trust, minutes, evidence, efficacy). As you grow, the binding constraint moves forward through reach → conversations → care minutes, and it can slide back after any lever you pull. Profit follows the Demand Equation (eligible adults × conversion × lifetime value × margin, capped by care minutes), so views are never the number. Plan on the band you'll probably have, and pull only the lever the binding constraint calls for. The rest of the playbook becomes a set of levers pulled in the right order.
 
-**Belief shift.** "I'm a creator who sells coaching, and more content means more money" → "I run a judgment business, I know which constraint binds, and I decide for it."
+**Belief shift.** "I'm a creator who sells coaching, so more content means more money" → "I run a judgment business with an equation. I know which constraint binds this month, and I decide for it."
 
-**Opening frame.** Two operators with the same camera, the same topics, and the same first year. One stalls at a few thousand a month with a calendar full of free calls and a third of them no-fit. The other switches his door at the right moment, raises price through a gate, and protects his content hours. The difference was never talent. It was knowing which constraint bound.
+**Opening frame.** Two operators start in the same month with the same camera, the same topics, and the same reach. A year later one is stuck with a calendar of free calls, and the other's door screens before he spends an hour (voice sample-v2).
 
 **Sections.**
-1. **What you actually sell: the End of Guessing** (~700). The destination (taken seriously, ease, knowing) vs the vehicle (judgment, measurement, review). Why the core promise must be one you fully control, and why that makes it guaranteeable. How the thesis shows up at every rung. Pointer to Outcome Map (03).
-2. **The Five Scarcities** (~900). Each scarcity: what's scarce, why it bites harder in this niche, the master move (table + prose). Reach: eligible adults, not views. Trust: a category that trained buyers to audit. Minutes: review is the product. Evidence: slow, confounded, easy to fake. Efficacy: the stalled buyer has stopped believing effort works.
-3. **The Constraint Sequence** (~900). Signs each constraint is binding. The classic misdiagnoses and their costs (paid door while leads are scarce; more platforms while care minutes bind; discounting when seats are full). Diagnose monthly.
-4. **The Stage Map** (~800). Early / Growing / Scaling by trailing 3-month revenue plus a volume signal; the binding constraint and north star per stage. Mixed signals (Growing on revenue, Early on volume): the constraint decides which playbook applies.
-5. **The Spine** (~900). The default business at a glance (door → Program → Round Two/Hold → premium lane; Starter Path floor), which Part of the playbook builds which piece, and the engine alternatives as options + default (table from BUSINESS §6).
-6. **The standard as strategy** (~500). Why a standard a skeptic can watch working is a growth asset, not a cost. Force aimed at the situation. The House Standard in one paragraph (pointer to the Intro).
+1. **What you actually sell: the End of Guessing** (~550). The destination vs the vehicle, and why the core promise must be one you fully control. How the thesis shows up at every rung.
+2. **The Five Scarcities** (~650). A table plus prose on why each bites harder in this niche, with the move that answers each.
+3. **The Constraint Sequence** (~1,000). Reach → conversations → care minutes, with the signs and moves for each position; how it slides back; what a misread costs; the Monthly Constraint Read. This is voice sample-v2 §3.
+4. **The Stage Map** (~550). Early, Growing, and Scaling by trailing revenue and a volume signal, each with its one number. Mixed signals are decided by the constraint.
+5. **The Demand Equation and the Reverse Funnel** (~1,150). The terms as levers. The funnel worked back from profit to reach in LEDGER ranges. Eligible adults and eligible-adult yield. Revenue per eligible lead and the maximum affordable cost per eligible lead.
+6. **Reach Bands, the Capacity Ceiling, and the engine** (~1,000). The bands and waypoints: "month 3 is decided by sources and conversations"; plan on A–B. Capacity from care minutes. What $25k requires, with $50k pointed to 13. The profit-engine decision as options + default (LEDGER A engine rows).
 
-**Frameworks.** Owns ★ The End of Guessing, ★ The Constraint Sequence, ◆ The Five Scarcities, ◆ The Stage Map, ◆ The Spine. Recaps ↺ Demand Equation (04), Door Switch (06), Stage Metrics (13), House Standard (Intro).
+**Frameworks.**
+- **Owns ★:** The End of Guessing, The Constraint Sequence, The Demand Equation.
+- **Owns ◆:** The Five Scarcities, The Stage Map, The Reverse Funnel, Reach Bands.
+- **Owns ○:** eligible adults and yield, care minutes, the Capacity Ceiling, revenue per eligible lead and the maximum affordable cost per eligible lead, the Monthly Constraint Read.
+- **Recaps ↺:** the Spine and the House Standard (Intro), the Call Cap (05), the Price Steps (07), Stage Metrics and the Operator Review (12), the Parity Rule (13).
 
-**Worked example.** "One year, two operators" (composites). Month-by-month diagnosis of the binding constraint for Operator B vs the default moves of Operator A, with outcomes stated as LEDGER ranges and placeholders, never as claimed results.
+**Worked example.** "Cole's First Year, Read Four Times" (voice sample-v2): Band B, four reads, three constraints, two tempting misreads.
 
-**Extras.** Checklists: the monthly Constraint Diagnosis (five questions); a Stage Map self-placement worksheet. Action steps: place yourself on the Stage Map; name this month's binding constraint; pick one lever.
+**Extras.**
+- Checklist: the Monthly Constraint Read.
+- Template: the Reverse Funnel worksheet (placeholders; LEDGER ranges).
+- Hard case: Growing on revenue, Early on volume.
 
-**Stage-note angles.** Early: reach, then conversations; the north star is held conversations + cash. Growing: conversion and selling minutes; enrollments. Scaling: care minutes; profit per operator hour.
+**Stage-note angles.** Early: reach binds for months, and busy isn't binding. Growing: don't buy reach to fix conversion. Scaling: the $25–50k range lives here, reached through price and leverage; expect slide-backs.
 
-**Standard Check focus.** The thesis is a promise you control (no appearance guarantee); trust as the scarcest input; force aimed at situations.
+**Licenses in play.**
+- *Name the destination boldly:* the thesis states the destination → vivid future-pacing of what the operator's business makes possible → did we make the end of guessing concrete?
+- *Use real dates:* scarcity only when it's real → a stated waiting list when care binds → did we tell him how to use true capacity limits?
 
-**Quick Reference.** The thesis in one line; the Five Scarcities table; the Constraint Sequence; the Stage Map table; a sketch of the Spine.
+**Standard Check focus.** The promise you control is guaranteeable because it's made of your inputs. Pressure is tempting when conversations bind, and scarcity is stated only when real. Timelines are honest because they come from the bands.
 
-**Dependencies.** BUSINESS §1, §6, §11; THESES §0–§1; LEDGER A, A2.
-**Research for 3.1.** Light: capacity-constrained service businesses (real solo-coaching economics) for texture, synthesized, never named.
-**Guardrails.** No mindset ("be patient", "trust the process"); keep it operational. Don't teach door, pricing, or metrics detail (owned later); point to it.
+**Quick Reference.** One line; the Stage Map table; the Constraint Sequence; the equation; the band table; cheat sheet; Leans on; Do this month.
+
+**Dependencies.** BUSINESS §1, §6, §11; LEDGER A, A2, A3, A5; models/model4–5; voice/sample-v2.
+**Research for 3.1.** THESES §7's demand check (search trends for adult decision queries; comparable channels' growth), verified before the bands are taught.
+**Guardrails.** No mindset content. The math stays at planning depth (no spreadsheet dumps). Door, pricing, and metrics detail stay with their owners.
 
 ---
 
 ## 02 · The Buyer
 
-**Argument.** Your buyer is a stalled adult. The surface goal (a sharper jaw, a better profile) stands for a destination: being taken seriously, being at ease in photos and rooms, knowing instead of hoping. What he lacks is direction, feedback, and interpretation, not effort. His *state* (Struggler, Burned, Optimizer, Ambivalent) decides the path you offer, while the offer stays the same. Eligibility is simple and non-negotiable: legal adulthood and the ability to pay from monthly income without new credit. Minors get education, and distress gets care, not a pitch. Seeing the buyer this way makes every later decision easier and more honest.
+**Argument.** Your buyer is a stalled adult. The surface goal (a sharper jaw, a better profile) stands for a destination: being taken seriously, being at ease in photos and rooms, knowing instead of hoping. What he lacks is direction, feedback, and interpretation, not effort. His *state* (Struggler, Burned, Optimizer, Ambivalent) decides the route; the offer stays the same. Eligibility is simple and non-negotiable: he's a legal adult, and he can pay from his own income or savings without new credit. Minors get education, and distress gets care, not a pitch.
 
 **Belief shift.** "My buyer wants a better jawline and is anyone who watches" → "My buyer is an eligible, stalled adult who wants to stop guessing. I know his state, his destination, and when he shouldn't buy."
 
-**Opening frame.** A composite 24-year-old: eight months of daily effort, three comparison photos a day, a device in a drawer, and nothing measured. What he types into the self-assessment vs what he actually wants.
+**Opening frame.** Dan *(composite, Struggler)*: eight months of daily effort, comparison photos, a device in a drawer, nothing measured. What he types into the self-assessment, next to what he actually wants.
 
 **Sections.**
-1. **The stalled adult** (~800). Who he is (age mix, employed, grift-fatigued, months of effort); the Struggler Gap Triad; why "more information" never fixed it.
-2. **The Destination Ladder** (~800). Laddering from surface goal to destination with questions; naming the destination plainly without making his face the cause; preview of Fantasy to Expectation (14).
-3. **Buyer States** (~1,000). Struggler, Burned Struggler, Optimizer, Ambivalent: signals, needs, fears, what each will pay for. States move (a bad purchase turns a Struggler into a Burned one). Women and men over 30: welcome, not targeted.
-4. **The Eligibility Rule** (~900). Legal adult where he lives (18 in most states; the few exceptions, stated at category level). Affordability measured in months of take-home, not annual gross (LEDGER G). Why eligibility is never student status. Why minors get an education lane, and what they get there.
-5. **Buying Triggers** (~600). Pain spikes, failed DIY, life events (photos, dating, a new job), fresh starts, someone similar succeeding. Respect triggers; never manufacture them.
-6. **Vulnerability and fit** (~600). Appearance-concern prevalence among appearance-change seekers (at evidence tier); fixation signals; the dignity route; why caring for this buyer is also good business (refunds, disputes, screenshots). Pointer to the Fit Check (06).
+1. **The stalled adult** (~800). The core buyer (19–32), the Struggler Gap Triad, and why "more information" never fixed it. The rejected buyer alternatives (Optimizer-first, breathing-first, parent-funded teens) and why.
+2. **The Destination Ladder** (~900). Laddering questions. Naming the destination without making his face the cause, and always adding one perspective line. Fantasy to Expectation is named and pointed to 14.
+3. **Buyer States** (~1,000). The four states: signals, needs, fears, and what each will pay for. States move. Women and over-30s are welcome, not targeted. The Optimizer is 25–35, including over-30s by state.
+4. **The Eligibility Rule** (~900):
+   - The age fork.
+   - The canonical affordability question, as policy (the spoken line is in 19): income or savings; money that isn't his → the Starter Path.
+   - The cash ceiling in months of take-home (pointer to 07).
+   - Why eligibility is never student status or income targeting.
+   - Why minors get an education lane (05 implements it).
+5. **Buying triggers** (~600). Pain spikes, failed DIY, life events, fresh starts, someone similar succeeding. Respect them; never manufacture them.
+6. **Vulnerability and fit** (~700). Prevalence at its evidence tier, fixation signals, and the Dignity Route (pointer to 15). Why caring for this buyer is good business.
 
-**Frameworks.** Owns ★ The Destination Ladder, ◆ Buyer States, ◆ The Struggler Gap Triad, ◆ The Eligibility Rule, ◆ Buying Triggers. Recaps ↺ Outcome Map (03), the Door and Fit Check (06), State Routing (19).
+**Frameworks.**
+- **Owns ★:** The Destination Ladder.
+- **Owns ◆:** Buyer States, The Struggler Gap Triad.
+- **Owns ○:** the core buyer and Dan, the Eligibility Rule, the affordability question (policy), buying triggers.
+- **Recaps ↺:** the Outcome Map (03), the Fit Check and the pause route (05), the cash ceiling (07), the Buyer-Mix Shift (13), State Routing and the spoken line (19), the Dignity Route (15).
 
-**Worked example.** Four composite buyers arrive in the same week: a Struggler, a Burned Struggler, an Optimizer, and an Ambivalent buyer. For each: signals, state, destination, eligibility, and which path the business routes him to.
+**Worked example.** Dan, Theo, Adrian, and Sam arrive in the same week. For each: signals, state, destination, eligibility, and the route the business sends him on. Maya appears in one line.
 
-**Extras.** Scripts: the Destination Ladder question set; the affordability question (verbatim). Checklist: Buyer-State signals. Action steps: hold five disclosed buyer conversations and map their states and destinations.
+**Extras.**
+- Script: the Destination Ladder question set.
+- Checklist: Buyer-State signals.
+- Hard case: an adult who says "my parents are paying". Affordability comes first; money that isn't his goes to the Starter Path.
 
-**Stage-note angles.** Early: talk to every buyer and build the state map from conversations. Growing: tag states at the door. Scaling: state mix by source feeds packaging decisions.
+**Stage-note angles.** Early: talk to every buyer and build the state map from conversations. Growing: tag states at the door. Scaling: the state and age mix shifts with price (pointer to 13).
 
-**Standard Check focus.** Emotional directness without shame; hard line 5; never the face as cause; eligibility never by student status or income targeting.
+**Licenses in play.**
+- *Say the true thing:* name the frustration plainly → "that's the problem, not you" → did we say what he feels?
+- *Name the destination boldly:* destination plus perspective line → vivid future-pacing → did we describe what he actually wants?
 
-**Quick Reference.** The Triad; the Destination Ladder; the four states table; the Eligibility Rule; the trigger list.
+**Standard Check focus.** Emotional directness without shame. The line on vulnerability, with eligibility enforced in every channel. Never the face as cause.
 
-**Dependencies.** BUSINESS §2; THESES B17, P13; LEDGER G, C.
-**Research for 3.1.** Current US earnings by age (verify); age-of-majority exceptions (verify); appearance-concern prevalence ranges (have).
+**Quick Reference.** The Triad; the Ladder; the states table; the Eligibility Rule and the question; triggers.
+
+**Dependencies.** BUSINESS §2; LEDGER G, C.
+**Research for 3.1.** Current earnings by age; age-of-majority exceptions; prevalence ranges (verify).
 **Guardrails.** No demographic targeting of minors; no clinical labels; destination language stays experiential.
 
 ---
 
 ## 03 · The Honest Position
 
-**Argument.** The category is burned. Faked before/afters, device grift, and a vocabulary that promised bone have trained buyers to audit every claim, and the backlash ("it's all genetics") leaves them nowhere to go. The winning position is the one voice that answers the bone question straight, by age and evidence tier, and pairs every honest no with an honest yes. That is the Outcome Map, and it is the most differentiated thing you sell. Position is also architecture: Name | Brand, a descriptor that names deliverables, product names in process language, and enemies that are ideas, never people.
+**Argument.** The category is burned. Faked before/afters, device grift, and a vocabulary that promised bone have trained buyers to audit everything, and the backlash ("it's all genetics") leaves them nowhere to go. The winning position is the one voice that answers the bone question straight, by age and evidence tier, and pairs every honest no with an honest yes. That's the Outcome Map. Honesty alone can be copied, though. The moat is the **Dated Record**: a pre-committed, dated log of process and outcomes, started in month 1, that no rival can back-fill.
 
-**Belief shift.** "I need bigger promises or better content to stand out" → "My honesty about what can't move is the most differentiated thing I sell."
+**Belief shift.** "I need bigger promises or better content to stand out" → "My honesty about what can't move is my most differentiated product, and the dated record of it is what no one can copy."
 
-**Opening frame.** Search the category's main question and read the first page: a wall of confident claims, very little of it true. The straight answer is scarce, and scarce things are valuable.
+**Opening frame.** Read the first page of results for the category's main question: a wall of confident claims. The straight answer is scarce.
 
 **Sections.**
-1. **The category you're entering** (~700). The grift patterns (manufactured proof, device grift, a vocabulary of bone), the fatalist backlash, and what buyers learned (audit everything; trust nobody who promises structure).
-2. **The Outcome Map** (~1,200). The four columns (changeable and measurable / debated / never claimed / during growth); how to present a debated item at its evidence tier; referral for growth-age questions. Category level only: no method.
-3. **The Honest Answer** (~800). Canon claim #1 and its dedicated asset; the honest-no + honest-yes pairing; the null-result stance (the offer stays worth buying if visible change is small); bounded agency as an accusation against guessing (pointer to 14).
-4. **The Credible Middle** (~800). Enemies are ideas and business models; clinicians are referral destinations; pointed tone at practices; the Neither-Grifter-nor-Doctor Test with examples.
-5. **Name | Brand** (~800). What the brand owns (method, capture standard, client library) vs what the face carries (trust); the descriptor; product naming rules (process language; never "restore/remodel/reshape"); consistent entity naming for search (pointer to 27).
-6. **Position under fire** (~400). "Adults can't change", "you don't even have a jawline", "this is just mewing grift": the positioning answer to each; full trust mechanics in 15.
+1. **The category you're entering** (~700). The grift patterns, the fatalist backlash, and what buyers learned.
+2. **The Outcome Map** (~1,200). The four columns; debated items at their tier; growth-age questions go to referral. Category level only; no method.
+3. **The Honest Answer** (~800). Canon claim #1 and its asset. The honest-no-plus-honest-yes pairing. The null-result stance. Bounded agency, pointed to 14.
+4. **The Credible Middle** (~700). Enemies are ideas; clinicians are referral destinations. The Neither-Grifter-nor-Doctor Test.
+5. **Name | Brand** (~700). What the brand owns and what the face carries. The descriptor. Naming rules. Entity naming for search (pointer to 27).
+6. **The Dated Record** (~800):
+   - Why honesty is copyable.
+   - The month-1 pre-commitment: what will be published, at what sample size, on what schedule, whatever it shows.
+   - The dated process log.
+   - What a rival three years in still can't copy.
+   - Publication mechanics are pointed to 16.
 
-**Frameworks.** Owns ★ The Outcome Map, ◆ The Honest Answer, ◆ The Credible Middle, ◆ The Neither-Grifter-nor-Doctor Test, ◆ Name | Brand. Recaps ↺ The Canon (14), Costly vs Hygiene Signals (15), The Buying Test Only You Pass (16), The Verify Page (27).
+**Frameworks.**
+- **Owns ★:** The Outcome Map.
+- **Owns ◆:** The Honest Answer, The Dated Record.
+- **Owns ○:** the Credible Middle, Name | Brand, the Neither-Grifter-nor-Doctor Test.
+- **Recaps ↺:** the Canon and bounded agency (14), Costly vs Hygiene Signals (15), the Honest-Evidence Test and the Proof Stack (16), the Verify Page (27).
 
-**Worked example.** Repositioning a grift-adjacent channel: before/after versions of the channel descriptor, a positioning line, three video titles, and the outline of the Honest Answer asset (placeholders for all method content).
+**Worked example.** Repositioning a grift-adjacent channel: before/after descriptor, positioning line, three titles, the Honest Answer outline, and the first pre-commitment post (placeholders).
 
-**Extras.** Templates: positioning statement; Honest Answer outline; product-naming checklist. Action steps: write your Outcome Map in your own words; draft your descriptor; plan the Honest Answer as your first long-form.
+**Extras.**
+- Templates: positioning statement; the Honest Answer outline; the pre-commitment post; a product-naming checklist.
+- Hard case: a competitor copies your honest stance.
 
-**Stage-note angles.** Early: position before proof; the Honest Answer is your first long-form. Growing: canon repetition and brand search. Scaling: publishing ranges makes the position category-defining.
+**Stage-note angles.** Early: position before proof; start the Dated Record in month 1. Growing: canon repetition and brand search. Scaling: published ranges make the position category-defining.
 
-**Standard Check focus.** Hard line 2 (the Outcome Map is its operational form); notch 6 aimed at ideas; the null-result stance.
+**Licenses in play.**
+- *Fight ideas, not people:* name the grift patterns → pointed tone at business models → did we leave a category default unchallenged?
+- *Name the destination boldly:* the honest yes stated with conviction → vivid → did we under-sell what can move?
 
-**Quick Reference.** The Outcome Map table; the Honest Answer pairing rule; the Neither-Grifter-nor-Doctor Test; the Name | Brand rules.
+**Standard Check focus.** The Outcome Map is the working form of the line on structural claims. Force stays aimed at ideas. The pre-commitment holds even if the numbers disappoint.
 
-**Dependencies.** THESES §2, B18; BUSINESS §3; STANDARD hard line 2.
-**Research for 3.1.** Category-level evidence status for adult facial change claims (verify tiers); established presentation effects (body composition, posture habits, photography distance and lens effects on facial proportions), all attributed at tier and kept out of method.
-**Guardrails.** Never describe how to do a technique; never imply skeletal change; never name or mock a competitor.
+**Quick Reference.** The Outcome Map; the pairing rule; the Name | Brand rules; the pre-commitment checklist.
+
+**Dependencies.** THESES §2; BUSINESS §3; LEDGER H.
+**Research for 3.1.** Evidence tiers for adult facial-change claims; presentation effects (body composition, posture habits, lens distance), kept at category level and attributed.
+**Guardrails.** Never describe a technique; never imply skeletal change; never name or mock a competitor.
 
 ---
 
-## 04 · The Demand Equation
+## 04 · Offer Architecture
 
-**Argument.** Profit is not views. It is eligible adults × conversion × lifetime value × margin, capped by the minutes you have for care. Planning on the audience you'll probably have (reach bands) reveals three truths. Month 3 is decided by conversations, not reach. In the middle bands, $25k is a year-2 outcome. $50k is a price-and-leverage problem, because capacity caps enrollments at ~7–12 a month. The equation tells you which lever to pull next.
+**Argument.** Without a free tier, every rung must earn its place. The ladder has one shape: **one flagship** (the Program), **two buffers** (the door's human step at the front; Round Two and the Hold at the back), and **one net** (the Starter Path, later the Self-Serve System). Rungs switch on by stage. Judgment is the product, so tiers differ by human review and speed, never by content volume. The net is a real path, not a brush-off: the budget buyer's whole experience of the brand runs through it.
 
-**Belief shift.** "More views will fix it; I'll do the numbers later" → "I know the equation, my band, my ceiling, and my next lever."
+**Belief shift.** "More offers mean more revenue" (or "one offer does everything") → "Each rung has one job, switches on by stage, and the net is as honest as the flagship."
 
-**Opening frame.** One operator has a video with six figures of views and no clients; another has a few thousand views and three founding clients. Both are plausible, and the equation explains why.
+**Opening frame.** An operator with seven offers and no profit, next to one with four rungs, each doing a job.
 
 **Sections.**
-1. **The Demand Equation** (~800). Each term defined and shown as a lever: eligible adults, conversion by stage, lifetime value, margin (one definition), and the capacity cap.
-2. **The Reverse Funnel** (~1,000). From the profit target back to cash, enrollments, conversations, eligible leads, and reach, in both door regimes (fit conversation vs paid assessment). Worked in LEDGER ranges.
-3. **Eligible-Adult Yield** (~700). Why raw leads and views mislead (minors, non-eligible, distressed); measuring yield by source; view equivalents.
-4. **Reach Bands** (~1,000). Bands A–D with month-3/6/9 waypoints and the middle case; "plan on A–B"; when $25k is likely in each band; what Band A must add (a reach lever).
-5. **The Capacity Ceiling** (~800). Care minutes → concurrent clients → enrollments a month; what happens past it; why only price and leverage grow profit there (pointer to the LTV Stack, 11).
-6. **Reading your own numbers** (~400). Planning ranges vs your data; the ~30-event rule; revenue per eligible lead as the pricing metric (pointer to 13).
+1. **Design from the target down** (~700). Why capacity and buyer count force a ladder, and the one-to-one-only ceiling.
+2. **Judgment Is the Product and Reasons to Pay** (~700). Feedback, accountability, speed, and belonging, each mapped to a feature. Tiers are set by review and speed.
+3. **One Flagship, Two Buffers, One Net** (~1,000). Each slot's job. Options are indexed to their owners: container → 06, front buffer → 05, back end → 10, premium and Program Async → 13.
+4. **The Rung Activation Schedule** (~800). Months 0–3, 3–6, 6–9, and 9+. The founding group, a founding Private seat, and the priority tier all start at month 0. What never to build early.
+5. **The Starter Path and the Self-Serve System** (~1,100):
+   - The free path, sequenced: weeks 1–4 and 5–8, logs, self-checks against the Outcome Map, and a re-entry trigger.
+   - It's handed over in the written recap. The paid tool is named once.
+   - A signal-flagged buyer gets a reading-only version.
+   - Starter Path logs become his Week-Zero Baseline if he enrolls.
+   - The Self-Serve System sells tools, not decision rules, and becomes worth building after ~20 graduates. Its review is a Decision Assessment, and its checkout embeds the Fit Check.
+6. **Packaging the method, and the new-creations index** (~600). Process-language naming; the client journey as packaging; one line per new creation with its owner; what never goes on the ladder.
 
-**Frameworks.** Owns ★ The Demand Equation, ◆ The Reverse Funnel, ◆ Reach Bands, ◆ Eligible-Adult Yield, ◆ The Capacity Ceiling. Recaps ↺ The Price Path (08), The LTV Stack (11), Small Numbers Lie (13), The Door Switch (06).
+**Frameworks.**
+- **Owns ★:** One Flagship, Two Buffers, One Net.
+- **Owns ◆:** The Rung Activation Schedule.
+- **Owns ○:** the Starter Path and Starter tool, the Self-Serve System, the Free/Paid Line, Judgment Is the Product, Reasons to Pay, new creations.
+- **Recaps ↺:** the Door and the Call Cap (05), the Review Rhythm (06), Round Two and the Hold (10), the Premium Lane and Program Async (13), the Price Steps (07).
 
-**Worked example.** A full Reverse Funnel for the default business at $25k (Band B–C), then a Band A plan showing which levers reach first profit and what adding one reach lever changes.
+**Worked example.** Cole's ladder at month 0 and at month 9: what's live, the prices, each rung's job, what was left off and why.
 
-**Extras.** Templates: the Reverse Funnel worksheet (placeholders; LEDGER ranges); band self-placement. Action steps: run your Reverse Funnel; place yourself in a band; name the next lever.
+**Extras.**
+- Checklists: ladder design; the rung job card.
+- Template: the Starter Path handover.
+- Hard case: a rung that earns money but has no job.
 
-**Stage-note angles.** Early: plan on conversations; ignore views. Growing: conversion and price. Scaling: capacity, price, and leverage.
+**Stage-note angles.** Early: the founding group, the free Starter Path, the priority tier, one founding Private seat. Growing: Program starts, Round Two, the Hold. Scaling: two tiers, the Self-Serve System, options.
 
-**Standard Check focus.** The numbers rule: planning ranges are never presented as results. Honest timelines are a trust asset (Informed-Client ceiling).
+**Licenses in play.**
+- *Present the price:* real tiers, premium first → founding pricing with the next price stated → did we hide a tier that would serve him?
+- *Sell directly:* every rung has a public page and price → pitch sections → did a warm reader know what's sold?
 
-**Quick Reference.** The equation; the Reverse Funnel steps; the band table; the capacity math in three lines.
+**Standard Check focus.** No decoys, and every tier is bought by someone. The Starter Path is offered once and handed over properly. Product names never promise structure.
 
-**Dependencies.** LEDGER A, A3, A4, C; models/model3.py; BUSINESS §6.
-**Research for 3.1.** None new; recheck model outputs if LEDGER changes.
-**Guardrails.** Keep the maths readable (worked in steps, tables); no spreadsheet dumps; no promises of timelines.
+**Quick Reference.** Ladder diagram; activation table; the Starter Path's shape; the free/paid line.
+
+**Dependencies.** BUSINESS §5; LEDGER B.
+**Research for 3.1.** Digital-product price norms in coaching niches (light).
+**Guardrails.** Rung detail stays with its owners; no method in the Starter Path's content (placeholders).
 
 ---
 
-## 05 · Offer Architecture
+## 05 · The Door
 
-**Argument.** Without a free tier, every rung must earn its place. The ladder has one shape: **one flagship** (the Program), **two buffers** (the door's human step at the front; Round Two and the Hold at the back), and **one floor** (the Starter Path, later the Self-Serve System). Rungs switch on by stage, not all at once. Judgment is the product, so tiers differ by human review and speed, never by content volume. The free/paid line is simple: give away the why and the decision framework; sell judgment applied to him.
+**Argument.** The door is where eligibility, fit, speed, and the sale meet. Build one owned door:
+- a self-assessment with an age fork;
+- a reply within hours and a booking within 24–48 hours;
+- free fit conversations up to a weekly **Call Cap**, with the overflow going to a paid **Decision Assessment** (plus a priority tier for speed);
+- a **Fit Check** and the affordability question before any payment;
+- one recommendation.
 
-**Belief shift.** "More offers mean more revenue", or "one offer does everything" → "Each rung has one job, and I switch rungs on when the stage calls for it."
+Distress and "can't afford" set a content-free pause route, so the email system honors the stop too. Sell the decision, not a face rating: the written plan must be worth its fee to someone who never buys.
 
-**Opening frame.** An operator with seven offers, none profitable, next to one with three that each do a job.
+**Belief shift.** "Free calls for everyone" (or a link to checkout) → "One door that checks age, answers fast, caps free calls, checks fit and affordability before any payment, and ends in one recommendation."
+
+**Opening frame.** An operator is drowning in twenty free calls a week. Most are no-fit, some are minors, a few are in distress, and one person got a price-rise email the day after saying he couldn't afford it.
 
 **Sections.**
-1. **Design from the target down** (~700). Why the capacity and buyer-count math forces a ladder; the one-to-one-only ceiling; what the ladder must reach.
-2. **Judgment Is the Product and Reasons to Pay** (~800). Feedback he can't give himself, accountability, speed, belonging, each mapped to a feature. Tiers by review minutes and speed.
-3. **One Flagship, Two Buffers, One Floor** (~1,100). Each slot's job, its options, and the default pick (flagship: cohort vs 1:1 vs long container vs async-only; front buffer: fit conversation vs paid assessment vs application; back buffer: Round Two + Hold vs membership; floor: Starter Path vs low-ticket).
-4. **The Rung Activation Schedule** (~800). Months 0–3, 3–6, 6–9, 9+; switch-on signals; what never to build early.
-5. **The Starter Path and the Self-Serve System** (~700). A humane floor; the free branch; the tool named once; when the Self-Serve System is worth building (after ~20 graduates); why low-ticket is never a profit line.
-6. **Packaging the method, lightly** (~600). Naming in process language; the client journey as packaging (baseline → build → read → refine → re-assess → hold); the new-creations catalog; what never goes on the ladder (decoys, window bonuses, structural promises, a free community).
+1. **Why one owned door** (~450). Screening, attribution, minors, data minimization; selling the decision, never a face rating.
+2. **The self-assessment and speed to lead** (~900):
+   - The age fork first. One or two unscored distress items route to resources, an opt-in human conversation, and the pause route.
+   - Tags. The result email.
+   - Speed to lead: reply within hours → booked within 24–48 h → reminded → held.
+   - Book first and log while waiting (pointer to 17). Minors give no data.
+3. **The fit conversation and the Call Cap** (~800):
+   - Disclosure copy. Default free, as options + default (free / small credited fee / paid).
+   - 20–30 minutes, or ~45 for the dual-purpose founding call.
+   - The Call Cap and its overflow, judged by the economic test over ≥30 events. The front-buffer options, with the default.
+4. **The Fit Check and the affordability question** (~900):
+   - Two tiers. Tier 2 runs at booking of any paid step.
+   - The signal pause: no same-day payment, written expectations, ≥72 h cooling-off, no plan. Checking or fixation leads to referral and reading-only content.
+   - Serial appearance purchasers.
+   - The canonical affordability question at every paid step (the spoken line is in 19).
+   - The pause route. Checkout mechanics.
+5. **The Decision Assessment and the written plan** (~1,250):
+   - Standard and priority tiers, async-first.
+   - **The written plan's full template:** the verdict with its reasons; a measurement setup he can run alone; what to stop spending on; which levers matter for his goal per the Outcome Map; one recommendation; a re-check date.
+   - The booking-page statement.
+   - The plan-usefulness refund (07). Credit held ~90 days.
+   - The sample plan for the verification kit. The recommendation mix, published after ~30 assessments (15).
+6. **The one recommendation** (~600). The four possible recommendations. The Path and Timeline Card and the Expectation Document go out before payment (pointer to 06). Warm routes go straight to checkout under 18's rule.
 
-**Frameworks.** Owns ★ One Flagship, Two Buffers, One Floor, ◆ The Rung Activation Schedule, ◆ The Starter Path, ◆ The Self-Serve System, ◆ Judgment Is the Product, ◆ Reasons to Pay, ◆ The Free/Paid Line. Recaps ↺ The Door (06), The Review Rhythm (07), Round Two / The Hold / The Premium Lane (11), The Price Path (08).
+**Frameworks.**
+- **Owns ★:** The Door.
+- **Owns ◆:** The Call Cap, The Fit Check.
+- **Owns ○:** speed to lead, the fit conversation, the Decision Assessment and priority tier, the written plan, the pause route, the age fork and education lane, the verification kit (sample plan), door v0, Sell the Decision, Not a Face Rating.
+- **Recaps ↺:** Let Him Succeed Before He Pays and the Week-Zero Baseline (17), the Async Arc (20), Close by Contract and the spoken affordability line (19), the Warmth Ladder (18), Stall Verdicts (14).
 
-**Worked example.** The same operator's ladder at month 0 and at month 9: what's live, the prices, each rung's job, and what was deliberately left off.
+**Worked example.** One buyer through the Early door (a free fit conversation → the founding group) and through the Scaling door (the overflow → an async Decision Assessment → Program Async), with the operator's minutes for each. A second buyer triggers a signal and the signal pause.
 
-**Extras.** Checklists: ladder design; a "rung job card" for each offer. Action steps: write the job card for each rung you plan; cross out anything with no job.
+**Extras.**
+- Templates: the self-assessment question bank (placeholders); booking-page disclosure; Fit Check wording; the written plan template; the sample plan (composite).
+- Checklist: speed to lead.
+- Hard case: a warm buyer tries to pay at checkout and answers "no" to affordability.
 
-**Stage-note angles.** Early: door v0, founding offers, a free Starter Path. Growing: Program starts, Round Two, the Hold, the paid assessment. Scaling: the premium lane, the Self-Serve System, options.
+**Stage-note angles.** Early: free conversations, personal replies, the priority tier for Optimizers. Growing: the Call Cap binds and overflow begins. Scaling: async-first assessments and capped calls.
 
-**Standard Check focus.** Notch 8 (real tiers only, no decoys); the floor offered once, never pushed; product names never promise structure.
+**Licenses in play.**
+- *Sell directly:* one recommendation, stated firmly → a DM with a checkout link after verification → did a good-fit buyer leave without a clear next step?
+- *Close:* the fit conversation ends in a yes or no → a firm recommendation → did we under-ask?
 
-**Quick Reference.** Ladder diagram; the activation table; the free/paid line.
+**Standard Check focus.** The lines on minors and vulnerability, with the pause route binding automation. The Fit Check before any payment. Never a face rating or a medical opinion. The plan is worth its fee.
 
-**Dependencies.** BUSINESS §5; THESES B3, B16; LEDGER B.
-**Research for 3.1.** Digital product price norms in coaching niches (verify loosely); maintenance/continuity product evidence (have).
-**Guardrails.** Don't teach Program, door, or back-end detail here (owned by 06, 07, 11).
+**Quick Reference.** The door diagram; the Call Cap; the Fit Check and its signal pause; the affordability question; the written plan's contents.
+
+**Dependencies.** BUSINESS §4; LEDGER B, C, G.
+**Research for 3.1.** Age attestation; data minimization; non-clinical screening language (verify).
+**Guardrails.** Never a clinical score; never face analysis; the result page's persuasive copy stays with 20.
 
 ---
 
-## 06 · The Door
+## 06 · The Program
 
-**Argument.** The door is where eligibility, fit, and the sale meet. Build one owned door: a self-assessment with an age fork, a result that's useful on its own, a human step that matches the stage (a disclosed fit conversation early; a paid Decision Assessment once calls bind), a Fit Check before any paid step, and one recommendation. Sell the decision, not the diagnosis: face "analysis" is commoditized and sits on a hard line, while judgment about what to do next is neither.
+**Argument.** The Program is where results, proof, renewals, and margin are made. Its core is a **review rhythm** (weekly, proactive async review with a stated turnaround, plus one live group call) and a **measurement calendar** (behavior weekly; standardized appearance at baseline, ~week 6, week 12, then quarterly), sized by Seat Math. The client knows its whole path before paying: the **Path and Timeline Card** says what 12 weeks reliably deliver, when visible change tends to show, and what the full path is likely to cost, and the Expectation Document says how reviews are made. The markers that feed the guarantee are designed here, and designed to be collectable.
 
-**Belief shift.** "Free calls for everyone", or "a link in bio to checkout" → "A stage-gated door that checks age, checks fit, sells the decision, and hands off to one recommendation."
+**Belief shift.** "A program is content plus calls" → "A program is a review rhythm and a measurement calendar, sized by minutes, whose path and total cost he knows before paying."
 
-**Opening frame.** An operator drowning in twenty free calls a week: most no-fit, some minors, a few in distress. The door fixes all three.
+**Opening frame.** Two cohorts get the same material. One has proactive weekly review with a stated turnaround; the other gets "ask anytime". By week 6 you can see the difference in logging, and by week 12 in renewals.
 
 **Sections.**
-1. **Why one owned door** (~700). Screening, attribution, minors, data minimization; why selling the decision beats selling a diagnosis.
-2. **The self-assessment** (~1,000). Structure: the age fork first; stall history; what he's tried; logging habits; the destination; one or two unscored distress items routed to resources. Tags (state, stage, route). What the result page must do (its persuasive content is owned by 20). Minors give no data.
-3. **The human step, stage-gated** (~1,100). The fit conversation (format, disclosure, 20–30 minutes, one recommendation). The Decision Assessment (paid, credited, a written plan worth its fee, async-first at volume). The Door Switch and its signals. The lead-efficiency vs hour-efficiency trade.
-4. **The Fit Check** (~900). Two tiers; the signals; three outcomes; only acute signals end the sale; plain wording; minimal data kept out of marketing tools; what it is not (a clinical instrument, a label).
-5. **Warm routes and the one recommendation** (~700). Which assets may link to checkout; checkout with the age attestation and Fit Check embedded; the four possible recommendations (Program, Private, Starter Path, don't buy or referral); the education lane.
-6. **The written plan** (~400). What the Decision Assessment delivers: the stall verdict (pointer to 14), first steps, the recommendation. Baseline, not reading.
+1. **What the Program is for, and the evidence** (~600). Format equivalence, contact frequency, and proactive contact, at transfer strength.
+2. **The Review Rhythm and the check-in instrument** (~1,000). The weekly instrument (behavior logs, blockers, self-ratings, one question), turnaround, and the templating path. The group call, combined until ~12–15 clients. Late entry through week 1–2.
+3. **The Measurement Calendar and the Capture Standard** (~800). Capture conditions; no interim photos; privacy in delivery (photos coach-only, pseudonymous and camera-optional cohorts).
+4. **Before payment: the Path and Timeline Card and the Expectation Document** (~900):
+   - Contents of each.
+   - How reviews are made: the operator reads every log and writes or approves every review from a template; which tools help; who routes messages; what they never see; turnaround as a point.
+   - Pre-announced plateaus.
+   - The sample weekly review for the verification kit.
+5. **Milestones and markers** (~900):
+   - Baseline day.
+   - The week-6 read: the verdict question first, then adjust, hold, refer, or the exit right.
+   - The week-12 re-assessment and the non-response clause.
+   - **Marker design:** changeable-column measures with thresholds set at baseline; never adherence alone; never appearance change. A pass/fail example.
+   - Graduation.
+6. **Seat Math and the container options** (~700). Caps for Program, Round Two, Hold, and Private seats from measured minutes. Container options + default: 12 weeks vs 8 vs 6 months vs async-only (→ Program Async, 13). Monthly entry, pointed to 08.
 
-**Frameworks.** Owns ★ The Door, ◆ The Door Switch, ◆ The Fit Check, ◆ The Decision Assessment, ◆ Sell the Decision, Not the Diagnosis. Recaps ↺ Let Him Succeed Before He Pays (17), The Async Arc (20), Close by Contract (19), Stall Verdicts (14).
+**Frameworks.**
+- **Owns ★:** The Review Rhythm.
+- **Owns ◆:** The Measurement Calendar, The Capture Standard, The Path and Timeline Card.
+- **Owns ○:** the Program, the Expectation Document, the week-6 read and week-12 re-assessment, markers, baseline day, graduation, Seat Math. It also builds the sample weekly review, half of the verification kit (05).
+- **Recaps ↺:** the Commit Ritual, First-14, and Plateau Plan (21), the Layered Guarantee and Collectability Test (07), Integrity Levels (16), monthly entry (08), Program Async (13).
 
-**Worked example.** The same buyer through the Early door (fit conversation → founding group) and the Scaling door (async Decision Assessment → Program), with the operator's minutes for each.
+**Worked example.** A cohort of ten, week by week: every deliverable and the operator's minutes, including milestones, one exit-right request at week 6, and one non-response case at week 12.
 
-**Extras.** Templates: the self-assessment question bank (placeholders; no method); booking-page disclosure copy; Fit Check wording (verbatim). Checklist: the Door Switch. Action steps: build door v0 this week.
+**Extras.**
+- Templates: the check-in form (placeholders); the Path and Timeline Card; the Expectation Document; the marker sheet; the Seat Math worksheet.
+- Hard case: a client whose logs are perfect and whose markers are flat.
 
-**Stage-note angles.** Early: free or token fit conversations; reply personally to every adult lead. Growing: call-optional checkout for warm buyers. Scaling: paid, async-first assessments; capped calls.
+**Stage-note angles.** Early: founding-group delivery at ~30–35 all-in minutes, while building the instrument. Growing: templating, and splitting calls. Scaling: 13–15 all-in minutes, and Program Async.
 
-**Standard Check focus.** Hard line 5 and the education lane; the Fit Check; no diagnosing; the one-recommendation rule; a written plan worth its fee.
+**Licenses in play.**
+- *Build identity on evidence:* the rituals of review and decision → cohort sharing and process leaderboards, opt-in → does he know what earns status?
+- *Name the destination boldly:* the Card states what 12 weeks deliver with conviction → did we under-state the program?
 
-**Quick Reference.** The door diagram; the Door Switch; Fit Check outcomes; the four recommendations.
+**Standard Check focus.** No structural interpretation in reviews. The full path and the review method are disclosed before payment. Markers are collectable. Privacy is in delivery.
 
-**Dependencies.** BUSINESS §4; THESES B4, B5, B9, E13; LEDGER B, C.
-**Research for 3.1.** Age attestation and data-minimization practice; screening-language cautions (non-clinical).
-**Guardrails.** Never a clinical screen or score; never analyze facial structure; the persuasive result copy stays in 20.
+**Quick Reference.** The rhythm; the calendar; the capture checklist; the Card's contents; the marker rules; Seat Math.
+
+**Dependencies.** BUSINESS §9; LEDGER A4, B, D.
+**Research for 3.1.** Lens distance and focal-length effects on perceived proportions (category level); check-in design (verify).
+**Guardrails.** The instrument logs behavior against placeholders; no method content.
 
 ---
 
-## 07 · The Program
+## 07 · Price, Plans and Promises
 
-**Argument.** The Program is where results, proof, renewals, and margin are made. Its core is a **review rhythm** (weekly, proactive, async review with a stated turnaround, plus one live group call) and a **measurement calendar** (behavior weekly; standardized appearance capture at baseline, ~week 6, week 12, then quarterly). Both run inside a 12-week container sized by Seat Math. At equal review intensity, format matters far less than rhythm: group is roughly as good as individual, more frequent contact helps, and proactive review beats "message me anytime".
+**Argument.** Price is the profit lever at capacity and a credibility signal before it. It sits under **three ceilings**:
+- **Cash:** about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit.
+- **Capacity:** revenue per delivery hour.
+- **Credibility.**
 
-**Belief shift.** "A program is content plus calls" → "A program is a review rhythm and a measurement calendar, sized by minutes."
+It rises through **Price Steps**: small, scheduled, and always kept, each naming what was added. It's financed only at cost, and backed by a **layered guarantee** on what you control: a fit window, a service guarantee, a week-6 exit right, and a week-12 non-response clause, each collectable, each loud. Anchors are honest or absent.
 
-**Opening frame.** Two cohorts get the same material. One gets a weekly proactive review with a stated turnaround; the other gets "ask anytime". By week 6 the difference in logging is visible, and so is the difference in renewals at week 12.
+**Belief shift.** "Price by gut, discount to close, and treat guarantees as a risk" → "Price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."
 
-**Sections.**
-1. **What the Program is for, and what the evidence says** (~800). Results, proof, renewals, margin; format equivalence, frequency, and proactive contact, stated at transfer strength.
-2. **The Review Rhythm** (~1,200). The weekly check-in instrument (behavior logs, blockers, self-ratings, one question); turnaround; voice note vs written; the templating path from ~20 minutes to ~8; the live group call (one combined until ~12–15 clients; format; recording; camera-optional).
-3. **The Measurement Calendar and the Capture Standard** (~1,000). Behavior weekly; appearance at 0/6/12 then quarterly; the capture conditions (distance, lens, angle, light, expression, time of day); why no interim comparison photos; photos coach-only.
-4. **The Expectation Document and the milestones** (~800). Time commitment; what can and can't move (Outcome Map recap); pre-announced plateaus; the week-6 markers and written read; the week-12 re-assessment; graduation.
-5. **Seat Math** (~700). Care minutes → seat caps, worked; publish seats and deliverables, not minutes; when to split calls; capacity signals.
-6. **Container options** (~500). 12 weeks (default) vs 8 weeks vs a 6-month container; cohort starts vs rolling entry; the async-only variant; the Private variant (pointer to 11).
-
-**Frameworks.** Owns ★ The Review Rhythm, ◆ The Measurement Calendar, ◆ The Capture Standard, ◆ The Expectation Document, ◆ Seat Math. Recaps ↺ the First-14 and the Plateau Protocol (21), Integrity Levels (16), The Start Calendar (09), Round Two (11).
-
-**Worked example.** A week-by-week calendar for a cohort of ten: every deliverable and the operator's minutes, from baseline day to graduation.
-
-**Extras.** Templates: the check-in form (placeholders; no method); the Expectation Document; the Seat Math worksheet. Action steps: write your check-in form; set this quarter's seat cap from your minutes.
-
-**Stage-note angles.** Early: founding 1:1 at ~35 minutes a client-week, building the instrument. Growing: one combined call, then split by stage; templating. Scaling: 6–10 minutes a client-week; routing help; Private seats.
-
-**Standard Check focus.** No structural interpretation in reviews (hard line 2); privacy in delivery; commitments private by default; the Expectation Document as the Informed-Client ceiling in writing.
-
-**Quick Reference.** The rhythm; the calendar; the capture standard checklist; the Seat Math formula.
-
-**Dependencies.** BUSINESS §9; THESES B2, B19, H6, H7; LEDGER A4, D.
-**Research for 3.1.** Photography effects on perceived facial proportions (lens distance, focal length) at category level; check-in design.
-**Guardrails.** The instrument logs behavior against placeholders ("[habit block A]"); never method content.
-
----
-
-## 08 · Price, Plans and Promises
-
-**Argument.** Price is the profit lever at capacity and a credibility signal before it. It sits under **three ceilings**: cash (measured in months of take-home pay), capacity (revenue per delivery hour), and credibility (raised by everything the persuasion system proves). It moves along a **Price Path** only through a **Raise Gate**. It is financed only **at cost**. It is backed by a **layered guarantee** on what you control, loudly, and never on appearance. Anchors are honest or absent.
-
-**Belief shift.** "Price by gut or competitors, discount to close, and treat guarantees as a risk" → "Price sits inside three ceilings and rises through a gate; plans are priced at cost; I guarantee what I control, loudly."
-
-**Opening frame.** At capacity, a price rise that loses a smaller share of buyers than its percentage flows almost entirely to profit. The worked arithmetic takes three lines.
+**Opening frame.** At capacity, a price step that loses a smaller share of buyers than its percentage flows almost entirely to profit. The worked arithmetic takes three lines.
 
 **Sections.**
-1. **Price as lever and signal** (~800). Capacity math (+1% price ≈ +1.2–1.3% profit at your margin); demand-bound vs seat-bound; price–quality inference is weak; the felt-familiarity premium.
-2. **The Three Ceilings** (~900). Cash in months of take-home; capacity in revenue per delivery hour; credibility and what raises it. Setting the first price.
-3. **The Price Path and the Raise Gate** (~1,100). Founding → opening → proof → above band. Gate conditions; announcing ≥30 days out; the raise always happens; grandfathering; never below recent buyers. Honest anchors (the real premium tier, the delivery math, the value of months not wasted) and banned ones (surgery, sunk spend, hourly rates).
-4. **Plans at Cost** (~700). What plans do and to whom; ≤3 installments inside delivery; a premium of 0–5% stated as a total; cancel-forward; the affordability question; no plan when the answer signals borrowing.
-5. **The Layered Guarantee** (~1,000). Statutory rights; the fit window; the service guarantee on your inputs; the cash non-response clause on pre-agreed markers; the Collectability Test; publishing the claim rate; never appearance; consistency devices never timed to refund rights.
-6. **Refunds, disputes, and cash** (~400). Dispute counts, not ratios; a recognizable descriptor; the processor opened early; reserves; keep other income until trailing profit covers personal costs.
+1. **Price as lever and signal** (~700). Capacity math, demand-bound vs seat-bound, and why price–quality inference is weak.
+2. **The Three Ceilings** (~1,000). The numeric cash ceiling (LEDGER G), capacity, and credibility. Setting the first price.
+3. **The Price Steps** (~900):
+   - The schedule. Each step names what was added and never cuts a published deliverable.
+   - The proof milestone gates the proof band.
+   - Announcements ≥30 days out. Grandfathering.
+   - Honest anchors and banned ones.
+   - When a step would cross the ceiling, it goes to 13.
+4. **Plans at Cost** (~600). What plans do and to whom; the rules; cancel-forward; no plan after a signal.
+5. **The Layered Guarantee** (~1,200):
+   - Statutory rights.
+   - The fit window: the conversation is optional, feedback-only, with no re-pitch.
+   - The service guarantee, including Hold and Private deliverables.
+   - The exit right.
+   - The non-response clause, with markers from 06.
+   - The plan-usefulness refund.
+   - The Collectability Test, with a worked example.
+   - The published claim rate. No consistency device, testimonial ask, or written reason is ever timed to refund rights.
+6. **Refunds, disputes, and cash** (~500). Counts, not ratios; the descriptor; the processor opened early; reserves; keep other income.
 
-**Frameworks.** Owns ★ The Three Ceilings, ★ The Layered Guarantee, ◆ The Price Path, ◆ The Raise Gate, ◆ Plans at Cost, ◆ The Collectability Test, ○ felt-familiarity premium. Recaps ↺ Premium First, Price Once (19), Costly vs Hygiene Signals (15), Decision Points (09).
+**Frameworks.**
+- **Owns ★:** The Three Ceilings, The Layered Guarantee.
+- **Owns ◆:** The Price Steps, The Collectability Test.
+- **Owns ○:** the cash ceiling, Plans at Cost, the fit window, the exit right, the non-response clause, the plan-usefulness refund, the proof milestone.
+- **Recaps ↺:** Premium First, Price Once and the spoken affordability line (19), Costly vs Hygiene Signals (15), Decision Points (08), markers (06), the Buyer-Mix Shift (13).
 
-**Worked example.** Twelve months of pricing decisions for the default business (founding → opening → proof), with the evidence that opened each gate, one plan request handled, and one guarantee claim honored.
+**Worked example.** Twelve months of pricing for Cole: the founding group price → opening-band steps → the proof band. One plan request is declined after a signal, one exit-right refund is paid, and one fit-window refund is processed without a re-pitch.
 
-**Extras.** Templates: price-setting worksheet; raise announcement (placeholders); plan terms; guarantee terms. Action steps: compute your three ceilings; write your guarantee.
+**Extras.**
+- Templates: the price-setting worksheet (with the ceiling); a Price Step announcement (placeholders); plan terms; guarantee terms.
+- Hard case: a step would cross the cash ceiling.
 
-**Stage-note angles.** Early: founding price near the real price, with more access instead of a discount. Growing: the Raise Gate and plan hygiene. Scaling: above-band price and the premium lane.
+**Stage-note angles.** Early: the founding price, stated with the next one. Growing: steps every second start. Scaling: at the ceiling with two tiers (pointer to 13).
 
-**Standard Check focus.** Notch 8 at its default (real tiers, premium first, no decoys, no invented totals); hard line 5 (plans, affordability); the guarantee as a costly signal.
+**Licenses in play.**
+- *Present the price:* real tiers, premium first, price once → delivery math and the value of months not wasted as anchors → did we apologize for, hide, or discount a price?
+- *Use real dates:* announced steps → a step as a decision point → did we let a buyer defer past a step without telling him?
 
-**Quick Reference.** The ceilings; the path; the gate; plan rules; guarantee layers.
+**Standard Check focus.** No decoys and no invented totals. The lines on vulnerability (plans, affordability). The guarantee is costly and collectable, and never on appearance.
+
+**Quick Reference.** The ceilings (with numbers); the steps; plan rules; the guarantee layers; the Collectability Test.
 
 **Dependencies.** THESES B10–B13; LEDGER A, B, G, H.
-**Research for 3.1.** Consumer-protection principles for guarantees and auto-renewals (principle only); installment/BNPL regulation direction (principle only).
-**Guardrails.** Legal stays minimal (one Risk Register pointer); no tax or accounting advice.
+**Research for 3.1.** Guarantee and auto-renewal principles; installment regulation direction (principle only).
+**Guardrails.** Legal stays minimal (one pointer to the Risk Register); no tax advice.
 
 ---
 
-## 09 · Real Dates
+## 08 · Real Dates
 
-**Argument.** Deferral is the default enemy of every sale here: "I'll start in January" costs him a year. Real dates end deferral, and without launches they must be offer attributes. That means a start calendar, seat caps from capacity with a public fill history, decision points within weeks, price steps that always happen, starts pinned near real landmarks, and one announcement plus one reminder per start. The Launch Line tells you the moment you've slipped into a launch.
+**Argument.** Deferral is the default enemy of every sale here: "I'll start in January" costs him a year. Real dates end deferral, and without launches they must be offer attributes:
+- **monthly entry** into a standing group;
+- real seat caps;
+- **Price Steps** that always happen;
+- starts pinned near real landmarks;
+- one announcement plus one reminder per start, never to paused leads.
 
-**Belief shift.** "Urgency needs launches, countdowns, and bonuses" → "Real dates are offer attributes, and I design the calendar so every buyer meets a real decision point."
+A credit he already paid for is never a deadline. The **Launch Line** tells you the moment you've slipped into a launch.
 
-**Opening frame.** The buyer who says "January" in March. What waiting costs him, what a real date gives him, and why a fake one would lose him forever.
+**Belief shift.** "Urgency needs launches, countdowns, and bonuses" → "Real dates are offer attributes, and I design the calendar so every assessed buyer meets a real decision point within weeks."
+
+**Opening frame.** Sam *(composite, Ambivalent)* says "after the busy season" in March. What waiting costs him, what a real date gives him, and why a fake one would lose him for good.
 
 **Sections.**
-1. **Why deferral wins without dates** (~800). Deferral and the cost of waiting; fresh-start effects; why manufactured urgency backfires with a grift-fatigued audience.
-2. **The Launch Line** (~800). The test; examples on both sides; no countdown widgets; what staying on the right side frees you from.
-3. **The Start Calendar** (~900). The founding group date; rolling starts every 6–8 weeks, then monthly; seat caps from Seat Math; waitlists; smoothing cash across starts.
-4. **Decision Points** (~900). Credit windows, seat caps, price steps; designing so every assessed buyer meets one within ~2–4 weeks; how points map to buyer states.
-5. **The Fill History** (~500). Seat status as plain fact; publishing under-filled starts; why that builds trust.
-6. **Announcing dates** (~700). One announcement and one reminder per start, to engaged segments; how dates appear in warm content, pages, and DMs; Landmark Pinning and seasonality.
+1. **Why deferral wins without dates** (~800). Deferral, the cost of waiting, fresh starts, and why manufactured urgency backfires here.
+2. **The Launch Line** (~800). The test, examples on both sides, and no countdown widgets.
+3. **Monthly entry** (~900). The standing group; seat caps from Seat Math; waitlists; cash smoothing. Why monthly adds no call load until ~12–15 clients.
+4. **Decision Points** (~900). The next monthly start and announced price steps. Why credit is never a deadline (held ~90 days; after a "not now", until he enrolls). Mapping points to states: the burned buyer chooses his date.
+5. **The Fill History and seat status** (~600). Status stated when it's informative; the fill history published after each start closes.
+6. **Announcing dates** (~900). One plus one; never to paused leads; dates in content, pages, and DMs; landmark pinning and seasonality.
 
-**Frameworks.** Owns ★ The Launch Line, ◆ The Start Calendar, ◆ The Fill History, ◆ Decision Points, ◆ Landmark Pinning. Recaps ↺ The Raise Gate (08), The Decision Date (19), sends in practice (26), Seat Math (07).
+**Frameworks.**
+- **Owns ★:** The Launch Line.
+- **Owns ◆:** Decision Points.
+- **Owns ○:** monthly entry, the Fill History, landmark pinning.
+- **Recaps ↺:** the Price Steps (07), the Decision Date (19), send rules and the pause route (26, 05), Seat Math (06).
 
-**Worked example.** A six-month calendar for the default business: starts, one price step, credit windows, and the full send schedule, with the Launch Line check run on each item.
+**Worked example.** A six-month calendar for Cole: monthly starts, two price steps, and the full send schedule, with the Launch Line check run on each item and one buyer's decision point traced.
 
-**Extras.** Templates: the calendar; the announcement and reminder emails (placeholders). Checklist: the Launch Line. Action steps: set your next two start dates and seat caps.
+**Extras.**
+- Templates: the calendar; announcement and reminder emails (placeholders).
+- Checklist: the Launch Line.
+- Hard case: a start that will run under-filled.
 
-**Stage-note angles.** Early: one founding group date. Growing: starts every 6–8 weeks, then monthly. Scaling: monthly starts plus scheduled price steps.
+**Stage-note angles.** Early: monthly entry from the founding group. Growing: steps every second start. Scaling: seat caps bind, so status becomes informative.
 
-**Standard Check focus.** Notch 4 at its default and stronger variant; hard line 3; no countdowns; no window bonuses.
+**Licenses in play.**
+- *Use real dates:* monthly starts and steps → a personal decision date and a stated number of founding seats → does every assessed buyer meet a real point within ~2–4 weeks?
 
-**Quick Reference.** The Launch Line test; the calendar rules; Decision Points; the one + one send rule.
+**Standard Check focus.** Stay on the right side of the Launch Line. The line on fake scarcity. Credit is never a deadline. Paused leads never receive date sends.
 
-**Dependencies.** THESES P10, H13, B22; STANDARD §6; LEDGER B, F, H.
-**Research for 3.1.** Fresh-start effect specifics; deferral in purchase decisions; scarcity evidence (have).
-**Guardrails.** Launch campaigns are excluded: never teach launch mechanics, even as a contrast beyond the Launch Line test itself.
+**Quick Reference.** The Launch Line; the calendar rules; Decision Points; the one-plus-one rule.
+
+**Dependencies.** THESES P10, H13; STANDARD §6; LEDGER B, C, F, H.
+**Research for 3.1.** Fresh-start effect specifics; deferral in purchase decisions (verify).
+**Guardrails.** Never teach launch mechanics.

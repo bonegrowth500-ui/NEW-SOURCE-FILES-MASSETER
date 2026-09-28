@@ -1,4 +1,4 @@
-# VOICE — locked rules for drafting · Step 2.6
+# VOICE — locked rules for drafting · Step 2.6 (aligned with R2)
 
 **Precedence:** SPEC → HOUSE_STANDARD (claims) → STYLE (scope and hard rules) → **VOICE (how it reads)** → `voice/sample-v2.md` (the calibrated reference; where it disagrees with this file, this file wins).
 Built from the v1 sample, the independent voice critique (`voice/critique.md`, VOI-1–21), and calibration against both sources: the first source's reasoning (why before what, variants with reasons, cases run end to end), the second source's scannability (numbered sections, takeaways, "for your niche" application), and neither source's failure modes (walls of text and triple restatement in the first; bold everywhere, reasonless bullets, single-point numbers, and pop neuroscience in the second).
@@ -24,9 +24,9 @@ Built from the v1 sample, the independent voice critique (`voice/critique.md`, V
 15. **Script format (§3.3):** blockquote, bold speaker labels, the fixed cast, *(composite, state)* at first appearance, ≤150 words per block, load-bearing lines verbatim, italic bracketed stage directions only for silences that matter, brackets for method content and his personal numbers (described in plain words). General outcome categories from the Outcome Map are written out, not bracketed.
 16. **Every script gets a debrief; every sales unit ends at the decision.** Debrief ≤100 words: the move, the mechanism, exactly one framework or Belief Chain link per move. Then the scripted pushback variant, the line you never say, and either the return to the recommendation and the ask, or the stop rule that ends it. Two run-in labels are kept for technique units (**Why it works.** / **How to use it.**); everything else flows as prose.
 17. **The fixed composite cast (§2).** Modules never invent new names.
-18. **Texture cadence:** no more than ~600 words of unbroken prose; change texture every 400–600 words (table, case, script, checklist, formula line). Rough mix per module: ~60% reasoning prose, 10–15% tables and checklists, 15–20% cases and scripts, ≤10% fixed blocks. One worked example (600–800 words), one "When the signals disagree" hard case, checklists of 5–8 yes/no items answerable from his own records with the ledger threshold written in.
+18. **Texture cadence:** no more than ~600 words of unbroken prose; change texture every 400–600 words (table, case, script, checklist, formula line). Rough mix per module: ~60% reasoning prose, 10–15% tables and checklists, 15–20% cases and scripts, ≤10% fixed blocks. One worked example (600–800 words; ~1,000 in 18–22; run through the sections in 28), one "When the signals disagree" hard case, checklists of 5–8 yes/no items answerable from his own records with the ledger threshold written in.
 19. **Headings and bold:** `## N. Title Case` for sections; `### Sentence-case headings that read as claims` for subsections ("Reach binds first"); objection headings are the buyer's words in quotes. Each section's first sentence states its claim. Parallel subsections carry parallel parts (mechanism → niche reason → signs → moves). Bold only for a framework's first use, run-in labels ending in a period, speaker labels, one formula line per section, and "**Default:**". Never bold for emphasis inside a sentence.
-20. **Fixed blocks have fixed jobs (§3.5).** Budget: opening ~200 · deep sections ~4,900 (in-section cases and the hard case included) · worked example ~700 · extras ~600 · Stage Notes ~200 · Standard Check ~130 · Quick Reference ~300 ≈ **7,030** (band 6,300–7,700). Brief section budgets are relative weights scaled to ~4,900.
+20. **Fixed blocks have fixed jobs (§3.5).** Default budget: opening ~200 · deep sections ~4,900 (in-section cases and the hard case included) · worked example ~700 · extras ~600 · Stage Notes ~200 · Standard Check ~130 · Quick Reference ~300 ≈ **7,030** (band 6,300–7,700). **Part V (18–22):** deep sections ~3,800–4,000 · worked example ~1,000 · extras ~1,500–1,700 (scripts and swipe copy). **Module 28:** deep sections ~4,700 with the worked example run through them as dated inserts · extras ~1,300. Brief section budgets are relative weights scaled to the module's deep-section total.
 
 **Filling the length honestly (never with restatement), in priority order:** a run on one case for each flagship framework → the missing reason behind each lever → signs for every position or variant → one "When the signals disagree" hard case.
 
@@ -94,7 +94,7 @@ Notice the move (plain prose, no bold label): one or two sentences naming the mo
 
 ### 3.4 Worked example
 
-A composite with dated decision points: the signs → the read → the default move → what was left alone → the outcome as a ledger range or placeholder. 600–800 words. Band A–B unless labeled "the good case". End with "What it shows" in two or three sentences.
+A composite with dated decision points: the signs → the read → the default move → what was left alone → the outcome as a ledger range or placeholder. 600–800 words (~1,000 in 18–22; dated inserts in 28). Band A–B unless labeled "the good case". End with "What it shows" in two or three sentences.
 
 ### 3.5 Fixed blocks
 
@@ -110,9 +110,11 @@ A composite with dated decision points: the signs → the read → the default m
 
 ## 4. Vocabulary
 
-**Banned in the playbook's own voice (not only in client-facing lines):** diagnose, diagnosis, diagnostic, misdiagnose, treat, treatment, therapy, healing, patient, protocol (except the registered name "Plateau Protocol"), cure, fix your face, restore, remodel, reshape, bone growth as a promise (the category term may be named as a search term), "sellable", "down-path", "defense meter", "control lexicon". Use: read, misread, name, check, find, trace, assess, review, baseline, decision, plan, block, record, habit, presentation, capture standard.
+**Banned in the playbook's own voice (not only in client-facing lines):** diagnose, diagnosis, diagnostic, misdiagnose, treat, treatment, therapy, healing, patient, protocol, cure, fix your face, restore, remodel, reshape, bone growth as a promise (the category term may be named as a search term), "sellable", "down-path", "defense meter", "control lexicon". Use: read, misread, name, check, find, trace, assess, review, baseline, decision, plan, block, record, habit, presentation, capture standard. **Mention is not use:** a banned word may appear in quotation marks only where Module 15 teaches the Plain-Language Rule or a House Standard line names what's out.
 
-**Banned source-relative phrasing:** "anymore", "no longer" (unless describing the buyer or business), "newly", "than before", "looser", "unlike before", "this time", "as you learned", "previously", "the old way", any mention of the sources, a "prior program", course, or blueprint.
+**Banned source-relative phrasing:** "anymore", "no longer" (unless describing the buyer or business), "newly", "than before", "looser", "unlike before", "this time", "as you learned", "previously", "the old way", "used to do", "once did", "once handled", any mention of the sources, a "prior program", course, or blueprint. Concepts are defined natively ("the five jobs every coaching business must get done…"), never against what something else did.
+
+**Reserved words:** "floor" means only the Informed-Client floor. "The Spine" means only the Intro's one-page view of the default business. Capitalized "Path" appears only in the Starter Path, the Path and Timeline Card, and the Early Fast Path, and capitalized "Gate" only in the Month-3 Gate, Monthly Gates, and Ad Gates; lowercase "path" and "gate" are ordinary prose. "Private" as a capitalized word is the offer.
 
 **Banned hype and filler:** secret, hack, game-changer, insane, crush, 10x, "the truth is", "let that sink in", "here's the thing", "at the end of the day", "In this module you will…".
 
@@ -128,7 +130,7 @@ A composite with dated decision points: the signs → the read → the default m
 | The brand's straight answer about bone | the Honest Answer | "the honest map" |
 | Appearance photos taken to the standard | captures | pics, progress pics |
 
-**Capitalization:** framework and offer names exactly as in the FRAMEWORKS.md name column (the style sheet in `voice/style-sheet.md`, generated after Step 2.5 renames). Offers: the Program, Round Two, the Hold, Private, the Decision Assessment, the Starter Path, the Self-Serve System, the Premium Lane.
+**Capitalization:** framework and offer names exactly as in the FRAMEWORKS.md name column (the style sheet in `voice/style-sheet.md`, generated after Step 2.5 renames). Offers: the Program, Program Async, Round Two, the Hold, Private, the Decision Assessment (and its priority tier, lowercase), the Starter Path, the Self-Serve System, the Premium Lane, the Training-Partner Seat. Groups: the founding group, the alumni room (lowercase).
 
 ---
 

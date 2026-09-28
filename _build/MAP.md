@@ -1,246 +1,518 @@
-# MAP — The 28 modules · Step 2.2
+# MAP v2 — The 28 modules (Step 2.2, revised in 2.5)
 
-The module map for the playbook: allocation, reading order, Parts (= drafting phases), and **sole ownership** of every concept. Each module has one job and one core belief shift. A concept is taught in full only by its owner; every other module that needs it gives a one- or two-sentence native recap and a cross-reference ("see Module 7").
+This file sets the allocation, the reading order, and the Parts (which double as drafting rounds). It also gives **sole ownership** of every concept. Each module has one job and one belief shift.
+
+A concept is taught in full only by its owner. Any other module that needs it gives a one- or two-sentence native recap, then "(Module N)". Names and owners match FRAMEWORKS v2.
 
 ## Allocation
 
-| Track | Modules | Count | Why this count |
+| Track | Modules | Count | Why |
 |---|---|---|---|
-| Business & Offers | 1–13 | 13 | The lead track. Thirteen modules plus the business-led Build Plan (28) give business ~14 of 28, as specified. Operations stay a floor: two modules (12, 13). |
-| Belief & Persuasion | 14–22 | 9 | The mastery track, as specified: one model module, three belief-mechanism modules, and five application modules across content, calls, async selling, delivery, and retention. |
-| Ecosystem | 23–27 | 5 | Least focus, as specified: one module per surface family. Refresh-then-extend with brief native recaps. |
-| Build Plan | 28 | 1 | Last, the first nine months (spec). Drafted in Step 4.4. |
+| Business & Offers | 01–13 | 13 | The lead track. With the business-led Build Plan (28), business holds ~14 of 28, as the spec asks. Operations proper stays minimal: Module 11, plus 01's math at planning depth (R2-5). |
+| Belief & Persuasion | 14–22 | 9 | One model module, three belief-mechanism modules, and five application modules: content, calls, async, delivery, retention. |
+| Ecosystem | 23–27 | 5 | Least focus: one module per surface family. Refresh, then extend. |
+| Build Plan | 28 | 1 | Last; covers the first nine months. Drafted in Step 4.4. |
 
-**Deliverable files (repo root):** `README.md` (Introduction & how to use, with the table of contents and the House Standard), `01-…md` to `28-…md`, `glossary.md`.
+**Deliverables (repo root):**
+- `README.md`: the Intro and how to use it. Contains the table of contents, the House Standard, the Spine at a glance, the cast, and the Early Fast Path.
+- `01-…md` through `28-…md`: one file per module.
+- `glossary.md`.
 
 ## Parts (reading order = drafting rounds)
 
 | Part | Modules | Theme |
 |---|---|---|
-| **Part I — How the Business Works** | 1–4 | The model, the buyer, the position, the math |
-| **Part II — The Offer System** | 5–9 | Ladder, door, flagship, price, calendar |
-| **Part III — Start, Extend, Run, Grow** | 10–13 | Founding, lifetime value, the week, growth decisions |
+| **Part I — How the Business Works** | 01–03 | The model and its math, the buyer, the position |
+| **Part II — The Offer System** | 04–08 | Ladder, door, flagship, price and promises, calendar |
+| **Part III — Start, Extend, Run, Grow** | 09–13 | Founding, lifetime value, the week, growth decisions, the road to $50k |
 | **Part IV — The Psychology of Belief** | 14–17 | Belief model, trust, evidence, identity |
 | **Part V — Selling and Transformation** | 18–22 | Content, calls, async, delivery, renewal and referral |
 | **Part VI — The Ecosystem** | 23–27 | Long-form, short-form, Instagram and X, email, hub/search/paid |
 | **Part VII — The Build** | 28 | The first nine months |
 
-**Early-stage pointer (Intro, R1-40):** read in order. If you're in the Early stage, the modules with this month's actions are 10 (The Founding Phase), 6 (The Door), 19 (The Sales Conversation), 24 (Short-Form), and 28 (The First Nine Months).
+## The Early Fast Path (Intro; section-level)
+
+Read in order. If you're in the Early stage, apply these sections in months 0–3:
+
+| Week | Apply | Why now |
+|---|---|---|
+| 1 | 05 §2, §4 (door v0, the Fit Check, speed to lead) · 11 §6 (the Risk Register: minors, processor) | Nothing sells safely without the door |
+| 1–2 | 03 §3 (the Honest Answer) · 23 §4 (your first long-form) · 24 §1 (the short-form batch) | The first reach and the first trust asset |
+| 1–4 | 09 §2–§4 (the Founding Sprint, dual-purpose conversations, the founding group) · 25 §2 (permission-first replies, the Keyword Route) | Conversations are month 3's deciding number |
+| 2–4 | 19 §1–§5 (Close by Contract, objections, State Routing) · 07 §4–§5 (plans, the Layered Guarantee) · 02 §4 (the affordability question) | The first paying client arrives in weeks 2–6 |
+| 2–6 | 06 §2–§4 (the Review Rhythm, capture standard v1, the Path and Timeline Card, the Expectation Document) · 21 §2 (the Commit Ritual, the First-14) | Delivering to him |
+| 4–8 | 15 §4–§5 (the face statement, the Qualifications Answer) · 16 §4 (process and Transition stories) | The first skeptical comments and the first proof |
+| 12 | 09 §6 (the Month-3 Gate) · 12 §1 (the five numbers) · 28 (the build) | The gate |
 
 ---
 
 ## The modules
 
-Format: **Job** · **Belief shift** (before → after) · **Owns** (taught in full here) · **Leans on** (recapped from other modules) · **Ledger** (primary LEDGER sections).
+Each module lists five things:
+- **Job**
+- **Shift:** before → after
+- **Owns:** taught in full here
+- **Leans on:** recapped from other modules
+- **Ledger:** the primary LEDGER sections
 
 ### Part I — How the Business Works
 
 **01 · The Whole Business** — `01-the-whole-business.md`
-- **Job:** give you the model for the entire business before any part of it.
-- **Shift:** "I'm a creator who sells coaching; more content means more money" → "I run a judgment business whose binding constraint moves from reach to conversations to care minutes, and I decide everything for the constraint that binds this month."
-- **Owns:** the master thesis (The End of Guessing as a business), the Five Scarcities, the Constraint Sequence, the Stage Map (stage definitions + staged north star), the Spine, the standard as strategy (why trust is the scarcest asset).
-- **Leans on:** 4 (numbers), 5 (ladder), 13 (metrics).
-- **Ledger:** A, A2.
+- **Job:** give you the model of the entire business, and its math, before any part of it.
+- **Shift:** from "I'm a creator who sells coaching, so more content means more money" to "I run a judgment business with an equation. I know which constraint binds this month, and I decide for it."
+- **Owns:**
+  - The End of Guessing (the thesis).
+  - The Five Scarcities.
+  - The Constraint Sequence and the Monthly Constraint Read.
+  - The Stage Map.
+  - The Demand Equation and the Reverse Funnel.
+  - Reach Bands.
+  - The Capacity Ceiling.
+  - Eligible adults and eligible-adult yield.
+  - Revenue per eligible lead and the maximum affordable cost per eligible lead.
+  - The profit-engine decision (options + default).
+- **Leans on:** 04 (the ladder), 12 (metrics), 13 (the $50k path), the Intro (the Spine, the House Standard).
+- **Ledger:** A, A2, A3, A5.
 
 **02 · The Buyer** — `02-the-buyer.md`
-- **Job:** define who buys, what they really want, the state they're in, and who shouldn't buy.
-- **Shift:** "My buyer wants a better jawline" → "My buyer is a stalled adult who wants to stop guessing and be taken seriously; his state decides the path, and eligibility is adulthood plus the ability to pay from income."
-- **Owns:** the Struggler Gap Triad, Buyer States (Struggler, Burned Struggler, Optimizer, Ambivalent) as definitions, the Destination Ladder, the Eligibility Rule (age fork + take-home affordability, as policy), Buying Triggers, buyer economics, why minors get an education lane.
-- **Leans on:** 3 (Outcome Map), 6 (how the door enforces eligibility), 19 (routing by state).
+- **Job:** define who buys, what he actually wants, the state he's in, and who shouldn't buy.
+- **Shift:** from "my buyer wants a better jawline" to "my buyer is an eligible, stalled adult who wants to stop guessing. His state decides the path. Eligibility is adulthood plus paying from his own income or savings without new credit."
+- **Owns:**
+  - The Destination Ladder.
+  - Buyer States.
+  - The Struggler Gap Triad.
+  - The Eligibility Rule, as policy.
+  - Buying triggers.
+  - Buyer economics (take-home).
+  - The rejected buyer alternatives.
+  - Why minors get an education lane (the reasoning only; 05 implements it).
+- **Leans on:** 03 (the Outcome Map), 05 (enforcement), 19 (the spoken affordability line and State Routing), 13 (the buyer-mix shift).
 - **Ledger:** G.
 
 **03 · The Honest Position** — `03-the-honest-position.md`
-- **Job:** position the brand in a burned category.
-- **Shift:** "Stand out with bigger promises and better content" → "Win by being the one voice that answers the bone question straight; the honest no plus the honest yes *is* the positioning."
-- **Owns:** the Outcome Map, the Honest Answer (canon claim #1 and its asset), the Credible Middle, the Neither-Grifter-nor-Doctor Test, Name | Brand architecture, product naming rules, the brand descriptor, the null-result stance.
-- **Leans on:** 14 (the Canon), 15 (trust mechanics), 27 (verify page).
-- **Ledger:** —.
-
-**04 · The Demand Equation** — `04-the-demand-equation.md`
-- **Job:** do the math from the profit target back to reach, with capacity and lifetime value.
-- **Shift:** "More views means more money; I'll do the numbers later" → "Profit = eligible adults × conversion × lifetime value, capped by care minutes. Month 3 is decided by conversations, not audience, and $50k is a price-and-leverage problem."
-- **Owns:** the Demand Equation, the Reverse-Funnel Calculator, Reach Bands and waypoints, Eligible-Adult Yield (definition), the Capacity Ceiling (capacity-bound profit), revenue per eligible lead, what $25k and $50k require.
-- **Leans on:** 7 (care minutes), 8 (price), 11 (LTV), 13 (small numbers).
-- **Ledger:** A, A3, A4, C.
+- **Job:** position the brand in a burned category, and define its moat.
+- **Shift:** from "I stand out with bigger promises and better content" to "my honesty about what can't move is the most differentiated thing I sell, and the dated record of it is what no one can copy."
+- **Owns:**
+  - The Outcome Map.
+  - The Honest Answer.
+  - The Credible Middle and the Neither-Grifter-nor-Doctor Test.
+  - Name | Brand, product naming, and the brand descriptor.
+  - The null-result stance.
+  - The Dated Record.
+- **Leans on:** 14 (the Canon), 15 (trust), 16 (publication mechanics), 27 (the Verify Page).
+- **Ledger:** H (the Dated Record).
 
 ### Part II — The Offer System
 
-**05 · Offer Architecture** — `05-offer-architecture.md`
+**04 · Offer Architecture** — `04-offer-architecture.md`
 - **Job:** design the ladder.
-- **Shift:** "Offer everything, or offer one thing" → "One flagship, two buffers, one floor; every rung has one job and switches on by stage."
-- **Owns:** the Ladder (one flagship, two buffers, one floor), the Rung Activation Schedule, the Starter Path and the Self-Serve System, Judgment Is the Product, Reasons to Pay, the Free/Paid Line, packaging the method (Signature System, light), the new-creations catalog, what never goes on the ladder.
-- **Leans on:** 6, 7, 11 (rung detail), 4 (why the ladder must reach the target).
+- **Shift:** from "offer everything, or offer one thing" to "one flagship, two buffers, one net. Every rung has one job and switches on by stage."
+- **Owns:**
+  - One Flagship, Two Buffers, One Net, at rung level.
+  - The Rung Activation Schedule.
+  - The Starter Path, in full, and the Starter tool.
+  - The Self-Serve System.
+  - Judgment Is the Product and Reasons to Pay.
+  - The Free/Paid Line.
+  - Packaging the method, lightly.
+  - An index of new creations, each with its owner.
+  - What never goes on the ladder.
+- **Leans on:** 05, 06, 10, 13 (rung detail).
 - **Ledger:** B.
 
-**06 · The Door** — `06-the-door.md`
-- **Job:** design the owned front door.
-- **Shift:** "Free discovery calls for everyone, or a link to checkout" → "A stage-gated door that checks age, checks fit, sells the decision, and hands off to one recommendation."
-- **Owns:** the Door (self-assessment structure, routing, tags), the age fork and education lane (implementation), the Fit Conversation, the Decision Assessment and its written plan, the Door Switch, the Fit Check (two-tier), Sell the Decision (not the Diagnosis), warm routes (what may link to checkout).
-- **Leans on:** 17 (Let Him Succeed Before He Pays), 20 (the persuasive arc of the result page), 19 (running the conversation).
-- **Ledger:** B, C.
+**05 · The Door** — `05-the-door.md`
+- **Job:** design the owned front door, from first click to one recommendation.
+- **Shift:** from "free discovery calls for everyone, or a link to checkout" to "one door that checks age, answers fast, caps free calls, checks fit and affordability before any payment, and ends in one recommendation."
+- **Owns:**
+  - The Door: self-assessment structure, tags, routing.
+  - The age fork and the education lane, implemented.
+  - Speed to lead.
+  - The fit conversation and the Call Cap.
+  - The Decision Assessment, the priority tier, and the written plan (~1,000 words, with its full template).
+  - The Fit Check and its signal pause.
+  - Enforcement of the affordability question at every paid step.
+  - The pause route.
+  - The front-buffer options (options + default).
+  - Checkout mechanics: attestation, affordability, Fit Check.
+  - The verification kit's sample plan.
+  - Sell the Decision, Not a Face Rating.
+- **Leans on:** 17 (the free log, the Week-Zero Baseline), 20 (the result page's arc), 19 (running the conversation), 18 (which assets may link to checkout).
+- **Ledger:** B, C, G.
 
-**07 · The Program** — `07-the-program.md`
-- **Job:** design the flagship container.
-- **Shift:** "A program is content plus calls" → "A program is a review rhythm and a measurement calendar that produce results, proof, and renewals inside a fixed number of minutes."
-- **Owns:** the 12-week container, the Review Rhythm (proactive, stated turnaround), the group-call format, the check-in instrument, the Capture Standard, the Measurement Calendar (behavior often, appearance rarely), the Expectation Document, the week-6 read and week-12 re-assessment (as deliverables), Seat Math (seat caps from care minutes), privacy in delivery, graduation.
-- **Leans on:** 21 (adherence psychology), 16 (turning outputs into proof), 9 (start calendar).
-- **Ledger:** A4, D.
+**06 · The Program** — `06-the-program.md`
+- **Job:** design the flagship container and everything the client receives.
+- **Shift:** from "a program is content plus calls" to "a program is a review rhythm and a measurement calendar, sized by minutes. He knows its path and total cost before paying."
+- **Owns:**
+  - The 12-week container, plus the flagship format and container options (options + default).
+  - The Review Rhythm.
+  - The check-in instrument.
+  - The group-call format.
+  - The Measurement Calendar and the Capture Standard.
+  - The Path and Timeline Card and the Expectation Document, including how reviews are made.
+  - Markers and their design; the week-6 read and the week-12 re-assessment, as deliverables.
+  - Baseline day and graduation, as deliverables.
+  - Late entry.
+  - Seat Math, covering Program, Round Two, Hold and Private seats.
+  - Privacy in delivery.
+  - The verification kit's sample weekly review.
+- **Leans on:**
+  - 21 (the psychology of adherence);
+  - 16 (turning outputs into proof);
+  - 07 (the clauses the markers feed);
+  - 08 (monthly entry);
+  - 13 (Program Async).
+- **Ledger:** A4, B, D.
 
-**08 · Price, Plans and Promises** — `08-price-plans-and-promises.md`
-- **Job:** set and raise price, and design plans and the guarantee.
-- **Shift:** "Price by gut or competitors, discount to close, and treat guarantees as a risk" → "Price sits inside three ceilings, rises through a gate, and is the profit lever at capacity. Plans are priced at cost. Guarantee what you control, loudly."
-- **Owns:** the Three Ceilings, the Price Path (founding → opening → proof → above band), the Raise Gate, honest anchors (as policy), Plans at Cost (cancel-forward; the affordability question at the plan step), the Layered Guarantee with the non-response clause, the Collectability Test, the Felt-Familiarity Premium, refunds/disputes/cash-flow basics.
-- **Leans on:** 19 (price presentation), 15 (guarantee as costly signal), 9 (price-step timing).
+**07 · Price, Plans and Promises** — `07-price-plans-and-promises.md`
+- **Job:** set and step price, and design plans and the guarantee.
+- **Shift:** from "price by gut, discount to close, and treat guarantees as a risk" to "price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."
+- **Owns:**
+  - The Three Ceilings, including the cash ceiling.
+  - The Price Steps and the proof milestone.
+  - Honest anchors, as policy.
+  - Plans at Cost.
+  - The Layered Guarantee: fit window, service guarantee, exit right, non-response clause, plan-usefulness refund.
+  - The Collectability Test.
+  - Refunds, disputes and cash flow.
+- **Leans on:** 19 (presenting price), 15 (the guarantee as a costly signal), 08 (when steps land), 06 (markers), 13 (the ceiling at scale).
 - **Ledger:** B, G, H.
 
-**09 · Real Dates** — `09-real-dates.md`
+**08 · Real Dates** — `08-real-dates.md`
 - **Job:** create honest urgency and steady cash without launches.
-- **Shift:** "Urgency needs launches, countdowns, and bonuses" → "Deadlines are offer attributes: a calendar of starts, seat caps from capacity, credit windows, and price steps, and the Launch Line keeps them honest."
-- **Owns:** the Launch Line, the Start Calendar, the Fill History (seat status as plain fact), Decision Points (a real decision point within 2–4 weeks for every assessed buyer), price-step scheduling, landmark pinning and seasonality, waitlists, announcement cadence (one announcement + one reminder).
-- **Leans on:** 8 (Raise Gate), 19 (the Decision Date on the call), 26 (sends).
-- **Ledger:** B, F, H.
+- **Shift:** from "urgency needs launches, countdowns and bonuses" to "real dates are offer attributes: monthly starts, real caps, price steps. The Launch Line keeps them honest."
+- **Owns:**
+  - The Launch Line.
+  - Monthly entry, which is the start calendar.
+  - Decision Points.
+  - The Fill History and when seat status is stated.
+  - Price-step timing (the rule itself is owned by 07).
+  - Landmark pinning and seasonality.
+  - Waitlists.
+  - Send cadence: one announcement plus one reminder, never to paused leads.
+  - Cash smoothing across starts.
+- **Leans on:** 07 (the Price Steps), 19 (the Decision Date), 26 (sends), 06 (Seat Math).
+- **Ledger:** B, C, F, H.
 
 ### Part III — Start, Extend, Run, Grow
 
-**10 · The Founding Phase** — `10-the-founding-phase.md`
+**09 · The Founding Phase** — `09-the-founding-phase.md`
 - **Job:** get the first clients with no audience.
-- **Shift:** "I need an audience before I can sell" → "The first clients come from disclosed conversations while content compounds, and founding clients are R&D, priced near the real price."
-- **Owns:** the Founding Sprint, the founding offers (founding 1:1 → founding group), the disclosed dual-purpose conversation, the Month-3 Gate, the R&D Harvest (stall taxonomy v1, check-in instrument v1, capture standard v1, first process testimonials), the early personal-reply rule.
-- **Leans on:** 6 (door v0), 19 (the conversation), 24 (early reach).
-- **Ledger:** A3, B, H.
+- **Shift:** from "I need an audience before I can sell" to "I sell through disclosed conversations now. My founding clients are R&D, and every one of them joins the founding group."
+- **Owns:**
+  - The Founding Sprint, including labeled sources and the week-3 source check.
+  - The Dual-Purpose Conversation.
+  - The founding group: from the first client, with monthly entry.
+  - Founding Private seats (the application; their design is 13's).
+  - The founding price.
+  - The R&D Harvest.
+  - The Month-3 Gate, with its volume and conversion legs.
+  - Offering founding graduates Round Two.
+- **Leans on:** 05 (door v0), 19 (the conversation), 24 and 25 (early reach and replies), 07 (price).
+- **Ledger:** A3, B, C, H.
 
-**11 · Lifetime Value** — `11-lifetime-value.md`
-- **Job:** design the back end and the premium lane.
-- **Shift:** "The sale is the finish line" → "The first program ends before outcomes appear. Renewal, the Hold, and the premium lane are where margin, proof, and referrals are born."
-- **Owns:** Round Two, the Hold, the community options (alumni room by default; in-cohort peer space; open paid membership), the Premium Lane (Private + the Priority Review + the fast lane), re-enrollment, LTV math.
-- **Leans on:** 22 (selling the renewal), 7 (the container), 4 (LTV in the equation).
+**10 · Lifetime Value** — `10-lifetime-value.md`
+- **Job:** design the back end.
+- **Shift:** from "the sale is the finish line" to "the first program is the start of a measured relationship. The back end is where outcomes, proof and referrals are born."
+- **Owns:**
+  - The LTV Stack.
+  - Round Two as a maintenance format.
+  - The Hold, running as a measurement subscription until it opens as the alumni room.
+  - The Hold's deliverables card.
+  - Community Options, including room rules and opt-in process leaderboards.
+  - The Training-Partner Seat, as an offer.
+  - Re-enrollment.
+- **Leans on:** 22 (the asks), 06 (the container), 13 (parity), 17 (identity).
 - **Ledger:** B, D.
 
-**12 · The Operating Week** — `12-the-operating-week.md`
+**11 · The Operating Week** — `11-the-operating-week.md`
 - **Job:** run the business in ~20 hours.
-- **Shift:** "Work harder" → "A designed ~20-hour week with a protected content minimum, a de-scoping order, and every per-person minute priced, batched, or templated."
-- **Owns:** the Design Week, the Protected Content Minimum, the De-Scoping Order, the Unpriced-Minute Rule, the Keep-List (with task-billed routing help), batched live windows and the no-show protocol, systems and automation (minimal), the AI line, data and privacy operations, the Risk Register (legal, minimal).
-- **Leans on:** 13 (when to add help), 7 (care minutes).
+- **Shift:** from "work harder when it's busy" to "my week is designed line by line. Overload triggers a fixed order of cuts, and the leverage gets built on a protected line."
+- **Owns:**
+  - The Design Week.
+  - The Protected Content Minimum.
+  - The De-Scoping Order.
+  - The Unpriced-Minute Rule.
+  - The Keep-List and routing help (its single definition).
+  - The Build Queue.
+  - Batched live windows and the no-show rule.
+  - Systems and automation, kept minimal.
+  - The AI rule and client consent for tools.
+  - Privacy operations.
+  - The Risk Register.
+- **Leans on:** 06 (Seat Math), 12 (when to add help), 25 (the Platform Count Rule).
 - **Ledger:** A4, H.
 
-**13 · Growth Decisions** — `13-growth-decisions.md`
+**12 · Growth Decisions** — `12-growth-decisions.md`
 - **Job:** measure, decide, and scale.
-- **Shift:** "Track everything and chase growth" → "Five numbers early, six by stage, guardrails always. Small numbers lie, and every scaling move has a trigger."
-- **Owns:** Stage Metrics (≤6 + guardrails), Small Numbers Lie, Denominator Discipline, the Operator Review, the Leak-Gate Diagnostic, Scaling Triggers (door switch, rung activation, price raise, Private, help, paid reach), the $50k levers, the Moat Test.
-- **Leans on:** 4, 8, 11, 12.
-- **Ledger:** A2, H.
+- **Shift:** from "track everything and grow by effort" to "a few numbers, fixed thresholds, and pre-set triggers."
+- **Owns:**
+  - Stage Metrics and guardrails.
+  - Small Numbers Lie.
+  - Denominator Discipline.
+  - The Operator Review.
+  - The Leak Trace.
+  - Scaling Triggers, as a table of pointers to their owners.
+  - Band-dependent paid-reach triggers.
+- **Leans on:** 01, 07, 10, 11, 13.
+- **Ledger:** A2, C, H.
+
+**13 · The Premium Lane and the Road to $50k** — `13-the-premium-lane-and-the-road-to-50k.md`
+- **Job:** take the business from $25k, the low end of the target range, to $50k, its top, without adding hours.
+- **Shift:** from "$50k means more clients and more hours" to "$50k is price at the cash ceiling, two real tiers, a premium lane at parity, templated delivery and a record no one can copy."
+- **Owns:**
+  - What $50k requires, including the $50k configuration and its hours.
+  - The Parity Rule.
+  - The Premium Lane: the priority tier, founding Private seats, and Private at parity.
+  - The Buyer-Mix Shift.
+  - Program Async, as a tier.
+  - Templated review and async-assessment economics.
+  - Leverage-build economics.
+  - The Dated Record as moat economics (3's framework applied).
+- **Leans on:** 01 (the equation), 07 (the ceilings), 10 (the back end), 11 (the Build Queue), 03 (the Dated Record).
+- **Ledger:** A, A5, B.
 
 ### Part IV — The Psychology of Belief
 
 **14 · The Belief Chain** — `14-the-belief-chain.md`
 - **Job:** give you the persuasion model.
-- **Shift:** "Persuasion is tactics and copy" → "Every yes is a completed chain of six beliefs, every no names a broken link, and my job is to diagnose and repair links."
-- **Owns:** the Belief Chain (Cause, Range, Vehicle, Guide, Self, Now; Hold, Share), link diagnosis, Fantasy to Expectation (desire redirection), the Efficacy Split, Stall Verdicts, Effort vs Direction, bounded agency as an accusation against guessing, the Canon (belief change as a subscription).
-- **Leans on:** 3 (Outcome Map for the Range link).
+- **Shift:** from "persuasion is tactics and copy" to "every yes is a completed chain of beliefs. I find the broken link and repair it."
+- **Owns:**
+  - The Belief Chain.
+  - Finding the broken link.
+  - Fantasy to Expectation.
+  - The Efficacy Split.
+  - Stall Verdicts.
+  - Effort vs direction.
+  - Bounded agency.
+  - The Canon.
+- **Leans on:** 03 (the Outcome Map, for the Range link).
 - **Ledger:** E.
 
 **15 · Trust Without Credentials** — `15-trust-without-credentials.md`
 - **Job:** build trust that survives a burned category.
-- **Shift:** "Trust comes from credentials, results, or looks" → "Trust comes from standards a skeptic can watch working: costly signals, scope honesty, and selling in the open."
-- **Owns:** Costly vs Hygiene Signals, Sell in the Open, Presence over Pedigree, What My Face Does and Doesn't Prove, the Qualifications Answer, the Scope Boundary, the Plain-Language Rule, dignity mechanics (shame proximity; never press the wound).
-- **Leans on:** 8 (guarantee design), 16 (evidence), 27 (verify page).
+- **Shift:** from "trust comes from credentials, results or looks" to "trust comes from standards a skeptic can watch working."
+- **Owns:**
+  - Costly vs Hygiene Signals, including the published recommendation mix and claim rate as signals.
+  - Sell in the Open.
+  - Presence over pedigree.
+  - What My Face Does and Doesn't Prove.
+  - The Qualifications Answer.
+  - The Scope Boundary and refer-out triggers.
+  - The Plain-Language Rule.
+  - The Dignity Route.
+  - Review-process disclosure as trust.
+- **Leans on:** 07 (the guarantee), 16 (evidence), 27 (the Verify Page).
 - **Ledger:** E.
 
 **16 · Evidence That Persuades** — `16-evidence-that-persuades.md`
 - **Job:** make proof honest and persuasive.
-- **Shift:** "Proof means before/afters and testimonials" → "Proof is a format a skeptic can audit: the claim ladder, the context stack, ranges with denominators, stories with their context, and a buying test only honest operators pass."
-- **Owns:** the Claim Ladder, the Context Stack (incl. observed-not-caused phrasing), Points for Process, Ranges for Results, the Four Stories, testimonial rules (consent, typicality, incentives, process testimonials from week two), Integrity Levels, the Buying Test Only You Pass (prebunking; the skeptic's piece; capture-trick teardowns), the Proof Stack, the pre-committed publication schedule.
-- **Leans on:** 7 (capture standard), 22 (timing of asks).
+- **Shift:** from "proof means before/afters and testimonials" to "proof is a format a skeptic can audit, plus a test of honest evidence he can apply to anyone."
+- **Owns:**
+  - The Claim Ladder.
+  - The Context Stack, including "observed, not caused".
+  - Points for Process, Ranges for Results.
+  - The Four Stories.
+  - Testimonial rules: consent, typicality, incentives, and timing after the fit window.
+  - Integrity Levels.
+  - The Honest-Evidence Test: teardowns with faces cropped or blurred.
+  - The Proof Stack and the publication mechanics.
+- **Leans on:** 06 (the Capture Standard), 22 (when to ask), 03 (the Dated Record).
 - **Ledger:** D, E.
 
 **17 · Identity and Commitment** — `17-identity-and-commitment.md`
 - **Job:** make identity and commitment drive buying and follow-through.
-- **Shift:** "Hype people up and make them promise publicly" → "Identity is earned by evidence and signaled by standards; commitments are real work, private by default."
-- **Owns:** Adults Who Measure Instead of Guess (the in-group), Earned Labels, Measurement Rituals, Let Him Succeed Before He Pays, the Back-Dated Baseline, Quiet Commitments, the Identity Threshold, status framing for young men, the application as a commitment device.
-- **Leans on:** 6 (where the free log sits in the door), 21 (Commit Ritual).
+- **Shift:** from "hype people up and make them promise publicly" to "identity is a practice, earned on the record. Commitments stay quiet."
+- **Owns:**
+  - Adults Who Measure: membership as practice, Starter Path users included.
+  - Earned Labels.
+  - Measurement rituals: what baseline day, the re-captures and graduation mean.
+  - Let Him Succeed Before He Pays: the free log while he waits.
+  - The Week-Zero Baseline.
+  - Quiet Commitments, including opt-in process leaderboards as a mechanism.
+  - The Identity Threshold.
+  - Status through standards.
+  - The self-assessment as a commitment device.
+- **Leans on:** 05 (where the log sits), 06 (the rituals as deliverables), 21 (the Commit Ritual).
 - **Ledger:** D, E.
 
 ### Part V — Selling and Transformation
 
 **18 · Content That Sells** — `18-content-that-sells.md`
 - **Job:** sell from content without breaking trust.
-- **Shift:** "Content builds an audience and selling is separate, or everything gets a pitch" → "Warm assets sell directly with public prices; every asset repairs one Belief Chain link and makes one ask."
-- **Owns:** the Warmth Ladder (the direct-sell test), the Offer Pieces (offer video; who it's for and not; price with seat math; objection piece; case piece), the Stake-to-Step Ratio, One Ask per Asset, the Belief Sentence, the Click Contract, the Conversation-to-Content Loop, the Page Sequence.
-- **Leans on:** 14 (links), 9 (date announcements), 23–27 (surfaces).
+- **Shift:** from "content builds an audience and selling is separate," or its opposite, "everything gets a pitch," to "warm assets sell directly with public prices. Every asset repairs one link and makes one ask."
+- **Owns:**
+  - The Warmth Ladder, the rule for which asset may ask for what.
+  - One Ask per Asset.
+  - The Offer Pieces, including price with delivery math.
+  - The Stake-to-Step Ratio and the perspective line in content.
+  - The belief sentence.
+  - The Click Contract.
+  - Respect without demand.
+  - The Conversation-to-Content Loop.
+  - The Page Sequence.
+  - The Pre-Publish Card.
+- **Leans on:** 14 (the links), 08 (dates), 23–27 (surfaces), 06 (recapping the Path and Timeline Card).
 - **Ledger:** C, E, F.
 
 **19 · The Sales Conversation** — `19-the-sales-conversation.md`
 - **Job:** master the live close.
-- **Shift:** "Closing is pressure or luck" → "Close by contract: excavate, recommend one option, state the price once, resolve each real objection, and agree a decision date, with force aimed at the situation."
-- **Owns:** Close by Contract, the implication question (stakes on the call), the Real-Objection Sort and the niche objection map, the Pushback Signal, State Routing (routing by buyer state in conversation), Premium First, Price Once (price presentation), the Decision Date, the Follow-Up Rule, stop rules in practice, the Selling-Skill Loop.
-- **Leans on:** 2 (states), 8 (plans, guarantee), 9 (real dates).
-- **Ledger:** C, E.
+- **Shift:** from "closing is pressure or luck" to "close by contract, with force aimed at the situation and routes for burned and insecure buyers."
+- **Owns:**
+  - Close by Contract.
+  - The Implication Question.
+  - The Real-Objection Sort.
+  - The objection map: fourteen deciding objections by link, including time for money, privacy, "I always quit," total cost, stopping payment, and an adult's parents or partner.
+  - The Pushback Signal.
+  - State Routing, including the burned and dignity routes in practice.
+  - Premium First, Price Once.
+  - The spoken affordability line.
+  - The Decision Date.
+  - The Follow-Up Rule.
+  - Stop rules in practice.
+  - The Selling-Skill Loop.
+  - Saying the true thing with force.
+- **Leans on:** 02 (states), 07 (plans, the guarantee), 08 (real dates), 15 (the Dignity Route), 06 (the Path and Timeline Card).
+- **Ledger:** C, E, G.
 
 **20 · Selling Without the Call** — `20-selling-without-the-call.md`
-- **Job:** carry the arc asynchronously.
-- **Shift:** "High-ticket needs a call" → "The call's arc can survive without the call. Calls are a scarce resource, spent where they change the decision."
-- **Owns:** the Async Arc, the result page as the first sales conversation, the Branched Walkthrough, sales-sequence content, voice-note replies, the DM Handoff (after verification), checkout design with the embedded fit check, the paid group decision session, the Call Economics Test, Threshold Continuity.
-- **Leans on:** 6 (routing), 26 (email plumbing), 19 (the arc).
+- **Job:** carry the arc without a call.
+- **Shift:** from "high-ticket needs a call" to "the call's arc survives without the call, and calls are spent where they change the decision."
+- **Owns:**
+  - The Async Arc.
+  - The result page as the first sales conversation, with branches by state: burned (the verification kit), dignity, and the others.
+  - The Branched Walkthrough.
+  - Sales-sequence content.
+  - Voice-note replies.
+  - The DM Handoff.
+  - The paid group decision session, named honestly.
+  - The Call Economics Test.
+  - Threshold continuity.
+- **Leans on:** 05 (routing and checkout), 26 (plumbing, the pause route), 19 (the arc).
 - **Ledger:** C.
 
 **21 · Onboarding, Adherence and the Plateau** — `21-onboarding-adherence-and-the-plateau.md`
 - **Job:** turn buyers into measurable results.
-- **Shift:** "Results depend on the client's discipline" → "Adherence is designed: a Commit Ritual, a First-14 win, proactive review, and a plateau protocol that re-sells or exits honestly."
-- **Owns:** the Commit Ritual, the First-14, the psychology of proactive contact, the Alliance Check, Never Miss Twice (reward the comeback), the Plateau Protocol, Every Plateau Is a Re-Sale, the Honest Exit (using the non-response clause), vulnerability during delivery.
-- **Leans on:** 7 (Review Rhythm, Measurement Calendar), 14 (Stall Verdicts), 8 (the clause).
+- **Shift:** from "results depend on the client's discipline" to "adherence is designed. Every plateau renews the decision, and some end in an honest exit."
+- **Owns:**
+  - The Commit Ritual, whose purpose is clarity.
+  - The First-14.
+  - The psychology of proactive contact.
+  - The Alliance Check.
+  - Never Miss Twice.
+  - The Plateau Plan, with the verdict question first at week 6.
+  - Every Plateau Renews the Decision.
+  - The Honest Exit, including the exit right in practice.
+  - Vulnerability during delivery.
+  - Saying the true thing at the plateau.
+- **Leans on:** 06 (the Review Rhythm, markers), 14 (Stall Verdicts), 07 (the clauses).
 - **Ledger:** D.
 
 **22 · Renewal and Referral** — `22-renewal-and-referral.md`
-- **Job:** sell the next step at the measured peak and earn referrals.
-- **Shift:** "Renewals and referrals happen if clients are happy" → "Asks are timed to measured peaks, renewal is argued from his own data, and referrals are private, specific, and never skipped."
-- **Owns:** the Peak-End Finish, the Renewal Case (argued from his record), Measured-Peak Asks (renewal, referral, testimonial, upgrade), Ask Everyone Privately, Identity-Safe Shareables, the Training-Partner Seat, alumni status and graduation.
-- **Leans on:** 11 (offers), 16 (testimonial rules).
+- **Job:** sell the next step at the measured peak, and earn referrals.
+- **Shift:** from "renewals and referrals happen if clients are happy" to "asks are timed to measured peaks, renewal is argued from his record, and every client gets a private referral ask."
+- **Owns:**
+  - Measured-Peak Asks.
+  - The Peak-End Finish.
+  - The Renewal Case.
+  - Ask Everyone, Privately.
+  - Identity-safe shareables.
+  - Alumni status.
+  - The ask behind the Training-Partner Seat.
+  - Testimonial-ask timing.
+- **Leans on:** 10 (the offers), 16 (testimonial rules), 06 (graduation).
 - **Ledger:** D, E.
 
 ### Part VI — The Ecosystem
 
 **23 · Long-Form: Where Trust Compounds** — `23-long-form-where-trust-compounds.md`
 - **Job:** make long-form the trust engine and search asset, inside an architecture with no free community.
-- **Shift:** "Post everywhere and chase views" → "One owned spine: long-form compounds trust and routes eligible adults to one door, and every surface has one job."
-- **Owns:** Nurture Jobs (each with an owning asset), Surface Types (jobs and allowed asks), the Two-Job Scorecard, Packaging Is a Filter and the Age-Up Dial, Half-Life Budgeting, the Start Here Path (series), the Comment Courtroom, the Production Floor; brief native recaps of hook and retention craft.
-- **Leans on:** 18 (asks), 6 (door), 4 (yield).
+- **Shift:** from "post everywhere and chase views" to "every surface has one job. Long-form compounds trust and routes eligible adults to one door."
+- **Owns:**
+  - Nurture Jobs.
+  - Surface Types, mapped onto the Warmth Ladder.
+  - The Two-Job Scorecard.
+  - The Age-Up Dial.
+  - Half-life budgeting.
+  - The Start Here Series.
+  - The Comment Courtroom.
+  - The Production Bar, including the on-camera production standard (~300 words).
+  - Brief native recaps of hook and retention craft.
+- **Leans on:** 18 (asks), 05 (the door), 01 (yield).
 - **Ledger:** F.
 
 **24 · Short-Form: Reach and the Hook Lab** — `24-short-form-reach-and-the-hook-lab.md`
-- **Job:** use short-form for early reach and for disciplined hook testing.
-- **Shift:** "Short-form is for going viral" → "Short-form is the early reach engine and a noisy hook lab, judged by eligible-adult yield and confirmed in long-form."
-- **Owns:** the Shorts Job Selector, the Two-Win Rule (a framing must win repeatedly, then be confirmed in long-form), the Native Tax, the Clip Context Check, the One-Defensible-Point Rule, derivative production (create once, cut many), short-form cadence by stage.
-- **Leans on:** 23, 16 (clips with ranges).
+- **Job:** make short-form the early reach engine and a disciplined hook lab.
+- **Shift:** from "short-form is for going viral" to "short-form is the early reach engine and a noisy lab, judged by eligible-adult yield and confirmed in long-form."
+- **Owns:**
+  - The default platform set (options + default).
+  - The Shorts Job Selector.
+  - The Two-Win Rule.
+  - The Native Tax.
+  - Derivatives (create once, cut many).
+  - Reels craft for Instagram.
+  - The Clip Context Check.
+  - The one-defensible-point rule.
+  - Cadence by stage.
+- **Leans on:** 23, 16 (clips with ranges), 09 (the Sprint).
 - **Ledger:** F.
 
-**25 · Instagram and X** — `25-instagram-and-x.md`
-- **Job:** use Instagram as a private router and X as a public argument lab.
-- **Shift:** "Every platform is a stage" → "Instagram routes privately and X argues publicly; neither is a stage, and each gets only the hours it earns."
-- **Owns:** the Keyword Route (DM → self-assessment), One-Way Broadcast, carousels as search copy, the Argument Lab (X), canon testing, minors-exposure controls in DMs, the Platform Count Rule.
-- **Leans on:** 20 (DM Handoff), 6 (door).
+**25 · Instagram and X: Replies, DMs and Routes** — `25-instagram-and-x.md`
+- **Job:** turn public engagement into eligible conversations across platforms: Instagram as a private router, X as a public argument lab.
+- **Shift:** from "every platform is a stage" to "platforms are where engagement starts, and replies, DMs and routes carry it to the door."
+- **Owns:**
+  - Permission-First Replies.
+  - The Keyword Route, by DM.
+  - DM templates by case (adult, minor, "rate me", distress), with the operator handling them.
+  - One-way broadcast.
+  - The Argument Lab: X replies and quote-posts, captured to email.
+  - Canon testing.
+  - Minors-exposure controls.
+  - The Platform Count Rule.
+- **Leans on:** 20 (the DM Handoff), 05 (the door), 24 (Reels), 14 (the Canon).
 - **Ledger:** F.
 
 **26 · Email: The Private Room** — `26-email-the-private-room.md`
 - **Job:** run the owned relationship.
-- **Shift:** "Email is a newsletter" → "Email is a flow-first private room: stage-matched sequences sell, the canon lane maintains belief, and deliverability is a commons."
-- **Owns:** Flow Before Stock, the Welcome Arc (stage-matched), Readiness Tags, the Canon Lane, Lead-Age Cohorts and re-permission, the Complaint Budget, client email plumbing (onboarding and check-in reminders), promotion-send rules in practice.
-- **Leans on:** 20 (sales-sequence content), 9 (the one + one rule).
+- **Shift:** from "email is a newsletter" to "email is a flow-first private room. Stage-matched sequences sell, the canon lane maintains belief, and deliverability is a commons."
+- **Owns:**
+  - Flow Before Stock.
+  - The Welcome Arc.
+  - Readiness Tags, including the pause route in practice.
+  - The Canon Lane.
+  - Lead-age cohorts and re-permission.
+  - The Complaint Budget.
+  - Client email plumbing.
+  - The weekly-broadcast threshold.
+  - Send rules in practice.
+- **Leans on:** 20 (sequence content), 08 (the one + one rule), 05 (tags).
 - **Ledger:** F.
 
 **27 · The Hub, Search and Paid** — `27-the-hub-search-and-paid.md`
 - **Job:** own the evaluation query, keep destinations compliant, and buy adult reach only after the gates.
-- **Shift:** "The website and ads are for traffic" → "The hub is where skeptics verify, search is won on your own name, and paid buys adult reach only after the gates."
-- **Owns:** the Verify Page, the Evaluation Query, the Destination Rule (the destination is part of the post), the Proof Portability Gradient, the Adult Reach Buy and the Three Gates, attribution with a holdout.
-- **Leans on:** 15, 16, 13 (denominators).
+- **Shift:** from "the website and ads are for traffic" to "the hub is where skeptics verify, and paid buys adult reach only after the gates."
+- **Owns:**
+  - The Verify Page, including its privacy section, the verification kit and the Path and Timeline Card.
+  - The Evaluation Query.
+  - The Destination Rule, with compliance kept minimal and pointing to the Risk Register.
+  - The Proof Portability Gradient.
+  - The Adult Reach Buy, including the Band A test mechanics.
+  - Ad Gates.
+  - Attribution with a holdout.
+- **Leans on:** 03, 15, 16, 12 (triggers, denominators), 01 (affordable cost per lead).
 - **Ledger:** F.
 
 ### Part VII — The Build
 
 **28 · The First Nine Months** — `28-the-first-nine-months.md`
 - **Job:** sequence everything month by month.
-- **Shift:** "I know what to do but not in what order" → "A month-by-month build with gates, reach-band waypoints, and one number that matters each month."
-- **Owns:** the Nine-Month Build (Found → Prove → Leverage), Monthly Gates, band-specific waypoints, the first 30 days in weekly steps.
-- **Leans on:** everything; recaps only.
+- **Shift:** from "I know what to do, but not in what order" to "a month-by-month build with gates, band waypoints, and one number that matters each month."
+- **Owns:**
+  - The Nine-Month Build: Found → Prove → Grow.
+  - Monthly Gates.
+  - Band Waypoints.
+  - The first 30 days, week by week.
+  - "Do this month" for each month.
+- **Leans on:** everything, with one-line recaps.
 - **Ledger:** A3, A4, H.
 
 ---
@@ -249,24 +521,37 @@ Format: **Job** · **Belief shift** (before → after) · **Owns** (taught in fu
 
 | Boundary | Owner A teaches | Owner B teaches |
 |---|---|---|
-| 6 The Door ↔ 20 Selling Without the Call | Structure, routing, gating, fit check, the switch rule, what each step offers | What the result page, walkthrough, emails, and DMs *say* (the persuasive arc) |
-| 6 The Door ↔ 19 The Sales Conversation | What the fit conversation and assessment *are* and deliver | How to *run* the conversation |
-| 7 The Program ↔ 21 Onboarding, Adherence and the Plateau | The container, deliverables, cadence, instruments, calendar | The psychology that makes clients follow through; plateau handling |
-| 5 Offer Architecture ↔ 11 Lifetime Value | The whole ladder at rung level; the Starter Path and Self-Serve System in full | Round Two, the Hold, community options, and the Premium Lane in full |
-| 8 Price, Plans and Promises ↔ 19 The Sales Conversation | Price setting, bands, gates, plans, guarantee terms | Presenting price, handling price objections, the affordability question in conversation |
-| 9 Real Dates ↔ 18/19/26 | The calendar, the Launch Line, Decision Points, send cadence rules | Using dates in content (18), on the call (19), and in sends (26) |
-| 14 The Belief Chain ↔ everything | The model and diagnosis | Each application module names the links it repairs |
-| 15 Trust ↔ 16 Evidence | Why and how trust forms without credentials; signals; vocabulary | Claims, proof formats, stories, testimonials, prebunking |
-| 16 Evidence ↔ 7 The Program | Turning outputs into proof | Producing outputs (capture standard, calendar) |
-| 17 Identity ↔ 21 Transformation | Identity and commitment mechanisms (incl. the pre-purchase log) | The post-purchase sequence (Commit Ritual, First-14) |
-| 22 Renewal and Referral ↔ 11 Lifetime Value | The asks and the renewal conversation | The offers being asked for |
-| 10 The Founding Phase ↔ 28 The First Nine Months | The mechanisms of the first clients | The month-by-month sequence of everything |
-| 12 The Operating Week ↔ 13 Growth Decisions | How the week runs | What to measure and when to change the machine |
-| 4 The Demand Equation ↔ 13 Growth Decisions | The planning math | The operating numbers and triggers |
-| 23 ↔ 24 ↔ 25 ↔ 26 ↔ 27 | Each owns its surface; 23 also owns the architecture and routing | — |
-| Intro ↔ 15 | The House Standard as the playbook's rules (one page) | The trust psychology behind it |
+| 01 ↔ Intro | The model, the math, and the profit-engine decision | The Spine at a glance and the House Standard (one page each) |
+| 01 ↔ 12 ↔ 13 | Planning math and bands (01) | Operating numbers and triggers (12); what $50k requires (13) |
+| 04 ↔ 05 / 06 / 10 / 13 | The ladder at rung level; the Starter Path and the Self-Serve System in full | Front-buffer options (05); flagship format and container (06); the back end (10); the Premium Lane and Program Async (13) |
+| 05 ↔ 18 ↔ 23 | Checkout mechanics: attestation, affordability, Fit Check (05) | Which asset may ask for what (18); surfaces mapped onto 18's rungs, by pointer (23) |
+| 05 ↔ 20 | Structure, routing, gating, the Call Cap, the pause route | What the result page, walkthrough, emails and DMs *say* |
+| 05 ↔ 19 | What the fit conversation and assessment *are* and deliver | How to *run* the conversation |
+| 06 ↔ 21 | Container, deliverables, cadence, instruments, markers, the calendar | The psychology of follow-through; plateau handling |
+| 06 ↔ 17 ↔ 21 ↔ 22 | Baseline day and graduation as deliverables (06) | What they mean for identity (17); the Commit Ritual (21); the asks at graduation (22) |
+| 06 ↔ 07 | Marker design and the milestone deliverables | The clauses and refunds that use them |
+| 07 ↔ 19 | Price setting, the ceilings, steps, plans, guarantee terms | Presenting price; price objections; the spoken affordability line |
+| 07 ↔ 09 | The Price Steps (07) | The founding price and founding offers (09) |
+| 08 ↔ 18 / 19 / 26 | The calendar, the Launch Line, Decision Points, send rules | Using dates in content (18), on the call (19), in sends (26) |
+| 10 ↔ 22 | The offers (Round Two, the Hold, Training-Partner Seat) | The asks |
+| 10 ↔ 13 | The back end's design | Its economics at capacity (the Parity Rule) |
+| 11 ↔ 06 | Privacy operations (tools, retention, consent) | Privacy in delivery (photos coach-only, pseudonymous cohorts) |
+| 14 ↔ everything | The model and finding the broken link | Each application module names the links it repairs |
+| 15 ↔ 16 | Trust formation, signals, vocabulary, the Dignity Route | Claims, proof formats, stories, testimonials, the Honest-Evidence Test |
+| 16 ↔ 03 | Publication mechanics | The Dated Record's strategic role |
+| 09 ↔ 28 | The mechanisms of the first clients | The month-by-month sequence |
+| 23 ↔ 24 ↔ 25 ↔ 26 ↔ 27 | Each owns its surface. 23 also owns the Nurture Jobs architecture; 25 owns engagement-to-door | — |
+| Intro ↔ 15 | The House Standard as rules (one page) | The trust psychology behind it |
 
 ## What the Intro and Glossary hold
 
-- **Intro (README.md):** title, what the playbook is and who it's for, how to use it (read in order; each module self-contained; the early-stage pointer), the spine at a glance (one page from BUSINESS.md), the House Standard (one page), conventions (ranges, placeholders, composites, "he" for the default buyer, "you" for the operator), and the table of contents by Part.
-- **Glossary:** every named framework and defined term from the registry, with its owning module, compiled in Step 5.2 and checked against actual use.
+- **Intro (README.md):**
+  - the title;
+  - what the playbook is and who it's for;
+  - how to use it: read in order, each module self-contained, and the Early Fast Path;
+  - the Spine at a glance;
+  - the House Standard;
+  - the composite cast;
+  - conventions: ranges, placeholders, composites, "he" for the default buyer, "you" for the operator;
+  - the table of contents by Part.
+- **Glossary:** every ★, ◆ and ○ entry in FRAMEWORKS v2, with its owning module. Compiled in Step 5.2 and checked against actual use.

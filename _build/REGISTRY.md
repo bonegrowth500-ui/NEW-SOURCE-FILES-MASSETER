@@ -1,5 +1,7 @@
 # REGISTRY — Named frameworks & terms (becomes the Glossary)
 
+> **History only (Step 2.5).** `FRAMEWORKS.md` v2 is the canonical register of names, tiers, definitions, and owners, and the Glossary is compiled from it. Names, owners, and module numbers below are pre-R2 and are not to be used in drafting.
+
 Format: **Name** — one-line definition — status (reused / extended / new / superseded) — ⚑ = flagged for Step 2.3 naming review.
 
 Status notes are internal build notes. Glossary entries are rewritten natively in Step 5.2: no source-relative wording, and the STYLE banned-phrase grep applies. Owning modules are assigned in Step 2. Every name must pass glass-box naming (Hostile-Screenshot Test). Terms marked **internal** never appear in the playbook.

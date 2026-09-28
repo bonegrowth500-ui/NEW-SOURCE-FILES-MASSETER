@@ -1,160 +1,161 @@
-# BUSINESS — The default business (the spine every module shares)  · Step 2.1
+# BUSINESS v2 — the default business every module shares (Step 2.1, revised in 2.5)
 
-Every module teaches one part of this business, and every example, number, and script assumes it. Where a module offers options, this file names the default pick. Numbers come from LEDGER v2; theses from THESES v2. Placeholder names (the Decision Assessment, the Program, Round Two, the Hold, Private, the Priority Review, the Starter Path, the Self-Serve System) are working product names the playbook uses; the operator's brand name is always "[Brand]".
+Every module teaches one part of this business, and every example, number, and script assumes it. Where a module offers options, this file names the default pick. Numbers come from LEDGER v3. Owners follow MAP v2.
+
+Product names are working names the playbook uses: the Decision Assessment, the founding group, the Program (and Program Async), Round Two, the Hold, Private, the Starter Path, and the Self-Serve System. The operator's brand is always "[Brand]".
 
 ---
 
-## 1. The spine in one paragraph
+## 1. The Spine in one paragraph (the Intro's source)
 
-A named brand, fronted on camera by a solo operator, sells **the end of guessing** to stalled adults: a straight answer about what can and can't move for them, a plan they can verify, and weekly review that keeps them on it. Content (long-form spine, short-form reach, email room) routes eligible adults to **one owned door**: a self-assessment with an age fork. The door opens into a **disclosed fit conversation** early and a **paid Decision Assessment** once calls bind. Both end in one recommendation. The **Program** (a 12-week cohort with weekly async review and one live group call) is the flagship and profit center. **Round Two** and **the Hold** carry clients through the months when outcomes appear. **Private** and the **Priority Review** serve the premium buyer. The **Starter Path** catches everyone who shouldn't buy now. Each rung switches on only when the stage calls for it. Profit grows first through conversations and price, then through lifetime value, then through leverage. It never grows through more hours.
+A named brand, fronted on camera by a solo operator, sells **the End of Guessing** to stalled adults: a straight answer about what can and can't move for them, a plan they can verify, and weekly review that keeps them on it.
 
-## 2. The buyer (owned by the Buyer module)
+Content (short-form as the early reach engine, long-form as the trust engine, email as the private room) routes eligible adults to **one owned door**: a self-assessment with an age fork. The door opens into a **disclosed fit conversation**, free and held open up to a weekly **Call Cap**. The overflow goes to a paid **Decision Assessment**, which has a priority tier for buyers who want speed. Every path runs through a **Fit Check** and ends in one recommendation.
+
+The **Program** (a 12-week cohort: weekly async review, one live group call, a written week-6 read, a week-12 re-assessment) is the flagship and profit center. From the first client it runs as a **founding group** with monthly entry. **Round Two**, a lighter maintenance block, and **the Hold**, a measurement subscription that becomes an alumni room, carry clients into the months when outcomes appear. **Private** seats serve the premium buyer while minutes are spare, and only at parity once they aren't. The **Starter Path** is a real, sequenced free path for everyone who shouldn't buy now.
+
+Profit grows first through conversations and price steps, then through conversion and lifetime value, then through two tiers at the cash ceiling and leverage. It never grows through more hours.
+
+## 2. The buyer (Module 02)
 
 | | Default | Notes |
 |---|---|---|
-| **Core buyer** | The employed **Self-Taught Struggler**, mid-20s (range 19–28): months of solo effort, nothing measured, grift-fatigued, able to pay from monthly income | Default protagonist in every example |
-| **States** (not segments) | Struggler · **Burned Struggler** (bought before, let down; verification first) · **Optimizer** (25–35; speed, precision, privacy, status) · **Ambivalent** (sees the need, keeps deferring) | Route by state in persuasion; the offer is the same, the path differs |
-| **Eligibility** | Legal adult where he lives (age fork) + one affordability question ("comfortable from monthly income without new credit?") | Never student status; never income targeting |
+| **Core buyer** | The employed **Self-Taught Struggler**, 19–32. Default protagonist: **Dan**, 24 | Months of solo effort, nothing measured, grift-fatigued |
+| **States** (not segments) | Struggler · **Burned Struggler** (bought before, let down; verification first) · **Optimizer** (25–35, including over-30s by state; speed, precision as deliverables, privacy) · **Ambivalent** (sees the need, keeps deferring) | Route by state; the offer stays the same |
+| **Eligibility** | Legal adult where he lives (age fork), plus the canonical affordability question before every paid step: *"Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"* | Never student status; never income targeting |
 | **Welcome, not targeted** | Women; men over 30 | Examples may include them |
-| **Education only** | Minors (public content + orthodontist referral; no email, intake, calls, or offers) | Hard line 5 |
-| **What he buys** | The destination (taken seriously, at ease in photos and rooms, knowing instead of hoping), via the vehicle (judgment, measurement, review) | Name the destination; never the face as its cause |
+| **Education only** | Minors: public content and an orthodontist referral; no email, intake, calls, or offers | The line on minors |
+| **What he buys** | The destination (taken seriously, at ease in photos and rooms, knowing instead of hoping) via the vehicle (judgment, measurement, review) | Name the destination; never the face as its cause; always one perspective line |
 
-**Rejected alternatives:** *Optimizer-first positioning* (higher price, much smaller pool, needs polished proof the early operator doesn't have; kept as the premium lane). *Breathing-first entry* (lower stigma, but it pulls the brand into health framing and referral territory; rejected under the Outcome Map and the risk register). *Parent-funded teens* (hard line 5).
+**Rejected alternatives:** *Optimizer-first positioning* (smaller pool and needs polished proof; kept as a lane). *Breathing-first entry* (pulls the brand into health framing and referral territory). *Parent-funded teens* (the line on minors).
 
-## 3. The position (owned by the Position module)
+## 3. The position (Module 03)
 
-- **The honest answer to the bone question** is canon claim #1 (Outcome Map): what adults can change and measure, what's debated, and what's never claimed. Every honest no about structure travels with an honest yes.
-- **The Credible Middle:** between grift hype and "it's all genetics". Enemies are ideas and business models, never people. Clinicians are referral destinations.
-- **Brand architecture:** "Name | Brand". The brand owns the method, the capture standard, and the client library; the face carries trust. The descriptor names deliverables (assessment, plan, weekly review, measurement). "Bone growth" and "mewing" are search terms the brand explains, never its promise.
-- **Trust is credential-agnostic:** standards, demonstrated judgment, and scope honesty carry it.
+- **The Honest Answer** is canon claim #1 (the Outcome Map): what adults can change and measure, what's debated, and what's never claimed. Every honest no about structure travels with an honest yes.
+- **The Credible Middle** sits between grift hype and "it's all genetics". Enemies are ideas and business models; clinicians are referral destinations.
+- **Name | Brand.** The brand owns the method, the capture standard, and the client library; the face carries trust. The descriptor names deliverables.
+- **Trust is credential-agnostic.**
+- **The Dated Record is the moat.** From month 1, the operator publishes a pre-commitment (what will be published, at what sample size, on what schedule) and keeps a dated log of process metrics. Honesty can be copied; a dated record can't be back-filled.
 
-## 4. The door (owned by the Door module)
+## 4. The door (Module 05)
 
 ```
-Content (long-form · short-form · Instagram · X · email)
-        │  every discovery asset routes here
+Content (short-form · long-form · Instagram · X · email)
+        │  every discovery asset routes here (the Keyword Route arrives by DM, never as a public comment)
         ▼
 SELF-ASSESSMENT on the owned site ── age fork ──► under 18: education lane (public content + referral; no data kept)
         │  adult
+        ├── 1–2 unscored distress items ──► resources + opt-in human conversation + PAUSE ROUTE (no sales sends)
         ▼
-Result page (his stall pattern, one verifiable step, next rung, next real date) + email (frequency + one-click exit stated)
-        │                                        │ unscored distress items → resources + opt-in human conversation
-        ▼                                        
-Optional: free 7-day log + one baseline capture ("let him succeed before he pays")
-        │
-        ├── EARLY:   disclosed FIT CONVERSATION (free or ~$25–50 credited; 20–30 min; "one recommendation or I'll point you elsewhere")
-        ├── GROWING: fit conversation for uncertain buyers · call-optional checkout for warm buyers (fit check embedded)
-        └── SCALING: paid DECISION ASSESSMENT ($150–250, credited 14–30 days; async-first; written plan worth its fee)
-        │
+Result page + result email (frequency and one-click exit stated)
+        │  SPEED TO LEAD: personal reply within hours → booked within 24–48 h → reminded → held
         ▼
-FIT CHECK before any paid step (signals pause the sale for a human conversation: enroll with adjusted expectations · Starter Path · referral)
+BOOK FIRST (Early/Growing): free fit conversation, disclosed ("one recommendation: a program, the Starter Path, or don't buy")
+        │     while waiting: the free 7-day behavior log; the baseline capture stays on his device
+        │
+        ├── up to the CALL CAP (~6–8 held/week, reserved by tags for uncertain or high-intent buyers)
+        └── overflow ──► DECISION ASSESSMENT ($150–250; async-first at volume) · PRIORITY TIER ($350–600, from month 0)
         │
         ▼
-ONE RECOMMENDATION: Program · Private · Starter Path · "don't buy" / referral
+FIT CHECK tier 2 at booking of ANY paid step (paid assessment, checkout, plan)
+   + the AFFORDABILITY QUESTION (canonical) ── "no" ──► Starter Path + pause route
+   + any signal ──► no same-day payment · written adjusted expectations · ≥72 h cooling-off · no plan
+                    checking/fixation ──► referral + reading-only content (no capture tools)
+        ▼
+ONE RECOMMENDATION: Program (or Program Async) · Private · Starter Path · "don't buy" / referral
+        ▼
+PATH AND TIMELINE CARD + EXPECTATION DOCUMENT sent before payment
 ```
 
-**Door Switch** (fit conversation → paid assessment): held calls exceed ~6–8/week, *or* show rate falls below ~70%, *or* most calls are no-fit.
-**Warm routes:** decision-stage assets may pitch with public prices and link to a checkout that embeds the age attestation and fit check. After verification, a DM may carry one recommendation and a checkout link. Private requires a call.
+**Warm routes.** Decision-stage assets may pitch with public prices and link to a checkout with the age attestation, the affordability question, and the Fit Check embedded. The ask-licensing rule is owned by Module 18. After verification, a DM may carry one recommendation and a checkout link; Private requires a call.
 
-**Alternatives (options + default):**
+**Alternatives (options + default).**
 
 | Door | Wins when | Loses when | Verdict |
 |---|---|---|---|
-| **Stage-gated door** (default) | Always: it matches the binding constraint | Needs one switch decision | **Default** |
-| Free calls forever | Leads are scarce (Early) | Calls exceed the week; no-fit calls pile up | The Early setting of the default |
-| Paid assessment from day one | Calls already bind | Leads are scarce: fees cut take-up when every lead counts | The Scaling setting of the default |
-| Application-only | Premium lane; high demand | Slow; adds friction without adding judgment | Used for Private |
-| Direct checkout only | Warm, proven offer; async operator | Uncertain buyers stall or refund; screening is thin | A warm route, never the only door |
+| **Call Cap + overflow** (default) | Always: free conversations where they're scarce, paid judgment for the overflow | Needs tags and a weekly cap | **Default** |
+| Free calls with no cap | Leads are scarce | Calls exceed the week; no-fit calls pile up | The Early behavior of the default |
+| Paid assessment only | Calls already bind hard | Replacing calls cuts enrollments by half to two-thirds in Growing | Rejected as a replacement; kept as the overflow |
+| Application-only | Premium lane | Slow; adds friction without judgment | Used inside the Private path |
+| Direct checkout only | Warm, proven offer | Uncertain buyers stall or refund; thin screening | A warm route, never the only door |
 
-## 5. The offer ladder (owned by Offer Architecture) — one flagship, two buffers, one floor
+## 5. The offer ladder (Module 04) — One Flagship, Two Buffers, One Net
 
-| Rung | What it is | Price (LEDGER) | Job | Switches on |
-|---|---|---|---|---|
-| **Starter Path** (floor) | Free branch (public curriculum + logs); a low-cost Starter tool named once | Free; tool $27–97 | Humane "not now / not a fit / can't afford"; small revenue | Month 0 |
-| **Self-Serve System** (floor upgrade) | The Starter tool rebuilt from the stall taxonomy: capture standard, logs, decision framework, walkthroughs; optional single async review | $97–297 | Leverage revenue; catches DIY buyers honestly | After ~20 graduates |
-| **Fit Conversation → Decision Assessment** (front buffer) | The door's human step; the assessment is a paid, credited written plan | Free/~$25–50 → $150–250 | Filter, front revenue, R&D | Fit conversation month 0; paid assessment at the Door Switch |
-| **Founding 1:1** (R&D) | 8–12 weeks, 4–6 seats, more access instead of a discount, next price stated | ~$1.2–1.5k | First cash, stall taxonomy, check-in instrument, capture standard | Months 0–4, then sunsets |
-| **The Program** (flagship) | 12-week cohort: weekly async review (stated turnaround), one live group call, written week-6 read, week-12 re-assessment, capture at 0/6/12 | Founding group ~$1.2–1.5k → opening $1.5–2.2k → proof $2.4–3k → above band ~$3.5–4.5k | Profit center; proof engine | Founding group at ≥4 founding clients (months 3–6) |
-| **Round Two** (back buffer, renewal) | ~12 more weeks for clients with measured momentum, offered at the week-10/12 measurement | ~$0.8–1.5k; 20–40% uptake | Carries clients into the months when outcomes appear | First graduations (months ~6–9) |
-| **The Hold / Alumni Room** (back buffer, continuity) | Paid alumni room of people who keep records: periodic review, re-captures, belonging | $39–79/month; 20–40% take | Retention; "did it hold?"; consented dataset | First graduation |
-| **Private** (premium) | Fixed deliverables: weekly 30–45 min call, stated async turnaround, re-captures 0/6/12, business-hours line; group surfaces optional | ~$4–7k / 12 weeks; 0–3 seats | Premium attention for the Optimizer | Month 9+ when measured care minutes leave seats spare |
-| **Priority Review** (premium entry) | One-off async review, fast turnaround, written plan + recorded walkthrough | ~$350–600, credited to Private | Optimizer's first purchase | With Private |
-| *Options, not defaults* | In-cohort peer space · open paid membership (Growing/Scaling, verified adults, budgeted moderation, $29–59/month) · paid group decision session (credited) · training-partner seat (pair enrollment) | — | Situational | By stage and demand |
+| Rung | What it is | Price (LEDGER B) | Job | Switches on | Owner |
+|---|---|---|---|---|---|
+| **Starter Path** (the net) | A free sequenced path (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger); a low-cost Starter tool named once | Free; tool $27–97 | Humane "not now / not a fit / can't afford" | Month 0 | 04 |
+| **Self-Serve System** (the net's upgrade) | Tools (logs, capture standard, self-review prompts, walkthroughs), not the decision rules; its optional review is a Decision Assessment | $97–297 | Leverage; honest DIY path | After ~20 graduates | 04 |
+| **Fit conversation → Decision Assessment** (front buffer) | Free fit conversations up to the Call Cap; the paid, credited written plan for the overflow; a priority tier for speed | Free · $150–250 · priority $350–600 | Filter, front revenue, R&D | Month 0 (priority tier and fit conversation); the paid overflow when the cap binds | 05 |
+| **Founding group** (the flagship's first form) | Every founding client joins it from the first one: monthly entry, 1:1-level review while under ~4 members | ~$1.2–1.5k | First cash, stall taxonomy, instrument, capture standard | Month 0 | 09 |
+| **Founding Private seats** | 1–2 seats with fixed deliverables while minutes are spare; the real premium tier early | ~$4–6k | Premium anchor; Optimizer lane | Month 0 | 09 (design in 13) |
+| **The Program** (flagship) | 12 weeks: weekly async review with a stated turnaround, one live group call, a written week-6 read, a week-12 re-assessment, captures at 0/6/12 | Opening $1.5–2.2k → proof $2.4–3.2k (Price Steps) | Profit center; proof engine | Continues the founding group | 06 |
+| **Program Async** (a real tier at scale) | The Program without the live call; async review only | ~$2.4–2.8k | The core buyer's container under the 20–24 ceiling when the Program sits at the 25–34 ceiling | When the Program's price crosses ~$3.2k | 13 |
+| **Round Two** (back buffer) | A maintenance block for clients with measured momentum, offered at the week-10/12 measurement: biweekly async review, optional call, re-captures | ~$0.8–1.2k; ~10–26% of graduates | Carries clients into the months when outcomes appear | First graduations (founding graduates included) | 10 |
+| **The Hold** (back buffer) | A measurement subscription (quarterly re-capture, written review, the Canon Lane); becomes an alumni room at ~30 alumni | $39–79/month; 20–40% take | Retention; "did it hold?"; consented dataset | First graduation | 10 |
+| **Private at Scaling** | Async-first, at parity only | ~$10k+ or none | The Optimizer's premium lane when minutes bind | Only under the Parity Rule | 13 |
+| *Options* | In-cohort peer space · open paid membership (verified adults, budgeted moderation) · paid group decision session ("cohort walkthrough and Q&A; the offer and price are inside") · Training-Partner Seat | — | Situational | By stage and demand | 10 / 20 |
 
-**Never:** a free community (spec); low-ticket as a profit line; decoy tiers; window-only bonuses; a product whose name promises structural change.
+**Never:** a free community; low-ticket as a profit line; decoy tiers; window-only bonuses; product names that promise structural change; a live free group for non-buyers.
 
-**The free/paid line:** give away the why and the decision framework in public; sell judgment applied to him, week after week.
+**The free/paid line:** give away the why and the decision framework; sell judgment applied to him, week after week.
 
-## 6. The profit engine (default: cohort-led hybrid)
+## 6. The profit engine (Module 01; configurations in LEDGER A5)
 
-**Default engine:** Door → Program (+ Round Two → Hold), with Private and the Self-Serve System as leverage layers. Profit comes, in order of stage, from **conversations and price** (Early), then **conversion and lifetime value** (Growing), then **price, leverage, and care-minute efficiency** (Scaling).
+**Default engine:** door → founding group → Program (+ Round Two → the Hold), with the priority tier and founding Private seats early. At scale it adds two tiers at the cash ceiling, the Self-Serve System, and async assessments. Profit comes from **conversations and price steps** (Early), then **conversion and lifetime value** (Growing), then **price at the ceiling, leverage, and care-minute efficiency** (Scaling).
 
-**Two target configurations (steady state, ~20 h/week):**
-
-| | **$25k/month profit** (year ~2 in middle bands) | **$50k/month profit** (year 2–3, Bands C–D) |
+| | **$25k profit** (year ~2; Bands B–C) | **$50k profit** (year 2–3; Bands C–D) |
 |---|---|---|
-| Program | ~9 enrollments/month × ~$2.7k (proof band) ≈ $24k | ~11/month × ~$4k (above band) ≈ $44k |
-| Round Two | ~30% of graduates × ~$1.15k ≈ $3k | ~30% × ~$1.3k ≈ $4.3k |
-| Hold | ~45 members × ~$59 ≈ $2.7k | ~65 members × ~$69 ≈ $4.5k |
-| Private | ~1 seat a quarter ≈ $1.8k/month | ~2 seats a quarter ≈ $4k/month |
-| Decision Assessments (non-buyers' fees) | ~$2k | ~$2.7k (async) |
-| Self-Serve System | — | ~15 sales × ~$197 ≈ $3k |
-| **Revenue → profit** | **≈ $34k → ≈ $26k** (≈78% margin) | **≈ $62k → ≈ $50k** (≈80%) |
-| Concurrent care load | ~32 clients (Program + Round Two) at 8–10 min + calls | ~40 at 6–8 min (templated) + calls |
-| Care hours/week | ~9–10 | ~10–11 (routing help handles the inbox) |
-| Eligible leads needed | ~100–275/month (Bands B–C) | ~275–550+/month (Bands C–D), or fewer with a paid adult reach buy |
+| Flagship | ~8–9 Program enrollments a month at ~$3.1k | ~8 Program at ~$3.9k + ~5 Program Async at ~$2.8k |
+| Back end | Round Two ~$1.5k · the Hold ~$1.2k (ramping) | Round Two ~$2.8k · the Hold ~$3.1k |
+| Premium | ~1 Private seat a quarter while minutes are spare | Private only if it passes the Parity Rule |
+| Leverage | — | Self-Serve System ~$3k · async assessment fees ~$2.2k |
+| Revenue → profit | ≈ $31.5k → ≈ $24.5–26.5k | ≈ $56k → ≈ $44–47k; Price Steps carry it to ~$50k |
+| Week | ~19.75 h | ~21 h |
 
-**The capacity truth (LEDGER A4):** concurrent capacity is ~25–45 clients inside 20–25 hours, so new enrollments cap at ~7–12 a month. Past that point, profit grows only through price, Round Two/Hold, Private, the Self-Serve System, async assessments, and templated review. It never grows through hours.
+**The capacity truth.** All-in care runs ~18–20 minutes per client-week in Growing and ~13–15 at Scaling (review + group call + milestones). Capacity is ~25–30 concurrent in Growing and ~40–45 at Scaling, which caps new enrollments at ~8–10 and ~12–15 a month. Past that, profit grows only through price (inside the cash ceiling), the back end, tiering, templated review, and async assessments.
 
-**Alternatives (options + default):**
+**Alternatives (options + default; LEDGER A):** a premium 1:1-led engine (~$17–22k profit; a start or a lane, not the engine) · membership-led (a Scaling add-on only) · digital-led (a leverage layer only; it contradicts "judgment is the product") · a single 6-month container (the default's Round Two path gives the same outcome at a lower first price) · an async-only flagship (becomes Program Async as a tier).
 
-| Engine | Profit ceiling at ~20 h | When it wins | Verdict |
+## 7. Pricing and promises (Module 07)
+
+- **The Three Ceilings.** *Cash*: the core container stays within ~1–1.25 months of the core buyer's take-home, payable from income or savings without new credit, with installments ≤ ~⅓ of monthly take-home. *Capacity*: revenue per delivery hour must clear the target. *Credibility*: raised by the persuasion system.
+- **Price Steps.** Small scheduled steps that always happen while starts fill and close rates stay in range; each names what was added. The proof milestone gates the jump into the proof band, and the cash ceiling caps the core container.
+- **Plans at Cost.** ≤3 installments inside delivery; premium 0–5% stated as a total; cancel-forward; no plan after a fit-check signal.
+- **Promises (the Layered Guarantee).** Statutory rights → a fit window of 14–21 days (full refund; the conversation is optional and feedback-only) → a service guarantee on your inputs (turnaround, the week-6 read, the week-12 re-assessment, Hold and Private deliverables) → a **week-6 exit right** (pro-rata for a client who did the work) → a **week-12 non-response clause** (cash partial refund when pre-agreed changeable-column markers haven't moved despite adherence). A plan-usefulness refund covers the Decision Assessment. Never an appearance guarantee.
+
+## 8. The calendar (Module 08)
+
+- **Monthly entry** into a standing group from the founding group onward. Real seat caps come from Seat Math. The fill history is published after each start closes; seat status is stated when it's informative.
+- **Decision points.** Every assessed buyer meets one real decision point within ~2–4 weeks: the next monthly start or an announced price step. Credit windows are **not** deadlines (credit is held ~90 days, or until he enrolls after a "not now").
+- **The Launch Line.** One announcement + one reminder per start, to engaged segments only, never to paused leads. No window bonuses or prices, no lead-in sequences, no cart that closes without a next date, and no countdown widgets.
+
+## 9. The client journey (Program: Module 06; psychology: Module 21)
+
+**Before payment:** the Path and Timeline Card (what 12 weeks deliver; when visible change tends to show; the likely total cost of Program, Round Two, and the Hold, as a range, beside the share told "you don't need Round Two") and the Expectation Document (time commitment, what can and can't move, plateaus, the markers, how reviews are made).
+
+**After:** the Commit Ritual → the First-14 → weekly review with its stated turnaround → the week-6 read (the verdict question first: adjust, hold, refer, or the exit right) → the week-12 re-assessment (capture; the non-response clause) → Round Two, the Hold, or a clean graduation → alumni status, and measured-peak asks.
+
+Appearance is captured at baseline, ~week 6, and week 12, then quarterly. Behavior is logged and reviewed weekly. Photos are coach-only; cohorts can be pseudonymous and camera-optional.
+
+## 10. The operating model (Module 11)
+
+- **Design weeks** (LEDGER A4): ~20 h Early, ~22 h Growing (with a protected build line), ~20–21 h at the Scaling configurations. The protected content minimum and the De-Scoping Order apply.
+- **Build queue:** templated review → the Decision Assessment template → the Async Arc → Round Two and Hold terms → Private deliverables → the Self-Serve System.
+- **Freelancers:** production derivatives from Early. From Growing, **task-billed routing help** that moderates comments against the policy and sends one templated door link. Anything involving a minor, distress, a purchase question, or client content goes to the operator. It never sees check-ins or fit-check answers.
+- **The operator keeps:** claims approval, selling, review, client communication, and public replies beyond routing.
+
+## 11. Growth path (Module 12; the $50k path: Module 13; sequenced by Module 28)
+
+| Stage | Binding constraint | North star | Main levers |
 |---|---|---|---|
-| **Cohort-led hybrid** (default) | ~$14–39k at proof prices; ~$50k above the band with leverage | Almost always: group ≈ individual at equal review intensity | **Default** |
-| Private-led (premium 1:1) | ~$17–22k profit (≈10–12 concurrent at ~$6k) | Optimizer-heavy audience; operator loves 1:1 | A start or a lane, not the engine |
-| Membership-led (open paid room) | Needs ~530–1,080 members at $29–59 with 8–15% monthly churn | Huge reach; low-touch product | A Scaling add-on only |
-| Digital-led (self-serve) | Needs ~160 sales/month at ~$197 for $25k | Very large reach | Contradicts "judgment is the product"; leverage layer only |
-| Long single container (6 months, ~$4.5–6k) | Similar to the default at fewer sales | Strong proof; buyers who want one decision | The default's Round Two path gives the same outcome with a lower first price |
-| Async-only Program (no live call) | Slightly more capacity | Writing-strong operator | A valid variant; default keeps one weekly call for alliance and belonging |
+| **Early** (< ~$8k/month) | Reach, then conversations | Held qualified conversations/week + cash | Founding Sprint sources, speed to lead, short-form reach, the founding group, a founding Private seat, the priority tier, the Band A paid test at months 3–4 |
+| **Growing** (~$8–30k) | Conversion, selling minutes | Enrollments/month + eligible lead → enrollment | Call Cap + overflow, the Async Arc, Price Steps, Round Two and the Hold, the build queue |
+| **Scaling** (~$30k+) | Care minutes | Profit per operator hour | Price at the cash ceiling with two tiers, templated review, async assessments, Private at parity, the Self-Serve System, routing help |
 
-## 7. Pricing (owned by Price, Plans and Promises)
+Reach bands (LEDGER A3): plan on A–B; treat C–D as upside. In the middle case, $25k lands in year 2, and $50k is the top of the range in years 2–3.
 
-- **Three ceilings:** cash (months of take-home pay: $1.5k ≈ 0.4–0.5 months; $3k ≈ 0.75–1.1 months), capacity (revenue per delivery hour must clear the target), credibility (raised by the persuasion system).
-- **Bands:** founding → opening → proof → above band, each step gated by the Raise Gate (proof milestone + conversion or utilization signal held two cycles; announce ≥30 days out; the raise always happens; alumni grandfathered).
-- **Plans:** ≤3 installments inside delivery, premium 0–5% stated as a total, cancel-forward after the fit window, affordability question first.
-- **Promises:** statutory rights → fit window (14–21 days, full refund after a short conversation) → service guarantee on operator inputs → cash non-response clause on pre-agreed week-6 markers. Never an appearance guarantee.
+## 12. What every module inherits
 
-## 8. The calendar (owned by Real Dates)
-
-- **Starts:** the founding group has one fixed start date. After that, starts roll every 6–8 weeks, moving to monthly once volume supports it. Each start has a real seat cap derived from measured care minutes and a public fill record.
-- **Decision points:** every assessed buyer meets one real decision point within ~2–4 weeks: the assessment credit window, the next start's seat cap, or an announced price step. Starts are pinned near real landmarks (new year, new month).
-- **The Launch Line:** one announcement + one reminder per start date, to engaged segments. No window bonuses, no window prices, no lead-in sequences, and no cart that closes without a next date. No countdown widgets.
-
-## 9. The client journey (owned by the Program; psychology owned by the Transformation module)
-
-**Door → Assessment (baseline + written plan) → Commit Ritual → First-14 → weekly review (behavior logs; stated turnaround) → week-6 written read (pre-agreed markers: adjust · hold · exit with the non-response refund · refer) → week-12 re-assessment (capture) → Round Two or the Hold → alumni status, measured-peak asks.**
-Appearance is captured at baseline, ~week 6, and week 12, then quarterly. Behavior is logged and reviewed weekly. Photos are coach-only, cohorts can be pseudonymous and camera-optional, and plateaus are pre-announced.
-
-## 10. The operating model (owned by the Operating Week)
-
-- **Design week ~20 h** with ~5 h of slack. Protected content minimum. De-scoping order for weeks that run past 25 hours. Every per-person minute priced, batched, or templated.
-- **Freelancers:** production derivatives from Early. From Growing, task-billed scripted routing and moderation (no selling, no claims, no client conversations).
-- **The operator keeps:** claims approval, selling, review minutes, client communication, public replies.
-- **Cash:** open the processor early, hold 2–3 months of reserve, keep other income until trailing profit covers personal costs.
-
-## 11. Growth path (owned by Growth Decisions; sequenced by the Build Plan)
-
-| Stage | Binding constraint | North star | Rungs live | Main levers |
-|---|---|---|---|---|
-| **Early** (< ~$8k/month) | Reach, then conversations | Held qualified conversations/week + cash | Door v0 (fit conversation), founding 1:1 → founding group, Starter Path | Founding Sprint, personal replies, short-form reach, founding price |
-| **Growing** (~$8–30k) | Conversion, selling minutes | Enrollments/month + eligible lead → enrollment | + Program starts, Round Two, Hold, paid assessment at the switch | Door Switch, async arc, Raise Gate, renewal at the measured peak |
-| **Scaling** (~$30k+) | Care minutes | Profit per operator hour | + Private, Priority Review, Self-Serve System, options | Price above band, templated review, async assessments, routing help |
-
-**Reach bands** (LEDGER A3): plan on A–B and treat C–D as upside. Month 3 looks the same in every band because the Founding Sprint decides it. In the middle case, the $25k floor lands in year 2; $50k comes in years 2–3 through price and leverage.
-
-## 12. What every module inherits from this spine
-
-- Examples use the default buyer (mid-20s Struggler), the default door (stage-gated), the default ladder, LEDGER numbers, and the House Standard.
-- Every module's Stage Notes use the three stages above, and say which constraint binds.
-- A module that offers an alternative states the default from this file and why it's the default.
-- Composite clients used across modules (named consistently; defined in the Voice file): the Struggler, the Burned Struggler, the Optimizer, the Ambivalent.
+- Examples use Dan (the default protagonist), the default door and ladder, LEDGER numbers, and the House Standard. The cast lives in VOICE.md and the Intro.
+- Every module's Stage Notes use the three stages above and name the constraint that binds for its topic.
+- A module that offers alternatives states this file's default and why it's the default.
