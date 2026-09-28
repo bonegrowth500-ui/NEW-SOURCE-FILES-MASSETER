@@ -9,7 +9,7 @@ Near the end of a fit conversation, a 24-year-old with about eight months of [hi
 
 Most operators answer in one of two ways. One says "No pressure," sends nothing, and never hears from him again. The other cuts the price for today, and a man who has scrolled past the category's countdown discounts hears exactly what he expected. Both lose the sale. The first also fails him, because a good-fit buyer left to guess is let down as surely as one who was pushed.
 
-A contract-based close hears the same words from a different place. Earlier, Dan agreed the call would end in a clear yes or a clear no, and he named what another year of guessing would cost him. So you ask what he's weighing, find the missing belief, and answer it from his record. If he still wants time, he leaves with a date on a real start. This module is that close, with its routes for burned and insecure buyers and the lines that stop it.
+A contract-based close hears the same words from a different place. Earlier, Dan agreed the call would end in a clear yes or a clear no, and he named what another year of guessing would cost him. So you ask what he's weighing, find the missing belief, and answer it from his record. If he still wants time, he leaves with a date on a real start. This module is that close, with its routes and the lines that stop it.
 
 ## 1. The Contract and the Arc
 
@@ -196,7 +196,7 @@ That's a question about his worth, so the route runs over his Optimizer route. Y
 
 ### The hard true thing, said with force
 
-Force belongs here once his months are on the table in his words and he has agreed with your summary. Then say it plainly:
+Force belongs here once his months are on the table and he has agreed with your summary. Then say it plainly:
 
 > **You:** "You've spent eight months doing this without knowing whether it works. That's the problem, not you."
 
@@ -269,7 +269,7 @@ The stake is lived, forward, and his, so it's said back plainly, gadget money le
 
 The first probe sorted "I need to think" to Self, and the second confirmed it. The repair came from his record: "You logged [six] of [seven] days this week with nobody reading them. On the Program someone reads every week, and your week-3 review shows you what the log says." Back to the recommendation: "Given that, does starting on [March 2] still fit what you want?" He says yes. Left alone: a third probe, "most people drop out", and any discount.
 
-**Minute 25. Day one, and the recap.** Dan clears the checkout's checks with the Card and the Expectation Document above the pay button, pays, and books baseline day for [March 2, 7 pm]. The next morning's recap carries his words, the recommendation and its reasons, the price once, the start with its last day to join, and baseline day, without the [$300]. Cole's time was about an hour. One yes proves nothing, so he reads his close across his last [30] held conversations: [~35%] enrolled, inside the 25–45% planning range with proof.
+**Minute 25. Day one, and the recap.** Dan clears the checkout's checks with the Card and the Expectation Document above the pay button, pays, and books baseline day for [March 2, 7 pm]. The next morning's recap carries his words, the recommendation and its reasons, the price once, the start with its last day to join, and baseline day, without the [$300]. Cole's time was about 45 minutes all-in. One yes proves nothing, so he reads his close across his last [30] held conversations: [~35%] enrolled, inside the 25–45% planning range with proof.
 
 **The same words from Theo.** Theo *(composite, Burned Struggler)*, 26, sells for a living and bought [a device and a course] that promised structural change, so his door answers set the burned route. Cole put the terms first, took his answer to one forward stake question as given, showed the tiers top first with the Program recommended, heard a yes to the affordability question, and asked. Theo said he needed to think.
 
@@ -396,7 +396,7 @@ If it's his parents' money: "Then I'd hold off, since I only take money that's c
 >
 > Attached before you pay: your Path and Timeline Card and Expectation Document [plus, for a burned buyer, the verification kit and guarantee terms].
 
-Leave out any assessment credit, stated once as a term in his written plan, and leave out what he already spent, his fit-check answers, and anything about his face. On the Dignity Route the stake line holds only time, money from here on, and guessing.
+Leave out any assessment credit, stated once as a term in his written plan, plus what he already spent, his fit-check answers, and anything about his face. On the Dignity Route the stake line holds only time, money from here on, and guessing.
 
 **The check-in, on his Decision Date.**
 

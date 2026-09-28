@@ -178,6 +178,7 @@ Generated from `FRAMEWORKS.md`; if the two ever disagree, FRAMEWORKS wins and th
 | the priority tier | 05 |
 | the written plan | 05 |
 | the pause route | 05 |
+| protective stop | 19 |
 | the signal pause | 05 |
 | speed to lead | 05 |
 | age fork | 05 |

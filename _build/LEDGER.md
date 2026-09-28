@@ -304,6 +304,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Live windows | 2–3 fixed windows a week for calls and live replies; everything else batches | Calendar design | RULE (THESES B21) |
 | No-show rule | One templated rebooking offer; a second miss releases the slot; no chasing | — | RULE |
 | Voice-note replies | ~1–3 minutes, recorded by you (never AI speaking as you), one recommendation at most | — | RULE |
+| Selling-Skill Loop cadence | Score one consented recording a week against the call scorecard; protective-stop calls are never mined | — | RULE |
 | Paid group decision session | ~$25–50, named "cohort walkthrough and Q&A; the offer and price are inside"; attendees anonymous; credited to any program he joins under the Decision Assessment's credit terms | Launch Line | PL |
 | Founding Sprint targets | 3–6 held conversations/week. Honest expectation: 0–2 clients in month 1, 2–6 by month 3 depending on sources | PL |
 | Seat caps | Set monthly from measured care minutes (Seat Math), including the Hold and Private, so client work cannot eat the protected content minimum | RULE |

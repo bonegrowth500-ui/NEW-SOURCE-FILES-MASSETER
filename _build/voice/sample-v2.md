@@ -160,9 +160,9 @@ This objection sounds like a statement about bone. It's a **Range** objection (M
 
 **How to use it.** Give him the Honest Answer (Module 3) in thirty seconds, then hand the question back:
 
-> **You:** "You're right to push on that. Most of what's out there overclaims, so here's the straight version. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. And some things clearly do change and can be measured: your habits, your body composition, how you hold yourself, your grooming, how you're photographed. So the useful question is which of those you're working on, and how you'd know."
+> **You:** "You're right to push on that. Most of what's out there overclaims, so here's the straight version. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. If what you want is to be at ease in photos and to stop guessing, that's where the work is. Which of those are you working on, and how would you know?"
 >
-> **Dan** *(composite, Struggler)*: "I mean… I've been doing [his current routine] for about eight months and checking the mirror."
+> **Dan** *(composite, Struggler)*: "I mean… I've been doing [his current routine] for about eight months. I've never measured anything."
 >
 > **You:** "Eight months with no measurement. That's the gap, and closing it doesn't depend on your age."
 
@@ -174,7 +174,7 @@ If he pushes again ("but everyone online says…"), that's the **Pushback Signal
 >
 > **Dan:** "Sure."
 >
-> **You:** "You've had eight months of mirror checks. What have they told you about what's moving?"
+> **You:** "You've had eight months of effort with nothing measured. What has it told you about what's moving?"
 > *[Stop. Let him answer.]*
 
 **Then return to the decision.** Resolving an objection reopens the decision; it doesn't finish it. Go back to where you were: "Given that, does the plan we talked about still fit what you want?" If he says yes, restate your one recommendation and ask. If he gives a clear no, the ask ends for this conversation.

@@ -24,7 +24,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | a721610947ef123b4 | ✅ 3.5 passed (7,557 w) |
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 | 18 | 18-content-that-sells.md | a1c32178a5c126f98 | a51dc49dac76ea92f | draft done (7,549 w) → critique |
-| 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | — | drafting |
+| 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | draft done (7,684 w) → critique |
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | draft done (7,610 w) → critique |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | draft done (7,582 w) → critique |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | draft done (7,490 w) → critique |
@@ -104,3 +104,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (from 20): LEDGER H rows: voice-note replies (~1–3 min, recorded by you, one recommendation); paid group decision session (~$25–50, named honestly, anonymous, credited under DA terms). Module 05: 'burned route' → 'Burned Struggler state tag' (tags = stage, Buyer State, route [call/assessment/no-call], pause).
 - R5 round (from 18): Warmth Ladder rung names registered (Stranger → Returning → Assessed → Deciding); 23–27 map onto them. Canon claim 2 reworded in Module 14 to fit the round-4 ruling: 'Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is.' FRAMEWORKS effort-vs-direction gloss aligned. Pre-Publish Card may run to 10 items (its own definition), an exception to the 5–8 checklist rule.
 - R5 round (from 22): LEDGER D 'Measured peak' defined (adherence ≥ threshold + ≥1 marker at its threshold; no refund decision open). Module 09's week-10 peak fixed ('a marker at its threshold with his logging on target'). Training-Partner Seat at graduation = a referral variant: the graduate introduces the person he trains with, who comes through his own door and enrolls alone or as a pair; the graduate isn't enrolled in the pair.
+- R5 round (from 19): 'protective stop' registered ○ (owner 19): money/distress/fit signal/minor leave only 'stopped: stop rule'; a clear no's link may be logged. LEDGER H: Selling-Skill Loop cadence (one consented recording a week). sample-v2 objection unit refreshed (Module 3's spoken Honest Answer verbatim; no mirror-checking line).
