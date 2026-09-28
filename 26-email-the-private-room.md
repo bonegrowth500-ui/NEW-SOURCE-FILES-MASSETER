@@ -21,7 +21,7 @@ A letter written for everyone lands on whatever day of that cooling it happens t
 
 ### Flow out-earns stock for every man it reaches
 
-A message sent by his tags, days after his door, names the start his answers picked and makes the one recommendation his route calls for. No broadcast can do either. In other markets, welcome sequences earn several times the clicks and orders per recipient that broadcasts do. That evidence comes from online stores, so trust its direction more than its size. The mechanism, relevance at the moment of interest, carries over.
+A message sent by his tags, days after his door, names the start his answers picked and makes the one recommendation his route calls for. In other markets, welcome sequences earn several times the clicks and orders per recipient that broadcasts do. That evidence comes from online stores, so trust its direction more than its size. The mechanism, relevance at the moment of interest, carries over.
 
 With no free community, the list is also where your warm pool lives: the men who came through the door and haven't decided. A warm pool stays warm on the right message at the right time, and volume mostly adds complaints. So most of the list's work is flows, each started by something he did:
 
@@ -57,7 +57,7 @@ A new lead's first weeks are decided by four labels his door has already written
 
 ### His result arrives within minutes
 
-He finished the self-assessment to learn something about his stall, so the first email is his result. It holds a link to the result, a line saying you read every reply, and how often you'll write, with a one-click exit. Nothing else goes in, because every extra line stands between him and what he came for. Men in this category have learned that a form which goes quiet was harvesting an address. A result in minutes is your first proof that the door does what it said, and his click on it confirms the address.
+He finished the self-assessment to learn something about his stall, so the first email is his result. It holds the link, a line saying you read every reply, and how often you'll write, with a one-click exit. Nothing else goes in, because every extra line stands between him and what he came for. Men in this category have learned that a form which goes quiet was harvesting an address. A result in minutes is your first proof that the door does what it said, and his click on it confirms the address.
 
 Your personal reply follows within hours and names one thing from his answers. The automation waits for it, sending nothing else until the next day, so the first message after the machine's is yours.
 
