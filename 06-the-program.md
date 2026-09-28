@@ -79,7 +79,7 @@ Early, write every review from scratch, at about 12–20 minutes per client-week
 
 The call is the Program's only synchronous hour, so give it a fixed shape. It runs through the week's patterns from the check-ins, one topic, and two or three opt-in hot seats on process. Each member ends with one commitment, reported to you privately, and sharing it with the room is his choice. In a small group a pattern can point at one man, so raise it only with his permission. Record the call, or admit an AI note-taker, only if every member agrees, since a recording is a capture you don't control.
 
-Run one combined call until about 12–15 concurrent clients, then split it by program stage. A man in week 2 and a man in week 10 need different conversations. Status in the room comes from the record: members join under a handle with cameras off, and nobody's face is discussed. If the group wants a board, make it opt-in and rank only timestamped process, such as check-ins submitted on time and captures on schedule. Self-reported days logged stay off it, because they decide his refund terms and a board would reward inflating them.
+Run one combined call until about 12–15 concurrent clients, then split it by program stage. A man in week 2 and a man in week 10 need different conversations. Status in the room comes from the record: members join under a handle with cameras off, and nobody's face is discussed. If the group wants a board, make it opt-in, open it only after the fit window closes, and rank only timestamped process, such as check-ins submitted on time and captures on schedule. Self-reported days logged stay off it, because they decide his refund terms and a board would reward inflating them.
 
 Late entry closes after week 2. Starts run as monthly entry, a new start every month into a standing group (Module 8). A man who enrolls mid-month joins the running start through week 1–2, and his weeks count from his own baseline day. Any later and he waits the few weeks for the next start.
 
@@ -262,7 +262,7 @@ Dan is among the 10, and so is Theo, who chose his own date after reading the ve
 | 12 | Re-assessments with matched captures | [~225] |
 | 1–12 | The group call, shared with his other starts | [~40] a week |
 
-**Week 0. A capture retaken.** Adrian's first set arrives shot at arm's length under a ceiling light. Cole's baseline notes name the two conditions and resend the standard. A matched set comes back the next evening, so every later comparison rests on clean conditions. By week 3, [four] clients have opted into the process board under their handles, ranked on check-ins submitted on time.
+**Week 0. A capture retaken.** Adrian's first set arrives shot at arm's length under a ceiling light. Cole's baseline notes name the two conditions and resend the standard. A matched set comes back the next evening, so every later comparison rests on clean conditions. Once the fit window closes, [four] clients opt into the process board under their handles, ranked on check-ins submitted on time.
 
 **Week 6. An exit right and a flat read.** Sam's busy season arrives [a month] early. He has logged [~85]% of days, so when he asks to stop, the exit right applies. Cole refunds the undelivered weeks, about half the price, within [three] days, with no re-pitch.
 

@@ -17,7 +17,7 @@ Identity moves follow-through, and the evidence is specific about which kind doe
 
 When a task fits who a man thinks he is, difficulty reads as a sign the task matters. When it doesn't fit, the same difficulty reads as proof that it's impossible for someone like him. That's the core of identity-based motivation, a moderate body of evidence, and it turns on whichever identity is active at the moment he acts. The Struggler, the stalled, self-taught adult at the center of this business, has had eight months of practice at the second reading. The routine felt hard and nothing visible changed, so it must be meant for other men with other faces. The reframe that works is a true one: it felt hard because he was doing the real version with no feedback.
 
-So the identity has to be present where he acts: at the top of his log, in the first line of his review, in how his check-in names what he did. An identity that lives only on your sales page is gone by his first overtime shift. Self-views also seem least fixed at fresh starts, and baseline day, the first review-and-decision ritual that opens his program (Module 6), usually lands on a monthly start pinned near one. Goal pursuit tends to rise after landmarks like a new month, though that evidence covers starting a goal and says nothing about when to buy.
+So the identity has to be present where he acts: at the top of his log, in the first line of his review, in how his check-in names what he did. An identity that lives only on your sales page is gone by his first overtime shift.
 
 ### Labels follow behavior, and praise bounces off
 
@@ -27,7 +27,7 @@ People infer who they are from what they repeatedly do, which is why a man who h
 
 Recording progress and reporting it has a moderate effect on reaching goals, on strong evidence, and the effect grows when progress is reported to someone or made public. Commitments made in public are kept more often, on average, too. So the case for quiet commitments can't rest on publicity failing in general. It rests on this niche. The audience here rates faces, so a public commitment about his appearance invites comments on his appearance, which is fuel for a checking habit. This buyer would usually prefer that nobody knew. And a miss made in public risks shame, a judgment on the whole self that predicts withdrawal unless the gap looks repairable.
 
-Two narrower findings point the same way. In a few small experiments, people whose identity goals were noticed by others then did less toward them, apparently because being seen as the person they meant to become felt like progress already made; that finding is unsettled. And who hears a goal matters: shared with someone whose judgment he respects, it tends to raise his commitment. The design keeps what reporting does and drops the crowd, with one reader who reviews it.
+In a few small experiments, people whose identity goals were noticed by others then did less toward them, apparently because being seen as the person they meant to become felt like progress already made; that finding is unsettled. And who hears a goal matters: shared with someone whose judgment he respects, it tends to raise his commitment.
 
 ### Consistency devices are weaker than their reputation
 
@@ -42,7 +42,7 @@ The classic consistency levers rest on thin ground. The version of dissonance th
 | Small-yes ladders; choice-based dissonance | Small, or failed replication | Real work at every step |
 | Deposit contracts | Real effects among the few who take one | A small stake he sets up himself, if he asks |
 
-Together they give you a quieter design: an identity built from his own logs, present when he acts, and reported to one reader who takes it seriously. It also suits a buyer who would prefer that nobody knew he'd paid for help with his appearance at all.
+Together they give you a quieter design: an identity built from his own logs, present when he acts, and reported to one reader who takes it seriously. It keeps what reporting does and drops the crowd.
 
 ## 2. Adults Who Measure
 
@@ -62,7 +62,7 @@ That's **Adults Who Measure**, the group of adults who measure instead of guess,
 
 ### Starter Path users are members
 
-The practice decides membership, so a man on the Starter Path, the free sequenced path for anyone who shouldn't buy now, belongs as fully as a paying client (Module 4). Sam *(composite, Ambivalent)*, 22, an apprentice electrician, says he'll start "after the busy season", and his reason is real: [six-day weeks] until [March]. He picks [March] as his own date and gets the path once, in his written recap. He logs [his routine] through [six] of the first eight weeks, takes one capture on his own phone, misses two weeks during [a rush job], and reaches the week-8 self-check.
+The practice decides membership, so a man on the Starter Path, the free sequenced path for anyone who shouldn't buy now, belongs as fully as a paying client (Module 4). Sam *(composite, Ambivalent)*, 22, an apprentice electrician, says he'll start "after the busy season", and his reason is real: [six-day weeks] until [March]. He gets the path once, in his written recap, with [March] as his own date. He logs [his routine] through [six] of the first eight weeks, takes one capture on his own phone, and reaches the week-8 self-check.
 
 The path's templated week-8 note names what he did: "[Six] of eight weeks logged, and one change judged fairly. That's measuring, and it's yours." It names no offer, because his standing doesn't depend on his next purchase. In [March], the one check-in on his date finds him ready, and his first review opens on his Starter Path weeks. The group he joins that day is one he has belonged to since [January].
 
@@ -70,17 +70,15 @@ The path's templated week-8 note names what he did: "[Six] of eight weeks logged
 
 Your standards tell him the group is serious: a door that sells only to legal adults, captures taken to one fixed standard, ranges published with their denominators, and the Fit Check, a plain-language check for signals that buying could hurt him, before every paid step. None of them is a member trait. "Fit-checked" is a safety standard you run on everyone. Worn as a badge, it would turn a safety screen into a test to pass and to game. It would also mark every man it paused as an outsider, while the reading-only path he's on is a pause in the practice, waiting for his own permission.
 
-"Premium" is never a status either. Private, the premium one-to-one seat with fixed deliverables, buys speed, privacy, and precision as deliverables (Module 13), and no rank comes with it. Adrian *(composite, Optimizer)*, 31, pays for it, and if he joins the alumni room, the paid room for graduates, his standing there comes from the same timestamps as everyone's. Price is a fact about a tier, never about the man who bought it.
+"Premium" is never a status either. Private, the premium one-to-one seat with fixed deliverables, buys speed, privacy, and precision as deliverables (Module 13), and no rank comes with it. Price is a fact about a tier, never about the man who bought it.
 
 ### The name travels with a practice
 
-The operating rule: say the phrase about what a man does, and about who he is only once his record shows it. Put it where he acts, so it reaches him long before graduation:
+The operating rule: say the phrase about what a man does, and about who he is only once his record shows it. Put it where he acts, so it reaches him long before graduation, and repeat it only when his record changes, because a phrase repeated without new evidence turns back into a slogan:
 
 - **The log's header.** "For adults who measure instead of guess: seven days of what you already do."
 - **The check-in's header.** "Adults who measure, week [N]: what your record says."
 - **A content line.** "If you'd rather measure than guess, start with seven days of writing down what you already do."
-
-Use it again when his record changes, a finished log week or a ritual, and leave it out of the messages in between, because a phrase repeated without new evidence turns back into a slogan.
 
 Keep it from drawing a line between members and outsiders. Guessing is the idea you fight, and the men still guessing are future members. Mockery crosses the line on shame, and it's bad arithmetic too, since the man you mock for guessing this year is the adult who'd have enrolled next year. And keep it off manhood. "Real men measure" or "real men don't quit" turns every missed day into a verdict on his worth, and shame shuts people down. Maya *(composite, welcome, not targeted)*, 28, a product designer, is a member on the same terms, which keeps the identity where it belongs, on adults and their records.
 
@@ -94,29 +92,20 @@ Earned Labels, labels that rest on his record, are the kind of praise a skeptic 
 
 **A count from his record, named as the practice it shows.**
 
-"[38] of [42] days logged is what doing this properly looks like" passes. "You're clearly one of the serious ones" fails, because nothing in his record can prove it, and a man sure he's stuck files it with every sales line he's heard. Keep the counts exact: a day logged has an entry, a day done had the [habit block] happen, and each label says which it counts. Four rules keep labels earned:
+"[38] of [42] days logged is what doing this properly looks like" passes, and "you're clearly one of the serious ones" fails, because nothing in his record can prove it. Keep the counts exact: a day logged has an entry, a day done had the [habit block] happen, and each label says which it counts. Four rules keep labels earned:
 
 - **After the behavior.** A label at checkout is a compliment he can't check yet, so the first one arrives with his first logged days.
 - **About the practice.** Reviews read his record and leave his face alone, so labels do too, and a label about his worth makes his next missed week a verdict on him.
-- **True at the low end.** A client below the adherence threshold, the share of days logged his refund terms require, gets a count as plain as anyone's. Flattery fails the Informed-Client Test's ceiling, the check that a client at the low end of your range would endorse a tactic after seeing exactly how it worked, because he's the one who later learns it was flattery.
+- **True at the low end.** A client below the adherence threshold, the share of days logged his refund terms require, gets a count as plain as anyone's, because he's the client most likely to learn later that praise was flattery.
 - **Away from money and refunds.** A label is no bridge to the offer, and none appears inside his fit window, a full refund in his first 14–21 days of delivery, or in the 7 days after his mid-program read, when stopping earns a pro-rata refund.
 
 ### The ritual is the decision, and the photo is context
 
-Rituals give a group its shape, and in this category the obvious ritual is the photo: the before, the after, the reveal. Build it around the photo and every capture becomes a verdict on his face that he waits for. The checking habit the Measurement Calendar exists to retire, with behavior logged every week and captures only on fixed dates, gets a ceremony, and you drift toward the face rating you refuse to sell. Build it around the decision and he's the one acting, because each ritual ends with a choice he makes from his record. Those are measurement rituals, the review-and-decision moments at baseline, the re-captures, and graduation. The identity each one rehearses, an adult who decides from evidence, outlasts the program.
+In this category the obvious ritual is the photo: the before, the after, the reveal. Build it around the photo and every capture becomes a verdict on his face that he waits for. The checking habit the Measurement Calendar exists to retire, with behavior logged every week and captures only on fixed dates, gets a ceremony, and you drift toward the face rating you refuse to sell. Build it around the decision and he's the one acting, because each ritual ends with a choice he makes from his record. Those are measurement rituals, the review-and-decision moments at baseline, the re-captures, and graduation. The identity each one rehearses, an adult who decides from evidence, outlasts the program.
 
-The deliverables belong to the Program, your 12-week flagship, and the meanings are yours to protect. Four moments carry them: baseline day; the week-6 read, the written mid-program read; the week-12 re-assessment, the end-of-program capture and verdict; and graduation, the week-12 finish where he takes his record. At each one his markers, the two or three pre-agreed measures that decide his verdict, keep the photo in its place:
+The deliverables belong to the Program, your 12-week flagship, and the meanings are yours to protect (Module 6). Four moments carry them: baseline day, the first review-and-decision ritual; the week-6 read, the written mid-program read; the week-12 re-assessment, the end-of-program capture and verdict; and graduation, the week-12 finish where he takes his record. At each one his markers, the two or three pre-agreed measures that decide his verdict, carry the decision, and the capture sits beside them as an observation.
 
-| Ritual | The review and the decision | The capture's role |
-|---|---|---|
-| Baseline day | His first log read; the first change chosen from it; markers signed | The first capture you see, to the standard |
-| The week-6 read | The verdict question: given his adherence, is the lever moving? Then adjust, hold, refer, or stop | Context, with its conditions checked first |
-| The week-12 re-assessment | Markers scored against thresholds; the verdict written | The matched pair, as observations |
-| Graduation | He takes his whole record and sets his next capture date | None new |
-
-Baseline day means his record already exists, so it opens on his first log and the first decision comes from it. The Commit Ritual, the review and decision that open his program with his written reasons, runs inside it, and those reasons are never quoted back in any exit (Module 21).
-
-The re-captures mean a decision where the category sells a reveal. At week 6 the exit right, a pro-rata refund for a client who did the work and wants to stop, sits in the same letter, stated as plainly as the plan, with no label, status line, or reminder beside it. Graduation means he owns his record and can keep measuring without you. What comes next follows Measured-Peak Asks, the rule that asks come only at a measurement showing progress (Module 22).
+Baseline day opens on his first log, so his record already exists when the first decision is made. The Commit Ritual, the review and decision that open his program with his written reasons, runs inside it, and those reasons are never quoted back in any exit (Module 21). At week 6 the exit right, a pro-rata refund for a client who did the work and wants to stop, sits in the same letter as the plan, stated as plainly, with no label, status line, or reminder beside it. Graduation means he owns his record and can keep measuring without you, and what comes next follows Measured-Peak Asks, the rule that asks come only at a measurement showing progress (Module 22).
 
 ### Status rules are written where he'll read them
 
@@ -124,12 +113,12 @@ Status can run at full strength here on two conditions. He can read, before it m
 
 | Status | The rule, in his words | Where he reads it |
 |---|---|---|
-| Membership | "Adults who measure keep a log, capture on schedule, and decide from the record. Keep the practice, paying or not, and you're one of them." | The log's header and the Starter Path |
-| Founding status | "Founding group, [month]: you joined early and kept the practice while you were in. It's a line in your record, it buys nothing, and leaving early doesn't remove it." | His welcome note, after he enrolls |
-| A board place | "Opt in once your fit window closes. Places go by check-ins sent on time and captures kept on their dates, and leaving is never shown." | The group's rules |
+| Membership | "Keep a log, capture on schedule, and decide from your record, paying or not, and you're one of the adults who measure." | The log's header and the Starter Path |
+| Founding status | "Founding group, [month]: you joined early and kept the practice. It's a line in your record, it buys nothing, and leaving early doesn't remove it." | His welcome note, after he enrolls |
+| A board place | "Opt in once your fit window closes. Places go by check-ins sent on time and captures kept on their dates, and leaving never shows." | The group's rules |
 | Alumni status | "Graduation: you reached week 12. It's a fact in your record, whatever your markers did." | The Program's terms |
 
-Founding status goes to clients of the founding group, every early client in one group from the first, and he hears about it only after enrolling. On the founding page it would be a bonus that ends with a window, the one thing a real date can't carry. It doesn't depend on his consent to share his record for building the check-in, and it confers nothing he could buy. The founding price was a price, and the status is the practice he kept while the program was new.
+Founding status belongs to clients of the founding group, every early client in one group from the first. Each hears about it only after enrolling, since on the founding page it would be a bonus that ends with a window, and it never depends on his consent to share his record.
 
 An exit keeps all of it. A client who uses the fit window or the exit right leaves with his record, a closing count of what he did, and his standing as one of the adults who measure. Alumni status stays a fact about graduation, and nobody presents it as something stopping costs him. No room or board mentions who left.
 
@@ -147,7 +136,7 @@ So once he has a slot, he gets seven days of logging: what he already does, done
 
 The log counts however many days he keeps. With a booking inside 24–48 hours, most men log [one to three] days before the call, and the log runs to day 7 whatever the call decides. The call reads what's there, so it opens on his days and leaves his feelings about his face alone. [Four] of [seven], with both misses on shift days, is a success, because it tells him where any plan has to fit. A man who logs nothing keeps his slot, and his empty page is the first reading, said without blame, since nothing measured is where most stalls start.
 
-Nothing about the call or the offer waits on the log. The call happens on its date, the recommendation comes from what he's told you and what the page shows, and the week counts however it ends. That's also why it passes the Informed-Client Test's ceiling: a man who never buys still keeps a week of his own record, and nobody graded it.
+Nothing about the call or the offer waits on the log, and the week counts however it ends. That's why it passes the Informed-Client Test's ceiling, the check that a client at the low end of your range would endorse a tactic once he saw how it worked. A man who never buys still keeps a week of his own record, and nobody graded it.
 
 ### Week zero comes for every buyer
 
@@ -155,7 +144,7 @@ Nothing about the call or the offer waits on the log. The call happens on its da
 
 If he enrolls, his log becomes the first entries of his record. That's the **Week-Zero Baseline**: his pre-purchase log counted as week zero of his program, or, for a buyer who enrolls without a call, his first seven logged days. That second buyer exists at every stage, since warm checkouts run from Early and about 20–50% of Growing enrollments skip the call. He gets the same log with his checkout confirmation. If baseline day comes before his day 7, as it can with late entry, baseline day still runs, and the first change waits for the day-7 read, so every plan starts from a week of his record.
 
-His solo months go into the same file as data, taken from his history answers at the self-assessment, the door's first step: what he did, for how long, what he measured, and what happened. Written down, eight months stop being a failure and become an untested first attempt whose missing piece was measurement. They stay data. "Don't let eight months go to waste" is a line you never say, and what he spent on devices or courses stays out of any price conversation. A real head start helps on its own terms, since people handed one finish more often than people starting from zero, and this one he built himself.
+His solo months go into the same file as data, taken from his history answers at the self-assessment, the door's first step: what he did, for how long, what he measured, and what happened. Written down, eight months stop being a failure and become an untested first attempt whose missing piece was measurement. They stay data. "Don't let eight months go to waste" is a line you never say, and what he spent on devices or courses stays out of any price conversation. A real head start helps on its own terms, since people handed one finish more often, and this one he built himself.
 
 | What counts as week zero | What it holds | Who sees it |
 |---|---|---|
@@ -167,7 +156,7 @@ His solo months go into the same file as data, taken from his history answers at
 
 ### The own-device capture is his private reference
 
-The capture has one job: a private reference he keeps, which you never see. It arrives with his written recap or plan, after the self-assessment's distress items and after a person has heard him, and it follows the conditions written there. On the Starter Path it's the starting point he sets his week-12 capture beside. For a buyer, nothing is compared with it, because comparison starts on baseline day, when the Capture Standard, your fixed conditions for every capture, is applied and checked (Module 6).
+The capture has one job: a private reference he keeps, which you never see. It arrives, with its conditions, in his written recap or plan, after the self-assessment's distress items and after a person has heard him. On the Starter Path it's the starting point he sets his week-12 capture beside. For a buyer it becomes comparable only once baseline day applies the Capture Standard, your fixed conditions for every capture (Module 6), and until then nobody compares anything with it.
 
 Leave it out wherever it would feed the habit it's meant to replace: an endorsed distress or checking item, a Fit Check signal, or regular checking short of a signal. That last one puts him on the Dignity Route, the way of running a sale that keeps force off his worth, where captures run only on their fixed dates (Module 15). Leave it out too when baseline day is near, since his first standardized capture is days away. If a photo reaches your inbox before purchase, delete it without comment and tell him it stays on his phone.
 
@@ -177,7 +166,7 @@ Commitments work when someone reads them, so his go to his reviewer, stay privat
 
 ### The reviewer is the audience
 
-Each week he names one commitment for the week ahead, [what he'll do, and when], typed to you as the live call closes or in reply to his review. Sharing it with the room is his choice, every week. That's **Quiet Commitments**: commitments go to the reviewer and stay private by default, while sharing and process boards, leaderboards that rank logged process, stay opt-in inside the closed cohort. The closed cohort means the rooms only members enter: the Program's group while he's in it, and the alumni room after. A reader he respects keeps what reporting does for follow-through, and a missed week gets read in a private review, away from anyone who'd rate him.
+Each week he names one commitment for the week ahead, [what he'll do, and when], typed to you as the live call closes or in reply to his review. Sharing it with the room is his choice, every week. That's **Quiet Commitments**: commitments go to the reviewer and stay private by default, while sharing and process boards, leaderboards that rank logged process, stay opt-in inside the closed cohort. The closed cohort means the rooms only members enter: the Program's group while he's in it, and after graduation the alumni room, the paid room for graduates. A reader he respects keeps what reporting does for follow-through, and a missed week gets read in a private review, away from anyone who'd rate him.
 
 **Commitments go to the reviewer, sharing stays his choice, and nothing goes public at your request.**
 
@@ -193,7 +182,7 @@ The rooms themselves, with their rules and moderation, belong to Community Optio
 
 ### Nothing sits near his refund rights
 
-A consistency device is anything that makes stopping feel like breaking his word, and none may sit near his refund rights. Sharing and boards open only after his fit window closes. From the week-6 read until its exit window closes 7 days later, nothing new is set up: no shared commitment, no board, no status line, the same stretch a testimonial ask stays clear of. Picture what the rule prevents: a man who tells the group on day [12] that he's "all in for 12 weeks", with his fit window closing on day [16]. Using his refund now costs him face in front of the room, which turns his commitment into a device aimed at his own rights.
+A consistency device is anything that makes stopping feel like breaking his word, and none may sit near his refund rights. Sharing and boards open only after his fit window closes. From the week-6 read until its exit window closes 7 days later, nothing new is set up: no shared commitment, no board, no status line. Picture what the rule prevents: a man who tells the group on day [12] that he's "all in for 12 weeks", with his fit window closing on day [16]. Using his refund now costs him face in front of the room, which turns his commitment into a device aimed at his own rights.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
@@ -204,7 +193,7 @@ A consistency device is anything that makes stopping feel like breaking his word
 
 **Default:** the weekly commitment to the reviewer, because a reader keeps the monitoring effect with no announcement or shame attached. Switch to a self-set stake only when he asks for one himself. Never sell one or hold the money, because a stake you collect pays you when he fails.
 
-**When the signals disagree.** In week [2], with his fit window still open, a client tells you he wants to post his progress publicly: a weekly video with a fresh photo, his followers as his accountability. His signals say go. He's proud, it's his account, and he believes an audience will keep him honest. The evidence and your standards pull the other way. An identity announced to an audience can feel like progress already made, a public miss invites shame, and a weekly photo is the interim capture the calendar asks him to skip, posted where strangers will rate it.
+**When the signals disagree.** In week [2], with his fit window still open, a client tells you he wants to post his progress publicly: a weekly video with a fresh photo, his followers as his accountability. He's proud, it's his account, and he believes an audience will keep him honest. The evidence and your standards pull the other way. An identity announced to an audience can feel like progress already made, a public miss invites shame, and a weekly photo is the interim capture the calendar asks him to skip, posted where strangers will rate it.
 
 Settle it by ownership: his account decides what he posts, and your standards decide what you do. You neither forbid it nor ask for it, and you say once, plainly, what the evidence shows. Then name the cost he can't see yet. Once he posts weekly, stopping is public, including stopping through a refund right he's entitled to, so suggest a first post about what he did, after his exit window closes. The fit window and the exit right stay his, and nobody hears about either from you. On your side, nothing reposts, tags, rewards, or quotes his posts. If they turn into requests for ratings, or his checking climbs, that's a referral conversation.
 
@@ -222,25 +211,27 @@ Privacy carries the first job: a pseudonymous, camera-optional cohort, photos se
 
 Theo *(composite, Burned Struggler)*, 26, stands at a higher threshold than most, because the last one he crossed cost him [a device and a course] that promised structural change. His "I need to think" is due diligence. He gets the verification kit, the sample plan and sample weekly review, with one firm recommendation and a date he chooses. His log gives him something the last seller never did, a week of evidence he produced before paying anyone.
 
-The questions a buyer asks near the threshold tell you which crossing he's making. "Who sees my photos?", "What will the charge say?", and "Will anyone in the group know it's me?" are threshold questions, so answer them first and plainly, before anything about price. A man who mentions his log unprompted at checkout is crossing on his record. For the insecurity-led buyer, whose questions sound like verdicts on himself, the threshold is steepest, and the Dignity Route keeps his crossing from turning into a confession: stakes stay on time, money from here on, and guessing.
+The questions a buyer asks near the threshold tell you which crossing he's making. "Who sees my photos?", "What will the charge say?", and "Will anyone in the group know it's me?" are threshold questions, so answer them first and plainly, before anything about price. A man who mentions his log unprompted at checkout is crossing on his record. For the insecurity-led buyer the threshold is steepest, and the Dignity Route keeps his crossing from becoming a confession.
 
 ### The self-assessment is his first commitment
 
 The self-assessment is also his first commitment, and two parts of it hold up. The minutes of effort sort people, and screening effects are among the sturdier findings in this area. His written words move him too, a little: stating a position shifts a person toward it, the part of the dissonance work that survived replication. What doesn't hold up is the idea that more effort makes him value the result more. That effect is weak, so extra questions buy lost completions and no extra commitment. Keep the door at its [8–10] questions, and let the two that ask for his own words, his goal and why now, carry the weight.
 
-His words then have one use. They come back to him as the summary in his recap, in his language, so the decision he makes is argued from what he said. On the Dignity Route that summary keeps the destination at knowing what's moving and leaves any missed moment he wrote about unsaid. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw. A ladder of small yeses asks for agreement, and this one asks for work, each step leaving him something he keeps whether or not he takes the next: a result, a week of his record, a plan. Add effort only where it produces something he keeps.
+His words then have one use. They come back to him as the summary in his recap, in his language, so the decision he makes is argued from what he said. On the Dignity Route that summary keeps the destination at knowing what's moving and leaves any missed moment he wrote about unsaid. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw.
+
+A ladder of small yeses asks for agreement, and this one asks for work, each step leaving him something he keeps whether or not he takes the next: a result, a week of his record, a plan. Add effort only where it produces something he keeps.
 
 ## Worked Example: Dan, From His First Log to Graduation
 
 Cole (composite operator) is in Band B, the steady band, two months in, with the founding group running. Dan *(composite, Struggler)*, 24, works in logistics and has about eight months of [his routine] behind him, nothing measured, and a comparison-photo habit. Here is his path, with the exact label Cole used at each step.
 
-**Tuesday, month [2]. The route is read before the reply.** Dan answers "sometimes" to both screening items and writes his goal as a sentence about himself, a line about team photos. Cole reads those answers himself, and nothing stores them. Together they put Dan on the Dignity Route, so the team photos are never said back to him and the destination stays at knowing what's moving. The booking page shows the public price range and asks the affordability question. Dan answers yes and books [Thursday], and the log follows. Cole's reply names what the call will read, his log and his eight months, and carries no label, because Dan hasn't yet done anything a label could state.
+**Tuesday, month [2]. The route is read before the reply.** Dan answers "sometimes" to both screening items and writes his goal as a sentence about himself, a line about team photos. Cole reads those answers himself, and nothing stores them. Together they put Dan on the Dignity Route, so the team photos are never said back to him and the destination stays at knowing what's moving. The booking page shows the public price range and asks the affordability question. Dan answers yes and books [Thursday], and the log follows. Cole's reply names what the call will read and carries no label, since Dan hasn't done anything yet a label could state.
 
-**Thursday. The call reads two days.** Signs: [2] of [2] days logged, [his routine] done both days but only after [10 pm], and "forgot until bed" written twice. The read is an unmeasured stall and a weak Self link, his belief that with this structure he'll actually do it (Module 14), since he has "quit every routine I've started." Label, first thing: "Two of two days logged, and you already know something eight months didn't show you: it only happens at night. That's measuring." Cole asks what quitting looked like ("nobody was checking, so I couldn't tell if anything worked") and keeps the stake to time and guessing: another year of effort with no way to know what's moving.
+**Thursday. The call reads two days.** Signs: [2] of [2] days logged, [his routine] done both days but only after [10 pm]. He says he has quit every routine he's started, so the read is an unmeasured stall and a weak Self link, his belief that with this structure he'll actually do it (Module 14). Label, first thing: "Two of two days logged, and you already know something eight months didn't show you: it only happens at night. That's measuring." Cole asks what quitting looked like ("nobody was checking, so I couldn't tell if anything worked") and keeps the stake to time and guessing: another year of effort with no way to know what's moving.
 
 Then the hard true thing, aimed at the guessing: "You've spent eight months doing this without knowing whether it works. That's the problem, not you." Cole shows both real tiers premium-first, a founding Private seat with fixed deliverables and then the founding group, recommends the group at [~$1.2–1.5k] from [the 1st], states the price once, and asks. Dan says yes. At checkout the Path and Timeline Card and the Expectation Document, the whole path and its terms, sit above the pay button. He attests, answers "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?", and clears the Fit Check with no signal. Left alone: "you're clearly serious", the photos, and any look at his face.
 
-**The rest of the week. The log keeps counting.** It counts whatever he keeps, and he keeps [5] of [7], with [his routine] done on [4]. Cole's recap leaves out the capture conditions, because Dan's regular checking puts him on the route and baseline day is [ten] days away, so his first capture will be the standardized one.
+**The rest of the week. The log keeps counting.** It counts whatever he keeps: [5] of [7], with [his routine] done on [4]. His recap leaves out the capture conditions, because his regular checking puts him on the route and baseline day is [ten] days away.
 
 **Baseline day, [the 1st].** Signs: week zero in his file, [5] of [7] days logged and all of them after [10 pm], plus his eight months written as data. The first decision comes from it: [his routine] moves to [straight after his shift], nothing else changes for [two] weeks, and his markers are signed. The capture Cole sees is the first Dan has taken, to the Capture Standard. Label: "Five of seven days logged in week zero, and today's decision came from them."
 
@@ -248,13 +239,13 @@ Then the hard true thing, aimed at the guessing: "You've spent eight months doin
 
 **Week 6. The letter.** Signs: [34] of [42] days logged and one marker past its baseline wobble, so the verdict question gets a yes and the plan holds. The same letter states the exit right as plainly: a pro-rata refund if he'd prefer to stop, his to claim for 7 days. It says what he'd keep, his record, a closing count, and his standing as one of the adults who measure. It carries no label, no status line, and no reminder of his day-one reasons, nothing new is set up until the window closes, and Dan writes back that he's staying.
 
-**Week 12. Graduation.** Signs: [71] of [84] days logged, all three captures on their dates, and [his posture-habit marker] at threshold since week [10]. The verdict: moved. Graduation hands him his record and his next capture date, and alumni status becomes a fact in it. Label: "[71] of [84] days logged, every capture on its date, and a decision at every read. That's an adult who measures, and the record says so." Left alone: "you look like a new man", and any line about photos, because the route runs to the end.
+**Week 12. Graduation.** Signs: [71] of [84] days logged, all three captures on their dates, and [his posture-habit marker] at threshold since week [10]. The verdict is moved, and graduation hands him his record, his next capture date, and alumni status as a fact in it. Label: "[71] of [84] days logged, every capture on its date, and a decision at every read. That's an adult who measures, and the record says so." Left alone: "you look like a new man", and any line about photos.
 
-**What it shows.** Every label led with a count Dan could check, and the route kept all of them on the practice. The log decided nothing for him: it counted what he kept, and his first review started from it. The week-6 letter showed him the exit and what he'd keep through it, which is why staying was his own decision.
+**What it shows.** Every label led with a count Dan could check, and the route kept all of them on the practice. The log decided nothing for him, and the week-6 letter showed him the exit and what he'd keep through it, which is why staying was his own decision.
 
 ## Template: The Free 7-Day Behavior Log
 
-Send it with the booking confirmation, or with the checkout confirmation for a buyer who enrolls without a call, and fill the brackets from his answers with what he already does.
+Send it with the booking or no-call checkout confirmation, and fill the brackets with what he already does.
 
 ```
 [Brand] · For adults who measure instead of guess · [first name]
@@ -277,55 +268,54 @@ Reply "delete" and it's gone. If you enroll, it becomes week zero of your
 record. If you don't, it's yours.
 ```
 
-For a no-call buyer, the second line reads "Your free 7-day log · Your start: [date]". On the call, read it back before anything else and name one true thing it shows.
+For a no-call buyer, the second line reads "Your free 7-day log · Your start: [date]".
 
 ## Scripts: Two Measurement Rituals
 
 **Baseline day.** Theo enrolled on the date he chose.
 
-> **You:** "Here's your week zero: [five] of [seven] days logged, and [your routine] slipped on both days you were on the road. Your record starts there, so today's decision comes from it: [your routine] moves to [before you leave for work], and nothing else changes for [two] weeks. Your two markers are on this sheet with their thresholds. Does that plan fit your week?"
+> **You:** "Here's your week zero: [five] of [seven] days logged, with both misses on travel days. So today's decision comes from it: [your routine] moves to [before you leave for work], and nothing else changes for [two] weeks. Your two markers are on this sheet with their thresholds. Does that fit your week?"
 > *[Stop. Let him answer.]*
 >
-> **Theo** *(composite, Burned Struggler)*: "It fits. One thing first. Can you tell from today's photo whether the [device] did anything?"
+> **Theo** *(composite, Burned Struggler)*: "It fits. Can you tell from today's photo whether the [device] did anything?"
 >
-> **You:** "No, and I wouldn't trust anyone who said they could from one photo. Today's capture is a starting observation, taken to fixed conditions so week 6 has something honest to sit beside. What this program decides, it decides from that sheet."
+> **You:** "No, and I wouldn't trust anyone who said they could from one photo. Today's capture is a starting observation, taken to fixed conditions so week 6 has something honest to sit beside. The sheet decides."
 
-Notice the move. The ritual opened on his week zero and closed on his decision, so the capture stayed a dated observation and never became the event. For a burned buyer that's a measurement ritual doing its job: he asked for the verdict the last seller would have sold him and got a standard.
+Notice the move. The ritual opened on his record and closed on his decision, so the capture stayed a dated observation. For a burned buyer that's a measurement ritual doing its job: he asked for the verdict the last seller would have sold him and got a standard.
 
 > **Theo:** "So the [device] was a waste."
 >
-> **You:** "Here's the straight version: there's no good evidence that habits change the shape of an adult's bone, whatever the product around them promised, and I don't sell that. What we measure is what you can move, [your routine] and those two markers."
+> **You:** "The straight version: there's no good evidence that habits change the shape of an adult's bone, whatever the product promised, and I don't sell that. We measure what you can move."
 
-What you never say: "Between us? It looks like it did something. The jaw's sharper than most." Then return to the decision: "[Before you leave for work], from Monday. Yes?"
+What you never say: "Between us? The jaw looks sharper already." Then return to the decision: "[Before work], from Monday. Yes?"
 
-**The week-6 read, on a flat record.** Sam enrolled in [March] after his Starter Path weeks, logs almost every day, and has clean readings and two markers that haven't moved.
+**The week-6 read, on a flat record.** Sam logs almost every day, his readings are clean, and neither marker has moved.
 
-> **You:** "Here's your read. [38] of [42] days logged, every reading clean, and neither marker past its starting range yet. The lever is the right one for your goal, so the plan holds and week 12 decides it. If neither marker reaches its threshold by then, [a fixed share inside 25–50%] of what you paid comes back in cash. You also have the exit right now: stop, and the unused weeks come back pro rata, any time in the next 7 days. Which do you want?"
+> **You:** "Here's your read: [38] of [42] days logged, every reading clean, and neither marker past its starting range yet. The lever is right for your goal, so the plan holds and week 12 decides it. If neither marker reaches its threshold by then, [a fixed share inside 25–50%] of what you paid comes back in cash. You also have the exit right now: stop, and the unused weeks come back pro rata, any time in the next 7 days. Which do you want?"
 > *[Stop. Let him answer.]*
 >
 > **Sam** *(composite, Ambivalent)*: "If I stop, am I out? Of all of it?"
 >
 > **You:** "No. You keep your record, every log and capture, and the count of what you did. Stopping on what the record shows is a decision made from evidence, which is the whole practice. Nobody in the group hears about it from me."
 
-Notice the move. The read put the exit on the same page as the plan, stated as plainly, and answered the one thing a status could have held hostage, his standing. It's the measurement ritual at its hardest, because the decision he makes from his record may be to stop.
+Notice the move. The read put the exit on the same page as the plan and answered the one thing a status could have held hostage, his standing. It's the measurement ritual at its hardest, because the decision he makes from his record may be to stop.
 
 > **Sam:** "Would you stay, if you were me?"
 >
-> **You:** "My read says hold: the lever's right, and six weeks is early for it. Both answers keep everything you've built, and the choice is yours."
+> **You:** "My read says hold, because six weeks is early for this lever. Either answer keeps everything you've built."
 
-What you never say: "You've come this far. Don't throw six weeks away." Then return to his decision: "Hold to week 12, or stop now? Either way, I'll confirm it in writing today."
+What you never say: "You've come this far. Don't throw six weeks away." Then return to his decision: "Hold to week 12, or stop now? I'll confirm either in writing today."
 
 ## Template: Earned vs Flattering Labels
 
 | Moment | Flattering: never | Earned: count first |
 |---|---|---|
 | After booking | "You're clearly serious about this" | None yet; name what the call will read |
-| After the free log | "You're a natural at this" | "[Five] of [seven] days logged, and both misses were shift days. That's a record we can use." |
+| After the free log | "You're a natural at this" | "[Five] of [seven] days logged, both misses on shift days. That's a record we can use." |
 | A missed week | "Real men don't quit" | "[Three] of [seven] logged, and the check-in sent on time. The practice held." |
 | Below the threshold | "Great effort!" | "[23] of [42] days logged. The record can't judge the lever yet, and it's still yours." |
-| On a board | "Top of the class" | "Check-ins sent on time, [nine] weeks running." |
 
-Every earned line survives a screenshot, because a count is true whoever reads it.
+A count survives a screenshot, because it's true whoever reads it.
 
 ## Stage Notes
 
@@ -339,8 +329,8 @@ Every earned line survives a screenshot, because a count is true whoever reads i
 
 ## Standard Check
 
-- **Status that rests on the record.** Membership is the practice, Starter Path users included, every Earned Label leads with a count, and the founding and alumni rules are written out, with neither depending on whether he uses a refund right (*Build identity on evidence*).
-- **Quiet by default.** Commitments go to the reviewer. Boards are opt-in, open after the fit window, and rank timestamps, so no device reads the days or markers that decide his refunds, and nothing new starts in his exit window (*Build identity on evidence*).
+- **Status that rests on the record.** Membership is the practice, Starter Path users included, every Earned Label leads with a count, and the founding and alumni rules are written out, with neither depending on a refund right (*Build identity on evidence*).
+- **Quiet by default.** Commitments go to the reviewer. Boards are opt-in, open after the fit window, and rank timestamps, so no device reads what decides his refunds, and nothing new starts in his exit window (*Build identity on evidence*).
 - **No outgroup and no manhood test.** Content fights guessing as a practice and invites the men still doing it, with no mockery and no "real men" (*Fight ideas, not people*; the line on shame).
 - **The route and the capture.** A buyer on the Dignity Route hears no missed moment back, even one he wrote as his goal, and the own-device capture stays on his phone and is skipped for any regular checking (the line on vulnerability).
 
@@ -349,7 +339,7 @@ Every earned line survives a screenshot, because a count is true whoever reads i
 **In one line.** Identity is a practice he earns on his own record, and his commitments go to one reader, never to the feed.
 
 **Takeaways**
-- Membership is the practice, logs kept, captures on schedule, decisions from the record, and Starter Path users who keep it are members.
+- Membership is the practice, and Starter Path users who keep it are members.
 - Every label leads with a count from his record and follows the behavior it describes.
 - The ritual is the review and the decision; the photo is context.
 - The log is a head start that passes no verdict, and it becomes week zero for every buyer, with or without a call.
@@ -361,10 +351,10 @@ Every earned line survives a screenshot, because a count is true whoever reads i
 |---|---|---|
 | Membership | The practice | Price, a screen, his face, an exit |
 | A label | A count from his record | Praise, comparison, his face |
-| A board place | Timestamps, opt-in, after the fit window | Self-reported days, markers, faces, posts |
-| A commitment | His reviewer, privately | The feed, the fit window, the exit window |
-| Founding status | Joining the founding group and keeping the practice | The founding price, consent to share, a refund right |
-| Alumni status | Graduation, as a fact in his record | His results, his tier, an exit |
+| A board place | Timestamps, opt-in, after the fit window | Self-reported days, markers, faces |
+| A commitment | His reviewer, privately | The feed, the fit or exit window |
+| Founding status | Joining early and keeping the practice | The price, consent to share, a refund right |
+| Alumni status | Graduation, a fact in his record | His results, his tier, an exit |
 
 **Framework cheat sheet**
 
@@ -372,9 +362,9 @@ Every earned line survives a screenshot, because a count is true whoever reads i
 |---|---|
 | **Adults Who Measure** | Define the group by a practice anyone can check, and invite every guesser into it |
 | **Let Him Succeed Before He Pays** | Give every booked adult a free 7-day behavior log, so his first win comes before money |
-| **The Week-Zero Baseline** | Start every plan from a week of his record: his pre-purchase log, or his first seven logged days with no call |
+| **The Week-Zero Baseline** | Start every plan from a week of his record, with or without a call |
 | **Quiet Commitments** | Send commitments to the reviewer, and keep sharing and boards opt-in inside the cohort |
 
 **Leans on:** the Starter Path (Module 4) · the Door (Module 5) · baseline day, graduation, and the Capture Standard (Module 6) · Community Options (Module 10) · the Dignity Route (Module 15) · the Commit Ritual (Module 21) · Measured-Peak Asks (Module 22).
 
-**Do this month:** put the phrase in your log and check-in headers, and send the free 7-day log with every booking and no-call checkout confirmation; replace every label in your templates that no record could prove with a count; write the four status rules where clients will read them.
+**Do this month:** send the free 7-day log, with the phrase in its header, on every booking and no-call checkout confirmation; replace every template label no record could prove with a count; write the four status rules where clients will read them.

@@ -270,8 +270,8 @@ Cole gives no view on the procedure, since that's a surgeon's question. His writ
 5. "What made you look for help now?" → His trigger.
 6. "When could you start?" This month / Next month / Later, and when? → His stage.
 7. "How would you like to decide?" Talk it through / Wary after a past purchase / Ready to start / Rather have it in writing → His claim on a free slot.
-8. "Is how you feel about your appearance making everyday life hard?" No / Sometimes / Yes, most days → "Yes, most days": help, an offer to talk, the pause route; other answers route normally.
-9. "How often do you check mirrors or photos because of it?" Rarely / Sometimes / Many times a day → "Many times a day": the same route.
+8. "Is how you feel about your appearance making everyday life hard?" No / Sometimes / Yes, most days → "Yes, most days": help, an offer to talk, the pause route. "Sometimes" routes on, and the result page shows its dignity branch, worked out from his answers as the page loads and never stored.
+9. "How often do you check mirrors or photos because of it?" Rarely / Sometimes / Many times a day → "Many times a day": the same route. "Sometimes" gets the dignity branch, unstored.
 10. "Any jaw pain, bite problems, or loud snoring?" No / Yes → Yes: a referral first.
 11. "Where should we send your result?" [email], with "[frequency]; one click to leave" beside it.
 

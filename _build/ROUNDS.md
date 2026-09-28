@@ -22,7 +22,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 14 | 14-the-belief-chain.md | a89abc2dfc2ee7182 | a8010ad9e8a0be949 | critique done (1 blocking, 12 major) → rebuilding |
 | 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | ab6ffdd5f62788935 | critique done (1 blocking, 11 major) → rebuilding |
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | a721610947ef123b4 | draft done (7,386 w) → critique |
-| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | critique done (1 blocking, 13 major) → rebuilding |
+| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -89,3 +89,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R4 round (17 critique): status is never contingent on not using a refund right (founding status = joined + kept the practice; alumni status = a record fact of graduation, never framed as a cost of exiting; exits never mentioned in the room). Dignity Route: no missed-social-moment reflection, even of his stated goal. The free log is a head start, never a gate.
 - R4 round (14 critique): stop-rule endings leave no record beyond 'stopped: stop rule' and never feed content planning or the Conversation-to-Content Loop. 'Misdirected' verdict requires a named lever + documented correction + early movement at the next reading; otherwise 'doesn't move' stands (no relabeling to sell time).
 - R4 round (15 critique): education-lane copy never implies minors can buy later or after a visit (no 'first', no 'come back', no door route); costly signals measured from the grifter's side with buyer-checkable verification.
+- R4 round (17 final): Module 06 boards open only after the fit window; Module 05 'Sometimes' answers get the render-time dignity branch (unstored). 22 must adopt alumni status as a record fact (Round 5 prompt).
