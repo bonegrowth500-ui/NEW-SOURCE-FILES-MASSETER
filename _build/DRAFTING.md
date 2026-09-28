@@ -129,3 +129,5 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
   - Result-page branches (burned, dignity, Optimizer, Ambivalent) are computed at render time from his answers, and nothing is stored from them.
   - Every automated sequence follows the Dignity Route's limits by default: stakes limited to time, money from here on, and guessing, with no missed-social-moment reflection. So no dignity tag is ever needed.
   - The checking signal is "many times a day" at both tiers; regular checking short of that is a Dignity Route trigger, not a signal.
+- **Status and refund rights (round 4):** status (founding, alumni, membership, boards) is never contingent on not using a refund right. Exits are never mentioned in the room or on boards.
+- **Dignity Route in practice (round 4):** a buyer on the route never hears his missed social moments reflected back, even ones he stated as his goal. Keep the destination at "knowing instead of guessing".

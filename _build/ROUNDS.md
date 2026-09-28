@@ -22,7 +22,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 14 | 14-the-belief-chain.md | a89abc2dfc2ee7182 | a8010ad9e8a0be949 | draft done (7,602 w) → critique |
 | 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | ab6ffdd5f62788935 | draft done (7,589 w) → critique |
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | a721610947ef123b4 | draft done (7,386 w) → critique |
-| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | draft done (7,582 w) → critique |
+| 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | critique done (1 blocking, 13 major) → rebuilding |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -86,3 +86,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R4 round (from 14): LEDGER E row added: mental contrasting (moderate, likely inflated, one research group; EV M/C). FRAMEWORKS Belief Chain: a stop rule can mark a link you never work on.
 - R4 round (from 15): no stored tag records fit/insecurity answers; result-page branches computed at render time; all automated sequences follow Dignity Route limits by default (no dignity tag). Checking signal = 'many times a day' at both tiers; regular checking short of it = Dignity Route trigger. Added to DRAFTING standing rulings.
 - R4 round (from 16): Integrity Levels defined (Matched → In context → Placed) in FRAMEWORKS. Proof Portability Gradient now includes contextualized organic short-form clips with range + denominator on screen (per STANDARD notch 5 and R1-29); 24 and 27 must follow.
+- R4 round (17 critique): status is never contingent on not using a refund right (founding status = joined + kept the practice; alumni status = a record fact of graduation, never framed as a cost of exiting; exits never mentioned in the room). Dignity Route: no missed-social-moment reflection, even of his stated goal. The free log is a head start, never a gate.
