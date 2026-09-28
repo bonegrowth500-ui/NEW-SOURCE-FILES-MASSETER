@@ -264,7 +264,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the one-defensible-point rule | One true point per short piece that needs no caveat | 24 |
 | one-way broadcast | Broadcast channels announce; they never argue, close, or collect data | 25 |
 | the Canon Lane · lead-age cohorts · re-permission | A low-frequency lane repeating the canon · revenue measured by lead age · asking old leads to stay rather than deleting | 26 |
-| the Evaluation Query · Ad Gates | The search a skeptic runs on your name before buying · destinations compliant, organic proof, and an offer that converts without ads, before any scaled paid | 27 |
+| the Evaluation Query · Ad Gates · the claims library | The search a skeptic runs on your name before buying · destinations compliant, organic proof, and an offer that converts without ads, before any scaled paid · one document holding every public claim in its approved words and where it may travel; it governs videos, pages, and emails | 27 |
 | Band Waypoints | What months 3, 6, and 9 should look like in each band | 28 |
 
 ---

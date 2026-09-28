@@ -270,6 +270,7 @@ Generated from `FRAMEWORKS.md`; if the two ever disagree, FRAMEWORKS wins and th
 | lead-age cohorts | 26 |
 | re-permission | 26 |
 | the Evaluation Query | 27 |
+| the claims library | 27 |
 | Ad Gates | 27 |
 | Band Waypoints | 28 |
 | Name \| Brand | 03 |

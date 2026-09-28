@@ -32,7 +32,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | ✅ 3.5 passed (7,444 w) |
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | a7fe4f7646c3ef45b | ✅ 3.5 passed (7,451 w) |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | a5a18a892aa925902 | ✅ 3.5 passed (7,558 w) |
-| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | ac108ae2b0e5a083e | 3.4 rebuild (critique: 2 blocking, 12 major, 5 minor) |
+| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | ac108ae2b0e5a083e | ✅ 3.5 passed (7,445 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -131,3 +131,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R6 round (24 final): LEDGER F rows approved: TikTok trial window ([8–12] weeks or ~30 door completions, on slack, ends early if adult share trails Reels', short of 30 is a no); short-form pieces by stage (Early 4–7, Growing ~3–5, Scaling ~2–4 derivatives). LEDGER H: framing matchups (under ~30 counted events = no result; preset margin; ties never win; long-form decides). Test sense of 'pair' renamed 'matchup' in 24 so 'pair' means only before/after pairs.
 - R6 round (26 final): LEDGER F rows: stock sends (one a week at most; a date send or Canon claim replaces the letter); mid-window leads ([a week] default). LEDGER re-permission wording 'restores' → 'brings the flow back' (banned verb). Integration (4.3): 05, 08, 20 adopt the one-stock-send cap and the round-6 result email (result + one next step + quiet Verify Page footer).
 - R6 round (25 final): broadcast channel rule reworded (orchestrator): it carries only what the public profile shows anyone, never an offer, price, date, or checkout link; the email pause still holds the Canon Lane because email knows who he is (no conflict). LEDGER H: replies line split (DM slot first; X lab ~0.5 h Growing, ~0.25 h at $25k, none at $50k). Integration (4.3): 20's result page gains 25's door-code line ('Prefer Instagram? Send me this code'), confirmed by email reply per 20's verification.
+- R6 round (27 final): 'the claims library' registered ○ (owner 27) in FRAMEWORKS and the style sheet. Extras run 899 words (Verify Page template carries every required section; module total inside the band; accepted; 4.2 may tighten). Integration (4.3): 09 L44 adds the checkout-confirmation source question for the no-call route; 05 L42's no-pixel reason widens to 27's hub-wide rule.
