@@ -167,7 +167,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ★ | **The Two-Win Rule** | A short-form framing counts only after it wins repeatedly and is then confirmed in a long-form test | new | 24 | 23 |
 | ◆ | **The Shorts Job Selector** | Name each short piece's job (reach, lead, proof, offer) and judge it by that job's metric | extended | 24 | — |
 | ◆ | **The Native Tax** | Every platform charges for non-native content; size the adaptation honestly | new | 24 | 25 |
-| ◆ | **The Clip Context Check** | Every extracted clip is an original claim: restore the caveat or drop it | extended | 24 | 16 |
+| ◆ | **The Clip Context Check** | Every extracted clip is an original claim: put the caveat back or drop it | extended | 24 | 16 |
 | ★ | **The Platform Count Rule** | Run only as many platforms as the editing budget serves; drop one before degrading long-form | new | 25 | 11, 23 |
 | ◆ | **The Keyword Route** | A keyword sent by DM (never a public comment) that returns a link to the owned self-assessment | new | 25 | 05 |
 | ◆ | **Permission-First Replies** | Answer the idea in public, ask permission before any private message, and route to the door | new | 25 | 09 |

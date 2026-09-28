@@ -78,7 +78,7 @@ These are the **Nurture Jobs**. With no free community, each job needs an owning
 - Instagram Reels second, because it feeds the Instagram router (25);
 - TikTok only if eligible-adult yield proves out.
 
-Short-form is also a noisy lab for hooks. A framing counts only after it wins repeatedly and is then confirmed in a long-form title/thumbnail test (the **Two-Win Rule**). Every platform charges a **native tax**, so size the adaptation honestly. Every clip is an original claim, so restore the caveat or drop it. Judge each piece by its job, and the whole engine by eligible-adult yield.
+Short-form is also a noisy lab for hooks. A framing counts only after it wins repeatedly and is then confirmed in a long-form title/thumbnail test (the **Two-Win Rule**). Every platform charges a **native tax**, so size the adaptation honestly. Every clip is an original claim, so put the caveat back or drop it. Judge each piece by its job, and the whole engine by eligible-adult yield.
 
 **Belief shift.** "Short-form is for going viral" → "Short-form is the early reach engine and a noisy lab, judged by eligible-adult yield and confirmed in long-form."
 

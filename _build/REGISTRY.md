@@ -120,7 +120,7 @@ Status notes are internal build notes. Glossary entries are rewritten natively i
 - **Shorts Job Selector** — name each short piece's job and judge it by that job's metric — extended: Lead and Proof/Offer jobs.
 - **One-Defensible-Point Rule** — a short piece makes one true point that needs no caveat — reused.
 - **Expectation-Training Test** — ask what a piece trains the audience to expect — reused.
-- **Clip Context Check** — every extracted clip is an original claim; restore the caveat or drop it — extended: in the editor SOP.
+- **Clip Context Check** — every extracted clip is an original claim; put the caveat back or drop it — extended: in the editor SOP.
 - **Content Arbitrage** — cheap formats test ideas; winners become long-form and offers — extended: winners confirmed with long-form title/thumbnail tests.
 - **Create Once, Distribute Forever** — one piece of thinking yields many pieces of content — reused.
 - **Content Pyramid** — pillar → derivatives → micro-content — reused.
