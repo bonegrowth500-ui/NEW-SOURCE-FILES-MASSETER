@@ -67,7 +67,7 @@ Write the belief sentence before you make the asset: the before-and-after belief
 | "Why pay when it's free on YouTube?" | Vehicle | "I can piece this together from free videos." | "The videos give me the method. What I can't give myself is someone reading my record." | Returning | The offer page |
 | "27 and asking if it's too late" | Range | "At my age, nothing's going to change." | "Some things are set, some can move, and I can find out which for me." | Stranger | The door |
 
-Tally the tags every month. The bone question pulls more views than anything else in this category, so a channel planned from its analytics drifts toward Range. Most of the doubts your calls log sit further down the chain, at Vehicle, Guide, Self, and Now. When the tally and the log disagree, the log wins, and next month's assets go where the doubts are. An asset you can't write a belief sentence for isn't ready to make.
+Tally the tags every month. The bone question pulls more views than anything else in this category, so a channel planned from its analytics drifts toward Range. Most of the doubts your calls log sit further down the chain, at Vehicle, Guide, Self, and Now. When the tally and the log disagree, the log wins. An asset you can't write a belief sentence for isn't ready to make.
 
 ## 3. The Offer Pieces and the Page Sequence
 
@@ -83,17 +83,17 @@ A warm viewer carries five questions between interest and checkout, and a piece 
 | The objection piece | "What about my doubt?" | The doubt's own link | Monthly, from the objection log | The offer page |
 | The case piece | "Has it worked, and for how many?" | Self | From the proof milestone | The offer page |
 
-Those are the **Offer Pieces**: the offer video; who it's for and who it isn't; price with delivery math; the objection piece; and the case piece. All five live on the offer page and reach the Returning and Assessed rungs through long-form and email, never through a surface built for strangers. Build them once your calls have filled the objection log, usually around the move into Growing, at about $8–30k a month. Build them in the table's order, since each answers a question the one before it raises. Until then, your founding page does their job.
+Those are the **Offer Pieces**: the offer video; who it's for and who it isn't; price with delivery math; the objection piece; and the case piece. All five live on the offer page and reach the Returning and Assessed rungs through long-form and email, never a surface built for strangers. Build them in the table's order, since each answers a question the one before it raises, once your calls have filled the objection log. That's usually around the move into Growing, at about $8–30k a month, and until then your founding page does their job.
 
 ### Every piece recaps the whole path
 
-Every offer piece recaps the Path and Timeline Card, the page he reads before paying: what 12 weeks deliver, when visible change tends to show, and the likely cost of the full path over his first [9] months (Module 6). In a piece, that takes two sentences. The first lists what the Program, your 12-week flagship, delivers. The second gives the [9]-month range, from the Program alone to the Program with Round Two, a lighter maintenance block, and the Hold, a low-cost measurement subscription. All five carry it because the week-12 renewal is argued from the timeline he accepted before paying. A buyer who heard only the first price hears Round Two as a pitch he was never told about.
+Every offer piece recaps the Path and Timeline Card, the page he reads before paying: what 12 weeks deliver, when visible change tends to show, and the likely cost of the full path over his first [9] months (Module 6). In a piece, that takes two sentences. One lists what the Program, your 12-week flagship, delivers. The other gives the [9]-month range, from the Program alone to the Program with Round Two, a lighter maintenance block, and the Hold, a low-cost measurement subscription. All five carry it because the week-12 renewal is argued from the timeline he accepted before paying, and a buyer who heard only the first price hears Round Two as a surprise pitch.
 
 ### Price with delivery math shows what he can count
 
-The price piece runs on price with delivery math: itemized delivery and the seat cap, never minutes. State the price once, then list what it buys in units he can count: weekly written reviews within your stated turnaround, live calls, captures at weeks 0, 6, and 12, the two written reads, and his record to keep. Give the cap with its reason, [8] seats because that's how many people you can review properly each week. A cost story buyers can follow lifts purchases meaningfully in field tests, and a count he can check is the honest version of a "total value" he can't.
+The price piece runs on price with delivery math: itemized delivery and the seat cap, never minutes. State the price once, then list what it buys in units he can count: weekly written reviews within your stated turnaround, live calls, captures at weeks 0, 6, and 12, the two written reads, and his record. Give the cap with its reason, [8] seats because that's how many people you can review properly each week. A cost story buyers can follow lifts purchases meaningfully in field tests, and a count he can check beats a "total value" he can't.
 
-Minutes stay out for three reasons. Publish them and he does the division himself, so the hourly anchor you'd never use lands in his head anyway. They make judgment look like labor. And they fall as review gets templated, from 12–20 minutes per client-week toward 6–10, so a published count becomes a promise you break by improving. The stronger anchor is months not wasted: the next 12 with nothing measured, beside a year where he knows. Show the real tiers premium first, recommend one, and never anchor on surgery, filler, hourly rates, or what he has already spent.
+Minutes stay out for three reasons. Publish them and he does the division himself, so the hourly anchor you'd never use lands in his head anyway. They make judgment look like labor. And they fall as review gets templated, from 12–20 minutes per client-week toward 6–10, so a published count becomes a promise you break by improving. The stronger anchor is months not wasted: 12 more unmeasured, or a year where he knows. Show the tiers premium first, recommend one, and never anchor on surgery, filler, hourly rates, or what he has spent.
 
 ### The Page Sequence puts the price where it can be read
 
@@ -101,21 +101,21 @@ The offer page runs in one fixed order, and the offer video speaks the same orde
 
 | Step | What it holds | Why it sits here |
 |---|---|---|
-| Promise | The week-12 moment he knows what moved, with one line beyond his face | He decides here whether to keep reading |
-| Frame | Who it's for and who it isn't; the Honest Answer, word for word | It fixes what can be claimed before anything is sold |
-| Path | Tiers premium first, one recommendation, the delivery math, the [9]-month range, the next start's two dates | The price arrives as the cost of a path he has just read |
-| Trust | A sample plan and weekly review, the guarantee terms, the Fill History, a case piece | Proof attaches to a promise he already knows |
+| Promise | The week-12 moment he knows what moved, with one line beyond his face | He decides here whether to read on |
+| Frame | Who it's for and isn't; the Honest Answer, word for word | It fixes what can be claimed before anything is sold |
+| Path | Tiers premium first, one recommendation, the delivery math, the [9]-month range, the next start's two dates | The price arrives as the cost of a path he has read |
+| Trust | A sample plan and weekly review, the guarantee terms, the Fill History, a case piece | Proof attaches to a promise he knows |
 | Next step | One link to checkout with the checks; the door as the ranked secondary | One step, once he has what he needs |
 
 **Promise, frame, path, trust, next step.**
 
-That's the Page Sequence. The frame carries the Honest Answer, your straight answer on what adults can and can't change and the first claim of your Canon, the few core claims you repeat in fixed words. Its no about bone must be on the page before any yes about habits. Trust follows the path, because proof means little until he knows what it proves, and the Fill History, each start's cap and fill published at close, shows the caps are real.
+That's the Page Sequence. The frame carries the Honest Answer, your straight answer on what adults can and can't change and the first claim of your Canon, the few core claims you repeat in fixed words. Its no about bone must come before any yes about habits. Trust follows the path, since proof means little until he knows what it proves, and the Fill History, each start's cap and fill published at close, shows the caps are real.
 
 Before Scaling, at about $30k a month, the tiers are Private, the premium seat with fixed deliverables, while a seat is open, then the Program. Program Async, the same program without the live call, joins only at Scaling, as the real tier under the core buyer's cash ceiling.
 
 ### The case piece waits for the record
 
-The case piece is the only one that claims an outcome, so it waits for the proof milestone: 10 or more graduates with consented process testimonials, when your first range appears. It carries the Context Stack in full: who he is, what else changed, the timeline, capture conditions, the range, and the denominator, observed, not caused (Module 16). Until then the slot holds a Transition, a client's own words about moving from guessing to measuring. It claims no outcome, and you can first ask for one around week 7 of your first client. A composite case, or one written in your words, is invented proof.
+The case piece is the only one that claims an outcome, so it waits for the proof milestone, 10 or more graduates with consented process testimonials, when your first range appears. It carries the Context Stack in full: who he is, what else changed, the timeline, capture conditions, the range, and the denominator, observed, not caused (Module 16). Until then the slot holds a Transition, a client's own words about moving from guessing to measuring, which claims no outcome and can first be asked for around week 7 of your first client. A composite case, or one in your words, is invented proof.
 
 ## 4. Stake-to-Step, the Perspective Line, and the Click Contract
 
@@ -123,9 +123,9 @@ Force in content is one true stake and a step he can check. It stays honest only
 
 ### One true stake, then the step
 
-A viewer's belief that he can act moves behavior more than any stake does. A stake works through that belief: in the few studies built to separate them, a bigger threat helped only people who already believed they could act. Your viewer has spent months on effort that never showed up on anything, so that belief is the scarcest thing he brings. A video that spends its minutes on what waiting costs buys a closed tab, or a longer look in the mirror.
+A viewer's belief that he can act moves behavior more than any stake does. A stake works through that belief: in the few studies built to separate them, a bigger threat helped only people who already believed they could act. Your viewer has spent months on effort that never showed up on anything, so that belief is the scarcest thing he brings. A video spent on what waiting costs buys a closed tab, or a longer look in the mirror.
 
-So state one true stake, once, in a sentence or two: another year of guessing costs a year, or the next device and course are money from here on that nothing will measure. Then spend most of the running time on a step he can take this week and check himself, such as seven days of logging [his current routine] or a dated list of every change he has made. The step does the persuading, because a man who has seen his own week on paper believes the next step is possible.
+So state one true stake, once: another year of guessing costs a year, or the next device and course are money from here on that nothing will measure. Then spend most of the running time on a step he can take this week and check himself, such as seven days of logging [his current routine] or a dated list of every change he has made. The step does the persuading, because a man who has seen his own week on paper believes the next step is possible.
 
 **One true stake, then most of the minutes on a step he can verify.**
 
@@ -133,21 +133,21 @@ That's the **Stake-to-Step Ratio**. A long-form piece gives the stake a sentence
 
 ### Broadcast stakes stay inside the Dignity Route
 
-On a call, a stake can be his own: the months, the money from here on, the moments he told you he has missed. A video or a sequence can't hear who's listening. Some viewers are asking whether they're worth the effort, and a reflected missed moment answers that against them. So every broadcast and automated asset follows the Dignity Route's limits by default, the route that keeps force off a buyer's worth (Module 15). Stakes stay on time, money from here on, and guessing, and no missed social moment is said back, so no tag has to guess who's listening. Check each stake with the Dignity Check: does he leave more capable, or more defective (Intro)?
+On a call, a stake can be his own: the months, the money from here on, the moments he told you he has missed. A video or a sequence can't hear who's listening, and some viewers are asking whether they're worth the effort, which a reflected missed moment answers against them. So every broadcast and automated asset follows the Dignity Route's limits by default, the route that keeps force off a buyer's worth (Module 15). Stakes stay on time, money from here on, and guessing, with no missed social moment said back, so no tag has to guess who's listening. Check each stake with the Dignity Check: does he leave more capable, or more defective (Intro)?
 
 ### Every destination line carries a perspective line
 
-Name the destination vividly anyway, because a list of deliverables moves no one, and a dim destination under-sells what he wants. Build it with Fantasy to Expectation: the destination named vividly, then the obstacle and the plan in the same breath, with one perspective line placing it beyond the face (Module 14). In broadcast, anchor it in knowing, and keep the non-face cause inside the sentence. "At the next group photo, you stay where you're standing, because you know what your record says" passes; cut its last clause and it promises a face. Your Canon supplies the perspective line: "Most of how people read you was never about your jaw."
+Name the destination vividly anyway, because a list of deliverables moves no one, and a dim destination under-sells what he wants. Build it with Fantasy to Expectation: the destination named vividly, then the obstacle and the plan in the same breath, with one perspective line placing it beyond the face (Module 14). In broadcast, anchor it in knowing and keep the non-face cause inside the sentence. "At the next group photo, you stay where you're standing, because you know what your record says" passes, and without its last clause it promises a face. Your Canon supplies the perspective line: "Most of how people read you was never about your jaw."
 
 ### Every hook is a promise
 
-A title, a thumbnail, and a first line each promise something, and the asset owes it. That's the Click Contract: every hook is a promise, paid in full inside the asset and before any pitch. Its check is the Payoff Test: does every curiosity device pay off in the same asset (Intro)? The niche's usual breach hides the payoff behind the door, as when a piece titled "Is it too late at 27?" ends by sending him to the self-assessment to find out. The asset pays the general answer, and the door and the offer sell that answer applied to his record. That's the Free/Paid Line: the method's steps are free, and choosing his next step is paid.
+A title, a thumbnail, and a first line each promise something, and the asset owes it. That's the Click Contract: every hook is a promise, paid in full inside the asset and before any pitch. Its check is the Payoff Test: does every curiosity device pay off in the same asset (Intro)? The niche's usual breach hides the payoff behind the door, as when "Is it too late at 27?" ends by sending him to the self-assessment to find out. The asset pays the general answer, and the offer sells that answer applied to his record. That's the Free/Paid Line: the method's steps are free, and choosing his next step is paid.
 
 | The hook | What it promises | Kept when |
 |---|---|---|
 | "Is it too late at 27?" | A straight answer for adults | The Honest Answer comes before any pitch |
-| "Why most stalls happen" | The usual cause | It says most stalls you see come from direction, and that measuring is how he'd know which kind is his |
-| "The jaw mistake you're making" | A structural fix | Never, since no asset can pay it; rewrite it as "The measuring mistake most of us make" |
+| "Why most stalls happen" | The usual cause | It says most stalls you see come from direction, and measuring shows which kind is his |
+| "The jaw mistake you're making" | A structural fix | Never; rewrite it as "The measuring mistake most of us make" |
 
 ## 5. Direct Selling in Practice
 
