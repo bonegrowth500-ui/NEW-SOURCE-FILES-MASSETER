@@ -123,7 +123,7 @@ Attractive people are judged more socially skilled but barely more honest, and i
 
 ### Publish the statement before anyone asks
 
-Pin the statement where skeptics look: under your first long-form piece, in your profile, and on the Verify Page. That's the page where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof will come from and when, and the rules you keep. Write it to be true on day one. Before you have graduates, the proof is your pre-commitment's schedule, since client captures stay private and never become public evidence.
+Put the statement where skeptics look: in the comment policy every pin links to, in your profile, and on the Verify Page. That's the page where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof will come from and when, and the rules you keep. Write it to be true on day one. Before you have graduates, the proof is your pre-commitment's schedule, since client captures stay private and never become public evidence.
 
 The rules make it costly. They rule out thumbnails of your profile or jaw, before/afters of yourself, filters, light or angles that sharpen your jaw, stories of your own face as proof, and reposted praise of your looks. That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. An operator who sells with his own jaw can't publish it without retracting his best ad.
 
@@ -280,7 +280,7 @@ Cole (composite operator) starts from zero in [January]. By day [30] he has publ
 
 ### The Qualifications Answer, in three channels
 
-**In the comments.** Pinned under every long-form piece, with the minor's line split out:
+**In the comments.** Your reply whenever the question comes up, pinned when it's the strongest challenge under a piece, with the minor's line split out:
 
 > **You:** "Fair question. I don't hold a clinical, dental, or medical qualification, and I don't give medical opinions or rate faces. I assess habits and presentation, write a plan, and review each client's record weekly, and the terms and my log are public: [link]. Jaw pain, bite trouble, or snoring? That's a dentist or doctor. Under 18? This isn't for you, and the videos are free. An orthodontist is the right person for questions about a growing face."
 

@@ -177,6 +177,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Metric | Range | Moves it up / down | Status |
 |---|---|---|---|
 | Engaged long-form views → raw email leads | 1–10 per 1,000 (plan 2–5 early) | Up: video-matched door, spoken mid-roll plus pinned ask, decision-stage topics. Down: generic freebie, teen-heavy traffic | PL (W/E) |
+| Engaged long-form views → eligible leads (derived) | ~0.6–3.5 per 1,000 early (2–5 raw × 30–70% eligible) | Packaging (Age-Up Dial); door match | PL (derived) |
 | Short-form views → leads | Far below long-form per view (plan ~0.1–1 per 1,000); its job is reach and hook learning | Profile routing; adult framing | PL (E) |
 | Eligible-adult share of raw leads | ~30–70% | Minor share (packaging); door wording | PL (D/E) |
 | Self-assessment start → lead | ~40% (≈65% completion) | Question count; value of the result | EV (W–M) |

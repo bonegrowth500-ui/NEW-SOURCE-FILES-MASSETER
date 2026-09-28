@@ -260,7 +260,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the Alliance Check · Never Miss Twice | Does he feel heard, and does the work fit his goal? · reward the comeback, not the streak | 21 |
 | measured peak | A measurement moment where adherence is at or above his threshold and at least one marker has reached its threshold, so no refund decision is open; every Measured-Peak Ask waits for one | 22 |
 | identity-safe shareables · alumni status | Referral objects that make the sharer look rigorous · earned at graduation | 22 |
-| the Start Here Series · the Production Bar · half-life budgeting | A five-piece progression ending at the door · the production standard never to publish below · hours follow half-life × path clickability | 23 |
+| the Start Here Series · the Production Bar · half-life budgeting | A five-piece progression, the Honest Answer first, ending at the offer page and the door · the production standard never to publish below · hours follow half-life × path clickability | 23 |
 | the one-defensible-point rule | One true point per short piece that needs no caveat | 24 |
 | one-way broadcast | Broadcast channels announce; they never argue, close, or collect data | 25 |
 | the Canon Lane · lead-age cohorts · re-permission | A low-frequency lane repeating the canon · revenue measured by lead age · asking old leads to stay rather than deleting | 26 |

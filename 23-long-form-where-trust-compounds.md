@@ -35,7 +35,7 @@ Those are the **Nurture Jobs**: the five jobs every coaching business must get d
 
 **Five jobs, one owner each, one door.**
 
-The paid rooms own identity rehearsal because they keep the practice's standard: the group your clients join is Adults Who Measure, where membership is the practice itself. Its free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now (Module 17). Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
+The paid rooms own identity rehearsal because they keep the standard of Adults Who Measure, the group of adults who measure instead of guess, where membership is the practice itself. The free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now (Module 17). Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
 
 ### Reid gave three jobs to nobody
 
@@ -73,7 +73,7 @@ A long-form piece carries clickable links in its description and pinned comment,
 
 Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10. A door page matched to the piece, a spoken ask mid-piece that's also pinned, and decision-stage topics push it up. Those are the questions of a man who has tried something and is choosing what to do next. A generic freebie and teen-heavy traffic pull it down.
 
-Count per engaged view, a view where he kept watching past the first seconds. A public count that starts at the first frame swells most on trend and rating content, whose youngest viewers tap and swipe on. Denominator Discipline, a fixed denominator written into every ratio, keeps a platform's redefinition from reading as your growth.
+Count per engaged view, a view where he kept watching past the first seconds. A public count that starts at the first frame swells most on trend and rating content, whose youngest viewers tap and swipe on.
 
 ### Presence carries trust over sustained attention
 
@@ -207,7 +207,7 @@ You're on camera from the first piece, and your face carries trust, never proof.
 
 **Light.** Use soft light facing you, from a window in front or one diffused lamp near eye height. Never light from overhead or hard from the side, because shadows carved along a jaw are how manufactured proof gets made. Your light has to pass your own test.
 
-**Sound.** Keep a microphone close, work in a room with soft surfaces, and put no music under your reasoning. Your case is reasoning he follows by ear. In experiments where only the audio changed, listeners judged the same speaker less credible when the sound was poor. It's one group's finding, and cheap to act on: buy the microphone before the camera.
+**Sound.** Keep a microphone close, work in a room with soft surfaces, and put no music under your reasoning. Music under a claim sounds like the transformation edits he has learned to distrust. In experiments where only the audio changed, listeners judged the same speaker less credible when the sound was poor. It's one group's finding, and cheap to act on: buy the microphone before the camera.
 
 **Eye line.** Look into the lens whenever you speak to him: the Honest Answer, the stake, the pitch, every "you". A man who has been lied to reads a glance away during the no about bone as a dodge. Keep notes beside the lens, and look away only to read a number or point at a visual.
 
@@ -219,7 +219,7 @@ None of it is about looking better. No filter, beauty mode, retouch, or AI edit 
 
 Film in one batch every two weeks: one piece while you're Early, one or two once you're Growing. A batch day holds lens, distance, and light identical, so no two videos hand viewers an accidental before/after of your own face. It also stops a heavy client week from eating a piece. Plan about 4–6 of your hours per piece with an editor, fewer as scripting and batching settle.
 
-Production is the first work to hand out, because it's the largest block of hours where your judgment isn't the product. Editing goes first, then clips, then thumbnails and design. A clip never carries a pair, since pairs live only inside long-form with their Context Stack. Scripts, claims approval, and final sign-off stay with you, because every clip is a new claim in your name.
+Production is the first work to hand out, because it's the largest block of hours where your judgment isn't the product. Editing goes first, then clips, then thumbnails and design. A clip never carries a pair, since pairs live only in long-form and your site's library, with their Context Stack. Scripts, claims approval, and final sign-off stay with you, because every clip is a new claim in your name.
 
 ### Hook and retention stay simple
 
@@ -241,7 +241,7 @@ The **Comment Courtroom** is your comment section run on published rules: a comm
 
 | The comment | What happens | Who handles it |
 |---|---|---|
-| A rating or face-analysis request, personal details, or harassment | Hidden, with no reply | Routing help from Growing; you before |
+| A rating or face-analysis request, personal details, or harassment | Hidden, with no reply; anything identifying a minor also goes to you | Routing help from Growing; you before |
 | A minor's question about his growth | One public line: an orthodontist is the right person for questions about a growing face; nothing collected | You |
 | Praise of your face as proof, or an attack on it | A pointer to the face statement and your record; never a defense, never proof | You |
 | A request for method steps | A link to the free piece, never a prescription | You |
@@ -250,7 +250,7 @@ The **Comment Courtroom** is your comment section run on published rules: a comm
 | The strongest honest objection | Answered at its evidence tier and pinned in place of your comment | You |
 | "Where do I start?" | One templated door link | Routing help, or you |
 
-Mine the rest for your Conversation-to-Content Loop, which turns objections into content a rung earlier. Distress, minors, and money he can't spare are protective stops, the stop rules that shield a vulnerable buyer, so they never feed it and leave no note.
+Mine the rest for your Conversation-to-Content Loop, which turns objections into content a rung earlier. Distress, minors, and money he can't spare are protective stops, the stop rules that shield a vulnerable buyer, so they never feed it, and their only record is "stopped: stop rule".
 
 ### The pin is where you fight ideas
 
@@ -268,7 +268,7 @@ The line you never say is "Unlike those scammers, my clients get real results." 
 
 ### Teardowns run on the same rules
 
-Once a quarter, and whenever a claim pattern turns up in your door answers, a teardown runs the Honest-Evidence Test, the tells of manufactured proof, on a published claim. Its faces are blurred and its handles and watermarks removed (Module 16). Package it by this module's rules: no pair or seller in the title or thumbnail, no "exposed" framing, and no place in the Start Here Series. A newcomer who meets you mid-fight files you as one more feud.
+Once a quarter, and whenever a claim pattern turns up in your door answers, a teardown runs the Honest-Evidence Test, the tells of manufactured proof, on a published claim. Its faces are blurred and its handles and watermarks removed (Module 16). Package it by this module's rules: no pair or seller in the title or thumbnail, no "exposed" framing, and no place in the Start Here Series.
 
 ### Cadence follows the stage
 
@@ -291,22 +291,22 @@ Cole *(composite operator)* starts from zero in January with door v0, the first 
 | Week | Piece | Job | Link | Rung | Ask | Age-Up choices |
 |---|---|---|---|---|---|---|
 | 1 | "Can an adult change his jaw with habits?" | Exposure; archive | Range | Stranger | The door | "Adult" in the title; level face |
-| 3 | "Eight months in and nothing to show" | Exposure | Cause | Returning | The door; price on the end card | A life stage: months of effort |
-| 5 | "What measuring looks like" | Proof | Vehicle | Returning | The offer page, then the door | An empty capture template as the thumbnail |
+| 3 | "Eight months in and nothing to show" | Exposure | Cause | Returning | The door; price on the end card | "[23] and stalled?" on the thumbnail |
+| 5 | "What measuring looks like, for adults" | Proof | Vehicle | Returning | The offer page, then the door | "Adults" in the title; an empty capture template |
 | 7 | "[Does mewing work?]" | Exposure | Range | Stranger | The door | Level face, but no adult context |
-| 9 | "How to check anyone selling this, me included" | Proof | Guide | Returning | The offer page, then the door | A Guide question |
-| 11 | "What happens after the self-assessment, and what it costs" | Warm pool | Vehicle | Returning | The offer page, then the door | "For adults" in the first line |
-| 13 | "[What a 60-day jaw ad leaves out]" | Exposure | Range | Stranger | The door | The claim in the title, never the seller |
+| 9 | "How to check anyone selling this, me included" | Proof | Guide | Returning | The offer page, then the door | An adult decision; a Guide question |
+| 11 | "What happens after the self-assessment, and what it costs" | Warm pool | Vehicle | Returning | The offer page, then the door | An adult decision: what it costs |
+| 13 | "[Before you pay for a 60-day jaw plan]" | Exposure | Range | Stranger | The door | An adult decision; the claim, never the seller |
 
 **Week 1. The Honest Answer ships first.** He films it with the setup he'll keep: same lens and distance, soft window light in front, a clip-on microphone. His own comment is pinned with the door link, and his comment policy, face statement included, goes up the same day. A friend suggests a jaw close-up for the thumbnail. Cole keeps his level face and the question, because a jaw in the thumbnail would make his face the evidence.
 
-**Week 10. The view-winner, read at the fork.** Piece 7 draws [~3×] the engaged views of anything so far, mostly from suggested feeds, with click-through above his usual. Pooled with his other level-face Range pieces, its door starts answer under 18 about [60%] of the time, against his channel's [35%]. It yields [2] eligible leads, below his usual, while the Cause piece yielded [5] on [a third] of its views. It found fewer adults in total, so the card's first row applies. He retitles it "[Does mewing work for adults? What can change at 22, and what can't]", hides [six] rating requests, and makes no sequel.
+**Week 10. The view-winner, read at the fork.** Piece 7 draws [~3×] the engaged views of anything so far, mostly from suggested feeds, with click-through above his usual. Its audience-age report skews younger than anything he's made, and its few door starts answer under 18 about [60%] of the time, against his channel's [35%]. It yields [2] eligible leads, below his usual, while the Cause piece yielded [5] on [a third] of the views. It found fewer adults in total, so the card's first row applies. He retitles it "[Does mewing work for adults? What can change at 22, and what can't]", hides [six] rating requests, and makes no sequel.
 
-**Week 11. The series, and the price's end.** Piece 11 carries his spoken pitch segment: the founding group, who it's for and who it isn't, what the 12 weeks hold, and the [9]-month range. No piece speaks the founding price, so it sits on the end card, the pin, and the description. When it ends as the page stated, [with the March start], he edits every pin, end card, and description in one sitting. Then he records the two-minute segment again with the opening price, [$1,600]. Pieces 1, 3, 5, 9, and 11 become his Start Here Series.
+**Week 11. The series, and the price's end.** Piece 11 carries his full pitch segment: the founding group, who it's for and who it isn't, what the 12 weeks hold, and the [9]-month range. No piece speaks the founding price, so it sits on the end card, the pin, and the description. When it ends as the page stated, [with the March start], he edits every pin, end card, and description in one sitting. Then he re-records the two-minute segment, which now speaks the opening price, [$1,600]. Pieces 1, 3, 5, 9, and 11 become his Start Here Series.
 
 **The quarter's outcome.** In month 3 his long-form-and-search label accounts for [3] of his [10] held conversations, and he has [3] founding clients. That sits inside Band B's month-3 range of 4–14 held conversations and the 2–6 clients a founding phase usually has by then. The retitled piece 7 draws fewer views and [about twice] the adults per view, and his list holds [~60] eligible adults.
 
-**What it shows.** The view-winner lost adults in total, so its package changed, where a breakout that finds more adults keeps its title. The price moved in one sitting because it lived only where he could edit it, and the series cost no extra filming because Cole counted in adults.
+**What it shows.** The view-winner lost adults in total, so its package changed, where a breakout that finds more adults keeps its title. The price moved in one sitting and one short re-record, because it lived only where he could edit or swap it. The series cost no extra filming, because he planned each piece by rung from week 1.
 
 ## Templates: The Topic Scoring Sheet and the Comment Policy
 
@@ -317,7 +317,7 @@ Score each candidate topic before it gets a batch slot. A topic earns one only w
 | Topic, as the title's question | Demand source | Job · link | Rung | Adult context? | Canon claims | Still asked next year? | Decision |
 |---|---|---|---|---|---|---|---|
 | "Is it too late at 27?" | [9] door answers this month | Exposure · Range | Stranger | Yes | 1, 7 | Yes | Make it: the door, no price |
-| "It's all genetics? Six questions for the shrug" | [Five] comments saying so this month | Exposure · Range | Stranger | Yes | 1, 2 | Yes | Make it, steelmanning the shrug first |
+| "Is it all genetics at 24? Six questions for the shrug" | [Five] comments saying so this month | Exposure · Range | Stranger | Yes | 1, 2 | Yes | Make it: steelman the shrug, then run the Honest-Evidence Test's six questions |
 | "[This week's jaw trend]" | Comments on [one] piece | Exposure · Range | Stranger | No | 1 | No | Reframe for adults, or drop |
 | "[Brand]: what we do, what we refuse, and what it costs" | People searching your name | Proof · Guide | Returning | Yes | 1, 6 | Yes | Make it once your name gets searched, usually in Growing |
 | [Your topic] | [Where you heard it] | [Job · link] | [Rung] | [ ] | [ ] | [ ] | [ ] |
@@ -328,7 +328,7 @@ Demand means what adults said to you, in door answers, on calls, and in comments
 
 Post it on your channel page, link it from every pinned comment, and give routing help the same words:
 
-> **Comments here.** Disagree with anything I say, as hard as you like. Honest disagreement stays up, and I pin the strongest challenge with my answer. Three things get hidden without a reply: requests to rate, analyze, or compare anyone's face, mine included; personal details about anyone, including anything that identifies someone under 18; and harassment. My face isn't evidence for what I teach, in either direction; the dated record is: [link]. If you're under 18, an orthodontist is the right person for questions about a growing face. Questions about the program get the page, where the price is: [link]. No keyword ever goes in a comment. If something about your face is weighing on you more than a video should, please talk to a doctor or someone you trust.
+> **Comments here.** Disagree with anything I say, as hard as you like. Honest disagreement stays up, and I pin the strongest challenge with my answer. Three things get hidden without a reply: requests to rate, analyze, or compare anyone's face, mine included; personal details about anyone, including anything that identifies someone under 18; and harassment. My face isn't evidence for what I teach, in either direction; the dated record is: [link]. If you're under 18, an orthodontist is the right person for questions about a growing face. Questions about the program get the page, where the price is: [link]. You'll never have to comment a keyword to get a link. If something about your face is weighing on you more than a video should, please talk to a doctor or someone you trust.
 
 ## Checklists: Packaging for Adults and the Production Bar
 
@@ -336,7 +336,7 @@ Post it on your channel page, link it from every pinned comment, and give routin
 
 Run the first three before a piece ships, and the rest once its package pool reaches about 30 door completions.
 
-1. Does the title carry an adult context: "adult", an age or life stage past 18, or an adult decision? → Rewrite it before the thumbnail.
+1. Does the title or the thumbnail's question carry an adult context: "adult", an age or life stage past 18, or an adult decision? → Add one before the piece ships.
 2. Is the thumbnail a level face or a faceless process object, with no profile, jaw close-up, circled feature, score, or pair? → Replace it.
 3. Is every promise in the title and thumbnail paid before any pitch? → Rewrite the hook or the body.
 4. Is the pool's minors' share at the fork at or below your channel's? → Turn one lever a position further on the next piece.
@@ -368,7 +368,7 @@ Run it on the export, before scheduling.
 
 ## Standard Check
 
-- **Thumbnails that survive a screenshot.** No profile, jaw angle, or pair goes in any thumbnail, and every package passes the Hostile-Screenshot Test, because your face carries trust and never proof (the line on fabricated proof).
+- **Thumbnails that survive a screenshot.** No profile, jaw angle, or pair goes in any thumbnail, and every package would survive the category's harshest critic, the Hostile-Screenshot Test, because your face carries trust and never proof (the line on fabricated proof).
 - **Comments that protect minors and faces.** The policy hides ratings, face-analysis requests, and anything identifying a minor, which reaches you at once, and honest disagreement stays up (the line on vulnerability; the line on shame).
 - **Teardowns packaged for the practice.** No pair or seller in the title or thumbnail, no "exposed" framing, and no place in the Start Here Series, so the force lands on the claim (*Fight ideas, not people*).
 - **Prices by rung, in editable places.** Returning pieces carry the public price on the end card, pin, and description; search-built pieces carry none; and no piece speaks the founding price (*Sell directly*, inside *Use real dates*).
@@ -381,7 +381,7 @@ Run it on the export, before scheduling.
 - Five jobs happen between a first view and a purchase; each gets one owning asset and one number.
 - Long-form keeps working and carries its path inside the piece, so hours follow half-life times the path.
 - The Age-Up Dial lowers the minors' share at every stage and never pushes out the core.
-- Five Start Here pieces walk a newcomer from the Honest Answer to the door.
+- Five Start Here pieces walk a newcomer from the Honest Answer to the offer page and the door.
 
 | Nurture Job | Owning asset |
 |---|---|
