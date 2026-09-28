@@ -80,7 +80,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ★ | **The Layered Guarantee** | Statutory rights → fit window → service guarantee on your inputs → week-6 exit right → week-12 non-response clause. Never appearance | new | 07 | 15, 21 |
 | ◆ | **The Price Steps** | Small scheduled steps that always happen while starts fill and close rates hold, each naming what was added. The proof milestone gates the proof band; the cash ceiling caps the core container | new | 07 | 08, 12, 13 |
 | ◆ | **The Collectability Test** | Could a client who did the work actually collect on the guarantee? | new | 07 | 15 |
-| ★ | **The Launch Line** | A date is an offer attribute only if the next start is always buyable, nothing ramps as it nears, there are no window bonuses or prices, and nothing closes without a next date | new | 08 | 18, 26 |
+| ★ | **The Launch Line** | A date is an offer attribute only if the next start is always buyable, the date comes from the calendar or the capacity math, nothing ramps as it nears, there are no window bonuses or prices, and nothing closes without a next date | new | 08 | 18, 26 |
 | ◆ | **Decision Points** | Every assessed buyer meets one real decision point within ~2–4 weeks (the next monthly start or an announced price step). Credit windows are never deadlines | new | 08 | 19 |
 
 ### Part III — Start, Extend, Run, Grow

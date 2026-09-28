@@ -13,7 +13,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 05 | 05-the-door.md | ac25cee9328b86fba | — | drafting |
 | 06 | 06-the-program.md | a7ee757e20232197b | — | drafting |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | — | drafting |
-| 08 | 08-real-dates.md | abac773561fc0f762 | — | drafting |
+| 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | draft done (7,298 w) → critique |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -36,3 +36,5 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R1: "men over 30" → "men past the core band (over ~32)" in BUSINESS §2 and brief 02 (core band runs to 32; Optimizer 25–35 by state).
 - R1: audit.py no longer counts the Quick Reference "Leans on:" line toward (Module N) density.
 - 02 integration note: 01 and 03 should recap Dan's door answer, the say-back, and Theo's route rather than re-run them.
+- R2 (from 08): deferral evidence downgraded to contested (choice-conflict replications failed; a key deadline study retracted in 2026). New LEDGER E row; THESES P10 and persuasion SYNTHESIS T14 annotated. Real dates rest on honesty and planning, never on a deferral effect. Fresh-start evidence is for starting a goal, not purchase timing.
+- R2: FRAMEWORKS Launch Line definition now has all five conditions (matches STANDARD §6 and HOUSE_STANDARD).

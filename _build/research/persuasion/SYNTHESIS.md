@@ -141,7 +141,7 @@
 **T14. Real deadlines end deferral; they don't manufacture desire.**
 - *Claim:* a cohort start or credit window persuades by closing an open decision, so it belongs after diagnosis.
 - *Reasoning:* a second attractive option increases deferral; distant or absent deadlines breed procrastination; external deadlines beat self-set ones. The scarcity meta-analyses disagree on whether urgency raises purchase at all.
-- *Evidence:* MODERATE for deferral; CONTESTED for urgency as a source of desire.
+- *Evidence:* ~~MODERATE~~ CONTESTED for deferral (Step 3: large replications of the choice-conflict effect failed, and a key deadline study was retracted in 2026; see LEDGER E); CONTESTED for urgency as a source of desire.
 - *Changes:* set *decision dates* on calls and in assessment follow-ups. Cohort starts are offer attributes. No countdown theatrics.
 
 **T15. Calibration is margin.**

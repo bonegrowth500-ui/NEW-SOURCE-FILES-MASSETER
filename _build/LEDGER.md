@@ -228,7 +228,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Gain vs loss framing | Negligible overall difference | Frame for accuracy, not loss | EV (S) |
 | Defaults | Robust, moderate–large (d≈0.6–0.7 in meta-analysis; smaller for consequential choices) | Why hidden defaults are banned | EV (S/M) |
 | Nudges in general | Small after bias correction | Heterogeneous | EV (C) |
-| Fresh-start landmarks | Goal pursuit rises after temporal landmarks | Monthly starts near real landmarks | EV (M) |
+| Fresh-start landmarks | Goal pursuit rises after temporal landmarks; the evidence is for starting a goal, not for purchase timing | Monthly starts near real landmarks | EV (M) |
+| Deferral effects (choice conflict; imposed deadlines) | "A second good option makes people wait" failed large replications; the headline evidence that imposed deadlines improve follow-through is weakened (a key study retracted in 2026). Treat both as contested | Real dates are justified by honesty and planning, never by a deferral effect | EV (C) |
 | Inoculation / prebunking | Moderate protection against later persuasion attempts | Build the capture standard before publishing anti-grift content | EV (S/M) |
 | Two-sided refutational messages | Small advantage over one-sided | Only when the counterargument is answered | EV (M) |
 | Narrative persuasion | Small–moderate | Composites labeled | EV (M) |
