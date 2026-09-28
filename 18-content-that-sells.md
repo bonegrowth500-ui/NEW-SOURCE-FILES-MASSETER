@@ -3,7 +3,7 @@
 
 **The shift:** from *"Content builds an audience, and selling is separate"* (or its opposite, *"everything gets a pitch"*) to *"Warm assets sell directly with public prices, and every asset repairs one link and makes one ask."*
 
-Reid *(composite operator)* has a channel most operators in this niche would envy. Adults watch his long-form pieces to the end, and [about half] his watch time comes from people who have watched before. His checkout is quiet: [two] enrollments at his last start, [one] at the start before. He has never said his price on camera. Every video ends by asking for a subscribe, and his offer sits behind a link to an application form with no price.
+Reid *(composite operator)* has a channel most operators in this niche would envy. Adults watch his long-form pieces to the end, and [about half] his watch time comes from returning viewers. His checkout is quiet: [two] enrollments at his last start, [one] at the start before. He has never said his price on camera. Every video ends by asking for a subscribe, and his offer sits behind an application form with no price.
 
 His viewers respect him, and none of them knows what he sells, what it costs, or what to do next, so the respect never becomes a decision. The category's opposite habit puts a pitch in every short and fills the comments with 16-year-olds asking what their jaws are worth. Both make one mistake from opposite ends: the ask doesn't match how warm the viewer is.
 
@@ -40,11 +40,11 @@ That's the **Warmth Ladder**: never ask for a rung the buyer isn't standing on, 
 
 ### Reid asked one rung low, everywhere
 
-Reid tallies a month of signals: returning viewers at [about half] his watch time, [~110] adults through his self-assessment, [~60] visits to his coaching page, and [~15] replies to his result email. His videos asked every viewer for a subscribe, the Stranger rung's ask, though half his watch time came from men a rung higher. His result email asked for nothing, and his page asked for an application with no price. The warmest people in his business met the smallest asks.
+Reid tallies a month of signals: [~110] adults through his self-assessment, [~60] visits to his coaching page, and [~15] replies to his result email. His videos asked every viewer for a subscribe, the Stranger rung's ask, though half his watch time came from men a rung higher. His result email asked for nothing, and his page asked for an application with no price. The warmest people in his business met the smallest asks.
 
 He changes the asks and leaves the content alone. Each decision-stage video gets a short pitch after its payoff, the result email carries one recommendation with its price, and the page shows the price, premium tier first, with checkout behind the checks. The shorts already sent strangers to the door, so they stay. Over his next [two] starts, enrollments move from [1–2] a start toward [4–5], inside what Band B, the steady planning band, allows.
 
-Tag every asset with a rung when you plan it, from the coldest viewer it's built to reach, and give it that rung's ask. Email sits on the Assessed rung, since only adults who finished your door are on your list. Other surfaces map onto the rungs through Surface Types, discovery surfaces, trust engines, and relationship surfaces (Module 23). Count each rung's people and asks monthly, because a rung with people and no ask is where respect without demand hides.
+Tag every asset with a rung when you plan it, from the coldest viewer it's built to reach, and give it that rung's ask. Email sits on the Assessed rung, since only adults who finished your door are on your list. Other surfaces map onto the rungs through Surface Types, discovery surfaces, trust engines, and relationship surfaces (Module 23). Count each rung's people and asks monthly: a rung with people and no ask is respect without demand.
 
 ## 2. One Ask per Asset and the Belief Sentence
 
@@ -89,7 +89,7 @@ Those are the **Offer Pieces**: the offer video; who it's for and who it isn't; 
 
 ### Every piece recaps the whole path
 
-Every offer piece recaps the Path and Timeline Card, the page he reads before paying: what 12 weeks deliver, when visible change tends to show, and the likely cost of the full path over his first [9] months (Module 6). In a piece, that means what the Program, your 12-week flagship, delivers, and the [9]-month range up to the Program plus Round Two, a lighter maintenance block, and the Hold, a measurement subscription. The week-12 renewal argues from that timeline, so a buyer who never heard it hears Round Two as a surprise pitch.
+Every offer piece recaps the Path and Timeline Card, the page he reads before paying: what 12 weeks deliver, when visible change tends to show, and the likely cost of his first [9] months (Module 6). In a piece, that's what the Program, your 12-week flagship, delivers and its [9]-month range, up to the Program plus Round Two, a lighter maintenance block, and the Hold, a measurement subscription. The week-12 renewal argues from that timeline, so a buyer who never heard it hears Round Two as a surprise pitch.
 
 ### Price with delivery math shows what he can count
 
@@ -113,11 +113,11 @@ The offer page runs in one fixed order, and the offer video speaks it aloud. Eac
 
 That's the Page Sequence. The Honest Answer is also the first claim of your Canon, the few core claims you repeat in fixed words, and its no about bone must come before any yes about habits. Trust follows the path because proof means little until he knows what it proves, and the Fill History, each start's cap and fill published at close, shows the caps are real.
 
-Private, the premium seat with fixed deliverables, leads the tiers only while a seat is open. From Scaling, at about $30k a month, it stays only at parity, near $10k and async-first, or disappears, and Program Async, the program without the live call, joins under the core buyer's cash ceiling. Private's deliverables always come with it, and so does the line "We never read or score your face."
+Private, the premium seat, leads the tiers only while a seat is open, and it's never named without its fixed deliverables and the line "We never read or score your face."
 
 ### The case piece waits for the record
 
-The case piece is the only one that claims an outcome, so it waits for the proof milestone, 10 or more graduates with consented process testimonials, and runs labeled a small sample until 30 graduates. It carries the full Context Stack, the denominator from everyone who started included (Module 16). Until then the slot holds a Transition, a client's own words about guessing turning into measuring, first asked for around week 7. A case clip may run in organic short-form with the full stack on screen, a door ask, and no price. A composite, or a case in your words, is invented proof.
+The case piece is the only one that claims an outcome, so it waits for the proof milestone, 10 or more graduates with consented process testimonials, and runs labeled a small sample until 30 graduates. It carries the full Context Stack: who, what else changed, the timeline, capture conditions, the range, and a denominator counting everyone who started (Module 16). Until then the slot holds a Transition, a client's own words about guessing turning into measuring, first asked for around week 7. A case clip may run in organic short-form with the full stack on screen, a door ask, and no price. A composite, or a case in your words, is invented proof.
 
 ## 4. Stake-to-Step, the Perspective Line, and the Click Contract
 
@@ -135,7 +135,7 @@ That's the **Stake-to-Step Ratio**. Here it closes a Cause piece, "Eight months 
 
 > **You:** "Another eight months like the last eight costs eight months. So here's something you can check this week. Every night for seven days, log [your current routine]: what you did, and for how long. On day eight, count the days you actually did it. That's the first honest number you've had, and it's yours. If you want someone to read it with you, the self-assessment is free: [link]."
 
-Two sentences of stake, then the log, his own count, and the door. In email the stake gets a line, and a short often skips it.
+Two sentences of stake, then the log, his own count, and the door. In a pitch the ratio holds, with the baseline and first review as the step.
 
 ### Broadcast stakes stay inside the Dignity Route
 
@@ -169,21 +169,23 @@ On warm surfaces, sell out loud: the price in every pitch and end card, and the 
 
 **Default: announced at the top, delivered after the payoff.** A viewer told in the first minute that the last one covers what you sell stops watching for the trick, and the Click Contract is paid before you ask. Switch to mid-roll only when your retention shows most viewers gone before the end.
 
-The pitch runs a minute or two: the offer, who it's for and isn't, the destination with its perspective line, the price with its delivery math, the [9]-month range, and one link. Every warm end card and pinned comment carries the public price and that link, and no keyword is asked for in public, since keywords arrive by DM.
+The pitch runs a minute or two: the offer, who it's for and isn't, the destination with its perspective line, the price with its delivery math, the [9]-month range, and one link. Every warm end card and pinned comment carries the public price and that link.
 
 ### Dates live on the page, never in the video
 
-A video stays up for years and a start closes in weeks, so evergreen pieces never speak a specific date. They point to "the next start and its last day to join" on the page, where the pinned comment and description carry the dates. Since a re-shoot costs a long-form piece's 4–6 hours, re-shoot only when a price, tier, or step changes. Every date passes the Launch Line, which keeps a date an offer attribute while five things hold (Module 8). The next start is always buyable, the date comes from the calendar or the capacity math, and nothing ramps as it nears. There are no window bonuses or prices, and nothing closes without a next date.
+A video stays up for years and a start closes in weeks, so evergreen pieces never speak a specific date. They point to "the next start and its last day to join" on the offer page, which updates each start. A re-shoot costs a long-form piece's 4–6 hours, so re-shoot only when a price, tier, or step changes. Nor is any piece built on a date: a week of "last chance" videos is a ramp, and the evidence that deadlines move buyers is contested.
 
-That rules out date-themed pieces: a week of "last chance" videos is a ramp, and the evidence that deadlines move buyers is contested. Dated sends are each start's one announcement and one reminder, never to a lead on the pause route, the content-free tag that stops sales sends for 60–90 days. Each carries the start and its last day to join, the end of week 2. Any Price Step, a small scheduled rise, rides in the announcement, and the Decision Assessment's credit never appears.
+Every date passes the Launch Line, which keeps a date an offer attribute while five things hold (Module 8). The next start is always buyable, the date comes from the calendar or the capacity math, nothing ramps as it nears, no bonus or price belongs to one window, and nothing closes without a next date.
+
+Dated sends are each start's one announcement and one reminder, to engaged segments only and never to a lead on the pause route, the content-free tag that stops sales sends for 60–90 days. Each carries the start and its last day to join, the end of week 2, and the announcement also carries any Price Step, a small scheduled rise. Those are his Decision Points, the dates on which something real changes for him, and the credit from the Decision Assessment, your paid written plan, never appears beside them.
 
 ### Replies follow the handoff
 
-Replies and DMs follow the DM Handoff: an unverified contact gets the door, a verified adult may get one recommendation and a checkout link, and Private needs a call (Module 20). A verified adult waiting out his busy season gets the start after it, recommended, with the link. A man who can't afford it gets the Starter Path, your free sequenced path for anyone who shouldn't buy now, once, and nothing after that carries a price, an offer, or a date.
+Replies and DMs follow the DM Handoff: an unverified contact gets the door, a verified adult may get one recommendation and a checkout link, and Private needs a call (Module 20). A verified adult waiting out his busy season gets the start after it, recommended, with the link. A man who can't afford it gets the Starter Path, your free sequenced path for anyone who shouldn't buy now, once, plus the pause route, so nothing after that carries a price, an offer, or a date.
 
 ### A bristling comment section is read over two starts
 
-**When the signals disagree.** You add pitches to your decision-stage pieces, and the comments turn: sellout, a sales channel all along. Yet returning viewers still hold [about half] your watch time, and offer-page visits are up. Sort the bristle before you act. In a comment section that skews young, many of the loudest voices were never eligible to buy, and a price can feel like a loss to them, though every video stays free. Bristling under a Stranger-rung piece means the ladder broke there, so move that pitch.
+**When the signals disagree.** You add pitches to your decision-stage pieces, and the comments turn: sellout, a sales channel all along. Yet returning viewers still hold [about half] your watch time, and offer-page visits are up. Sort the bristle before you act. In a comment section that skews young, many of the loudest voices were never eligible to buy. Bristling under a Stranger-rung piece means the ladder broke there, so move that pitch.
 
 Then check the pitch's form, meaning where it sits, how long it runs, and whether the first minute announced it, since an ambush or an apology draws bristle. Read the buyers over two starts, because one holds too few enrollments to read. If visits and enrollments held, keep the pitch and pin a reply saying the videos stay free. If both fell, fix the rung or the form, since dropping the pitch returns you to respect without demand.
 
@@ -195,7 +197,7 @@ Your content plan comes from last week's objections, answered a rung earlier tha
 
 Most doubts a buyer voices on a call were with him long before it, so an asset that answers one earlier saves the next buyer carrying it that far. Each week, log the real objections from calls, check-ins, and exits with their links, and place each a rung earlier. A call's "why pay when it's free?" becomes an objection piece on the Returning rung. A check-in's flat fifth week becomes a line about plateaus in the offer video. An exit's surprise at how long logging took makes the time line in the who-it's-for piece exact.
 
-Pick each month's objection piece by rule. By default, take the real objection heard most often, by link, across your last 30 held conversations. When the Leak Trace, your monthly pricing of each joint's gap in dollars, finds its biggest gap at a content joint, take that joint's objection instead, since a priced gap outranks a count (Module 12). Under 30 held conversations since the last pick, keep counting.
+Pick each month's objection piece by rule. By default, take the real objection heard most often, by link, across your last 30 held conversations. When the Leak Trace, your monthly pricing of each joint's gap in dollars, puts its biggest drop at a joint whose fix lives in content, take the objection tied to that drop instead, since a priced gap outranks a count (Module 12). Until you've held 30, keep counting.
 
 **Hear it on a call this week, and answer it a rung earlier next month.**
 
@@ -209,7 +211,7 @@ The **Pre-Publish Card** is one card of at most ten yes/no lines, run before any
 
 Cole *(composite operator)* is in Growing, with [~18] clients running and about [90] eligible leads a month, adults who could pay without new credit. The Program sits at [$2,100] in its opening price band, with [8] seats a start and one Private seat a quarter at [$5,000] while his minutes allow. In late September he plans October.
 
-**Late September. The read.** Across his last [30] held conversations, the real objection heard most is some version of "why pay when it's free on YouTube?", a Vehicle doubt, in [9]. [Five] ask whether he's one more course guy, at Guide, and [three] say adults can't change, at Range. His Leak Trace puts the biggest gap at his free-call close rate, a call joint, so the count decides. His September tags tell another story: [five] of eight assets worked Range or Cause, because the bone question pulls views, and none worked Vehicle.
+**Late September. The read.** Across his last [30] held conversations, the real objection heard most is some version of "why pay when it's free on YouTube?", a Vehicle doubt, in [9]. [Five] ask whether he's one more course guy, at Guide, and [three] say adults can't change, at Range. His Leak Trace puts the biggest drop at his free-call close rate, whose fix lives in the call, so the count decides. His September tags tell another story: [five] of eight assets worked Range or Cause, because the bone question pulls views, and none worked Vehicle.
 
 So October gets an objection piece on Vehicle, and every asset is tagged before it's made. The offer video stays as it is, since it points to the page for dates; only its price line changes, when the December step lands. The November announcement, sent on the October start day, carries that step, [$2,100] to [$2,200], adding [a recorded walkthrough of each week-6 read].
 
@@ -218,7 +220,7 @@ So October gets an objection piece on Vehicle, and every asset is tagged before 
 | 1 | Long-form: "Why pay when it's free on YouTube?" | Vehicle | Returning | The offer page, after the payoff |
 | 2 | Long-form: "Eight months in and nothing to show" | Cause | Returning | The door, with the offer and price named |
 | 3 | Long-form: "27 and asking if it's too late" | Range | Stranger | The door |
-| 4 | Email: the November announcement, with the December step | Now | Assessed | The offer page |
+| 4 | Email: the November announcement, with both dates and the December step | Now | Assessed | The offer page |
 | 5 | Email: a stall told back, from anonymized patterns | Cause | Assessed | A fit conversation, the free first call |
 | 6 | Email: a founding client's Transition, in his words | Self | Assessed | The offer page |
 | 7 | Email: the one reminder, both dates on it | Now | Assessed | The offer page |
@@ -227,7 +229,7 @@ So October gets an objection piece on Vehicle, and every asset is tagged before 
 
 Both Now emails carry one belief sentence. Before: "I'll start after the busy season." After: "There's a real start on [date], so my decision has a day to land on."
 
-**Early October. The card catches two lines.** Cole runs the card on the objection piece before it ships. The title is answered by minute [eight], Canon claim 2 is quoted exactly, and the destination line carries claim 7. Two lines fail: the thumbnail is [a jaw close-up], and the pitch names November's date aloud. He swaps the thumbnail and points the pitch to the page.
+**Early October. The card catches two lines.** Cole runs the card on the objection piece before it ships. The title is answered by minute [eight], Canon claim 2 is quoted exactly, and the destination line carries claim 7. Two lines fail: the thumbnail, [a jaw close-up], promises a fix the piece never pays (line 3), and the pitch speaks November's date, which will outlive its start (line 9). He swaps the thumbnail and points the pitch to the page.
 
 **Mid-October. The short that skipped it.** One of the editor's shorts, cut from the offer video with the price and "link in bio to join" left in, goes out without Cole's sign-off. In [three] days it draws [~30k] views, mostly from strangers, and no sales. The comments hold two rating requests, and Jordan *(composite, minor)*, 16, asks whether he could join if his parents paid. Cole's read: the clip carried a checkout ask onto the Stranger rung, where no viewer holds the beliefs a price needs and many are under 18. He takes it down that day and answers Jordan once, in public:
 
@@ -271,7 +273,7 @@ Notice the move: every exclusion carries its reason or referral, so the list rea
 >
 > **You:** "Then it isn't the right step, and that's fine. The Starter Path is free, and it's here: [link]."
 
-Never follow with "No problem, you can split it into [three] payments," which reopens money talk he closed. Nothing you send him afterward carries a price, an offer, or a date.
+Never follow with "No problem, you can split it into [three] payments," which reopens money talk he closed. If he's on your list, he goes on the pause route, and nothing you send him afterward carries a price, an offer, or a date.
 
 ### Price with delivery math
 
@@ -303,7 +305,7 @@ Never say "That's exactly why you should stop wasting money on courses," a pitch
 
 Maya *(composite, welcome, not targeted)*, 28, consented to words and numbers under her initial:
 
-> **You:** "Cases here run in an order set before anyone qualified, middle of the range first, and this is a small sample until 30 graduates. This is [M.], 28. Before joining: [months] of [her routine], nothing measured. At baseline on [date], we set [marker 1] and [marker 2]. At week 6, [marker 1] was moving and [marker 2] wasn't, so her plan changed [one lever]. At week 12, [marker 1] had passed its threshold, [baseline reading] to [week-12 reading]. Also changed: [what else changed]. Captures matched our standard. Of everyone so far, [N] started, [n] left in the fit window or at week 6, and [n] graduated, and [k] graduates who did the work reached no threshold. On this marker type, the range across [n] graduates was [A–B]. Observed, not caused."
+> **You:** "Cases here run in an order set before anyone qualified, middle of the range first, and this is a small sample until 30 graduates. This is [M.], 28. Before joining: [months] of [her routine], nothing measured. At baseline on [date], we set [marker 1] and [marker 2]. At week 6, [marker 1] was moving and [marker 2] wasn't, so her plan changed [one lever]. At week 12, [marker 1] had passed its threshold, [baseline reading] to [week-12 reading]. Also changed: [what else changed]. Captures matched our standard. Of everyone so far, [N] started, [n] left in the fit window or at week 6, [n] graduated, and [k] graduates who did the work reached no threshold. On this marker type, the range across [n] graduates was [A–B]. Observed, not caused."
 
 > **You:** "The Program runs the same way for everyone: over [9] months, likely [$2,100] to about [$3,150]. The card, the full log, and the next start are on the page: [link]."
 
@@ -336,9 +338,9 @@ A no on any line holds the asset.
 
 **Early.** Reach binds, and short-form is your main reach engine, so most of what you publish lands on the Stranger rung. Put the price in long-form and on the founding page, and start the objection log with your first call. The trap is a founding-price short: it feels like selling, and its viewers are mostly strangers, many of them minors.
 
-**Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. Default to evergreen pieces that point to the page, and let the Loop's rule pick each month's objection piece. The trap is dates spoken into pieces meant to last, which turns every start into a re-shoot or a stale date.
+**Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the Loop's rule picks each month's objection piece. The trap is dates spoken into pieces meant to last, which turns every start into a re-shoot or a stale date.
 
-**Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private shows only at parity, and Program Async joins the tiers. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
+**Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private stays only at parity, near $10k and async-first, or goes, and Program Async, the program without the live call, joins the tiers under the core buyer's cash ceiling. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
 
 ## Standard Check
 
@@ -375,6 +377,6 @@ A no on any line holds the asset.
 | **The Stake-to-Step Ratio** | Name one true stake, then spend the minutes on a verifiable step |
 | **The Pre-Publish Card** | Clear every asset, clips and sends included, before it ships |
 
-**Leans on:** the Belief Chain, Fantasy to Expectation, the Canon (Module 14) · the Launch Line, Decision Points (Module 8) · the Path and Timeline Card (Module 6) · Surface Types (Module 23) · the Dignity Route (Module 15) · the Context Stack (Module 16) · the Proof Portability Gradient (Module 27) · the DM Handoff (Module 20) · the Leak Trace (Module 12) · the Free/Paid Line, the Starter Path (Module 4) · the Payoff Test, the Dignity Check (Intro).
+**Leans on:** the Belief Chain, Fantasy to Expectation, the Canon (Module 14) · the Launch Line, Decision Points (Module 8) · the Path and Timeline Card (Module 6) · Surface Types (Module 23) · the Dignity Route (Module 15) · the Context Stack (Module 16) · the Proof Portability Gradient (Module 27) · the DM Handoff (Module 20) · the Leak Trace (Module 12) · the Free/Paid Line, the Starter Path (Module 4) · the pause route, the Decision Assessment (Module 5) · the Payoff Test, the Dignity Check (Intro).
 
 **Do this month:** tag last month's assets by link, rung, and ask, and give every unasked rung its ask; pick next month's objection piece by the Loop's rule; run the Pre-Publish Card on everything that ships.

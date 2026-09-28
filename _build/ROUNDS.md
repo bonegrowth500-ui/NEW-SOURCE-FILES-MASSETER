@@ -24,7 +24,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | a721610947ef123b4 | ✅ 3.5 passed (7,557 w) |
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 | 18 | 18-content-that-sells.md | a1c32178a5c126f98 | a51dc49dac76ea92f | critique done (1 blocking, 14 major) → rebuilding |
-| 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | critique done (2 blocking, 13 major) → rebuilding |
+| 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | ✅ 3.5 passed (7,581 w) |
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | ✅ 3.5 passed (7,564 w) |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | critique done (0 blocking, 11 major) → rebuilding |
@@ -65,6 +65,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 04 critique): Starter tool ($27–97) is a paid self-serve product → arrives with the ~20-graduate trigger; before that the Starter Path is free and tool-free. Re-entry trigger is buyer-controlled, never a money condition. LEDGER B + BUSINESS updated.
 
 ## Integration notes (continued)
+- 15's spoken money line should match 19's ('…and thanks for saying it straight'); 14's Now check should use the Implication Question (19).
 - 19, 20, 25, 26 must write call-heard answers to the same tags, block checkout on the pause tag, never send abandoned-cart email to paused buyers, and delete + refund late-found minors (05's rules).
 - Theo gets a 'don't buy' sample plan in 05 but a Program recommendation in 03: events are self-contained, but check plausibility in 4.1 (consider another composite for 05's sample).
 - 18–20 and 27 recaps of the Path and Timeline Card use its [9]-month total-cost horizon.
@@ -109,3 +110,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (18 critique): evergreen videos never speak specific dates (point to the page's next start + last day to join); warm end cards carry the public price; Private never shown as a bare price; objection-pick rule for the Conversation-to-Content Loop (most frequent real objection by link in the last 30 held, or the Leak Trace's biggest drop).
 - R5 round (21 final): LEDGER rows: rewarding the return after a lapse (EV S/transfer M–W); stopping before the week-6 read (read brought forward; adherence over delivered weeks); corrective weeks run after week 12, which is never pushed back. Integration: 17's flat week-6 script overlaps 21 §5; 06 plateau item should allow 'hold'; 10/17 adopt the board freeze; 07/15 adopt the trigger rule.
 - R5 round (20 final): LEDGER E rows: voice vs text (M, one lab); in-person vs written requests (M/W, one group). Module 05 Call Cap reservation reworded to 'uncertain buyers and those near a high-ticket decision'; decided Program buyers go to the written route (consistent with 20's Call Economics Test).
+- R5 round (19 final): FRAMEWORKS Decision Date refined: on or before the next real decision point (a start's last day to join, or an announced step).
