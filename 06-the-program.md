@@ -209,9 +209,9 @@ The week-12 re-assessment, the end-of-program capture and verdict, sets the matc
 
 | His record at week 12 | Verdict | What's offered |
 |---|---|---|
-| A marker at threshold, habits holding | Moved | "You don't need Round Two"; the Hold for quarterly re-captures |
-| A marker at threshold, momentum on the sheet | Moved, with momentum | Round Two, the maintenance block |
-| Corrected at week 6, a marker now at threshold | Moved late | Full-intensity Round Two, priced as a Program |
+| A marker at threshold, adherence met, habits holding | Moved | "You don't need Round Two"; the Hold for quarterly re-captures |
+| A marker at threshold, adherence met, momentum on the sheet | Moved, with momentum | Round Two, the maintenance block |
+| Corrected at week 6, a marker now at threshold, adherence met | Moved late | Full-intensity Round Two, priced as a Program |
 | No marker at threshold, adherence met | This lever isn't moving for him on this plan | The clause pays; a referral where one fits; no offer |
 | Adherence below the threshold | The record can't judge the lever | No clause and no offer; an honest read of what the record shows |
 

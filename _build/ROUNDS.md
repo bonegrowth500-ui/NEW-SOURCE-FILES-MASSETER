@@ -27,7 +27,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | ✅ 3.5 passed (7,581 w) |
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | ✅ 3.5 passed (7,564 w) |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
-| 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | critique done (0 blocking, 11 major) → rebuilding |
+| 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | ✅ 3.5 passed (7,645 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -113,3 +113,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (20 final): LEDGER E rows: voice vs text (M, one lab); in-person vs written requests (M/W, one group). Module 05 Call Cap reservation reworded to 'uncertain buyers and those near a high-ticket decision'; decided Program buyers go to the written route (consistent with 20's Call Economics Test).
 - R5 round (19 final): FRAMEWORKS Decision Date refined: on or before the next real decision point (a start's last day to join, or an announced step).
 - R5 round (18 final): VOICE §3.6 records the Pre-Publish Card exception (up to ten lines).
+- R5 round (22 final): 'measured peak' registered ○ (owner 22). LEDGER B: Round Two joins on the monthly start calendar (its last day to join anchors a deferral). Seams fixed in passed modules: 16 L190 results ask needs adherence too; 06 week-12 offer rows say 'adherence met'; 10 §5 adds the partner-enrolls-alone route.

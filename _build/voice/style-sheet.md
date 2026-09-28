@@ -212,6 +212,7 @@ Generated from `FRAMEWORKS.md`; if the two ever disagree, FRAMEWORKS wins and th
 | the week-3 source check | 09 |
 | Round Two | 10 |
 | measured momentum | 10 |
+| measured peak | 22 |
 | the Hold | 10 |
 | the alumni room | 10 |
 | Community Options | 10 |

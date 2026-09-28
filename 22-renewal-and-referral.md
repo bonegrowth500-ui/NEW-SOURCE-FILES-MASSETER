@@ -123,11 +123,11 @@ Testimonial and upgrade asks follow the same peak rule, and each adds a conditio
 
 The testimonial rules live elsewhere: scoped, revocable consent, text only by default, his own words, no incentive, and everyone's range beside any result (Module 16). No ask comes before his fit window closes, or in a conversation that decides a refund, meaning the week-6 exit or the week-12 non-response verdict. None goes to a client who claimed a refund. Within that, he gets two asks at most, and a no to either is final. A client who came through the signal pause, the slower path a fit-check signal sets, or who arrived checking his photos, gives words only, even if he offers a capture.
 
-The process ask comes at his first measured peak from about week 7, and the results ask once his week-12 verdict is written. Ask every client who reaches one. Asking only the men you expect to glow is selection, and a skeptic assumes it the moment he sees a wall of praise. Accounts written close to an experience also tend to read as more credible than memories of it. Keep the ask small: two or three lines, in his words, about what the record showed him.
+The process ask comes at his first measured peak from about week 7, and the results ask once his week-12 verdict is written. Ask every client who reaches one. Asking only the men you expect to glow is selection, and a skeptic assumes it the moment he sees a wall of praise. Keep the ask small: two or three lines, in his words, about what the record showed him.
 
 ### The upgrade is a real recommendation when his record calls for a full block
 
-Private sells speed, privacy, and attention as fixed deliverables, and it promises no better result. At Scaling it sells only at parity, under the Premium Lane, the Optimizer's path from the priority tier to Private (Module 13). The ask is honest when his record calls for a full block and what he has asked for is what Private delivers. In a category where "precision" has meant a closer read of the face, every Private page, call, and recap says "We never read or score your face."
+Private sells speed, privacy, and attention as fixed deliverables, and it promises no better result. At Scaling it sells only at parity, under the Premium Lane, the Optimizer's path from the priority tier to Private (Module 13). The ask is honest when his record calls for a full block and Private's deliverables answer a need his check-ins name. In a category where "precision" has meant a closer read of the face, every Private page, call, and recap says "We never read or score your face."
 
 Say a graduate at Scaling moved late. His week-6 read found a misdirection from outside your plan, [a routine he'd never logged]. Since the correction, his logs have held above threshold, that marker has improved at both readings, and [another marker] sits at its own. His check-ins show his rotating shifts never once fit the group call. So Private goes first, beside the same block priced as a Program:
 
@@ -146,7 +146,7 @@ Every client at a measured peak gets one direct, specific, private referral ask,
 
 Reid *(composite operator)* never asked. He assumed men in this niche keep the work to themselves and would find the question awkward. His referrals came only from clients who volunteered, [two] in his first year. Half of that was right: many men here do keep it private, since being seen to buy help with how your face photographs can read as insecurity. What Reid got wrong was the answer in private, because people expect roughly half the yeses a direct, specific request actually gets.
 
-Two more findings shape the ask. Intentions to refer run well ahead of referrals made, so an ask must name a person and a small step. And people pass on what makes them look good, so what he forwards should make him look rigorous.
+Two more things shape the ask. A man who means to mention you has referred no one until he knows who to tell and what to send, so the ask names both. And he'll pass on only what makes him look careful, so what he forwards should make him look rigorous.
 
 **One private, specific ask of every client at a measured peak, and none of it in the plan.**
 

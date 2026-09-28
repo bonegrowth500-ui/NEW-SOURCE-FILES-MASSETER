@@ -258,6 +258,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the Decision Date · the Follow-Up Rule · the Selling-Skill Loop · the objection map | His personal date, on or before the next real decision point (a start's last day to join, or an announced step) · recap within 24 h, one check-in, one close-the-loop · recorded, scored calls and an objection log · the niche's deciding objections, by link | 19 |
 | the result page · threshold continuity · the paid group decision session | The first sales conversation · the decision moment feels like the same mind · "cohort walkthrough and Q&A; the offer and price are inside" | 20 |
 | the Alliance Check · Never Miss Twice | Does he feel heard, and does the work fit his goal? · reward the comeback, not the streak | 21 |
+| measured peak | A measurement moment where adherence is at or above his threshold and at least one marker has reached its threshold, so no refund decision is open; every Measured-Peak Ask waits for one | 22 |
 | identity-safe shareables · alumni status | Referral objects that make the sharer look rigorous · earned at graduation | 22 |
 | the Start Here Series · the Production Bar · half-life budgeting | A five-piece progression ending at the door · the production standard never to publish below · hours follow half-life × path clickability | 23 |
 | the one-defensible-point rule | One true point per short piece that needs no caveat | 24 |
