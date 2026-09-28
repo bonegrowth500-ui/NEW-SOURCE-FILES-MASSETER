@@ -70,9 +70,9 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **What we don't claim.** Open with Canon claim 1, the first of the few core claims you repeat in fixed words, quoted exactly, since strangers and summaries will quote you. Then give each item in the never-claimed column of the Outcome Map, your four-column answer to the bone question, with its reason and what to do instead, because bare noes read like the genetics shrug.
 
-**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage, his Buyer State, meaning the situation he arrives in, his route, and a pause on every marketing send and checkout for 60–90 days. None records a fit or insecurity answer, and he can check that.
+**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage, his Buyer State (the situation he arrives in), his route, and a pause on every marketing send and checkout for 60–90 days. None records a fit or insecurity answer, and he can check that.
 
-**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, word for word from your terms (Module 7). The cash clause pays only if he logged at least [80%] of days and no marker reached its threshold by week 12, and a man below [80%] should learn that before paying.
+**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, word for word from your terms (Module 7). The non-response clause pays cash only if he logged at least [80%] of days and no marker reached its threshold by week 12, and a man below [80%] should learn that before paying.
 
 The verification kit, a sample written plan and a sample weekly review, includes a plan that says "don't buy". A plan that can refuse him is one he believes when it recommends. The Path and Timeline Card, the one-page path and cost sent before payment, prices his first [9] months (Module 6). It runs from the Program, your 12-week flagship, alone to the path with Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates.
 
@@ -106,7 +106,7 @@ Drift here runs one way, toward the bone claim, because the strongest-sounding l
 
 **The page is part of the post: every claim from one library, every page in habit and process words, and no health framing wherever an ad or a tracker reads.**
 
-That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library does its work. It's one document holding every public claim in its exact words. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, where it may travel, and the date it went in. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
+That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library does its work. It's one document holding every public claim in its exact words. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, and where it may travel. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
 
 On pages, habit and process words describe what he does and what you deliver: logs, weekly review, captures to a standard, a verdict from his record. One sentence can sit on every page and description: "[Brand] coaches habits and presentation, reviews your record every week, and gives no medical or dental opinion."
 
@@ -161,7 +161,7 @@ Paid earns its place by buying one thing organic reach can't: adult attention fo
 
 Organic reach can't keep minors out. In the samples that exist, most of this category's keenest audience is under 18, and even adult-framed pieces reach them. Paid can be limited to adults, as platforms require for appearance and health ads, and that's its real edge in this niche. The cost is the problem: a broad benchmark of about $25–30 per raw lead works out to roughly $36–100 per eligible lead, since only some raw leads pass the fork and health-adjacent rules blunt the targeting.
 
-Set that beside what you can pay. Revenue per eligible lead is your lifetime value times your eligible lead → enrollment rate, roughly $25–210. The most you can afford per eligible lead is about a third of it, roughly $10–70 (Module 1). At opening prices you sit near the bottom of both ranges. Paid can't make a weak piece persuade or rescue a door that converts poorly. It can put a piece that already works in front of adults who'd never otherwise see it.
+Set that beside what you can pay. Revenue per eligible lead is your lifetime value times your eligible lead → enrollment rate, roughly $25–210. The most you can afford per eligible lead is about a third of it, roughly $10–70 (Module 1). At opening prices you sit near the bottom of both ranges. Paid can't make a weak piece persuade, only put a working one before adults who'd never otherwise see it.
 
 **Buy adults a proven piece, measure what the money added, and pay no more for an eligible lead than a third of what one earns you.**
 
@@ -197,7 +197,7 @@ The buy pushes pieces, never forms. Pay for views of the proven piece, and let i
 
 ### Paid never buys with shame or sensitive signals
 
-Bought viewers stand on the Stranger rung of your Warmth Ladder, the rule for which asset may ask for what. That rung gets the door and no price, so an ad asks only for the self-assessment. It never uses insecurity hooks: no question about a feature, no hint that he looks worse than he should, no idealized jaw, no timeframe. The large platforms ban most of this for appearance and health ads anyway, and your standard runs stricter. What runs is you on camera with a Canon claim or a sample weekly review, since a bought piece carries no outcome proof.
+Bought viewers stand on the Stranger rung of your Warmth Ladder, the rule for which asset may ask for what. That rung gets the door and no price, so an ad asks only for the self-assessment. It never uses insecurity hooks: no question about a feature, no hint that he looks worse than he should, no idealized jaw, no timeframe. Large platforms ban most of this in appearance and health ads, and your standard runs stricter. What runs is you on camera with a Canon claim or a sample weekly review, since a bought piece carries no outcome proof.
 
 Nor does paid optimize on sensitive signals. No door answer, fit or health-adjacent, becomes an event, an audience, or a lookalike. The buy uses no interests, nothing bought follows a man from your door, and your fork still asks every bought visitor his age.
 
@@ -268,25 +268,23 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 ### The Verify Page
 
-One page, in text, in this order.
-
-> **Next start: [date] · last day to join: [date].** [Seat status, when informative.] [Announced step: new price, start, what it adds.]
+> **Next start: [date] · last day to join: [date].** [Seat status, if informative] · [Next Price Step: price, date, what it adds]
 >
-> **Who we are, and who we turn away.** [Brand]: [assessment, a written plan, and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. No clinical, dental, or medical qualification or opinions; no face ratings; no fees from device or procedure sellers. Not a legal adult where you live? This isn't for you; the videos are free, and an orthodontist answers growth questions. Jaw pain, bite problems, or loud snoring: a dentist or doctor first. Appearance worries most days: [support link] and an offer to talk, never a sale. No credit, and plain questions before any payment.
+> **Who we are, and who we turn away.** [Brand]: [a written plan and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. No clinical qualification, medical opinions, face ratings, or affiliate income. Not a legal adult where you live? This isn't for you; an orthodontist answers growth questions. Jaw pain, bite problems, or loud snoring: a dentist or doctor first. Appearance worries most days: [support link] and an offer to talk, never a sale. No credit. Before any payment, a few plain questions; some answers mean we'll talk first.
 >
-> **What we don't claim.** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." Nor habits evening out asymmetry, coaching replacing dental or medical care, or one result for everyone: [a reason each]. A before/after taken from a new distance is a photo of the camera moving, and "it's all genetics" is right about bone, wrong about the rest. Judge anyone, us included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? [Latest teardown]
+> **What we don't claim.** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." Nor, for the same reason, that habits even out asymmetry, replace dental or medical care, or give everyone one result. A before/after taken from a new distance is a photo of the camera moving, and "it's all genetics" is right about bone, wrong about the rest. Judge anyone, us included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? [Latest teardown]
 >
-> **What my face does and doesn't prove.** [Your face statement, word for word.]
+> **What my face does and doesn't prove.** [The face statement, verbatim.]
 >
-> **Privacy.** Kept: your answers and email; as a client, check-ins, captures at weeks 0, 6, and 12, and messages. Only [first name] sees captures, stored in [where]; tools touch check-in numbers only with your consent. Answers kept [period], fit-check answers [a short period], client records [period]; deleted within [days] of asking. Labels: stage, situation (stalled, burned before, short on time, undecided), route, and a 60–90-day pause on every marketing send and checkout, reason unrecorded. "Where did you find me?" is read only in aggregate. No appearance answer becomes a label or reaches an ad platform; public use needs separate, revocable consent.
+> **Privacy.** Kept: your answers and email; as a client, check-ins, three captures, and messages. Only [first name] sees captures; tools touch check-in numbers only with consent. Answers stay [period], fit-check answers [a short period], client records [period]; deletion within [days] of asking. Labels: stage, situation (stalled, burned before, short on time, undecided), route, and a 60–90-day pause on every marketing send and checkout, reason unrecorded. "Where did you find me?" is read only in aggregate. No appearance answer becomes a label or reaches an ad platform; public use needs separate, revocable consent.
 >
-> **Check the work first.** [A sample written plan ending "don't buy"] · [A sample weekly review], both composites
+> **Check the work first.** [Sample written plan ending "don't buy"] · [Sample weekly review], both composites
 >
-> **The whole path.** [Path and Timeline Card]: what 12 weeks deliver, when change tends to show, and your likely cost over [9] months.
+> **The whole path.** [Path and Timeline Card]: what 12 weeks deliver, when change tends to show, your likely [9]-month cost.
 >
-> **Prices.** [Private, only while a seat is open: $, with (recorded walkthroughs, 24-hour written replies), by call] · Program: $ for [12] reviews within [48] hours, [12] group calls, two written reads, three captures; or three payments totaling $ · Decision Assessment: $, a written plan; priority tier: $, faster, with a recorded walkthrough · Hold: $ a month, a quarterly re-capture and review · Round Two: $, biweekly review, only if your week-12 record is still improving · Starter Path: free. Our own installments, never a loan. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy.
+> **Prices.** [Private, while a seat is open: $, with recorded walkthroughs and 24-hour written replies, by call] · Program: $ for [12] reviews within [48] hours, [12] group calls, two written reads, three captures; or three payments totaling $ · Decision Assessment: $ for a written plan, or $ with priority and a recorded walkthrough · Hold: $ a month, a quarterly re-capture and review · Round Two: $, biweekly review, only while your record still improves · Starter Path: free. Our own installments, never a loan. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy.
 >
-> **Guarantee.** Legal rights first. Fit window: cancel before baseline day or within [14–21] days of it, full refund. Service: a late review or read earns [a stated amount]; my review errors earn free corrective weeks, up to 6. Exit right: with [80%] of days logged, ask from your week-6 read until 7 days after; undelivered weeks come back. Stop before week 6 and your read comes forward; referred out, undelivered weeks come back; stop by choice later, and payments cancel, with undelivered weeks movable to a start within 6 months. Non-response: with [80%] logged and no marker at its threshold by week 12, [a fixed share inside 25–50%] comes back in cash; below [80%], it doesn't apply. Assessment not useful? Say so within 14 days for the fee back. Payouts within 7 days. Never guaranteed: your face. Claim counts: [link].
+> **Guarantee.** Legal rights first. Fit window: full refund before baseline day or within [14–21] days of it. Service: a late review or read earns [a stated amount]; my errors earn free corrective weeks, up to 6. Exit right: with [80%] of days logged, ask from your week-6 read until 7 days after; undelivered weeks come back. Stop before week 6 and your read comes forward; referred out, undelivered weeks come back; stop later by choice, and payments cancel, with undelivered weeks movable to a start within 6 months. Non-response: with [80%] logged and no marker at its threshold by week 12, [a fixed share inside 25–50%] comes back in cash; below [80%], it doesn't apply. Assessment fee back if it wasn't useful, claimed within 14 days. Payouts within 7 days. Never guaranteed: your face. Claim counts: [link].
 >
 > **The record.** [Pre-commitment, month 1] · [Log, updated (day)]: check-in completion, turnaround kept, claim rate, fit declines; outcome ranges from 10 graduates, as a small sample.
 >
@@ -294,21 +292,21 @@ One page, in text, in this order.
 
 ### The claims library
 
-| Claim, word for word | Column · rung | Context | Travels to | Entered |
-|---|---|---|---|---|
-| "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." | All three adult columns · educational | None | Everywhere | [Month 1] |
-| "Every review arrives within [48] hours of your check-in." | Process | Turnaround count | Everywhere | [Month 1] |
-| "[n] of [N] graduates reached a marker threshold by week 12, observed, not caused." | Changeable · outcome | Full Context Stack | Long-form, site, email; short-form with range on screen | [10 graduates] |
-| [A matched pair, dated originals and conditions log attached] | Changeable · outcome | Its range and denominator | Long-form and site library only | [10 graduates, with consent] |
+| Claim, verbatim | Column · rung | Context | Travels to |
+|---|---|---|---|
+| "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." | All three adult columns · educational | None | Everywhere |
+| "Every review arrives within [48] hours of your check-in." | Process | Turnaround count | Everywhere |
+| "[n] of [N] graduates reached a marker threshold by week 12, observed, not caused." | Changeable · outcome | Full Context Stack, from 10 graduates | Long-form, site, email; short-form with range on screen |
+| [A matched pair, with its conditions log] | Changeable · outcome | Range and denominator, with consent | Long-form and site library only |
 
 ## Checklist: The Paid Test Plan
 
-Answer from your records before the first dollar; a no holds the test.
+Answer from your records. Any no holds the test.
 
-1. Has the volume leg failed, does every page one click from an ad pass the Destination Rule, and has each pushed piece brought eligible leads on its own? → Fix sources, pages, or pieces first.
-2. Is the budget about $300–1,000 a month, adults only, with no interests, lookalikes, or retargeting? → Cut it back.
+1. Has the volume leg failed, does every page one click from an ad pass the Destination Rule, and has each pushed piece brought eligible leads on its own? → Fix that first.
+2. Is it about $300–1,000 a month, adults only, with no interests, lookalikes, or retargeting? → Cut it back.
 3. Does each ad ask only for the door, with no price, feature question, outcome proof, or timeframe? → Rebuild it from a long-form piece.
-4. Are the blocks and washouts written, with the read at about 30 bought eligible leads and the verdict line at a third of revenue per eligible lead, roughly $10–70? → Write them, and the re-test condition, first.
+4. Are the blocks and washouts written, the read set at about 30 bought eligible leads, and the verdict line at a third of revenue per eligible lead? → Write them, and the re-test condition, first.
 
 ## Stage Notes
 

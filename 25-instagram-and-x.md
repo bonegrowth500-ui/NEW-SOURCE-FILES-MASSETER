@@ -116,7 +116,7 @@ Platforms let an automated reply answer only a conversation he started, and only
 | You send each link by hand in your DM slot | Your setting can't restrict it | Up to a day's wait for the link |
 | A scripted DM flow that asks, qualifies, or offers | Never | It collects answers outside the door, can't see a minor or distress, and speaks as you |
 
-**Default:** the labeled reply, fired only when the whole message is the keyword, and once per thread. Anything longer waits for your slot, because "[RECORD] im 15", or the keyword inside a hard message, needs a person before a link. The line reads: "Automatic reply: here's the free self-assessment, [link]. I read every message myself." Run it on the platform's own keyword setting or a tool that keeps no contact list, since such a list would hold minors' details. Where the setting can't restrict itself, send the link by hand.
+**Default:** the labeled reply, fired only when the whole message is the keyword, and once per thread. Anything longer waits for your slot, because "[RECORD] im 15", or the keyword inside a hard message, needs a person before a link. Run it on the platform's own keyword setting or a tool that keeps no contact list, since such a list would hold minors' details. Where the setting can't restrict itself, send the link by hand.
 
 That separates it from the category's keyword funnels, auto-replies that close whoever types a word (Module 20). Yours keeps no list and carries no pitch, and every thread still reaches a human.
 
@@ -124,7 +124,7 @@ That separates it from the category's keyword funnels, auto-replies that close w
 
 A carousel works as a decision tool men save and send, like six things to check before buying another device, captioned as the question an adult types. It shows no face and no before/after, since matched pairs live only in long-form and your site's library, and it ends with the keyword.
 
-Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the tag a stop rule sets that holds sales sends and dates for 60–90 days. So it carries only what a paused man may receive: pieces without a pitch, dated log entries, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
+Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the tag a stop rule sets that holds every marketing email for 60–90 days. So it carries only what your public profile already shows anyone, minus anything that sells: pieces without a pitch, entries from your public log, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
 
 Keep member replies, polls, and prompts off, though the platform offers all three, including prompts that collect photos. Replies would make a free community under another name, and a photo prompt is a queue of faces. Instagram Live and Collab posts stay out too, since live talk can't pass your claims approval or hold a stop rule, and a Collab sets another account's claims beside yours.
 
@@ -165,7 +165,7 @@ The order matters because messages mix cases. A man who wants a rating and hates
 
 The DM Handoff sets what an adult can buy here: unverified contacts go to the door, and a verified adult may get one recommendation and a checkout link, while Private, the premium seat with fixed deliverables, needs a call first. He's verified once your records show a completed door with no pause tag and he has confirmed from the address his result went to (Module 20).
 
-In a thread, a code finds his record without asking. His result page carries a short one, like [R-4827], beside "Prefer Instagram? Send me this code." You look it up in your own records and email that address to ask whether the thread is his, and his reply confirms him. Nobody asks in a thread for his age, his email, or a photo. A code that shows a pause tag gets only what the pause route allows, with no price, offer, or date. A verified adult gets one line:
+In a thread, a code finds his record without asking. His result page carries a short one, like [R-4827], beside "Prefer Instagram? Send me this code." You look it up in your own records and email the address on his record to ask whether the thread is his, and his reply confirms him. Nobody asks in a thread for his age, his email, or a photo. A code that shows a pause tag gets only what the pause route allows, with no price, offer, or date. A verified adult who asks about the next start gets one line:
 
 > **You:** "Found your result, thanks. The next Program start is Monday [date], and you can join through [date]. It's $[public price] for 12 weeks: [checkout link]. It asks a few short questions before payment."
 
@@ -181,9 +181,7 @@ X's users skew adult and male, and far fewer teens use it than use Instagram, so
 
 ### Argue on peers' threads, half an hour a week
 
-Argue where your peers already argue: threads by adjacent educators in training, posture, grooming, and photography, and clinicians' threads when they argue ideas. On a clinician's thread you argue the idea and concede the clinic, with no clinical opinion and no word implying standing you don't hold, since the line on credentials holds on every thread. Follow the peers you've disagreed with well, because X lifts conversation between accounts that follow each other, and your graph grows by good arguments.
-
-The lab runs on about half an hour a week of Growing's replies line: one claim, one post of your own, and replies on the threads where its objection lives. Early, X gets replies only, and at Scaling it keeps its quarter hour only while its arguments still reach long-form.
+Argue where your peers already argue: threads by adjacent educators in training, posture, grooming, and photography, and clinicians' threads when they argue ideas. On a clinician's thread you argue the idea and concede the clinic, with no clinical opinion and no word implying standing you don't hold, since the line on credentials holds on every thread. Follow the peers you've disagreed with well, because X lifts conversation between accounts that follow each other, and your graph grows by good arguments. The lab runs on about half an hour a week of Growing's replies line: one claim, one post of your own, and replies on the threads where its objection lives.
 
 ### Test the argument, never the claim's words
 
@@ -286,7 +284,7 @@ Fires on:         The keyword alone, once per thread; if it can't, send by hand 
 
 > **You:** "Thank you for telling me. That sounds really hard. Please talk to [a doctor] or [a mental-health service near you], and if you ever feel unsafe, [a crisis line] is there right now. If you want to write more, I'll read it myself."
 
-Distress changes what help means, so the reply offers a person and a path; a door link would read as a sale. If he asks "so you won't help me?", answer: "I'll read whatever you send. I'm not selling you anything." Set the pause route if he's in your records, and never send "The program could help with that."
+The reply offers a person and a path, since a door link would read as a sale. If he asks "so you won't help me?", answer: "I'll read whatever you send. I'm not selling you anything." Set the pause route if he's in your records, and never send "The program could help with that."
 
 *Case 2, a minor.* Jordan *(composite, minor)*, 16, writes "rate me, im 16, be honest":
 
@@ -339,7 +337,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 - **Replies that never rate.** Permission-First Replies and every DM answer the idea, never a face, a photo, or a feature (the line on shame). On X the force goes to practices, and quote-posts carry arguments, never faces or private people (*Fight ideas, not people*).
 - **The keyword alone.** Keywords arrive by DM only, and the automatic link fires only on the keyword by itself, so a message that could reveal a minor or distress reaches you first (the line on vulnerability).
 - **The case order.** Every DM is read for distress, then a minor, then a rating request, and only then as a sale: an unverified contact gets the door, a verified adult one recommendation and a link (*Sell directly*).
-- **One-way means one-way.** The broadcast channel carries only what a paused man may receive, with no price, offer, date, or checkout link (*Use real dates*).
+- **One-way means one-way.** The broadcast channel carries only what your public profile shows anyone, never an offer, price, date, or checkout link. Each start's dates still reach engaged adults through your page and unpaused email (*Use real dates*), never a man on the pause route (the line on vulnerability).
 
 ## Quick Reference
 

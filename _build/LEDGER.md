@@ -316,6 +316,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Warm network and early replies (labeled source) | ~2–8 held conversations/month in months 1–3 (disclosed), decaying to ~1–4 by month 9 (including referrals). Replace after ~30 events | PL (E) |
 | Speed to lead | Personal reply to every adult door completion within hours; booked within 24–48 h; reminded; held. When personal replies run past the design week's line for two weeks running, move the first reply to a template you approve (never AI speaking as you) | RULE |
 | Live windows | 2–3 fixed windows a week for calls and live replies; everything else batches | Calendar design | RULE (THESES B21) |
+| Replies line split (A4, derived) | The DM slot comes first: ~1.0 h Early, ~0.5 h after. X's Argument Lab: ~0.5 h Growing, ~0.25 h at $25k, none at $50k. The rest is public replies | RULE |
 | Framing matchups (short-form lab) | Two framings of one point, same week, one platform, same job and length. Under ~30 counted events across the matchup it's no result; a preset margin decides above it; a tie never wins. Two short-form wins only nominate a framing; a clear long-form win decides | RULE |
 | No-show rule | One templated rebooking offer; a second miss releases the slot; no chasing | — | RULE |
 | Voice-note replies | ~1–3 minutes, recorded by you (never AI speaking as you), one recommendation at most | — | RULE |
