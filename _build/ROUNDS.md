@@ -10,7 +10,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | draft done (7,374 w) → critique |
-| 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | draft done (7,620 w) → critique |
+| 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | critique done (2 blocking, 9 major) → rebuilding |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | critique done (0 blocking, 16 major) → rebuilding |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | draft done (7,546 w) → critique |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | critique done (0 blocking, 15 major) → rebuilding |
@@ -45,3 +45,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 07): payment plans are the operator's own installments only; no third-party lenders or BNPL (the affordability question rules out new credit). Local consumer-credit classification is a Risk Register flag (11). LEDGER B row updated. Price Step announcements ride inside the start announcement (08's send rules).
 - R2 (from 04): the paid Starter tool is named only to not-now and not-a-fit buyers; never after 'I can't afford it', never when the money isn't his; a fit-check pause gets a reading-only version. Applies to 19, 20, 26 scripts and sequences.
 - R2 (from 06 critique): non-response clause defined: 'haven't moved' = no marker reached its threshold (one crossing = lever moves, no refund); below-adherence clients not covered (honest verdict; week-6 exit right was the route). Markers never read from photos; binary did-it items count as adherence. Path and Timeline Card: total cost over the first [6–9] months with a separate full-intensity Round Two line; the 'you don't need Round Two' share published at >=30 graduates. 07's clause wording must match.
+- R2 (from 05 critique): checkout enforces before payment (attestation, affordability question, Fit Check tier 2 before the pay button; pause tag blocks checkout; signal blocks same-day payment; BNPL/third-party financing off). Free-call booking form shows the public price range and asks the affordability question ('no' → free Starter Path + pause route, no call). Minor discovered after the fork: immediate exit to the education lane, delete data, refund anything paid. Default sample plans never recommend Program Async (Scaling-only, 13).
