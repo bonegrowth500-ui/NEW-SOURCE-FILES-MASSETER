@@ -244,6 +244,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Deferral effects (choice conflict; imposed deadlines) | "A second good option makes people wait" failed large replications; the headline evidence that imposed deadlines improve follow-through is weakened (a key study retracted in 2026). Treat both as contested | Real dates are justified by honesty and planning, never by a deferral effect | EV (C) |
 | Inoculation / prebunking | Moderate protection against later persuasion attempts | Build the capture standard before publishing anti-grift content | EV (S/M) |
 | Two-sided refutational messages | Small advantage over one-sided | Only when the counterargument is answered | EV (M) |
+| Mental contrasting (desire → obstacle → plan) | Moderate in meta-analysis, likely inflated by unpublished null results and concentrated in one research group | Fantasy to Expectation stands on honesty first, effect second | EV (M/C) |
 | Narrative persuasion | Small–moderate | Composites labeled | EV (M) |
 | Underestimating compliance with direct asks | People expect roughly half the yeses they get | Ask everyone, privately | EV (M) |
 | Peak-end memory | Final moments and peaks weigh heavily in retrospective judgment | Make the last fortnight the peak | EV (M) |

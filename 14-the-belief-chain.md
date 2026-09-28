@@ -5,37 +5,37 @@
 
 Three men say the same five words on your calls this week: "I need to think about it." The first is 29. He has read that an adult's bone is largely set, so he suspects every plan in this category is a jawline promise in better clothes, yours included. The second believes everything you said about measuring. He has also restarted [his routine] [three] times since spring, and he doubts he'll still be logging in week 5. The third agrees with all of it and will start once work calms down. For him, waiting costs nothing he can see.
 
-Answer all three the same way, with a longer pitch, a discount, or a deadline, and you'll lose at least two. You may even sell the second into a refund. The words are the same, and the repairs are three different ones. The first man needs a straight answer about what can change at his age. The second needs a structure he believes he'll follow, and the third needs a stake he names himself and a real date. What follows is the model under every yes: which beliefs a purchase completes, how to hear which one broke, and what evidence repairs it.
+Answer all three the same way, with a longer pitch, a discount, or a deadline, and you'll likely lose two of them. You may even sell the second into a refund. The words are the same, and the repairs are three different ones. The first man needs a straight answer about what can change at his age. The second needs a structure he believes he'll follow, and the third needs a stake he names himself and a real date. What follows is the model under every yes: which beliefs a purchase completes, how to hear which one broke, and what evidence repairs it.
 
 ## 1. How Belief Actually Changes
 
-Belief moves toward evidence in small steps that fade, and behavior follows his belief that he can act more than his fear.
+Belief moves toward evidence in small steps that fade, and behavior follows his belief that he can act more than it follows fear.
 
 ### Corrections work, and each one fades
 
 The popular warning is that challenging a belief makes people dig in. Across many topics and very different groups, that backfire has turned out to be rare. People who meet a clear correction move toward the evidence, and they move in parallel, whatever they believed at the start. The evidence is strong. So you can take on "it's all genetics" and "habits fix everything" head-on, steelmanned first, without hardening either one. A man who has built an identity around the shrug will still defend the identity, so give him a better place to stand along with the correction.
 
-The same evidence carries a limit. Each correction moves belief a little, and the movement fades. In large preregistered studies, corrections that worked on the day had largely worn off when researchers checked again, even for people who saw them more than once. One strong video about bone won't settle the question for a viewer, because the category's myths are waiting under the next video he opens. Belief in this niche is kept rather than won.
+The same evidence carries a limit. Each correction moves belief a little, and the movement fades. In large preregistered studies, corrections that worked on the day had largely worn off when researchers checked again, even for people who saw them more than once. One strong video about bone won't settle the question for a viewer, because the category's myths are waiting under the next video he opens. Belief in this niche has to be maintained, on purpose and on a schedule.
 
 ### Repetition makes claims feel true, so repeat only true ones
 
-Repetition raises how true a claim feels, even to people who knew better. That effect is strong too, and it's how the category's myths got their grip: "mewing gave me a jawline", repeated under thousands of videos, starts to feel like evidence. The mechanism works the same way for you. So every claim you repeat has to be calibrated, said at its evidence tier and in the same words every time. Scattered claims don't compound. A viewer who hears you hedge about bone in one video and hint at it in the next has two claims to reconcile, and he'll trust neither.
+Repetition raises how true a claim feels, even to people who knew better. That effect is strong too, and it's how the category's myths got their grip: "mewing gave me a jawline", repeated under thousands of videos, starts to feel like evidence. It works the same way for you, so every claim you repeat has to be calibrated, said at its evidence tier and in the same words every time. Scattered claims don't compound. A viewer who hears you hedge about bone in one video and hint at it in the next will trust neither claim.
 
 ### Efficacy moves behavior, and stakes only aim it
 
 The largest belief lever researchers have tested is a person's belief that he can do the thing. Changing it moves behavior more than changing his attitudes or his sense of what others do, and the evidence is strong. Stakes are weaker than their reputation. Fear and cost-of-waiting messages have small to moderate effects overall, and they work through that same belief. In the most careful studies, a bigger threat helped only when people already believed they could act, while raising the belief helped even when the threat was low. Whether threat adds anything beyond attention is still argued.
 
-That matters more here than in most niches, because belief in his own effort is what your buyer has least of. Months of work that never showed on anything taught him that what he does doesn't register. Add threat to that and you get avoidance: he closes the tab, or he checks the mirror more. Threats about his face are out anyway (the line on shame), and they'd be the weakest lever you could pull. So force goes into one true stake about time, money from here on, and guessing. Most of the minutes go to a step he can verify.
+That matters more here than in most niches, because belief in his own effort is what your buyer has least of. Months of work that never showed on anything taught him that what he does doesn't register. Add threat to that and you get avoidance: he closes the tab, or he checks the mirror more. Threats about his face are out anyway (the line on shame), and they'd be among the weakest levers you could pull. So force goes into one true stake about time, money from here on, and guessing. Most of the minutes go to a step he can verify.
 
 | What the evidence says | How strong | What it means here |
 |---|---|---|
-| Corrections move belief toward the evidence, with essentially no backfire | Strong | Take on the genetics shrug and the bone promise directly, steelmanned |
-| Each correction is small, and its effect fades | Strong | One video settles nothing for long; repetition does the work |
+| Corrections move belief toward the evidence, with essentially no backfire | Strong | Take on the category's myths directly, steelmanned |
+| Each correction is small, and its effect fades | Strong | Repeat, because one video settles nothing for long |
 | Repetition makes a claim feel truer | Strong | Repeat only calibrated claims, in the same words |
 | Raising his belief that he can act is the largest belief lever tested | Strong | Most of the minutes go to a step he can verify |
 | Stakes help a little, and mostly when he believes he can act | Small to moderate; contested for threat alone | One true stake, then the step |
 | Framing the same fact as a gain or a loss changes almost nothing | Strong | Pick the frame that's accurate |
-| Deadlines that end hesitation | Contested | Real dates because they're honest and help him plan, never as a push |
+| Deadlines that end hesitation | Contested | Real dates for honesty and planning, never as a push |
 
 ## 2. The Belief Chain
 
@@ -60,13 +60,13 @@ That's the **Belief Chain**: the six beliefs a purchase completes, named Cause, 
 
 ### Each link has its own evidence
 
-The table pairs each link with one doubt that breaks it and the evidence that repairs it. Range, for example, rests on the Outcome Map, the brand's straight answer on what an adult can change, what's debated, and what's never claimed. He meets it first in the Honest Answer, your first long-form video (Module 3).
+Range, for example, rests on the Outcome Map, the brand's straight answer on what an adult can change, what's debated, and what's never claimed. He meets it first in the Honest Answer, your first long-form video (Module 3). Every link has a doubt that breaks it and evidence that repairs it:
 
 | Link | It holds when he believes | One doubt that breaks it | Evidence that repairs it | Assets that carry it |
 |---|---|---|---|---|
 | Cause | His stall has a findable cause, and it isn't his worth | "Maybe I'm just not disciplined enough." | His own months read back: no baseline, photos under shifting light, too many levers | A video that tells his stall back to him; a written verdict on his DIY months |
 | Range | Some things are set, some can move, and he can find out which | "Adults can't change anyway." | The Outcome Map, column by column, at its evidence tier | The Honest Answer; the map on your site |
-| Vehicle | Measurement plus review was the missing piece | "I can do this myself with free videos and a spreadsheet." | A record doesn't read itself, and unguided programs lose almost everyone | A sample weekly review |
+| Vehicle | Measurement plus review was the missing piece | "I can do this myself with free videos and a spreadsheet." | A record doesn't read itself, and free, unguided programs lose almost everyone | A sample weekly review |
 | Guide | Your standards fit him, and you'd say so if they didn't | "How is this different from the device I bought?" | Signals a grifter can't afford: published refusals, "don't buy" when it's true, a dated public log | The Verify Page, where skeptics check what you claim, charge, and refuse |
 | Self | With this structure, he'll do it | "I always quit after a few weeks." | Mastery on his own record; a man like him, with his record and its range | A free week of logging before his call; a win he can verify in his first fortnight |
 | Now | Waiting costs something real, and there's a real date | "I'll start after the busy season." | The cost of waiting in his own words, said back plainly | The stake question on the call; the next monthly start |
@@ -89,7 +89,7 @@ Some no's name a link you aren't allowed to repair. "I can't afford it" ends mon
 
 The chain keeps going after checkout. The Hold link, the belief that buys continuity, says what he built is worth protecting until it holds on its own. It covers Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. Its evidence is his record at week 12, set against the timeline he accepted before paying. Habits take anywhere from days to most of a year to run without reminders, so at week 12 some of his still need them. When his record says he doesn't need more, telling him so repairs Guide, and he'll remember it.
 
-The Share link, the belief that makes a referral feel rigorous, says recommending you makes him look careful rather than insecure. Buying help with your face can read as insecurity, so men in this niche rarely recommend it in public. The ask stays private, and it comes with something that makes the sender look rigorous. Both asks happen only at a measured peak, a measurement moment that shows progress on his record. They never happen at a plateau, a flat read, or an exit (Module 22).
+The Share link, the belief that makes a referral feel rigorous, says recommending you makes him look careful rather than insecure. Buying help with your face can read as insecurity, so few men in this niche will recommend it in public. The ask stays private, and it comes with something that makes the sender look rigorous. Both asks happen only at a measured peak, a measurement moment that shows progress on his record. They never happen at a plateau, a flat read, or an exit (Module 22).
 
 ### Give every asset one link to repair
 
@@ -113,7 +113,7 @@ Links show up in four places. Each shows them differently:
 
 ### Check one link with one question
 
-Before you repair anything, check the link you suspect with one open question. Then let him answer. The questions are plain on purpose, since each asks for his belief instead of his agreement:
+Before you repair anything, check the suspected link with one open question and let him answer. The questions are plain on purpose, because each one asks for his belief instead of his agreement:
 
 | Link | The question that checks it |
 |---|---|
@@ -157,7 +157,7 @@ Desire in this niche is abundant and aimed at a fantasy. Your job is to keep the
 
 ### Fantasy drains the effort it sells
 
-The category's thumbnails sell a picture: an idealized jaw, lit from above, reached in a count of days. The picture wins the click and works against everything after it. The research points one way across health, study, work, and relationships, though mostly from one research program. Enjoying a positive picture of the future feels like progress, and it predicts less effort and worse results. Judging a good outcome as likely predicts more of both. Pairing the picture with the obstacle in the way, then with a plan for it, improves goal pursuit by a small to moderate amount in trials, and probably by less once unpublished studies are counted.
+The category's thumbnails sell a picture: an idealized jaw, lit from above, reached in a count of days. The picture wins the click and works against everything after it. The research points one way across health, study, work, and relationships, though mostly from one research program. Enjoying a positive picture of the future feels like progress, and it predicts less effort and worse results. Judging a good outcome as likely predicts more of both. Pairing the picture with the obstacle in the way, then with a plan for it, improves goal pursuit by a small to moderate amount in trials, and probably by less once unpublished studies are counted. Both findings rest on moderate evidence.
 
 The fantasy also sets the bar his result gets judged against, because satisfaction tracks results against what a man expected. A buyer sold an idealized face reads a good result as a failure. He's also most likely to quit in the weeks when his record shows least. That's the business reason to redirect his desire instead of feeding it.
 
@@ -212,7 +212,7 @@ Bounded agency is the honest middle: genes set the range of what shows, guessing
 
 ### Effort vs direction: most stalls are direction problems
 
-The man at your door has already proven effort. Eight months of something most days is not how laziness looks. What he lacked was direction: which levers, in what order, and how he'd know. That's effort vs direction, the read that most stalls are direction problems, and it's why "you weren't consistent" is the wrong default. It's also the category's favorite excuse, since a seller earns again when the buyer blames himself. The read breaks when his record shows the effort isn't there. Then you say so plainly, as a fact about the log instead of a verdict on him.
+The man at your door has already proven effort, because months of something most days is not how laziness looks. What he lacked was direction: which levers, in what order, and how he'd know. That's effort vs direction, the read that most stalls are direction problems, and it's why "you weren't consistent" is the wrong default. It's also the category's favorite excuse, since a seller earns again when the buyer blames himself. The read breaks when his record shows the effort isn't there, and then you say so as a fact about the log. Otherwise, say the true thing with force: "You've put in [eight] months of real work, and nobody gave you a way to see what it was doing."
 
 ### Every stall gets one of three verdicts
 
@@ -224,11 +224,11 @@ At week 6, the verdict question comes first: given his adherence, is the lever m
 | Misdirected | Clean measurement; the work went to a lever that doesn't fit his goal | Change one lever, and say so in writing if the miss was yours |
 | The lever doesn't move for him | The right lever, done and cleanly measured, still flat | Say it, and let his written terms take it from there |
 
-Those are **Stall Verdicts**: a stall is unmeasured, misdirected, or "the lever doesn't move for this person". They run on his DIY months before he buys, in the fit conversation, your free first call, or in the written plan from your paid assessment. They run again at the week-6 read, the written mid-program read, and at week 12. The plateau work around them, from plateaus announced in his written terms to a re-plan within 48 hours, is the Plateau Plan (Module 21).
+Those are **Stall Verdicts**: a stall is unmeasured, misdirected, or "the lever doesn't move for this person". They run on his DIY months before he buys, in the fit conversation, your free first call, or in the written plan from your paid assessment. They run again at the week-6 read, the written mid-program read, and at week 12. The plateau work around them, from plateaus announced in his written terms to a re-plan within 48 hours, is the Plateau Plan, and the stop, refund, and referral after the third verdict is the Honest Exit (Module 21).
 
-The third verdict is the one operators avoid, and it's what makes the other two believable. At week 6 it stays provisional. Hold the plan, write down what week 12 will decide, and remind him the exit right is his, a pro-rata refund for a client who did the work. At week 12, say it with force aimed at the situation: "Your logs show [~90]% of days, and none of your markers has moved. That's not an effort problem, and I won't pretend it is. This lever isn't moving for you, and more months of it would cost you money and another season of guessing."
+The third verdict is the one operators avoid, and it's what makes the other two believable. At week 6 it stays provisional. Hold the plan, write down what week 12 will decide, and remind him the exit right is his, a pro-rata refund for a client who did the work. At week 12, say it with force aimed at the situation: "Your logs show [~90]% of days, and none of your markers reached its threshold. That's not an effort problem, and I won't pretend it is. This lever isn't moving for you, and more months of it would cost you money and another season of guessing."
 
-Then his terms take over. The non-response clause, the partial cash refund owed when markers haven't moved despite his effort, pays out, with no Round Two offer and a referral where his question belongs elsewhere. Before he buys, the same verdict is a written plan that says "don't buy", and it gives his past months a true culprit: advice sold to him without a way to measure it.
+Then his terms take over. The non-response clause, the partial cash refund owed when no marker reaches its threshold despite his effort, pays out, with no Round Two offer and a referral where his question belongs elsewhere. Before he buys, the same verdict is a written plan that says "don't buy", and it gives his past months a true culprit: advice sold to him without a way to measure it.
 
 ## 6. The Canon
 
@@ -256,7 +256,7 @@ That set is the **Canon**: 5–7 calibrated core claims, the Honest Answer first
 
 Run it by five rules. The Honest Answer comes first, because the bone question is the category's question and every other claim gets heard through his answer to it. Every claim is said at its evidence tier and in the same words everywhere: long-form, short-form, the result page, emails, calls, and check-in replies. Each claim has one proof asset a skeptic can check, so the repetition always rests on something. Every claim reaches every surface on a rotation you set once and keep. And a claim changes only when the evidence does, with the change posted as a dated correction in your public log.
 
-Five to seven is a working range. With fewer, a link goes unmaintained; with many more, no claim comes round often enough to hold. A Canon that bent to demand would also show in that dated log, which is the point of keeping one. In email, the Canon runs as the Canon Lane, a low-frequency lane that repeats the claims to every subscriber (Module 26).
+Five to seven is a working range. With fewer, a link goes unmaintained; with many more, no claim comes round often enough to hold. In email, the Canon runs as the Canon Lane, a low-frequency lane that repeats the claims to every subscriber (Module 26).
 
 ## Worked Example: Dan, Link by Link from First Video to Renewal
 
@@ -270,7 +270,7 @@ Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about
 
 **The call: Now, and the decision.** You ask what another year like the last would cost him. He names it in his own words: another year of ducking the team photo, and still not knowing. You say it back plainly, "Then waiting costs you another year of not knowing," and let it land. Then you show the real tiers, premium first, recommend the Program, your 12-week flagship, from the next monthly start, and state its price once. He answers yes to "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?", and the Fit Check finds no signal. Day one is booked. Left alone: what the device cost him.
 
-**Week 4: where the chain nearly broke.** His check-in asks a question. A stranger online claims a jawline in [30] days from [a different routine], so should he switch? His logs are steady, so this isn't Self. The Honest Answer he watched weeks ago has faded, as corrections do, and Range and Vehicle are wobbling together. You name the frustration and leave the stranger out of it: "It's maddening to see a photo like that and wonder if you picked wrong. A before-and-after with no matched capture proves nothing, whoever is in it. Your week-6 read on [date] will answer the question from your own record."
+**Week 4: where the chain nearly broke.** His check-in asks whether he should switch, because a stranger online claims a jawline in [30] days from [a different routine]. His logs are steady, so this isn't Self. The Honest Answer he watched weeks ago has faded, as corrections do, and Range and Vehicle are wobbling together. You name the frustration and leave the stranger out of it: "It's maddening to see a photo like that and wonder if you picked wrong. Most of the proof online is a closer phone, a higher light, or a few pounds lost. Your week-6 read on [date] will answer the question from your own record."
 
 That's the right evidence for the link that broke: a Canon claim in the words he first heard it, plus a date on his own record. A pep talk would have aimed at Self, which held. He stays on the plan, and his next week logs [6] of [7] days.
 
@@ -343,13 +343,13 @@ Keep one row per claim, five to seven rows, and check them in your quarterly rev
 
 ## Quick Reference
 
-**In one line.** Every yes is a completed chain of beliefs: find the link that broke, check it with one question, and bring the right evidence for the link that broke.
+**In one line.** Every yes is a completed chain of beliefs: check which link failed with one question, then bring the right evidence for the link that broke.
 
 **Takeaways**
-- Belief moves toward evidence in small, fading steps, so repeat calibrated claims. Efficacy drives behavior; stakes only aim it.
+- Belief moves toward evidence in small, fading steps, so repeat calibrated claims; efficacy drives behavior, and stakes only aim it.
 - Repair the earliest broken link first, and trust his record over his words.
 - Name the destination vividly, then the obstacle, the plan, and one line beyond the face.
-- Raise self-efficacy hard, cap belief in the method at the Outcome Map, and give every stall an honest verdict.
+- Raise self-efficacy hard, and cap belief in the method at the Outcome Map.
 
 **The chain**
 
@@ -364,7 +364,9 @@ Keep one row per claim, five to seven rows, and check them in your quarterly rev
 | Hold | His week-12 record against the timeline he accepted |
 | Share | A private ask and a guide worth forwarding |
 
-**The verdicts.** Adherence first. Then unmeasured → fix the measurement; misdirected → change one lever; the lever doesn't move → say so, and his terms take over.
+**The verdicts.** Adherence first. Then unmeasured → fix the measurement; misdirected → change one lever; doesn't move → say so, and his terms take over.
+
+**Canon rules.** 5–7 claims, the Honest Answer first; same words, one proof asset each, a fixed rotation; changed only by dated correction.
 
 **Framework cheat sheet**
 
@@ -378,4 +380,4 @@ Keep one row per claim, five to seven rows, and check them in your quarterly rev
 
 **Leans on:** the Outcome Map and the Honest Answer (Module 3) · the Destination Ladder (Module 2) · the Dignity Route (Module 15) · the belief sentence (Module 18) · the objection map (Module 19) · the Plateau Plan (Module 21) · Measured-Peak Asks (Module 22) · the Canon Lane (Module 26).
 
-**Do this month:** fill a link card for your last [ten] no's and tag your last [ten] assets by link; write your Canon, the Honest Answer first, and set its rotation; add the obstacle, the plan, and the perspective line to every destination line on your page and result email.
+**Do this month:** fill a link card for your last [ten] no's; write your Canon, the Honest Answer first, and set its rotation; add the obstacle, the plan, and the perspective line to every destination line on your page.

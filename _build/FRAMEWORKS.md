@@ -108,7 +108,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 
 | | Name | Definition | Status | Owner | Also in |
 |---|---|---|---|---|---|
-| ★ | **The Belief Chain** | Cause, Range, Vehicle, Guide, Self, Now (then Hold and Share). Every no names a broken link | new | 14 | 15–22 |
+| ★ | **The Belief Chain** | Cause, Range, Vehicle, Guide, Self, Now (then Hold and Share). Every no names a broken link, though a stop rule can mark a link you never work on (money he's said he can't spare, distress, a minor) | new | 14 | 15–22 |
 | ◆ | **Fantasy to Expectation** | Name the desire vividly, then the obstacle and the plan in the same breath, with one perspective line | new | 14 | 18, 19 |
 | ◆ | **The Efficacy Split** | Raise self-efficacy hard; raise belief in the method only as far as evidence allows | new | 14 | 16, 21 |
 | ◆ | **Stall Verdicts** | A stall is unmeasured, misdirected, or "the lever doesn't move for this person" | new | 14 | 05, 21 |
