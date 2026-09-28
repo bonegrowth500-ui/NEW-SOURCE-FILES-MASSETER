@@ -343,16 +343,15 @@ This is *Sell directly* at full strength: one recommendation, the price once, bo
 >
 > **You:** "No, it's $[2.8k] for everyone in April. That's a written review of your week within [turnaround], the weekly call, and both reads. Shall I check in on the [10th]?"
 
-The line you never send is "Price goes up soon, lock it in now." At "I can't afford it", the stop rule ends it: the Starter Path once, and the pause route. The other cases, one line each:
+The line you never send is "Price goes up soon, lock it in now." At "I can't afford it", the stop rule ends it: "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." The other cases, one line each:
 
 - *Unverified contact:* "Happy to help. Everything starts with a short self-assessment: [link]. You'll get a written result, and I reply to every one myself."
 - *Asking about Private:* "Private starts with the priority assessment, a written plan within [48 hours]. If it recommends Private, we talk before any payment."
-- *"I can't afford it":* "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write."
 - *A minor:* the education-lane reply from your DM templates, with nothing kept and anything paid refunded.
 
 **The paid session's booking page.**
 
-> Cohort walkthrough and Q&A; the offer and price are inside. Live for [60] minutes on the [fourth Tuesday] of every month; next: [date]. I walk through what 12 weeks deliver, what I don't claim, and what it costs, then answer typed questions without names. Cameras stay off, and nobody sees who else attended. Booking asks the same short questions as any paid step. The offer inside is the one on the offer page, with no attendee price or bonus. Fee: $[25–50]. Terms: the fee counts toward any program you join, on the Decision Assessment's terms.
+> Cohort walkthrough and Q&A; the offer and price are inside. Live for [60] minutes on the [fourth Tuesday] of each month; next: [date]. I walk through what 12 weeks deliver, what I don't claim, and what it costs, then answer typed questions without names. Cameras stay off, and nobody sees who attended. Booking asks the short questions every paid step asks, and the offer inside is the one on the offer page. Fee: $[25–50]. Terms: the fee counts toward any program you join, on the Decision Assessment's terms.
 
 ## Stage Notes
 
@@ -377,9 +376,9 @@ The line you never send is "Price goes up soon, lock it in now." At "I can't aff
 
 **Takeaways**
 - The Async Arc runs seven beats in the call's order, each with one owning asset: his stall, a better cause, your standard, one recommendation, the price, the ask, a real date.
-- The result page answers in that order, with branches computed as it loads, and a burned buyer sees the kit first.
-- Five emails run cause, standard, price, objection, and date, with both dates in each, and end at his decision point.
-- The Call Economics Test gives reserved free calls to uncertain buyers and high-ticket decisions; Private and stop-rule conversations get one regardless.
+- The result page's branches are computed as it loads, and a burned buyer sees the kit first.
+- Five emails carry both dates and end at his decision point.
+- Reserved free calls go to uncertain buyers and high-ticket decisions; Private and stop-rule conversations get one regardless.
 
 **Who gets what**
 
