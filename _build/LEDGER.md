@@ -105,7 +105,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Fit-check conversations, Starter Path hand-offs, renewal reviews | 0.25 | 0.5 | 0.5 | 0.5 |
 | Building (protected build line) | 1.5 | 1.25 | 1.0 | 1.0 |
 | Admin, freelancer briefs, Operator Review | 1.0 | 1.5 | 1.5 | 1.5 |
-| **Total** | **~19.75–20.25** | **~22.0** | **~19.75** | **~21.0** |
+| **Total** | **~19.75–20.25** | **~22.0** | **~19.75** | **~20.25** (~21–21.5 with 1–2 Private seats at parity) |
 | Protected content minimum | ~8.5 | ~6.75 | ~5.25 | ~5.0 |
 
 | Unit | Range | Moves it | Status |
@@ -128,7 +128,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Self-Serve System | — | ~15 × ~$197 ≈ $3k |
 | Decision Assessment fees (non-buyers) | ≈ $1k | ≈ $2.2k |
 | **Revenue → profit** | **≈ $31.5k → ≈ $24.5–26.5k** | **≈ $56k → ≈ $44–47k; small Price Steps over time carry it to ~$50k** |
-| Week | ~19.75 h | ~21 h |
+| Week | ~19.75 h | ~20.25 h (~21–21.5 with Private at parity) |
 | Eligible leads needed (≈ enrollments ÷ eligible lead → enrollment) | ~120–285/month at 3–7% (a proven door by Scaling); ~570 at 1.5% | ~185–435/month at 3–7% (~13 enrollments); ~870 at 1.5%. Band C–D reach, or Band B with a working paid reach lever |
 | Held conversations at the configuration | ~8–17/month (about half of enrollments close without a call; held → enrollment 25–45%) | ~9–18/month (~65–70% of enrollments without a call) |
 | Engaged long-form view equivalent | ~35–475k/month (120–285 eligible leads; 30–70% eligible share; 2–5 raw leads per 1,000 engaged views). Short-form and Instagram add reach not captured here | ~55–725k/month on the same assumptions |
@@ -286,6 +286,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Small numbers | A ledger range yields to the operator's own ratio only after ~30 events. Change course only when a ratio sits outside the range for two consecutive 30-event windows, or on strong qualitative signal | RULE |
 | Warm network and early replies (labeled source) | ~2–8 held conversations/month in months 1–3 (disclosed), decaying to ~1–4 by month 9 (including referrals). Replace after ~30 events | PL (E) |
 | Speed to lead | Personal reply to every adult door completion within hours; booked within 24–48 h; reminded; held. Automate when replies exceed ~1 h/day | RULE |
+| Live windows | 2–3 fixed windows a week for calls and live replies; everything else batches | Calendar design | RULE (THESES B21) |
+| No-show rule | One templated rebooking offer; a second miss releases the slot; no chasing | — | RULE |
 | Founding Sprint targets | 3–6 held conversations/week. Honest expectation: 0–2 clients in month 1, 2–6 by month 3 depending on sources | PL |
 | Seat caps | Set monthly from measured care minutes (Seat Math), including the Hold and Private, so client work cannot eat the protected content minimum | RULE |
 | Content minimum | Never below ~5 h/week at any stage; the A4 allocations are protected | RULE |

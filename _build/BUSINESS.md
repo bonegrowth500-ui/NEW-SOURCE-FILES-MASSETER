@@ -110,7 +110,7 @@ PATH AND TIMELINE CARD + EXPECTATION DOCUMENT sent before payment
 | Premium | ~1 Private seat a quarter while minutes are spare | Private only if it passes the Parity Rule |
 | Leverage | — | Self-Serve System ~$3k · async assessment fees ~$2.2k |
 | Revenue → profit | ≈ $31.5k → ≈ $24.5–26.5k | ≈ $56k → ≈ $44–47k; Price Steps carry it to ~$50k |
-| Week | ~19.75 h | ~21 h |
+| Week | ~19.75 h | ~20.25 h (~21–21.5 with Private at parity) |
 
 **The capacity truth.** All-in care runs ~18–20 minutes per client-week in Growing and ~13–15 at Scaling (review + group call + milestones). Capacity is ~25–30 concurrent in Growing and ~40–45 at Scaling, which caps new enrollments at ~8–10 and ~12–15 a month. Past that, profit grows only through price (inside the cash ceiling), the back end, tiering, templated review, and async assessments.
 

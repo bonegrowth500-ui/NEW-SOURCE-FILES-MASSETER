@@ -16,7 +16,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
 | 09 | 09-the-founding-phase.md | a4d1beee624d836ef | — | drafting |
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | — | drafting |
-| 11 | 11-the-operating-week.md | ad69db360e41d53c3 | — | drafting |
+| 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | draft done (7,428 w) → critique |
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | — | drafting |
 | 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | — | drafting |
 
@@ -64,3 +64,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 06): service guarantee covers operator review errors (corrective weeks free, never a paid block); full-intensity Round Two priced as a Program only when the misdirection came from outside the plan, disclosed on the Card. LEDGER B updated; 07 and 10 must follow.
 - R2 (from 04 final): fixed Module 2 L182 money-based re-entry ('when it's comfortable…') → buyer-controlled re-entry ('the door opens again whenever he writes back'). Told 07: fit-paused buyers get the reading-only Starter Path.
 - R2 (07 final): failed-payment grace period 7 days; non-response share fixed per start inside 25–50% = largest the reserve covers if the whole start claimed, stated in the Expectation Document (LEDGER B).
+- R3 round (from 11): LEDGER A4/A5 + BUSINESS $50k week corrected to ~20.25 h (~21–21.5 with 1–2 Private seats at parity); lines never summed to 21. New LEDGER H rows: live windows 2–3/week; no-show rule (one templated rebooking, second miss releases the slot, no chasing). Module 06 Expectation Document fixed: automated reminders for scheduling; no one but the operator reads or answers client messages. 13 told to say 'about 20–21 hours'.
