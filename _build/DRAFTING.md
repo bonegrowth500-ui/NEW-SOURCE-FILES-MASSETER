@@ -139,3 +139,4 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
 - **Measured peak (round 5):** adherence at or above his threshold and at least one marker at its threshold, so no refund decision is open. Every renewal, referral, testimonial, or upgrade ask waits for one.
 - **Training-Partner Seat (round 5):** pair enrollment of two adults into one start, each through his own door. At graduation it's a referral variant: the graduate introduces the person he trains with. No pair discount.
 - **Warmth Ladder rungs (round 5):** Stranger → Returning → Assessed → Deciding. Surfaces map onto these by pointer (Module 18).
+- **Evergreen content and dates (round 5):** evergreen videos and pages never speak specific dates; they point to "the next start and its last day to join" on a page that updates. Only dated sends carry dates.
