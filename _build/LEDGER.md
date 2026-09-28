@@ -258,6 +258,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Underestimating compliance with direct asks | People expect roughly half the yeses they get | Ask everyone, privately | EV (M) |
 | Voice vs text | Hearing a person's voice makes his reasoning seem more thoughtful and human than the same words in text | Why voice-note replies carry the one recommendation | EV (M; one lab) |
 | In-person vs written requests | Requests made in person get far more yeses than the same request by email or text, and requesters underestimate the gap | Why the referral ask is private and live where possible | EV (M/W; one group) |
+| Audio quality and credibility | Poor audio makes the same speaker and the same content seem less credible | Why the Production Bar puts sound before picture | EV (M; one group) |
+| Author replies in comments | Replies from the author raise perceived credibility; visibly deleting critical comments can lower it | Why the Comment Courtroom answers and never purges honest disagreement | EV (M/W; mostly news-comment studies) |
 | Peak-end memory | Final moments and peaks weigh heavily in retrospective judgment | Make the last fortnight the peak | EV (M) |
 | "Free to refuse" phrasing | Small or none in low-bias studies | Insurance, not a lever | EV (C) |
 | Correction backfire | Essentially none; effects small and fading | Repetition needed | EV (S) |

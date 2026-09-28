@@ -3,7 +3,7 @@
 
 **The shift:** from *"Every platform is a stage"* to *"Platforms are where engagement starts, and replies, DMs and routes carry it to the door."*
 
-On Thursday night a Reel about month eight lands: same photos, same guessing, no idea what's working. By Saturday your inbox holds [180] messages. [Fourteen] are adults with real questions, like whether it's too late at 26 and what your 12-week Program costs. About [90] are a photo and two words: "rate me". [Six] mention a school timetable or a parent's phone. One, sent at 2 a.m., says he can't stand seeing himself in any photo.
+On Thursday night a Reel about month eight lands: same photos, same guessing, no idea what's working. By Saturday your inbox holds [120] messages. [Fourteen] are adults with real questions, like whether it's too late at 26 and what your 12-week Program costs. About [90] are a photo and two words: "rate me". [Six] mention a school timetable or a parent's phone. One, sent at 2 a.m., says he can't stand seeing himself in any photo.
 
 Run that inbox as a stage and every message becomes an audience: a kind rating for each photo, a pitch for the adults, a long reply for everyone, and your weekend gone. Run it as a router and each message already has a destination. The adults get the idea and the door. The photos get no rating. The boys get the education lane, your free content and an orthodontist referral, with nothing kept. The 2 a.m. message gets you, personally, with a referral and no sale.
 
@@ -21,7 +21,7 @@ The stage habit costs more in this category than in most. The formats that gathe
 
 ### The editing budget sets the count
 
-Every platform charges a native tax, the cost of making a piece belong there: its own first seconds, text, captions, and ask (Module 24). Your editing budget is what you can spend on that tax each week, in your hours and your editor's, once long-form is served. Stretch it and each extra platform gets cross-posted leftovers that underperform. The hours also come out of long-form first, because its cost arrives last: a skipped video shows up a month later as thinner leads.
+Every platform charges a native tax, the cost of making a piece belong there: its own first line, on-screen text, cover, and caption (Module 24). Your editing budget is what you can spend on that tax each week, in your hours and your editor's, once long-form is served. Stretch it and each extra platform gets copies with no native pass, which read as imports and underperform. The hours also come out of long-form first, because its cost arrives last: a skipped video shows up a month later as thinner leads.
 
 A hurried adaptation costs twice here. A clip cut away from its caveat is a new claim you never approved. A caption written at 11 p.m. is where "results in 90 days" creeps in, in a category whose skeptics screenshot exactly that line. So the count protects your claims as well as your hours:
 
@@ -31,7 +31,7 @@ That's the **Platform Count Rule**: run only as many platforms as your editing b
 
 ### Reid adds two platforms and thins the one that mattered
 
-Reid (composite operator) is Early, in month [3], with long-form every other week and [five] native shorts a week cut for Shorts and Reels, each Reel carrying a keyword. Reach feels slow, so he adds a daily X post and [three] carousels a week on the same hours and the same editor. Within [three] weeks the shorts shrink to [three] cross-posted cuts sharing one caption. The carousels eat the design hours, his X posts are mostly links, and his next long-form slips a week. Followers climb on both new surfaces, while eligible leads drift from [about 20] a month toward [about 12], because the pieces adults found him through are the ones that thinned.
+Reid (composite operator) is Early, in month [3], with long-form every other week and [five] native shorts a week cut for Shorts and Reels, each Reel carrying a keyword. Reach feels slow, so he adds a daily X post and [three] carousels a week on the same hours and the same editor. Within [three] weeks the shorts shrink to [three] copies with no native pass, the carousels eat the design hours, his X posts are mostly links, and his next long-form slips a week. Followers climb on both new surfaces, while eligible leads drift from [about 20] a month toward [about 12], because the pieces adults found him through are the ones that thinned.
 
 The read is a count, with no verdict on either platform. His budget serves long-form, one native short-form batch cut two ways, and the keyword routing. So X and the carousels go in the order the De-Scoping Order, your fixed sequence of cuts for an overloaded week, would take them: X first, then native Instagram, routing kept (Module 11). He keeps X as replies inside his replies line, where it costs no editing. By month [5] long-form is back on cadence and eligible leads are back near [18–22] a month.
 
@@ -64,7 +64,7 @@ A reply runs in three steps. First, answer the idea in full, in public, so it st
 
 **Answer the idea in public, ask before anything private, and route to the door.**
 
-That's **Permission-First Replies**: answer the idea in public, ask permission before any private message, and route to the door. When you can't tell his age, the public answer and the public door link are the whole reply, because a link is routing and a DM is contact. A minor gets the education lane in public and nothing more (Module 5). A comment that reads as distress gets neither the idea nor the link: a kind line, where to find help, and an open invitation to message you. Replies on other people's threads stay yours, since each is a claim, while routing help, a freelancer who moderates your comments from Growing, can post the templated link under your own pieces.
+That's **Permission-First Replies**, and the same three steps settle the edge cases. When you can't tell his age, the public answer and the public door link are the whole reply, because a link is routing and a DM is contact. A minor gets the education lane in public and nothing more (Module 5). A comment that reads as distress gets neither the idea nor the link: a kind line, where to find help, and an open invitation to message you. Replies on other people's threads stay yours, since each is a claim, while routing help, a freelancer who moderates your comments from Growing, can post the templated link under your own pieces.
 
 ### Theo asks in public and stays there
 
@@ -76,9 +76,9 @@ That's **Permission-First Replies**: answer the idea in public, ask permission b
 >
 > **You:** "Here: [sample plan] · [sample weekly review] · [the terms]."
 
-His "post them here" was a no to the DM, so the kit went public and nothing private followed. The public answer served every silent reader who shares his doubt, and it repaired Guide, his belief that you're worth trusting with this, with evidence anyone can open.
+His "post them here" was a no to the DM, so the kit went public and nothing private followed. The answer served every silent reader with his doubt, and it repaired Guide, his belief that you're worth trusting, with evidence anyone can open.
 
-If he pushes, "So no results, then?", answer from the log: "Not as outcome ranges yet. Those start at 10 graduates, labeled as a small sample, on the date in the log." Never write "DM me and I'll show you results privately", because private results can't be checked and the offer is the closer's opening.
+If he pushes, "So no results, then?", answer from the log: "Not as outcome ranges yet. Those start at 10 graduates, labeled as a small sample, on the date in the log." Never write "DM me and I'll show you results privately", because private results can't be checked.
 
 ### What replies never do
 
@@ -88,7 +88,7 @@ With faces out of bounds, all the force goes to practices and business models. H
 
 > **You:** "Fair question, and the appeal makes sense: you want a change you can see, and the device promises one. But there's no good evidence that habits change the shape of an adult's bone, and a device you chew on is a habit with a price tag. Selling it on forward growth sells the one result the evidence doesn't support. Ask any seller, me included, for matched captures and how many people the result came from."
 
-The reply names no seller, touches no face, and ends in a test he can apply to you. That's *Fight ideas, not people* at its sharper setting: a grift claim doesn't get to stand in a thread you've answered. If he answers "I've seen the before-and-afters", ask whether the light, angle, and distance match, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and gives his buyers a reason to defend him.
+The reply names no seller, touches no face, and ends in a test he can apply to you: *Fight ideas, not people* at its sharper setting. If he answers "I've seen the before-and-afters", ask whether the light, angle, and distance match, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and gives his buyers a reason to defend him.
 
 ## 3. Instagram as a Private Router
 
@@ -108,7 +108,7 @@ The keyword goes by DM, never as a public comment. A comment keyword marks him i
 
 **A keyword by DM, one link back, and the door does the rest.**
 
-That's the **Keyword Route**: a keyword sent by DM, never as a public comment, that returns a link to your self-assessment. Use one keyword per topic, each returning a tagged link, so your door counts eligible adults by the Reel that sent them. The keyword buys the next step, never the answer, and the Reel carries no price, date, or offer.
+That's the **Keyword Route**: a keyword sent by DM, never as a public comment, that returns a link to your self-assessment. Use one keyword per topic, each returning a tagged link, so your door counts eligible adults by the topic that sent them. The keyword buys the next step, never the answer, and the Reel carries no price, date, or offer.
 
 ### Automation sends the link and nothing else
 
@@ -134,9 +134,9 @@ Instagram's teen protections limit who can message a teen first and what he's sh
 
 - **The Reel.** Packaged for adults, with an adult situation up front and a calm cover, never a rating, a comparison, or an edited jaw. Those are the Age-Up Dial's choices, the packaging that lowers minors' share (Module 23).
 - **The comments.** No keyword asks. Rating requests and minors' personal details get hidden under your comment policy, with no reply.
-- **The inbox.** The education-lane line for any message that reveals a minor, with no door link and nothing kept, and never a conversation you start. Keep an anonymous count of minors' messages by Reel.
+- **The inbox.** The education-lane line for any message that reveals a minor, with no door link and nothing kept, and never a conversation you start. Keep an anonymous count of minors' messages by keyword.
 
-The count is the control you steer by. When one Reel's messages skew young, the fix goes into the next Reel's packaging, since the reply was already right.
+The count is the control you steer by. When one keyword's messages skew young, the fix goes into the packaging of the Reels that carry it, since the reply was already right.
 
 ## 4. DM Templates by Case
 
@@ -157,7 +157,7 @@ The four templates are written once, approved once, and fitted to each man with 
 | 3 | "Rate me", with or without a photo | No rating, the idea behind the question, and the door link | A word about his photo or any feature, kind or not | Nothing; the photo is never saved or forwarded |
 | 4 | An adult with a question | The idea in a line or two, then the door; once he's verified, one recommendation and a checkout link | A close before verification; Private without a call | Only what the door records |
 
-The order matters because messages mix cases. A man who wants a rating and hates every photo of himself is case 1 first, since help comes before any redirect. A 16-year-old asking the price is case 2 and gets no price. A side profile attached to "is this worth it at 27?" is case 3 before case 4, so his question gets an answer and his photo doesn't. A protective stop, a stop rule that protects him, leaves only "stopped: stop rule" on record. Nothing from the thread feeds your objection log or your content plan.
+The order matters because messages mix cases. A man who wants a rating and hates every photo of himself is case 1, since help comes before any redirect. A 16-year-old asking the price is case 2 and gets no price. A side profile attached to "is this worth it at 27?" is case 3 before case 4, so his question gets an answer and his photo doesn't. A protective stop, a stop rule that protects him, leaves only "stopped: stop rule" on record, and nothing from the thread feeds your objection log or content plan.
 
 ### The DM Handoff decides what an adult can buy here
 
@@ -218,7 +218,7 @@ The limits are about people. Quote-post an argument made in public by someone ar
 
 **When the signals disagree.** A large account quote-posts your Honest Answer, your standing answer to the bone question, with "coach admits nothing works lol". By evening [several hundred] replies have piled on, some rating your face. Reach says ride it: reply to everyone, quote him back, post a thread while the eyes are there. The lab says a joke isn't an objection, so there's nothing to test. Your door says [five] completions tagged X, [one] of them eligible.
 
-Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. Hide replies that rate faces, yours included, and meet appearance attacks with the first line of your face statement, the pinned note that your face is evidence neither way. If a real counter-argument surfaces in the noise, answer it on its own thread and log it. Judge the week by tagged completions, never follows.
+Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. Hide replies that rate faces, yours included, and meet appearance attacks with the first line of your face statement, the pinned note that your face is evidence neither way. A real counter-argument in the noise gets its own thread and a line in the log.
 
 ## 6. Measuring Each Platform
 
@@ -226,9 +226,9 @@ Each platform is judged by the number its job produces, eligible adults through 
 
 ### Instagram is judged by eligible adults per keyword
 
-Instagram's number is eligible-adult yield, eligible leads per unit of reach by source, counted through each keyword's tagged link. Read it per 1,000 engaged Reel views and per keyword message. Beside it sit two anonymous counts per Reel, minors' messages and rating requests, which steer packaging. Likes and follows stay off the scoreboard, since at a fraction of a percent per post they measure almost nothing.
+Instagram's number is eligible-adult yield, eligible leads per unit of reach by source, counted through each keyword's tagged link. Read it per 1,000 engaged Reel views and per keyword message. Beside it sit two anonymous counts per keyword, minors' messages and rating requests, which steer packaging. Likes and follows stay off the scoreboard, since at a fraction of a percent per post they measure almost nothing.
 
-One ratio in between shows where a Reel leaks: keyword messages to door completions. Many messages and few completions mean the Reel drew people the door turns away, usually minors or men who wanted a rating, so its packaging is what changes.
+One ratio in between shows where Reels leak: keyword messages to door completions. Many messages and few completions mean the Reels drew people the door turns away, usually minors or men who wanted a rating, so their packaging is what changes.
 
 Until your own ratios exist, plan with the ledger's. Short-form views yield about 0.1–1 lead per 1,000, and about 30–70% of raw leads are eligible, the low end when packaging pulls young. Replace each with your own ratio after about 30 events, because a few messages can make any Reel look like a winner.
 
@@ -250,7 +250,7 @@ Keep each denominator fixed and named in the metric, the habit Denominator Disci
 
 Cole (composite operator) is Growing in month [11], with the Program at $[2.4k], X running as a full lab, and his Reels routing through the Keyword Route. The last 30 held conversations in his objection log show one doubt more than any other: "Why pay when it's free on YouTube?" It's a Vehicle objection, a doubt that a paid program is the way to get there.
 
-**Week 1. The claim, verbatim.** He posts the Canon's fourth claim word for word, "A record doesn't read itself; review turns it into a decision", beside the objection and his usual answer: free videos give you the method but can't read your record. [Forty] replies agree. Then a strength coach with a larger following objects that most people just need consistency, and that paid review is a crutch. That's the strongest version, so Cole answers with a second argument. Consistency is the half a man can do alone; review is the other half, noticing when eight consistent weeks are aimed at a lever that doesn't move for him.
+**Week 1. The claim, verbatim.** He posts the Canon's fourth claim word for word, "A record doesn't read itself; review turns it into a decision", beside the objection and his usual answer: free videos give you the method but can't read your record. [Forty] replies agree. Then a strength coach with a larger following objects that most people just need consistency, and paid review is a crutch. That's the strongest version, so Cole answers with a second argument: consistency is the half a man can do alone, and review is the other half, noticing when eight consistent weeks are aimed at a lever that doesn't move for him.
 
 The coach narrows to "fair, for people already consistent for months". Log: the first argument, no contest; the second, held. [Three] door completions come in tagged X.
 
@@ -267,7 +267,7 @@ The coach narrows to "fair, for people already consistent for months". Log: the 
 
 **Week 6. Two verified adults.** Dan *(composite, Struggler)*, 24, came through [RECORD], finished the door, and confirmed his email. He asks "When's the next start?" and gets the DM Handoff: the [Month] start, its last day to join, the price once, and the checkout link. He joins [two] days later, after the checkout's checks. Adrian *(composite, Optimizer)*, 31, asks about Private and hears the route: the priority tier first, the faster version of the paid written plan, and a call only if that plan recommends Private.
 
-**Left alone.** No public keyword comment, no date on the Reel, no reply to the [forty] cheers, and nothing from the distress thread in his objection log or content plan.
+**Left alone.** No public keyword comment, no date on the Reel, no reply to the cheers, and nothing from the distress thread in his objection log or content plan.
 
 **The outcome, six weeks on.** Eligible leads by route: X [3–5], the long-form piece [15–25], the Reel's keyword links [12–20]. Minors made up [about one in four] of the threads Cole read, so his next Reel opens on a work scene instead of a bathroom mirror.
 
@@ -286,19 +286,19 @@ Runs on:          The platform's own keyword setting, or a tool that keeps no co
 Never in it:      A question, a price, a date, an offer, a follow-up.
 ```
 
-**DM replies by case.** Open with his words where you can, and fit each reply to him with one line.
+**DM replies by case.** Each opens with his words where it can.
 
 *Case 1, distress.*
 
 > **You:** "Thank you for telling me. That sounds really hard, and it matters more than anything I sell, so I won't sell you anything. Please talk to [a doctor] or [a mental-health service near you], and if you ever feel unsafe, [a crisis line] is there right now. If you want to write more, I'll read it myself."
 
-It offers a referral conversation and nothing else. If he's in your records, set the pause route and log "stopped: stop rule". Never send "The program could really help with that", which sells into distress.
+It offers a referral conversation and nothing else. If he writes "so you won't help me?", answer: "I'll read whatever you send, and I'll help you find the right person. What I won't do is sell you something while you feel like this." If he's in your records, set the pause route and log "stopped: stop rule". Never send "The program could really help with that", which sells into distress.
 
 *Case 2, a minor.* Jordan *(composite, minor)*, 16, writes "rate me, im 16, be honest":
 
 > **You:** "Thanks for asking. What I offer is only for adults, so I can't work with you, and I won't keep any of your details. The videos are free to watch. For questions about a growing face, an orthodontist is the right person to ask."
 
-His age decides the case, so the rating request gets no answer at all. Delete the conversation on your side and add one to the anonymous count. Never send "Come back when you're 18", which markets adulthood to a minor.
+His age decides the case, so the rating request gets no answer at all. If he replies that his parents would pay, the answer stays the same, with nothing added. Delete the conversation on your side and add one to the anonymous count. Never send "Come back when you're 18", which markets adulthood to a minor.
 
 *Case 3, "rate me".*
 
@@ -310,7 +310,7 @@ The Canon's claim moves his question from his face to how he comes across. If he
 
 > **You:** "It's for any adult, and it runs the same way for everyone. The Program is $[public price] for 12 weeks: a written review of your week within [turnaround], a weekly group call with your camera optional, and written reads at weeks 6 and 12. It isn't for anyone who wants a promise about bone. Everything starts with the free self-assessment: [link]. I reply to every result myself."
 
-That's *Sell directly* before verification: the offer, who it's for and isn't, the price, and one step, with the sale left to the door. Once she's verified, she can get the DM Handoff. Never send "Let's hop on a call and I'll walk you through pricing", which hides a public price behind an hour.
+That's *Sell directly* before verification: the offer, who it's for and isn't, the price, and one step, with the sale left to the door. If she asks to pay today, answer "It takes a few minutes, and it ends in my recommendation and the way to join", since the door is still the way in. Never send "Let's hop on a call and I'll walk you through pricing", which hides a public price behind an hour.
 
 ## Templates: Permission-First Reply Lines and X Formats for Canon Testing
 
@@ -319,7 +319,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 - *The ask, once he's placed himself as an adult:* "Mind if I DM you the free self-assessment? No is a fine answer." A yes gets "[link]. I reply to every result myself."
 - *Age unknown, in public:* "Start with the free self-assessment. It ends with a straight answer about what's worth measuring: [link]."
 - *A minor, in public:* "What I sell is only for adults, so this isn't for you, and the videos are free. For questions about a growing face, an orthodontist is the right person."
-- *A practice, pointedly:* "[Steelman in one line.] But [the practice] sells [the result] the evidence doesn't support in adults. Ask any seller, me included, for matched captures and how many people the result came from."
+- *A practice, pointedly:* "[Steelman in one line.] But [the practice] sells [a result] the evidence doesn't support in adults. Ask any seller, me included, for matched captures and a denominator."
 
 **X formats for canon testing.**
 
@@ -337,9 +337,9 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 
 **Early.** Reach binds, and so do your editing hours. Instagram runs as a router on the Reels you already cut, and X stays replies only, first to go when a week runs long. The default is a public answer on every thread your 2 hours of replies can reach, since Permission-First Replies start conversations while your pieces are few. The trap is posting natively everywhere because reach feels slow, which starves the long-form your first skeptics check.
 
-**Growing.** Conversion and selling minutes bind, and your calls have finally filled an objection log worth arguing from. The default is the full Argument Lab, feeding the arguments that hold into objection pieces, while routing help takes comment moderation off your replies line. The trap is letting that helper, or a tool, into the inbox because DMs pile up.
+**Growing.** Conversion and selling minutes bind, and your calls have filled an objection log worth arguing from. The default is the full Argument Lab, feeding held arguments into objection pieces, while routing help takes comment moderation off your replies line. The trap is letting that helper, or a tool, into the inbox because DMs pile up.
 
-**Scaling.** Care minutes bind, and routing help moderates while every DM stays yours, templated by case. The default is to keep only the platforms whose arguments or keyword yield still feed long-form and the door. The trap is a DM flow that qualifies buyers for you, which puts a script where minors and distress arrive.
+**Scaling.** Care minutes bind; routing help moderates while every DM stays yours, templated by case. The default is to keep only the platforms whose arguments or keyword yield still feed long-form and the door. The trap is a DM flow that qualifies buyers for you, a script where minors and distress arrive.
 
 ## Standard Check
 

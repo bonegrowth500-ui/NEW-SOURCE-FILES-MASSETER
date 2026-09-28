@@ -5,7 +5,7 @@
 
 Reid *(composite operator)* has [2,600] addresses from a year of long-form and one Thursday letter written for all of them: a tip, his newest video, and "reply if you want coaching". Cole *(composite operator)* has [340] eligible adults, legal adults who could pay from their own income or savings without new credit. He sends no weekly letter at all. In the same quarter, Reid's list produces [two] enrollments. Cole's [April] start fills [6] of its [8] seats, and [four] of those men finished his door, the self-assessment every lead comes through, in the six weeks before it.
 
-The difference is flow, not size. Each of Cole's leads got his result within minutes, then a welcome that said how often Cole would write and how to leave. Then came the emails his answers called for, ending in one recommendation with its price and the next start's two dates. Reid's new leads got "thanks, here's your result" and waited for Thursday, when a letter written for everyone recommended nothing to anyone.
+The difference is flow, not size. Each man who finished Cole's door, usually after months of guessing on his own, got his result within minutes, then a welcome that said how often Cole would write and how to leave. Then came the emails his answers called for, ending in one recommendation with its price and the next start's two dates. Reid's new leads got "thanks, here's your result" and waited for Thursday, when a letter written for everyone recommended nothing to anyone.
 
 With no free community, email is where the relationship lives. This module builds it in the order it earns, from each man's first weeks to the mail that follows a purchase.
 
@@ -15,7 +15,7 @@ Your list earns in its flow, the first weeks after each man finishes your door, 
 
 ### His decision starts cooling the night he makes it
 
-A man reaches your self-assessment after months of solo effort, usually in a week when something stung. It might be a team photo, a device that did nothing, or a video that made his eight months look wasted. In a few minutes he writes down his stall, when he could start, and how he'd like to decide. He won't be this decided again for months. It starts cooling that night, as the next video offers the next tip and the comparison-photo habit fills the space where a decision was.
+A man reaches your self-assessment after months of solo effort, usually in a week when something stung. It might be a team photo, a device that did nothing, or a video that made his eight months look wasted. In a few minutes he writes down his stall, when he could start, and how he'd like to decide. He may not be this decided again for months. It starts cooling that night, as the next video offers the next tip and the comparison-photo habit fills the space where a decision was.
 
 A letter written for everyone lands on whatever day of that cooling it happens to hit. It can't use what he told you, so it can't name his start or answer the doubt his answers predicted. The stock it reaches is mostly men past their moment. Silence grows with every month since the door, and about 0.1–0.4% of the list leaves with each send.
 
@@ -23,7 +23,7 @@ A letter written for everyone lands on whatever day of that cooling it happens t
 
 A message sent by his tags, days after his door, names the start his answers picked and makes the one recommendation his route calls for. No broadcast can do either. In other markets, welcome sequences earn several times the clicks and orders per recipient that broadcasts do. That evidence comes from online stores, so trust its direction more than its size. The mechanism, relevance at the moment of interest, carries over.
 
-With no free community, the list is also where your warm pool lives: the men who came through the door and haven't decided. A warm pool stays warm on the right message at the right time, never on volume. So most of the list's work is flows, each started by something he did:
+With no free community, the list is also where your warm pool lives: the men who came through the door and haven't decided. A warm pool stays warm on the right message at the right time, and volume mostly adds complaints. So most of the list's work is flows, each started by something he did:
 
 | Flow | Starts when | Its job | Whose words |
 |---|---|---|---|
@@ -35,7 +35,7 @@ With no free community, the list is also where your warm pool lives: the men who
 | Onboarding and reminders | He buys | His start, his check-ins, his capture dates | This module |
 | Re-permission | A pause ends, or a lead goes silent | One question: stay or go | This module |
 
-Everything else is stock: the Canon Lane, a monthly email that repeats one core claim at a time; the weekly letter; and each start's two date sends. That order is **Flow Before Stock**: the result arrives within minutes and stage-matched sequences carry each new lead to one recommendation. Only once those work do you build what the whole list receives.
+Everything else goes to the stock: the Canon Lane, a monthly email that repeats one core claim at a time; the weekly letter; and each start's two date sends. That order is **Flow Before Stock**: the result arrives within minutes and stage-matched sequences carry each new lead to one recommendation. Only once those work do you build what the whole list receives.
 
 **Build the first sixty days before you build the weekly letter.**
 
@@ -43,11 +43,11 @@ Everything else is stock: the Canon Lane, a monthly email that repeats one core 
 
 Reid reads his quarter as a volume problem, so his first plan is a second weekly letter. Then he sorts a year of enrollments by each buyer's lead age on the day he paid. [Nine] of his [eleven] came from men within 60 days of first finishing his door. His [~2,300] older addresses produced [two]. His money was in the first sixty days, and those days held one email with nothing in it.
 
-So he drops the second letter and builds what those days lacked: the result in minutes, a welcome with his pace and his exit, and a sequence that ends in one recommendation with its price and dates. New leads join the Thursday letter only after their welcome ends. Over his next [two] starts, enrollments from men in their first sixty days rise from about [one] a start toward [three or four], inside what Band B, the steady band, allows.
+So he drops the second letter and builds what those days lacked: the result in minutes, a welcome with his pace and his exit, and a sequence that ends in one recommendation with its price and dates. New leads join the Thursday letter only after their welcome ends, and he leaves the letter itself alone, since it was never where his buyers decided. Over his next [two] starts, enrollments from men in their first sixty days rise from about [one] a start toward [three or four], inside what Band B, the steady band, allows.
 
 ### The weekly letter waits for a few hundred eligible adults
 
-Until your list holds a few hundred eligible adults, send no weekly broadcast. Early on, email gets about half an hour of your week. That covers the result email, the welcome, and a personal reply to every adult lead, while reach binds and an hour of short-form or public replies makes the leads a letter would need. A small list can't teach you anything either. At 2–5% clicks per delivered, a letter to [80] readers draws [two to four] clicks, too few to tell a good letter from a bad one.
+Until your list holds a few hundred eligible adults, send no weekly letter. Early on, email gets about half an hour of your week, enough for the result email and the welcome. Reach binds then, and the hour a letter would take makes more leads as short-form or public replies. A small list can't teach you anything either. At 2–5% clicks per delivered, a letter to [80] readers draws [two to four] clicks, too few to tell a good letter from a bad one.
 
 The threshold usually arrives as you move into Growing, when your week gives email about an hour and the letter has readers to learn from. Before it, stock gets two lanes that cost almost nothing: the Canon Lane, and each start's two date sends to readers who still click. And flow comes first for each man, so nothing from stock reaches him while his own welcome runs.
 
@@ -57,7 +57,7 @@ A new lead's first weeks are decided by four labels his door has already written
 
 ### His result arrives within minutes
 
-He finished the self-assessment to learn something about his stall, so the first email is his result. It holds a link to the result, a line saying you read every reply, and how often you'll write, with a one-click exit. Nothing else goes in. His interest peaks as he finishes, and a result that lands tomorrow lands after the next video has offered the next tip. Men in this category have also learned that a form which goes quiet was harvesting an address. A result in minutes is your first proof that the door does what it said, and his click on it confirms the address.
+He finished the self-assessment to learn something about his stall, so the first email is his result. It holds a link to the result, a line saying you read every reply, and how often you'll write, with a one-click exit. Nothing else goes in, because every extra line stands between him and what he came for. Men in this category have learned that a form which goes quiet was harvesting an address. A result in minutes is your first proof that the door does what it said, and his click on it confirms the address.
 
 Your personal reply follows within hours and names one thing from his answers. The automation waits for it, sending nothing else until the next day, so the first message after the machine's is yours.
 
@@ -67,7 +67,7 @@ The door states both beside the email field, "[frequency]; one click to leave", 
 
 ### Readiness Tags hold four labels and none of his answers
 
-Everything a sequence needs from the door fits in four labels. That's **Readiness Tags**: the labels your door writes to your email tool, which decide which sequence he gets and nothing else.
+Everything a sequence needs from the door fits in four labels: his stage, his Buyer State, meaning the situation he arrives in, his route, and a pause. That's **Readiness Tags**: the labels your door writes to your email tool, which decide which sequence he gets and nothing else.
 
 | Tag | Its values | What it decides |
 |---|---|---|
@@ -76,11 +76,11 @@ Everything a sequence needs from the door fits in four labels. That's **Readines
 | Route | Call · assessment · no-call | What follows the welcome: a booking, a paid written plan, or the sales sequence |
 | Pause | Set, with no reason | Whether anything promotional reaches him |
 
-His Buyer State is the situation he arrives in. No tag records a fit answer, how he feels about his face, how often he checks it, his goal in his words, or a mention of jaw pain or snoring. Those answers stay on your own site, where his result page reads them as it loads and saves nothing about its choice. Your email tool is where segments get built, exported, and synced to other tools. A field reading "checks mirrors daily" sits one integration away from an audience. In a category whose grift sells to insecurity, a list of who is insecure is the asset this business refuses to build.
+No tag records a fit answer, how he feels about his face, how often he checks it, his goal in his words, or a mention of jaw pain or snoring. Those answers stay on your own site, where his result page reads them as it loads and saves nothing about its choice. Your email tool is where segments get built, exported, and synced to other tools. A field reading "checks mirrors daily" sits one integration away from an audience. In a category whose grift sells to insecurity, a list of who is insecure is the asset this business refuses to build.
 
 ### The tags pick his Welcome Arc
 
-The tags choose the **Welcome Arc**: the stage-matched first weeks of email, from his result to one recommendation. Every lead gets the result email and welcome 1, which repeats his result's recommendation in the same words, so the page and every email agree. Then his route decides. A call-route lead gets two more welcome emails, each asking for the booking. An assessment-route lead gets the same two, asking for the Decision Assessment, a paid written plan worth its fee without a purchase, at its price once. A no-call lead gets the five-email sales sequence.
+The tags choose the **Welcome Arc**: the stage-matched first weeks of email, from his result to one recommendation. Every lead gets the result email, and every unpaused lead gets welcome 1, which repeats his result's recommendation in the same words, so the page and every email agree. Then his route decides. A call-route lead gets two more welcome emails, each asking for the booking. An assessment-route lead gets the same two, asking for the Decision Assessment, a paid written plan worth its fee without a purchase, at its price once. A no-call lead gets the five-email sales sequence.
 
 **His result first, then the start his stage names and the step his route calls for, with one recommendation throughout.**
 
@@ -94,7 +94,7 @@ The pause route is where email most often breaks a stop rule, because a tool kee
 
 For 60–90 days it blocks every sales sequence, date send, and checkout link, plus the abandoned-cart email. That email is the likeliest to cross it, since it fires on exactly the man who stopped at the affordability question. The tag holds the Canon Lane and the weekly letter too, because it records no reason. It can't tell the man who can't afford you from the man checking his face many times a day, and the second should hear nothing about measuring. What still reaches him was chosen by a person: your replies, and the check-ins of the Starter Path, your free sequenced path for anyone who shouldn't buy now, in the version you handed over.
 
-When the pause ends, one re-permission email asks whether he'd like to hear from you again, with no price, offer, or date. A yes clears the tag, and silence ends his emails. Re-entry is his at any point, since writing first is the permission the pause waits for. His message stays in its thread, out of your objection log and content plan, and the record reads "stopped: stop rule". Count promotional sends to paused leads after every start and every new automation; the target is zero.
+When the pause ends, one re-permission email asks whether he'd like to hear from you again, with no price, offer, or date. A yes clears the tag, and silence ends his emails. Re-entry is his at any point, since writing first is the permission the pause waits for. Whatever he wrote stays in its thread, out of your objection log and content plan, and the record reads "stopped: stop rule". Count promotional sends to paused leads after every start and every new automation; the target is zero.
 
 ## 3. Sales-Sequence Plumbing and Send Rules
 
@@ -107,9 +107,9 @@ Build the exits before the emails, because a sequence with one exit missing keep
 | Event | Heard at | What the plumbing does |
 |---|---|---|
 | He finishes the door as an adult | Your site | Result email in minutes, welcome 1 the next day, then his route's emails |
-| He books a call or an assessment | The booking page | His sequence stops; after you meet, the Follow-Up Rule runs |
+| He books a call or an assessment | The booking page | His sequence stops; after you meet, your fixed follow-up runs |
 | He names a date to decide by | A reply | His remaining emails become one check-in on that date |
-| He leaves a checkout unfinished | The checkout | One plain note the next day with both dates and the link; none if paused |
+| He leaves a checkout or booking unfinished | The checkout or booking page | One plain note the next day with both dates and the link; none if paused |
 | He buys | The checkout | Off every sales and date send; onboarding starts |
 | "Not for me" | A reply, a call, a link | His sequence stops, with nothing cheaper after it |
 | "I can't afford it" | A reply, a call, a checkout, a plan step | Pause tag; the Starter Path once; nothing promotional for 60–90 days |
@@ -118,13 +118,13 @@ Build the exits before the emails, because a sequence with one exit missing keep
 | He turns out to be a minor | Anywhere | Education lane; deleted everywhere, tags included; anything paid refunded |
 | He unsubscribes | Any email | Off every list at once, never re-added |
 
-The Follow-Up Rule is what follows a conversation: a recap within 24 hours, one check-in on his Decision Date, his personal date to decide by, and one close-the-loop (Module 19). Two rows carry most of the risk. "I can't afford it" arrives in more places than the checkout, so a reply that says it writes the same tag. A minor can surface anywhere. Sending him to the education lane, public content and a referral with nothing kept, means deleting him from your tool that day, keeping no list of who he was, and never telling him when he could come back.
+That follow-up is the Follow-Up Rule: a recap within 24 hours, one check-in on his Decision Date, his personal date to decide by, and one close-the-loop (Module 19). The "not for me" link sits beside the unsubscribe in every sales email, so a man can end the pitch without leaving the list, and a clear no costs you no complaint. Two rows carry most of the risk. "I can't afford it" arrives in more places than the checkout, so a reply that says it writes the same tag. A minor can surface anywhere. Sending him to the education lane, public content and a referral with nothing kept, means deleting him from your tool that day, keeping no list of who he was, and never telling him when he could come back.
 
 **Wire the exits before you write the emails.**
 
 ### Sequences end at the decision point
 
-A sales sequence ends at its start's last day to join, and nothing sends after it. It never restarts for the next start. A sequence that runs again as a start nears is a lead-in sequence, which the Launch Line, the test that keeps a date an offer attribute, rules out. He joins the stock instead, where the next start reaches him through one announcement and one reminder if he still clicks.
+A sales sequence ends at his decision point, and nothing sends after the named start's last day to join. It never restarts for the next start. A sequence that runs again as a start nears is a lead-in sequence, which the Launch Line, the test that keeps a date an offer attribute, rules out. The man joins the stock instead, where the next start reaches him through one announcement and one reminder if he still clicks.
 
 Keep every sequence shorter than a start's two-week late-entry window, about [ten days] from result to last email. Then the next start's last day to join always falls after his last email, whatever day he arrives. A lead who arrives the week before a start gets the same emails in the same order as one who arrives a month before. The dates are fields your tool fills from your calendar on the day it sends, never typed into the copy. A sequence written in March still runs in June, and a March date in a June email is a deadline that doesn't hold.
 
@@ -154,7 +154,7 @@ The Canon Lane is that schedule's email surface: a low-frequency lane that sends
 >
 > [Your name] | [Brand] · [One] email a [month]; one click to leave.
 
-The lane runs [one] send a [month]. Across all your surfaces each claim returns every four to six weeks, and the lane alone is slower on purpose. It's the floor of that exposure for a man who has stopped watching. A silent reader tolerates a monthly claim, where a weekly one reads like a newsletter he never asked for.
+The lane runs [one] send a [month]. Across all your surfaces each claim returns every four to six weeks, and the lane alone is slower on purpose. It's the minimum exposure for a man who has stopped watching. A silent reader tolerates a monthly claim, where a weekly one reads like a newsletter he never asked for.
 
 ### It sells nothing, and that's how it reaches everyone
 
@@ -194,9 +194,9 @@ Read the complaint rate after every promotional send, date sends first, since th
 
 ### Lead-age cohorts decide before any sunset rule does
 
-The common advice is to delete any address that hasn't clicked in a few months. In this niche that deletes some of your slowest real buyers: the Ambivalent man whose busy season ends in month five, or the burned buyer whose checking runs half a year. So measure first, in lead-age cohorts, the bands of time since a man first finished your door: 0–60, 61–180, and 181–365 days. Sort every enrollment and assessment fee by the buyer's cohort on the day he paid. Read the split once about 30 enrollments sit behind it, the point where your own ratio replaces a planning range.
+The common advice is to delete any address that hasn't clicked in a few months. In this niche that deletes some of your slowest real buyers: the Ambivalent man whose busy season ends in month five, or the burned buyer whose due diligence runs half a year. So measure first, in lead-age cohorts, the bands of time since a man first finished your door: 0–60, 61–180, and 181–365 days. Sort every enrollment and assessment fee by the buyer's cohort on the day he paid. Read the split once about 30 enrollments sit behind it, the point where your own ratio replaces a planning range.
 
-Expect the youngest cohort to carry the largest share, since that's where flow lives. The decision is about the older two. If the 61–180 cohort still produces enrollments, a silent lead gets re-permission at 181 days. If it produces none and draws most of your complaints, move re-permission to 61 days.
+Expect the youngest cohort to carry the largest share, since that's where flow lives. The decision is about the older two, and about silent leads, the ones with no click or reply since their welcome ended. If the 61–180 cohort still produces enrollments, a silent lead gets re-permission at 181 days. If it produces none and draws most of your complaints, move re-permission to 61 days.
 
 Re-permission rather than deletion means asking an old lead once whether to stay. It's one email with no price, offer, or date, a single "keep me on" link, and a plain line that silence ends his emails. A yes keeps a man who has just chosen you again, and silence takes him off the list without a complaint spent. Around it sits ordinary hygiene: hard bounces removed at once, no bought or imported lists, and no address that skipped the age fork, your door's legal-adult question. No footer form or event sign-up may put a minor on your list.
 
@@ -228,7 +228,7 @@ If a check-in doesn't come, the next steps are personal: your one-line note that
 
 Every reply, from a lead or a client, is read and answered by you. Replies are where a 16-year-old mentions his age, where distress surfaces in a line about his week, and where jaw pain gets mentioned in passing. "I can't afford it" and "what does it cost?" arrive there too. Each needs a line only you can hold. Routing help, the task-billed helper who moderates your public comments, never touches a reply, and no tool answers one.
 
-Template them anyway, since every per-person minute should be priced, batched, or templated. Keep a library of answers you wrote, open each with one line from his message, and send them in your live windows. Distress is the exception, answered the same day.
+Template them anyway, since every per-person minute should be priced, batched, or templated. Keep a library of answers you wrote, open each with one line from his message, and send them in the fixed windows you keep for replies. Distress is the exception, answered the same day.
 
 ### Health-adjacent answers stay out of the marketing platform
 
@@ -242,7 +242,7 @@ Every stream goes out as "[Your name] | [Brand]", the same sender everywhere. Di
 
 Cole is in Growing, in Band B. His list holds [~420] eligible adults, so his Thursday letter started [three] weeks ago, and the five-email sequence carries his no-call route. Starts fall on first working Mondays, March 2, April 6, and May 4, each joinable through the Friday of its second week.
 
-**Day 0, Tuesday March 10. Four tags.** Dan *(composite, Struggler)*, 24, finishes the door at [9 pm] with [eight months] of [his routine] behind him and nothing measured. His tags read stage "next month", Struggler, route no-call, no pause. The read: April is his start, and nothing about March's closing week will reach him. His result email lands in [three] minutes. Within the hour he opens a result recommending the Program, Cole's 12-week flagship, from the April start at $[price], stated once. Cole's personal reply goes out the next morning. Left alone: March. A man who said "next month" and hears "join by Friday" is getting the pressure the Launch Line keeps out.
+**Day 0, Tuesday March 10. Four tags.** Dan *(composite, Struggler)*, 24, finishes the door at [9 pm] with [eight months] of [his routine] behind him and nothing measured. His tags read stage "next month", Struggler, route no-call, no pause. The read: April is his start, and nothing about March's closing week will reach him. His result email lands in [three] minutes. Within the hour he opens a result recommending the Program, Cole's 12-week flagship, from the April start at $[price], stated once. Cole's personal reply goes out the next morning. Left alone: March. A man who said "next month" and hears "join by Friday" gets a deadline built from your calendar instead of his answer.
 
 **Days 1–6. His Welcome Arc, on his clock.** Welcome 1 arrives on day 1; he reads it and clicks nothing, which is fine, since it asks nothing new. Email 1 on day 2 starts his free 7-day log. Email 2 on day 4 gets a click to the sample plan, and email 3 on day 6 recommends the Program with its price and both April dates. He watches the walkthrough that night. Not sent: the Thursday letter, the Canon Lane, and anything about March.
 
@@ -295,7 +295,7 @@ The paused version keeps the first line, then: "[A plain line.] Help: [resources
 > Next start: Monday [date] · join through [date] · Email: [frequency]; one click to leave.
 
 - **Welcome 2, "The straight answer".** Canon claim 1, word for word, and where to check it: [your Honest Answer video]. His step again. Burned: the verification kit first, ending with "Your date is yours."
-- **Welcome 3, "What happens from here".** His recommendation, its price once, and the next start with both dates; then how the list runs from here: [one claim a month], one announcement and one reminder per start, [the weekly letter]. Optimizer: [the priority tier, your faster written plan] and "Only I see your photos."
+- **Welcome 3, "What happens from here".** His recommendation, who it's for and who it isn't, its price once, and the next start with both dates; then how the list runs from here: [one claim a month], one announcement and one reminder per start, [the weekly letter]. Optimizer: [the priority tier, your faster written plan] and "Only I see your photos."
 
 **Re-permission.** Sent once, with no price, offer, or date.
 
@@ -322,7 +322,7 @@ Answer from your email tool's reports and your send log, after every promotional
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, and email gets about half an hour a week, so the list's whole job is flow: the result email, a short welcome, and your reply to every adult lead. Write the Canon Lane's claims once, before your first graduate joins the Hold. The trap is starting a newsletter because it feels like building an audience, when its hour belongs to short-form and replies.
+**Early.** Reach binds, and email gets about half an hour a week, so the list's whole job is flow: the result email, a short welcome, and your reply to every adult lead. Until your calls show which lines land, welcome 2 and 3 carry every route. Write the Canon Lane's claims once, before your first graduate joins the Hold. The trap is starting a newsletter because it feels like building an audience, when its hour belongs to short-form and replies.
 
 **Growing.** Conversion and selling minutes bind, so sequences carry more of the selling: tags route each lead, the five-email sequence carries the no-call route, and the weekly letter starts once the list clears a few hundred eligible adults. The trap is send creep, as each new lane adds a send to the same man until his week holds four emails and a complaint.
 

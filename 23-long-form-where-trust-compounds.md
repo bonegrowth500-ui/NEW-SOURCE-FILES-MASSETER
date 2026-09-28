@@ -27,10 +27,10 @@ Give each job one asset that answers for it and one number that shows it working
 
 | Job | Owning asset | The number that shows it |
 |---|---|---|
-| Repeated exposure | Long-form, on a fixed cadence | Returning viewers' share of watch time on decision-stage pieces |
-| Visible proof | The proof library on your site: your dated log, process proof, consented cases | Buyers who name a proof asset when asked what made them book |
+| Repeated exposure | Long-form, on a fixed cadence | Returning viewers' share of watch time |
+| Visible proof | The proof library on your site: your dated log, process proof, consented cases | Buyers who name a proof asset as what made them book |
 | Identity rehearsal | The cohort and alumni room, the paid rooms where the practice lives | Days kept on the free log while he waits |
-| A Q&A archive | The archive: one page linking every answered question to its answer | Repeat questions answered with a link instead of a new reply |
+| A Q&A archive | The archive: one page linking every answered question to its answer | Repeat questions answered by a link, not a new reply |
 | A warm pool | Email, where adults who finished your door are tagged by stage | Eligible adults on the list; clicks per delivered against 2–5% |
 
 **Five jobs, one owner each, one door.**
@@ -56,10 +56,10 @@ Every surface does one of three kinds of work, and the kind tells you where its 
 | Surface Type | Where it runs | Its viewers' usual rung | Its job |
 |---|---|---|---|
 | Discovery surfaces | Short-form feeds, search results, Instagram and X posts | Stranger | Bring new adults to long-form or the door |
-| Trust engines | Long-form, the proof library, the archive, the Verify Page where skeptics check you | Stranger by search, then Returning | Build and hold belief, and name the offer to viewers warm enough for it |
+| Trust engines | Long-form, the proof library, the archive, the Verify Page where skeptics check you | Stranger by search, then Returning | Build and hold belief, and name the offer with its public price |
 | Relationship surfaces | Email, the result page his self-assessment returns, DMs after verification, calls; after purchase, the cohort and alumni room | Assessed and Deciding | Carry one recommendation to a decision |
 
-A surface isn't a stage for views. It's a place where one kind of work gets done, and all three kinds route to the same door, which asks his age before it keeps anything. Tag each long-form piece by the coldest viewer it's built for, since search brings strangers to trust engines too.
+A surface isn't a stage for views. It's a place where one kind of work gets done, and all three kinds route to the same door, which asks his age before it keeps anything. Tag each long-form piece by the coldest viewer it's built for, since search brings strangers to trust engines too. A decision-stage piece, one built on the question of a man who has tried something and is choosing what to do next, carries a short pitch segment with the public price. The Honest Answer, which meets everyone the category's search terms bring, asks only for the door.
 
 ## 2. Why Long-Form Compounds
 
@@ -75,13 +75,13 @@ Suggested feeds work the same way from the other side. The system behind them we
 
 A long-form piece carries clickable links in its description and pinned comment, beside the ask you say aloud. A short carries one link, to a piece on your own channel, and feed posts mostly send people to a profile first. That makes long-form the shortest route from a belief to your door.
 
-Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10. A door page matched to the piece, a spoken ask mid-piece that's also pinned, and decision-stage topics push it up. Those topics are the questions of a man who has tried something and is choosing what to do next. A generic freebie and teen-heavy traffic pull it down.
+Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10. A door page matched to the piece, a spoken ask mid-piece that's also pinned, and decision-stage topics push it up. A generic freebie and teen-heavy traffic pull it down.
 
 Count per engaged view, a view where he kept watching past the first seconds. Platforms redefine a public view from time to time, and the public count can swell while demand stands still. Denominator Discipline, a fixed denominator written into every ratio, keeps a platform's change from reading as your growth.
 
 ### Presence carries trust over sustained attention
 
-A skeptic trusts a claim more when he watches its maker reason through it, and long-form holds him long enough to watch. In one lab's experiments, reasoning heard in the speaker's own voice seemed more thoughtful than the same words in text. This buyer has been sold to by thumbnails and captions, so several minutes of you conceding what's debated and refusing what's false is evidence a caption can't carry. It builds with every piece he watches.
+A skeptic trusts a claim more when he watches its maker reason through it, and long-form holds him long enough to watch. In one lab's experiments, reasoning heard in the speaker's own voice seemed more thoughtful than the same words in text. Several minutes of you conceding what's debated and refusing what's false is evidence no caption can carry, and it builds with every piece he watches.
 
 ### Half-life decides the hours per piece
 
@@ -106,7 +106,7 @@ The title, the thumbnail, and the topic decide who clicks, and who clicks decide
 
 In the samples that exist, most of this category's hardcore audience is under 18. The evidence is weak, but it points one way. The youngest arrive fastest for ratings, comparisons, idealized jaws, and trend words, and when they stay, the feeds learn your channel is for them.
 
-Several platforms already hold back feature-comparison content from teenage accounts, so a young audience is also the likeliest to cost you reach later. Among your door's raw leads, the eligible share runs anywhere from 30–70%, and packaging is your most direct lever on it. That range is the gap between two channels with the same views.
+Several platforms already hold back feature-comparison content from teenage accounts, so a young audience is also the likeliest to cost you reach later. Among your door's raw leads, the eligible share runs anywhere from 30–70%. Packaging is your most direct lever on it, and it makes the gap between two channels with the same views.
 
 ### The Age-Up Dial turns three levers
 
@@ -126,14 +126,7 @@ The dial lowers the minors' share and never pushes out adults under 25, who sit 
 
 ### Titles are promises the piece must pay
 
-Every title and thumbnail is a promise, and the Click Contract covers both: every hook is paid in full inside the asset before any pitch. The niche's usual breach promises a change to structure, so rewrite it into a question the piece can pay:
-
-| The title that breaches | The title that pays |
-|---|---|
-| "[Trend] results in [30] days" | "A year of [the trend] and no change you can see: what's worth measuring" |
-| "Get the jawline you were meant to have" | "25 and stalled: what can change, what can't, and how you'd know" |
-
-Test concepts, never shame variants. YouTube's built-in title and thumbnail test picks its winner by watch time rather than clicks, which favors the calm package viewers finish.
+Every title and thumbnail is a promise, and the Click Contract covers both: every hook is paid in full inside the asset before any pitch. The niche's usual breach promises a change to structure, as in "Get the jawline you were meant to have". Rewrite it into a question the piece can pay: "25 and stalled: what can change, what can't, and how you'd know". Test concepts, never shame variants. YouTube's built-in title and thumbnail test picks its winner by watch time rather than clicks, which favors the calm package viewers finish.
 
 ### The Two-Job Scorecard reads each piece by its adults
 
@@ -145,7 +138,7 @@ Every piece has two jobs. Reach brings new eligible adults to you, and belief re
 | Belief | Held conversations and door answers that name the piece; how often its link's objection comes up on calls | That objection's count before the piece shipped |
 | Offer demand | Offer-page visits and enrollments traced to its one ask | Your other decision-stage pieces |
 
-One Ask per Asset, one primary ask with at most one ranked secondary, lets each line trace to one piece. Read the card at about 30 door completions and again at each quarterly review, since long-form keeps working. Count every line in adults, because a view can't buy. Click-through then tells you why a card came out as it did. Most videos land at 2–10% of impressions, so compare each piece with your channel's usual:
+One Ask per Asset, one primary ask with at most one ranked secondary, lets each line trace to one piece. Read the card at about 30 door completions and again at each quarterly review, since long-form keeps working. Count every line in adults, because a view can't buy. Click-through tells you why a card came out as it did: most videos land at 2–10% of impressions, so compare each piece with your channel's usual.
 
 | Click-through | Eligible yield | The read | The move |
 |---|---|---|---|
@@ -174,15 +167,15 @@ His beliefs have an order: the links of the Belief Chain, the beliefs a purchase
 
 The Start Here Series is a five-piece progression of decision-stage topics that ends at the door, with the Honest Answer first. The Honest Answer is one dedicated asset, delivered wherever the category's search terms bring people in, and the first claim in your Canon (Module 3). The Canon is the short set of calibrated claims you repeat in fixed words on every surface, so each piece quotes its claims word for word (Module 14):
 
-| # | The piece | Link | Canon claim it quotes | It ends by pointing to |
+| # | The piece | Link | Canon claim it quotes | Its ask, then its ranked secondary |
 |---|---|---|---|---|
-| 1 | "Can an adult change his jaw with habits?" | Range | Claim 1: the Honest Answer's three sentences | Piece 2 |
-| 2 | "Eight months in and nothing to show" | Cause | "Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is." | Piece 3 |
-| 3 | "What measuring looks like" | Vehicle | "Behavior gets measured every week; appearance gets captured rarely, the same way every time." | Piece 4 |
-| 4 | "How to check anyone selling this, me included" | Guide | "My face is not evidence for the method. The record is, published on the dates I committed to." | Piece 5 |
+| 1 | "Can an adult change his jaw with habits?" | Range | Claim 1: the Honest Answer's three sentences | The door, then piece 2 |
+| 2 | "Eight months in and nothing to show" | Cause | "Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is." | The door, then piece 3 |
+| 3 | "What measuring looks like" | Vehicle | "Behavior gets measured every week; appearance gets captured rarely, the same way every time." | The door, then piece 4 |
+| 4 | "How to check anyone selling this, me included" | Guide | "My face is not evidence for the method. The record is, published on the dates I committed to." | The door, then piece 5 |
 | 5 | "What happens after the self-assessment, and what it costs" | Vehicle | "A record doesn't read itself; review turns it into a decision." | The door |
 
-Five pieces walk the links from Range to a decision and still fit into an evening or two. Each ends by pointing to the next, because a viewer who just finished a piece is the likeliest to start another. Beyond the series, the Canon keeps its rotation. Claim 1 goes in every piece the category's search terms reach, each other claim returns at least every four to six weeks, and the claim that answers a resurfacing myth leads for about two weeks.
+Five pieces walk the links from Range to a decision and still fit into an evening or two. Each asks for the door and offers the next piece to the viewer who isn't ready, because a man who just finished a piece is the likeliest to start another. Beyond the series, the Canon keeps its rotation. Claim 1 goes in every piece the category's search terms reach, each other claim returns at least every four to six weeks, and the claim that answers a resurfacing myth leads for about two weeks.
 
 ### The fifth piece sells, and the series sits where newcomers look
 
@@ -222,9 +215,9 @@ None of it is about looking better. No filter, beauty mode, retouch, or AI edit 
 
 | Option | Pick it when | What it costs |
 |---|---|---|
-| On camera with process visuals: you, plus the log, the capture grid, or the dated record on screen | Every piece, by default | An editor's time to cut the visuals in |
-| On camera only | A quick answer to a resurfacing myth | Less to look at, so retention leans on your delivery |
-| A screen-led walk-through: your voice over a sample review labeled as a composite, opening and closing on camera | A Vehicle piece showing what review looks like | Less of your face on screen, so less presence |
+| On camera with process visuals: you, plus a log, capture grid, or dated record on screen | Every piece, by default | An editor's time to cut the visuals in |
+| On camera only | A quick answer to a resurfacing myth | Less to look at, so retention leans on delivery |
+| A screen-led walk-through: your voice over a sample review labeled as a composite, on camera at each end | A Vehicle piece showing what review looks like | Less of your face, so less presence |
 
 **Default: on camera with process visuals.** Your face carries the trust and the visuals carry the proof, so no viewer is left reading your face as evidence. Switch to the walk-through for a Vehicle piece when buyers on your calls keep asking what a week of review looks like.
 
@@ -244,7 +237,7 @@ Under every piece, skeptics cross-examine your claims in front of buyers who nev
 
 ### The thread is part of the evidence
 
-Studies of comment threads, mostly under news articles, point one way. A calm reply from the author tends to raise how credible readers find the source, hostile threads lower it, and visible deletion can look like hiding something. The settings differ from yours, so take it as direction. In this niche the thread holds four crowds at once: skeptics testing your claims, Strugglers looking for someone like them, minors giving their age and asking for ratings, and the silent adults judging you by how you answer the other three.
+Studies of comment threads, mostly under news articles, point one way. A calm reply from the author tends to raise how credible readers find the source, and visible deletion can look like hiding something. The settings differ, so take it as direction. Here the thread holds four crowds at once: skeptics testing your claims, Strugglers looking for someone like them, minors asking for ratings, and the silent adults judging you by how you answer the other three.
 
 **The skeptic argues, and the silent readers decide.**
 
@@ -295,17 +288,17 @@ When a week runs past 25 hours, long-form above its minimum cadence is the fourt
 
 ## Worked Example: Cole, a First Quarter of Long-Form
 
-Cole *(composite operator)* starts from zero in January with door v0, the first working version of his door, and an editor paid per piece. His founding page sells the founding group, which every founding client joins from the first. His Founding Sprint, the labeled first conversations of an operator with no audience, supplies most of his early calls, so long-form's job this quarter is trust and search. He plans on the Early cadence and tags each piece before it's filmed:
+Cole *(composite operator)* starts from zero in January with door v0, the first working version of his door, and an editor paid per piece. His founding page sells the founding group, which every founding client joins from the first. His Founding Sprint, the labeled first conversations of an operator with no audience, supplies most of his early calls, so long-form's job this quarter is trust and search. He tags each piece before it's filmed:
 
 | Week | Piece | Job | Link | Ask | Age-Up choices |
 |---|---|---|---|---|---|
 | 1 | "Can an adult change his jaw with habits?" | Exposure; archive | Range | The door | "Adult" in the title; level face, question as text |
-| 3 | "Eight months in and nothing to show" | Exposure | Cause | The door | Months of effort named; no jaw in frame |
+| 3 | "Eight months in and nothing to show" | Exposure | Cause | The door; founding group and price named | Months of effort named; no jaw in frame |
 | 5 | "What measuring looks like" | Proof | Vehicle | The door; founding group and price named | A log and a capture grid as the thumbnail |
 | 7 | "[Does the chewing trend work?]" | Exposure | Range | The door | Calm thumbnail, but a trend title with no adult context; retitled at week 10 |
 | 9 | "How to check anyone selling this, me included" | Proof | Guide | The door; founding group and price named | A blurred teardown; a calm question |
 | 11 | "What happens after the self-assessment, and what it costs" | Warm pool | Vehicle | The door, after the full pitch segment | "For adults" in the first line |
-| 13 | "Is it too late at 27?" | Exposure; archive | Range | The door | An age in the title; a calm question |
+| 13 | "Is it too late at 27?" | Exposure; archive | Range | The door; founding group and price named | An age in the title; a calm question |
 
 **Week 1. The Honest Answer ships first.** He films it with the setup he'll keep: camera at eye level, soft window light in front, a clip-on microphone. The description carries the tagged door link and no date. What My Face Does and Doesn't Prove sits pinned beneath it, and his comment policy goes up the same day. A friend suggests a jaw close-up for the thumbnail. Cole keeps his level face and the question, because a jaw in the thumbnail would make his face the evidence.
 
@@ -313,11 +306,11 @@ Cole *(composite operator)* starts from zero in January with door v0, the first 
 
 Click-through above his usual with yield below plan is the card's first row, so he ages up the package. The title becomes "[Tried the chewing trend at 25? What changes and what doesn't]", and the calm thumbnail stays. He hides [six] rating requests under the policy, answers one minor's growth question with the orthodontist line, and makes no sequel.
 
-**Week 11. The series assembles.** Piece 11 carries his full pitch segment. It names the founding group, who it's for and who it isn't, and its public price, [$1,300] for 12 weeks, with the next price stated, then ends on the door. The start date lives on the page. Pieces 1, 3, 5, 9, and 11 become his Start Here Series, pinned as a playlist in that order. Their end screens now point to the next piece, with the door as the ranked secondary.
+**Week 11. The series assembles.** Piece 11 carries his full pitch segment. It names the founding group, who it's for and who it isn't, and its public price, [$1,300] for 12 weeks, with the next price stated, then ends on the door. The start date lives on the page. Pieces 1, 3, 5, 9, and 11 become his Start Here Series, pinned as a playlist in that order. Each keeps the door as its ask, and its end screen adds the next piece as the ranked secondary.
 
 **Week 13. An adult topic from his door answers.** "Is it too late at 27?" draws [a third] of the trend piece's first-month views and [twice] its eligible leads. The retitled trend piece now draws fewer views and more adults per view. He plans the next quarter from his scorecards, never his view counts.
 
-**The quarter's outcome.** In month 3 his long-form-and-search label accounts for [3] of his [10] held conversations, beside the warm network and replies, and he has [3] founding clients. That sits inside Band B's month-3 range of 4–14 held conversations and the 2–6 clients a founding phase usually has by then. His list holds [~60] eligible adults.
+**The quarter's outcome.** In month 3 his long-form-and-search label accounts for [3] of his [10] held conversations, and he has [3] founding clients. That sits inside Band B's month-3 range of 4–14 held conversations and the 2–6 clients a founding phase usually has by then. His list holds [~60] eligible adults.
 
 **What it shows.** The piece with the most views sent the fewest adults per view, and the card caught it within weeks because Cole counted in adults. The series cost no extra filming, since it was the quarter's plan put in order.
 
@@ -391,7 +384,7 @@ Run it on the export, before scheduling.
 **Takeaways**
 - Five jobs happen between a first view and a purchase; each gets one owning asset and one number.
 - Long-form keeps working and carries its path inside the piece, so hours follow half-life times the path.
-- Packaging picks the audience: turn the Age-Up Dial on every piece and read the scorecard by eligible-adult yield.
+- Packaging picks the audience: turn the Age-Up Dial on every piece and judge it by eligible-adult yield.
 - Five Start Here pieces walk a newcomer from the Honest Answer to the door.
 - The Production Bar and the Comment Courtroom are standards a skeptic can watch you keep.
 
@@ -403,7 +396,7 @@ Run it on the export, before scheduling.
 | A Q&A archive | The archive |
 | A warm pool | Email |
 
-*Age-Up levers:* adult contexts · calm thumbnails · decision-stage topics. *Scorecard:* reach, belief, and offer demand, judged by eligible-adult yield. *Courtroom:* publish the policy · hide ratings, details, harassment · pin the best skeptic · keep disagreement · minors and distress to you. *Cadence:* every other week Early · about 3 a month Growing · 2–3 Scaling · batch every two weeks.
+*Age-Up levers:* adult contexts · calm thumbnails · decision-stage topics. *Scorecard:* reach · belief · offer demand. *Courtroom:* publish the policy · hide ratings, details, harassment · pin the best skeptic · keep disagreement · minors and distress to you. *Cadence:* every other week Early · about 3 a month Growing · 2–3 Scaling · batch every two weeks.
 
 **Framework cheat sheet**
 
@@ -415,6 +408,6 @@ Run it on the export, before scheduling.
 | **The Age-Up Dial** | Lower the minors' share through packaging |
 | **The Comment Courtroom** | Run comments on a published policy and pin the best skeptic |
 
-**Leans on:** eligible-adult yield (Module 1) · the Honest Answer (Module 3) · the Door (Module 5) · routing help (Module 11) · the Operator Review (Module 12) · the Buyer-Mix Shift (Module 13) · the Canon (Module 14) · the face statement (Module 15) · the Honest-Evidence Test (Module 16) · Adults Who Measure (Module 17) · the Warmth Ladder, the Click Contract (Module 18) · the Platform Count Rule (Module 25).
+**Leans on:** eligible-adult yield (Module 1) · the Honest Answer (Module 3) · the Door (Module 5) · routing help (Module 11) · the Buyer-Mix Shift (Module 13) · the Canon (Module 14) · the face statement (Module 15) · the Honest-Evidence Test (Module 16) · Adults Who Measure (Module 17) · the Warmth Ladder, One Ask per Asset, the Click Contract (Module 18) · the Platform Count Rule (Module 25).
 
 **Do this month:** write each Nurture Job's owner and its number; publish your comment policy and link it from every pinned comment; score your next three topics on the sheet and ship the next piece at the Production Bar.

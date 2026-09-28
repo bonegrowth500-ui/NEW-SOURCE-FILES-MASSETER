@@ -5,11 +5,11 @@
 
 Theo *(composite, Burned Struggler)*, 26, has your checkout open in one tab. In the other he types "[Brand] legit". The last two things he bought promised to change his face, and both came with glowing pages. What he finds in the next minute or two decides the sale. If the first screen shows a stranger's thread asking whether you're a scam, a summary that files you beside a device seller, and a price hidden behind a call, he closes both tabs. If it shows your name spelled one way everywhere, a video of you walking through what you refuse and what it costs, and one page where every claim matches what he heard, he keeps reading.
 
-Every sale in this category passes through that last search, so build the place it lands. That means a small owned hub centered on one page a skeptic can check, with one library of claims behind every page you link to and a map of where each kind of proof may travel. Paid comes last. It buys adult attention only for pieces that already work, and it's judged by what the money added. Built in that order, the search that ends most sales in this category starts closing yours.
+A skeptic in this category makes that last search before he pays, so build the place it lands. That means a small owned hub centered on one page a skeptic can check, with one library of claims behind every page you link to and a map of where each kind of proof may travel. Paid comes last. It buys adult attention only for pieces that already work, and it's judged by what the money added. Built in that order, his search stops being where your sales end and becomes where they close.
 
 ## 1. The Hub's Jobs
 
-Your own site has four jobs: routing buyers, letting them check you, showing your prices, and holding your proof. All four need one home you own, because none of them can run on ground a platform rents you.
+Your own site has four jobs: routing buyers, letting them check you, showing your prices, and holding your proof. All four need one home you own, because a platform can host pieces of them but can't hold them together or run your checks.
 
 ### Rented ground can't run your checks
 
@@ -17,7 +17,7 @@ A platform rents you reach and keeps the rules. It decides what counts as a view
 
 Three parts of this business can't run on it at all. The age fork, your door's legal-adult question, has to come before any field that keeps data, and a platform's lead form asks for an email first. What a man says about how he feels about his face must never pass through an ad platform's forms or pixels. And a skeptic needs one place where every claim, price, and term sits side by side. No feed can give him that, since a feed shows one piece at a time and ranks it by reaction.
 
-### Four jobs, one home
+### Four jobs share one small home
 
 Keep the hub small, since every page you add is one more place a claim can drift. Each job gets a page, and each page has one thing it never does:
 
@@ -30,11 +30,11 @@ Keep the hub small, since every page you add is one more place a claim can drift
 
 **Route, verify, price, prove: four jobs, one home you own.**
 
-One home means one domain in the brand's name, with every profile, description, and email pointing into it. Your door, the owned path from first click to one recommendation, goes live in week one, because any paid step before it sells blind to his age, fit, and money. The page he checks you on and the offer page follow in month 1, since every line on them can be true before your first graduate. The proof library fills as the record does: your log and your own stories from month 1, a client's words once he's asked after week 6, and outcome ranges once 10 graduates stand behind them.
+One home means one domain in the brand's name, with every profile, description, and email pointing into it. Your door, the owned path from first click to one recommendation, goes live in week one, because any paid step before it sells blind to his age, fit, and money. The page he checks you on and the offer page follow in month 1, since every line on them can be true before your first graduate. The proof library fills as the record does: your log and your own stories from month 1, a client's words from the first measurement after week 6 that shows him progress, and outcome ranges once 10 graduates stand behind them.
 
 ### Judge it by what verifying buyers do next
 
-Traffic flatters a hub, because thousands of visits can come from people who were never going to buy. Judge it by the door's counts instead: eligible leads, meaning adults who passed the age fork, by source tag, then held conversations and enrollments. Ask the men who enroll what they checked before paying, since the page a buyer reads last rarely looks busy. If most name your verification page or your log, the hub works. If none do, the page is hard to find or not worth finding, and a search of your own name tells you which.
+Traffic flatters a hub, because a page can fill with visits from people who were never going to buy. Judge it by the door's counts instead: eligible leads, meaning adults who passed the age fork, by source tag, then held conversations and enrollments. Ask the men who enroll what they checked before paying, since the page a buyer reads last rarely looks busy. If most name that page or your log, the hub works. If none do, the page is hard to find or not worth finding, and a search of your own name tells you which.
 
 ## 2. The Verify Page and the Evaluation Query
 
@@ -42,11 +42,11 @@ A skeptic decides whether to trust you by checking you. So give him one page whe
 
 ### A missing answer reads as a hidden one
 
-Theo has read confident pages before. The device's page had testimonials, a guarantee, and before/afters, and the device did nothing it promised. So he reads yours for two things: whether its claims agree, and what it leaves out. To a burned buyer, a gap is a finding. A missing price reads as "they'll size me up on a call". Missing terms read as "the refund is the trap", and silence about photos reads as "my face ends up in an ad".
+Theo has read confident pages before. The device's page had testimonials, a guarantee, and before/afters, and the device did nothing it promised. So he reads yours for two things: whether its claims agree, and what it leaves out. To a burned buyer, a gap is a finding. A missing price reads as "they'll size me up on a call", missing terms as "the refund is the trap", and silence about photos as "my face ends up in an ad".
 
-Scattered answers fail the same way, even when each one is true. With the price in one video, the terms in checkout's small print, and the face statement in a pinned comment, he has to hunt, and a hunt feels like concealment. One page in the words your videos and emails already use turns each check into a match. Some answers also cost you something to publish, such as a list of refusals, claim counts beside your guarantee, and a log that can't be back-filled. That cost is the signal, because a grifter can't afford it.
+Scattered answers fail the same way, even when each one is true. With the price in one video, the terms in checkout's small print, and the face statement in a pinned comment, he has to hunt, and a hunt feels like concealment. One page in the words your videos and emails already use turns each check into a match. Some answers also cost you something to publish, such as refusals, claim counts beside your guarantee, and a log that can't be back-filled. That cost is the signal, because a grifter can't afford it.
 
-### Nine checks on one page
+### Nine checks fit on one page
 
 Build the page from the questions a careful buyer asks anyone selling here, in roughly his order. Each section answers one question against something he has already seen:
 
@@ -60,7 +60,7 @@ Build the page from the questions a careful buyer asks anyone selling here, in r
 | The Path and Timeline Card, with its [9]-month total | Your pitch |
 | Prices, premium first, with what each tier buys | Your videos and your call |
 | Guarantee terms: every layer, its claim window, its 7-day payout | Your checkout |
-| The record: the pre-commitment and the dated log | Everything above |
+| The record: a link to the Dated Record, your pre-commitment and dated log | Everything above |
 
 The next start and its last day to join run across the top and update each start. One step closes the page.
 
@@ -72,19 +72,19 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **Privacy.** He's about to hand you his face, so say where it goes. Name what you collect and who sees his photos, which is only you, never the group, an editor, or a tool. Give each record its retention period, and say that deletion means everything, everywhere, confirmed in writing. Then name the four labels you keep: when he could start, his situation, his route, and a pause flag that stops sales email for 60–90 days and records no reason. No label records a fit or insecurity answer, and no answer reaches an ad platform.
 
-**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, with its trigger, claim window, and payout (Module 7). The windows are what a burned buyer checks. The fit window runs 14–21 days from baseline day, the first day of delivery. The exit right runs from the week-6 read, the written mid-program review, until 7 days after it. A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days. You raise the non-response clause yourself at week 12, every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
+**Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, with its trigger, claim window, and payout (Module 7). The windows are what a burned buyer checks. The fit window, a full refund on his word, runs 14–21 days from baseline day, the first day of delivery. The exit right, a pro-rata refund for a client who did the work, runs from the week-6 read, the written mid-program review, until 7 days after it. A Decision Assessment, the paid written plan, carries a usefulness refund claimable for 14 days after he receives the plan. You raise the non-response clause, cash back when no marker moves despite his effort, yourself at week 12. Every payout lands within 7 days, and how his face looks is named once, as the thing never guaranteed.
 
 The rest go up as built. The verification kit, a sample written plan and a sample weekly review, includes a plan that says "don't buy", because a plan that can refuse him is one he believes when it recommends (Module 5). The Path and Timeline Card, the one-page path and cost sent before payment, prices his first [9] months (Module 6). Its range runs from the Program, your 12-week flagship, alone, to the Program with Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. What My Face Does and Doesn't Prove, your public statement that your appearance is never evidence, goes up word for word (Module 15).
 
 ### It goes up in month 1 and changes on the record
 
-Every section can be true in month 1, so the page goes up then, with the kit's samples labeled as composites and the Card's outcome lines blank until your records fill them. After that it changes on a schedule: dates every start, prices and the Card at every Price Step, your small scheduled raise, and the face statement's evidence sentence as the log grows. Any term changes only by a dated entry, because a skeptic comparing this month's page with last month's is checking exactly that.
+Every section can be true in month 1, so the page goes up then, with the kit's samples labeled as composites and the Card's outcome lines saying plainly that your own numbers come later. After that it changes on a schedule: dates every start, prices and the Card at every Price Step, your small scheduled raise, and the face statement's evidence sentence as the log grows. Any term changes only by a dated entry, because a skeptic comparing this month's page with last month's is checking exactly that.
 
 Link it from every profile, the result email, the booking page, and checkout. A man who searched your name is at least a returning buyer, so the page's one step is the offer page, whose checkout runs the door's checks. Beneath it sits the self-assessment, for the man who wants a read on his own situation first.
 
 ### He searches your name before he pays
 
-The last search follows a pattern. Before paying, a skeptic runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen: "[Brand] legit", "[Brand] reviews", "[Brand] price", "[First name] scam". Search can only show him one of you if you are one, so use "First name | Brand" on every profile, spelled one way, with the same descriptor and a link to the Verify Page. That's Name | Brand applied to search, the brand owning the method and the Dated Record, your public pre-commitment and log, while your face carries trust (Module 3).
+The last search follows a pattern. Before paying, a skeptic runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen: "[Brand] legit", "[Brand] reviews", "[Brand] price", "[First name] scam". Search can only show him one of you if you are one, so use "First name | Brand" on every profile, spelled one way, with the same descriptor and a link to the Verify Page. That's Name | Brand applied to search, the brand owning the method and the Dated Record while your face carries trust (Module 3).
 
 More first screens now open with a machine-written summary, built from what's published about you: your pages, your spoken words, strangers' threads. When a summary answers a general question, clicks on the links below it roughly halve, on moderate evidence. Searches for a brand's own name lose less and, on thinner evidence, sometimes gain. So own the search on your name, and publish plainly what you'd want quoted: the page's sections as text, and the same claims on camera in the same words.
 
@@ -102,7 +102,7 @@ A post and the page it points to are read as one claim. The buyer reads them tha
 
 A buyer who clicks reads your page as the rest of the video, and platforms read it the same way. Video platforms' rules reach the sites a video sends viewers to. Ad reviewers read the page an ad points at. An ad platform can also file a whole domain under health from the topics its pages cover, then stop using its conversion data. So one page that frames coaching as care for a sleep or bite problem can cost you the video, the ad account, and your measurement at once.
 
-Claims drift because surfaces get written at different times. A founding page from month 1 says one thing, and a video from month 5 says it more carefully. A welcome email quotes a client's line without its range. A skeptic lines them up, and anyone reviewing you holds you to the strongest one.
+Claims drift because each surface gets written at a different time, and nobody rereads last spring's page before this week's video goes out. A founding page from month 1 says one thing, and a video from month 5 says it more carefully. A welcome email quotes a client's line without its range. A skeptic lines them up, and anyone reviewing you holds you to the strongest one.
 
 ### One claims library governs every surface
 
@@ -120,7 +120,7 @@ The legal and platform side stays at flag level. Health-adjacent advertising and
 
 ### The library starts as one page
 
-Early, the library fits on a page: the Canon, the Outcome Map's columns, the face statement, and your terms. It becomes a working control in Growing, when an editor cuts your clips and a helper answers comments. More hands now put words in your name, and every one of them needs the same source. Reread it at each quarterly review. A claim you find live but missing from the library comes down the same day or enters the library first, since an unlisted claim is one nobody checked.
+Early, the library fits on a page: the Canon, the Outcome Map's columns, the face statement, and your terms. It becomes a working control in Growing, when an editor cuts your clips, a helper answers comments, and more hands put words in your name. Reread it at each quarterly review. Pull any live claim missing from it the same day, or enter it first, since an unlisted claim is one nobody checked. Kept that way, every page a buyer lands on says what your best video says.
 
 ## 4. The Proof Portability Gradient
 
@@ -128,7 +128,7 @@ Proof stays honest only while its context travels with it. So each kind of proof
 
 ### Context thins as proof travels
 
-A Case is one client's measured arc, placed in your range. In long-form it carries its whole Context Stack: who he is, what else changed, the timeline, the capture conditions, the range, and the denominator, observed, not caused (Module 16). Cut to a short, it keeps its denominator only if you put it on screen, and its first frame travels alone as a thumbnail. In an ad it reaches strangers who never chose your channel and never see your log. They read one man's result as typical, and an ad system served it to whoever reacted most, which in this category tends to mean the most anxious viewers.
+A Case is one client's measured arc, placed in your range. In long-form it carries its whole Context Stack: who he is, what else changed, the timeline, the capture conditions, the range, and the denominator, observed, not caused (Module 16). Cut to a short, it keeps its denominator only if you put it on screen, and its first frame travels alone as a thumbnail. In an ad it reaches strangers who never chose your channel and never see your log. They read one man's result as typical, and an ad system served it to whoever reacted most, which in an appearance category can mean the most anxious viewers.
 
 Four things decide how far a piece of proof can go. Does its context fit on the surface? Did the viewer choose to be there? How young does the surface's audience run? And what does the client's consent cover? By default it covers text only, under his initials, on your site, in email, and in long-form, and never ads.
 
@@ -144,11 +144,11 @@ Four things decide how far a piece of proof can go. Does its context fit on the 
 
 **Process travels everywhere; an outcome travels only as far as its denominator; ads carry none.**
 
-That's the **Proof Portability Gradient**, the map of where each kind of proof may travel. Ads carry no outcome proof even where a platform would allow it, because a platform's permission marks what it won't reject, not what a skeptic believes. A bought before/after in a feed is the most grift-coded asset this category has, and every buyer you want has scrolled past plenty.
+That's the **Proof Portability Gradient**, the map of where each kind of proof may travel. Ads carry no outcome proof even where a platform would allow it, because a platform's permission marks what it won't reject, not what a skeptic believes. A bought before/after in a feed looks exactly like the category's grift, and every buyer you want has scrolled past plenty.
 
 ### Every piece gets its row before it ships
 
-Run the gradient at the Pre-Publish Card's proof line. Count each extracted clip as a new claim: put its caveat back on screen, or drop the clip. When you can't tell where a piece of proof belongs, move it down a row. The row below costs some reach, and the row above can cost you the account.
+Run the gradient at the Pre-Publish Card's proof line. Count each extracted clip as a new claim: put its caveat back on screen, or drop the clip. When you can't tell where a piece of proof belongs, move it down a row, because the row below costs some reach while the row above can cost you the account.
 
 Run it on one piece. Dan *(composite, Struggler)* graduates with a marker past its threshold, consents to a Case, and ticks text only plus organic short-form. His Case runs in full in a long-form piece: his markers and thresholds, dated weeks 0 and 12, [what else changed], and his place among [N] graduates. The short cut from it keeps "[n] of [N] graduates reached a marker threshold · observed, not caused" on screen while his result is. The ad pushing the same long-form piece cuts his section and shows your sample weekly review instead, because process proof is the only kind a stranger's feed can carry honestly.
 
@@ -190,11 +190,11 @@ Expect it to miss. At opening prices it usually costs more per eligible lead tha
 | The Band A test | The volume leg fails and destinations pass | About $300–1,000 a month, usually above your affordable maximum per eligible lead |
 | The Adult Reach Buy at scale | All three gates open, and a test read at or under your affordable maximum | Margin falls from 75–85% toward 65–80%, plus a weekly read |
 
-**Default: no paid until the volume leg fails, then the Band A test once destinations pass.** A small measurement buy is the cheapest way to learn what an eligible lead costs you. Switch to the Adult Reach Buy when all three gates are open and a test reads at or under a third of your revenue per eligible lead.
+**Default: no paid until the volume leg fails, then the Band A test once destinations pass.** A small measurement buy tells you what an eligible lead costs you, at a price you can stop any week. Switch to the Adult Reach Buy when all three gates are open and a test reads at or under a third of your revenue per eligible lead. If the volume leg passes, the same test waits for all three gates.
 
 The buy pushes pieces, never forms. Pay for views of the proven piece, and let its own route carry viewers to your door, where you count them. Campaigns optimized on an event at your door need roughly $1–3k a month per ad set to learn anything. They'd also have to tell an ad platform who finished your self-assessment. The test's time comes out of experiments, the first cut in the De-Scoping Order, your fixed order of cuts when a week runs past 25 hours.
 
-### What paid never does
+### Paid never buys with shame or sensitive signals
 
 Paid never uses insecurity hooks: no question about a feature, no hint that he looks worse than he should, no idealized jaw, no timeframe. The large platforms ban most of this for appearance and health ads anyway, and your standard runs stricter. What runs is you on camera with one Canon claim, the honest no about bone, the sample weekly review, and the public price.
 
@@ -202,21 +202,21 @@ Nor does paid optimize on sensitive signals. No door answer, fit or health-adjac
 
 ### A cheap lead can be an expensive one
 
-**When the signals disagree.** Say one of your two proven pieces is a short whose organic viewers passed your fork at about [half]. Bought, it brings self-assessment starts at [$4] each, far under the benchmark, and the dashboard calls it your best ad. Your door disagrees: about [15%] of those starts pass the fork, and its on-weeks barely beat the off-weeks. Check the denominators first. The platform counts anyone whose self-stated account age is adult. Your fork asks whether he's a legal adult where he lives, which in a few places means 19 or 21.
+**When the signals disagree.** Say one of your two proven pieces is a short whose organic viewers passed your fork at about [half]. Bought, the dashboard shows it sending people to your self-assessment at [$4] each, a fraction of the benchmark's cost per lead, and calls it your best ad. Your door disagrees: about [15%] of those visitors pass the fork, and its on-weeks barely beat the off-weeks. Check the denominators first. The platform counts anyone whose self-stated account age is adult. Your fork asks whether he's a legal adult where he lives, which in a few places means 19 or 21.
 
-So the cheap lead is a cheap click wearing a lead's name. Read the test by the cost of each eligible lead the spend added. Pull that placement the day your fork counts show it, since a buy meant to reach adults can't keep paying to reach minors. Keep the piece whose bought viewers pass the fork at your organic rate. Never answer a poor eligible share by targeting appearance signals, which trades a measurement problem for a line.
+So the cheap lead is a cheap click wearing a lead's name. Read the test by the cost of each eligible lead the spend added, and pull that piece's spend the day your fork counts show the gap, since a buy meant to reach adults can't keep paying to reach minors. Never answer a poor eligible share by targeting appearance signals, which trades a measurement problem for a line. Keep the piece whose bought viewers pass the fork at your organic rate, and the next window reads true.
 
 ## 6. Attribution with a Holdout
 
 At your volume, no dashboard can tell you what an ad added. Read paid through a holdout and through counts you keep yourself, each with a denominator that doesn't move.
 
-### Three reads, and the holdout decides
+### The holdout decides among three reads
 
 Tag every link you control with its source, and your door records where each lead clicked from. After booking or payment, never before, ask one optional open-text question: "Where did you first hear about [Brand]?" He'll tell you where he thinks he heard. Then hold out stretches of time the ads never touch, and the difference shows what the spend added. Each read misleads alone. A pushed piece's link carries its tag whoever watched, so a tag can't tell a bought viewer from an organic one. He names the channel he remembers, often the most famous one. And in field experiments, dashboard-style estimates have missed the true effect widely, mostly by overstating it.
 
 **Tags say where he clicked, he says where he heard, and only the holdout says what the money added.**
 
-When the three disagree, the holdout sets the verdict and the other two explain it. The tags show which piece carried the bought viewers. His answers show whether an ad started his interest or caught interest your videos had already built.
+When the three disagree, the holdout sets the verdict and the other two explain it. The tags show which piece carried the bought viewers. His answers show whether an ad started his interest or only caught interest that your videos had already built over weeks.
 
 ### Pulses are the holdout you can run
 
@@ -224,11 +224,11 @@ Run the holdout in time. Spend in equal blocks of weeks, on and off, and count e
 
 ### Denominators stay fixed
 
-Count cost per eligible lead at your door, never per click, view, raw lead, or platform-reported conversion. Keep bought weeks as their own cohort for eligible lead → enrollment, read through its stages, and never splice them into your organic ratios. Date the day paid starts as a break in every series. That's Denominator Discipline, every rate counted per something you own, applied to money (Module 12). A bought cohort gets the same 30-event windows as an organic one, so a thin month can't pass for a verdict.
+Count cost per eligible lead at your door, never per click, view, raw lead, or platform-reported conversion. Keep bought weeks as their own cohort for eligible lead → enrollment, read through its stages, and never splice them into your organic ratios. Date the day paid starts as a break in every series. That's Denominator Discipline, every rate counted per something you own, applied to money (Module 12). A bought cohort gets the same 30-event windows as an organic one, so a thin month can't pass for a verdict. Held that way, even a small test leaves you a number you can plan on.
 
 ## Worked Example: Reid, His Verify Page and First Paid Test
 
-Reid *(composite operator)* is twelve weeks in. His eligible leads run about [14] a month, inside both Band A's and Band B's month-3 ranges, so the band can't tell him anything yet. His Month-3 Gate can.
+Reid *(composite operator)* is twelve weeks in. His eligible leads run about [14] a month, inside the month-3 ranges of both Band A and Band B, the steady band, so the band can't tell him anything yet. His Month-3 Gate can.
 
 **Week 12. The read: volume.** He has held [10] conversations against the gate's line of about 15. His founding group, every early client in one group, has [two] members. The volume leg fails, so the default fix has two parts: [2] more hours a week on short-form and public replies, and the Band A test once his destinations pass. He leaves price alone, since his founding price ends on its stated date.
 
@@ -263,25 +263,25 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 ### The Verify Page
 
-One page, in text, in this order. Dates and prices update each start; other changes go in as dated entries.
+One page, in text, in this order; dates and prices update each start, and other changes go in by dated entry.
 
 > **Next start: [date] · last day to join: [date].** [Seat status, when informative.] [An announced Price Step: the next price and its start.]
 >
-> **Who we are.** [Brand] is [assessment, a written plan, and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. I hold no clinical, dental, or medical qualification, and I don't give medical opinions or rate faces. I write or approve every review; [tool] tallies logged numbers only with your consent. No fees from device, supplement, or procedure sellers. Adults only.
+> **Who we are.** [Brand] is [assessment, a written plan, and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. I hold no clinical, dental, or medical qualification, give no medical opinions, and rate no faces. I write or approve every review; [tool] tallies logged numbers only with your consent. No fees from device, supplement, or procedure sellers. Adults only.
 >
 > **What we don't claim.** That habits change adult bone: there's no good evidence, so we measure what can change. That habits even out asymmetry: [reason]. That coaching replaces dental, orthodontic, or medical care: jaw pain, bite problems, or loud snoring go to a dentist or doctor first. The same result for everyone: [reason]. No devices, and no before/after without matched conditions and its range.
 >
 > **What my face does and doesn't prove.** [Your face statement, word for word.]
 >
-> **Privacy.** We collect your self-assessment answers and email; as a client, check-ins, captures at weeks 0, 6, and 12, and messages. Captures are stored in [where] and seen only by [first name], never the group, an editor, or a tool. Calls are recorded only with consent and kept [a short period]. Answers are kept [period], fit-check answers [a short period], client records [period] after you leave, and on request everything is deleted, confirmed in writing within [days]. Your record carries four labels: when you could start, your situation, your route, and a pause flag that records no reason. How you feel about your appearance is never a label, and no answer reaches an ad platform. Public use needs your separate, revocable consent. Cohorts can be pseudonymous; your statement reads "[Brand]".
+> **Privacy.** We collect your self-assessment answers and email; as a client, check-ins, captures at weeks 0, 6, and 12, and messages. Captures are stored in [where] and seen only by [first name], never the group, an editor, or a tool. Answers are kept [period], fit-check answers [a short period], client records [period] after you leave; on request, everything is deleted and confirmed in writing within [days]. Your record carries four labels: when you could start, your situation, your route, and a pause flag that records no reason. How you feel about your appearance is never a label, and no answer reaches an ad platform. Public use needs your separate, revocable consent. Cohorts can be pseudonymous, and your card statement reads "[Brand]".
 >
 > **Check the work first.** [A sample written plan, a composite, ending "don't buy"] · [A sample weekly review, a composite, real format]
 >
 > **The whole path.** [Your Path and Timeline Card]: what 12 weeks deliver, when change tends to show, and your likely cost over the first [9] months, from [the Program alone] to [with Round Two and the Hold].
 >
-> **Prices.** [Private: $, fixed deliverables, by call when a seat is open] · [The Program: $, or three payments totaling $, for [12] reviews within [48] hours, [12] group calls, two written reads, and three captures] · [The Decision Assessment: $; its faster priority tier: $] · [The Hold: $ a month] · [Round Two: $, offered at week 12 only while your record is still improving] · The Starter Path, for anyone who shouldn't buy now: free.
+> **Prices.** [Private: $, fixed deliverables, by call when a seat is open] · [The Program: $, or three payments totaling $, for [12] reviews within [48] hours, [12] group calls, two written reads, and three captures] · [The Decision Assessment: $; its faster priority tier: $] · [The Hold: $ a month] · [Round Two: $, offered only if your week-12 record is still improving] · The Starter Path, for anyone who shouldn't buy now: free.
 >
-> **Guarantee.** [We guarantee the work we control, and we pay on time.] Your legal rights come first. Fit window: cancel before baseline day or within [14–21] days of it, full refund. Service: a late review or read earns [a stated amount], cash or off your next payment; a miss in my review earns the weeks it cost, free, up to 6. Exit right: log [80%] of days, ask between your week-6 read and 7 days after it, and undelivered weeks come back. Non-response: log [80%], see no marker reach its threshold by week 12, and [a fixed share inside 25–50%] comes back in cash; I raise it. Decision Assessment: say within 14 days that the plan wasn't useful, and the fee comes back. Every payout lands within 7 days. Never guaranteed: how your face looks. Claim counts: [link].
+> **Guarantee.** [We guarantee the work we control, and we pay on time.] Your legal rights come first. Fit window: cancel before baseline day or within [14–21] days of it, full refund. Service: a late review or read earns [a stated amount], cash or off your next payment, and my review errors earn free corrective weeks, up to 6. Exit right: log [80%] of days and ask between your week-6 read and 7 days after it; undelivered weeks come back, as they do if I refer you out. Non-response: log [80%], see no marker reach its threshold by week 12, and [a fixed share inside 25–50%] comes back in cash; I raise it. Decision Assessment: not useful? Tell me within 14 days, and the fee comes back. Every payout lands within 7 days. Never guaranteed: how your face looks. Claim counts: [link].
 >
 > **The record.** [Pre-commitment, dated month 1] · [Log, updated on (day)]
 >
@@ -292,21 +292,21 @@ One page, in text, in this order. Dates and prices update each start; other chan
 | Claim, in its exact words | Column · rung · tier | Context it needs | May travel to | Entered |
 |---|---|---|---|---|
 | "Body composition shows visibly in the face, and it can be measured." | Changeable · educational · established | None | Everywhere, ads included | [Month 1] |
-| "Every review arrives within [48] hours of your check-in." | Changeable · process · your log | The turnaround count | Everywhere, ads included | [Month 1] |
+| "Every review arrives within [48] hours of your check-in." | None · process · your log | The turnaround count | Everywhere, ads included | [Month 1] |
 | "[n] of [N] graduates reached a marker threshold by week 12, observed, not caused." | Changeable · outcome · your records | The full Context Stack | Long-form, site, email; short-form with range on screen; never ads | [At 10 graduates] |
 | Never: [habit-driven change to bone] · [clinical words] · [condition names] · [unmatched before/afters] | Never claimed | None | Nowhere | [Month 1] |
 
 ## Checklist: The Paid Test Plan
 
-Answer from your records before the first dollar. A no on any line holds the test.
+Answer from your records before the first dollar; a no on any line holds the test.
 
-1. Did the Month-3 Gate's volume leg fail, with under about 15 held conversations by week 12? → If not, paid waits for all three Ad Gates.
-2. Does every page a bought viewer reaches in one click pass the Destination Rule, with no condition name in a URL or event and no ad pixel where he answers? → Fix it before spending.
+1. Did the Month-3 Gate's volume leg fail, under about 15 held conversations by week 12? → If not, paid waits for all three Ad Gates.
+2. Does every page one click from an ad pass the Destination Rule, with no condition name in a URL or event and no pixel where he answers? → Fix it before spending.
 3. Has each piece you'll push brought eligible leads through your door on its own, by its source tag? → If none has, make the pieces first.
-4. Is the budget inside about $300–1,000 a month, adults only, with no interest, lookalike, or retargeting list? → Cut it back to the test.
+4. Is the budget about $300–1,000 a month, adults only, with no interest, lookalike, or retargeting list? → Cut it back to the test.
 5. Is every ad free of feature questions, before/afters, client stories, and timeframes? → Rebuild it from the piece or the sample weekly review.
-6. Are the on and off blocks written down, with the read due when on-weeks hold about 30 eligible leads? → Write them, then spend.
-7. Is the verdict set in advance: cost per eligible lead added, against a third of your revenue per eligible lead, roughly $10–70? → Write it, and the re-test condition, now.
+6. Are the on and off blocks written, with the read due when on-weeks hold about 30 eligible leads? → Write them, then spend.
+7. Is the verdict written in advance: cost per eligible lead added, against a third of your revenue per eligible lead, roughly $10–70? → Write it and the re-test condition now.
 
 ## Stage Notes
 
