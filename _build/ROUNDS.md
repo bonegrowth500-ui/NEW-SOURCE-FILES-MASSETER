@@ -7,7 +7,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | Module | File | Drafter agent | Critic agent | Status |
 |---|---|---|---|---|
 | 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | draft done (7,223 w) → critique |
-| 02 | 02-the-buyer.md | a6e6b16066686151e | — | drafting |
+| 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | draft done (7,559 w) → critique |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | draft done (7,344 w) → critique |
 
 ## Decisions made during Step 3
@@ -18,3 +18,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R1: BUSINESS §6 membership wording aligned with LEDGER B (never the engine; optional add-on from Growing).
 - R1: style-sheet Name | Brand row repaired.
 - R1 note: sample-v2's Cole placeholders were adjusted by 01's drafter to fit Band B; the sample stays a voice reference, not a number source.
+- R1: BUSINESS §2 'the line on minors' → 'the line on vulnerability (no selling to minors)' (minors sit under the vulnerability line).
