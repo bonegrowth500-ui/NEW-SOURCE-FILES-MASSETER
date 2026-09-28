@@ -31,9 +31,9 @@ Give each job one asset that answers for it and one number that shows it working
 | A Q&A archive | The archive: one page linking every answered question to its answer | Repeat questions answered by a link, not a new reply |
 | A warm pool | Email, where adults who finished your self-assessment are tagged by stage | Eligible adults on the list; clicks per delivered against 2–5% |
 
-**Five jobs, one owner each, one door.**
-
 Those are the **Nurture Jobs**: the five jobs every coaching business must get done between a first view and a purchase, each with its owning asset. Long-form owns the first and feeds the rest, filling the archive and sending viewers to the proof library. Every piece routes to your door, the one owned path from first click to one recommendation (Module 5). Early, the library holds process proof only, since a client's story needs consent after the fit window, his full-refund period. Later stories carry their Context Stack: who, what else changed, the timeline, capture conditions, the range, and the denominator.
+
+**Five jobs, one owner each, one door.**
 
 The paid rooms own identity rehearsal because they keep the practice's standard: the group your clients join is Adults Who Measure, where membership is the practice itself. Its free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now (Module 17). Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
 
@@ -94,7 +94,7 @@ Half-life budgeting sets an asset's hours by how long it keeps working times how
 
 In this niche, half-life and yield point the same way. A trend piece dies within weeks and pulls the youngest viewers while it lives, while the bone question and the stall questions adults ask keep being searched for years. So the piece that lasts is usually the piece that sells.
 
-Half-life budgeting sets the hours per piece, and the binding constraint sets how many pieces. Early, reach binds, so short-form gets about 3.5 hours a week for 4–7 native pieces, and long-form about 2.5 for one piece every other week. As long-form's search traffic builds, the weight shifts toward it.
+Half-life budgeting sets the hours per piece, and the binding constraint sets how many pieces. Early, reach binds, so short-form gets about 3.5 hours a week for 4–7 native pieces, and long-form about 2.5 hours a week for one piece every other week. As long-form's search traffic builds, the weight shifts toward it.
 
 ## 3. Packaging for Adults
 
@@ -112,13 +112,13 @@ Three packaging choices lower the minors' share without touching the method or a
 
 | Lever | Positions, in order | What pulls the youngest |
 |---|---|---|
-| Adult context | "Adult" in the title → an age or life stage past 18, 19–24 included ("at 22", "first job") → an adult decision ("worth paying for?") | School, "at 15", trend slang, ratings |
+| Adult context, in the title or the thumbnail's question | "Adult" → an age or life stage past 18, 19–24 included ("at 22", "first job") → an adult decision ("worth paying for?") | School, "at 15", trend slang, ratings |
 | Calm thumbnail | Your face, level and front-lit, with a plain question → a faceless process object, such as an empty capture template | A jaw close-up, a profile, circled features, a score, a pair, shock words |
-| Decision-stage topic | A Range question, such as too late at his age → a Vehicle or Guide question, such as what review looks like | Transformations, rankings, "ideal" features, this week's trend |
+| Decision-stage topic | A Range or Cause question, such as too late at his age → a Vehicle or Guide question, such as what review looks like | Transformations, rankings, "ideal" features, this week's trend |
 
 **Every title picks an audience, so pick adults.**
 
-No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. A matched pair appears only inside a long-form piece, with its Context Stack said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
+No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. Among your videos, a matched pair appears only inside a long-form piece, with its Context Stack said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
 
 The dial lowers the minors' share at every stage and never aims at an adult age band. Read it at your door's age fork, and guard the other side with the 18–24 share of adult completions, read in aggregate from the door's age-band item. If a package pushes that share down, pull it back, because nothing may push out adults inside your 19–32 core. At Scaling the dial does the same job. Any change in your adult mix comes from the Buyer-Mix Shift's state lever and its page for Optimizers, buyers with more money than time, read as an observed mix (Module 13).
 
