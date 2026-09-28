@@ -95,3 +95,32 @@ A separate reviewer writes `_build/critiques/NN.md`. You'll receive it for 3.4.
 
 ## Your report back (≤150 words)
 File path and word count; audit result (FAILs remaining should be zero); the three biggest changes made in the rebuild (or, after 3.2, the parts of the brief you found hardest); any proposed LEDGER additions or new terms; any conflict you found between bible files. Don't paste module text into the report.
+
+---
+
+## Standing rulings from rounds 1–3 (read with DECISIONS.md R3; they override older wording anywhere)
+
+- **Composites:** Cole makes the right reads; Reid makes common *strategic* misreads (chasing views, skipping a check, free-call calendars). No composite ever crosses a House Standard line, even as the contrast.
+- **Money and stop rules:**
+  - Ask the affordability question verbatim before every paid step.
+  - Show tiers premium-first *before* the question, then ask about his pick.
+  - A "no" ends money talk: the Starter Path plus the pause route, with no downsell and no Program Async offer.
+  - Nothing he receives after "I can't afford it" carries a price, offer, or date.
+  - The paid Starter tool exists only after about 20 graduates. Fit-paused buyers get the reading-only path. Re-entry is buyer-controlled, never a money condition.
+- **Automation:** the pause route blocks sales sequences, date sends, checkout, and abandoned-cart emails for 60–90 days, then asks for re-permission. A minor found after the fork is deleted and refunded.
+- **Dates:**
+  - Credit is never a deadline and never appears beside a decision date; it's stated once as a term in the written plan.
+  - Late entry runs through week 2. Every send carries the start date and the last day to join.
+  - Deferral effects are contested (LEDGER E): never lean on urgency psychology.
+- **Delivery:**
+  - Markers: 2–3 per client, never read from photos, never binary did-it items.
+  - "Haven't moved" means no marker reached its threshold.
+  - Measured momentum means adherence at or above threshold, plus at least one marker still improving across its last two readings.
+  - Testimonial asks come never before the fit window closes, never in the week-6 exit conversation, and first at the first measured peak after the exit decision.
+- **Guarantee:** refunds are paid within 7 days. Your own review errors earn free corrective weeks (capped at 6).
+- **Tiers and targets:**
+  - Program Async is Scaling-only.
+  - $50k is the good case (LEDGER A3's middle case tops out around $28–35k in Bands B–D).
+  - The $50k week is about 20.5 h without Private.
+  - The Hold and Round Two sit below parity at Scaling, so they sell while minutes are spare.
+- **Terms:** "eligible lead → enrollment" is the single conversion term. The stage thresholds are in LEDGER A2 (revised).
