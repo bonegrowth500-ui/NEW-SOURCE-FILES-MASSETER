@@ -76,7 +76,7 @@ Saying a debated item at its tier means three things in one breath: what's claim
 
 ### The yes is bigger than the no
 
-Honest operators tend to spend their conviction on the no and under-sell the column that pays. It's well established that distance alone changes how a face reads: a phone at arm's length widens the nose against the same face shot from a few steps back. That's why the category's proof is so easy to fake, and it's why the yes is real, because those levers are his and each can be measured.
+Honest operators tend to spend their conviction on the no and under-sell the column that pays. It's well established that distance alone changes how a face reads: a phone at arm's length widens the nose against the same face shot from a few steps back. That's why the category's proof is so easy to fake, and why the yes is real: those levers are his, and each can be measured.
 
 So sell the yes as the life it leads to, with the conviction the grifters spend on bone. It's the meeting where he's thinking about the meeting, the dating-app photo he takes once and keeps, and a written week-6 read that tells him what's moving, so the guessing stops. That's being taken seriously, at ease in photos, and knowing instead of hoping, and much of how people see him was never in his jaw.
 
@@ -84,15 +84,22 @@ So sell the yes as the life it leads to, with the conviction the grifters spend 
 
 Age moves questions between columns and changes how any record is read. Under 18, every growth question belongs to the fourth column: public education and an orthodontist referral, with no email capture, no intake, no calls, and no offer. When Jordan *(composite, minor)*, 16, asks in a comment whether to start while he's growing, the whole answer stays public, and nothing from you reaches his inbox. For adults in their late teens and early twenties, ordinary maturation may still be under way, so any change their captures show carries that confounder too.
 
-The fourth column also stops the category's quietest trick: research on children's growing jaws, or on animals raised on different diets, sold as if it described an adult face. Say "evidence about a growing face is evidence about a growing face," and make it a title that holds up: "The research on kids' jaws is real. It isn't about your face at 27."
+The fourth column also stops the category's quietest trick: research on children's growing jaws, or on animals raised on different diets, sold as if it described an adult face. Say "evidence about a growing face is evidence about a growing face," and make it a title: "The research on kids' jaws is real. It isn't about your face at 27."
 
 ### A burned buyer trusts a map he can check
 
-Run it on Theo *(composite, Burned Struggler)*, 26, a confirmed adult through your door, the self-assessment every lead starts with. On the fit conversation, the free first call that ends in one recommendation, he describes the device and course that promised structural change, [five] months of use, and photos taken at a different distance every time. Then he asks what can change at his age.
+Run it on Theo *(composite, Burned Struggler)*, 26, a confirmed adult through your door, the self-assessment every lead starts with. On the fit conversation, the free first call that ends in one recommendation, he describes a device and a course that promised structural change, then asks what can change at his age.
 
-Sort his history before you mention the offer. The promise he bought sat in a column no one can deliver, whatever the device could touch sits in the debated column at best, and his photos can't settle anything because the distance kept changing. The first column, where his yes lives, is untouched.
+Sort his history before you mention the offer. Each piece lands in a column, and the columns explain the stall better than blame does:
 
-Then give him the yes, because a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. Recommend the Program, the 12-week flagship, state its public price once, and ask whether it's comfortable from his own income or savings without new credit. Then hand him the verification kit, a sample written plan and a sample weekly review, and let him choose his date, because his "I need to think" is due diligence.
+| His history | Column | What it can tell him |
+|---|---|---|
+| The promise of structural change | Never claimed | Nothing: no one can deliver that column |
+| Whatever the device could touch | Debated, at best | Little, and none of it was measured |
+| [Five] months of phone photos | None: distance and light changed every time | Nothing reliable |
+| A log, a body-composition baseline, matched captures | Changeable and measurable | What's moving, from his first week |
+
+The last row is his yes, and a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. Recommend the Program, the 12-week flagship, state its public price once, and ask whether it's comfortable from his own income or savings without new credit. Then hand him the verification kit, a sample written plan and a sample weekly review, and let him choose his date, because his "I need to think" is due diligence.
 
 The written recap carries his goal in his words, the plan, the recommendation, the price, and his date. The device money stays out of it, because a pitch that leans on money already lost is how he was sold the first time.
 
@@ -108,7 +115,7 @@ A map nobody hears does nothing, so the first thing your brand publishes is the 
 
 ### The answer comes before the pitch
 
-That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before any offer appears, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, and that completeness is what makes the pitch at the end credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, result page, and first email, and a spoken version for calls.
+That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before any offer appears, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the pitch at the end credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, result page, and first email, and a spoken version for calls.
 
 ### Every no travels with a yes
 
@@ -150,13 +157,21 @@ Holding it takes force. You can be pointed, even cutting, about practices and bu
 
 ### Ideas take the hits, people never do
 
-Aim at ideas and incentives, never at a person: no names, no comment on anyone's features, and no rival's face on your screen. An attack on a person reads as rivalry, makes you one more loud voice in the fight you're positioned above, and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea gives the buyer a tool he can use on anyone, including you.
+Aim at ideas and incentives, never at a person, and keep the two lists apart:
+
+| Aim at | Never at |
+|---|---|
+| Practices: day-count timelines, unmatched before/afters, structural guarantees | A named person or channel, or a rival's face on your screen |
+| Business models: the next tip, the next device, the next rating | Anyone's features |
+| The genetics shrug, steelmanned first | Clinicians, who are where you send people |
+
+An attack on a person reads as rivalry, makes you one more loud voice in the fight you're positioned above, and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea gives the buyer a tool he can use on anyone, including you.
 
 That tool is the Honest-Evidence Test, which teaches buyers the tells of manufactured proof and the standard of honest evidence so they can judge anyone, you included. It covers teardowns of published claims, with every face cropped or blurred (Module 16). Teaching it binds the teacher, so build your Capture Standard, matched distance, lens, angle, light, expression, and time of day for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
 
 ### Clinicians are where you send people
 
-Clinicians belong on your referral list, never on your list of enemies. Your position should read to an orthodontist, dentist, sleep physician, or psychologist as correct about bone, careful about the middle, and honest that coaching replaces none of them. Name the triggers that send a man their way and leave the advice to them: sleep or snoring signs, jaw pain, bite concerns, distress or fixation, and anyone under 18. The "what doctors won't tell you" angle is a trap, because it collides with the lines on structural claims and credentials and makes you sound like what you're positioned against.
+Your position should read to an orthodontist, dentist, sleep physician, or psychologist as correct about bone, careful about the middle, and honest that coaching replaces none of them. Name the triggers that send a man their way and leave the advice to them: sleep or snoring signs, jaw pain, bite concerns, distress or fixation, and anyone under 18. The "what doctors won't tell you" angle is a trap, because it collides with the lines on structural claims and credentials and makes you sound like what you're positioned against.
 
 Money follows the same logic. Remove conflicts instead of disclosing them: no affiliate codes, sponsorships, or referral fees from device, supplement, or procedure sellers, said on the Verify Page. A disclosed conflict still reads as one, and a removed one is a signal a grifter can't afford to send.
 
@@ -183,7 +198,7 @@ The architecture is Name | Brand: the brand owns the method, the Capture Standar
 
 First, the face gets read as evidence here, whatever you intend. An operator who looks good hears "genetics" or "so it works", and one who doesn't hears "so it failed". Both readings are borrowed proof, so the evidence has to come from consented client records. Second, a method named after a person inherits every controversy that person ever has, and one named after a category term inherits the category's reputation, so neither your name nor the search term goes on the method.
 
-Third, the assets that compound should survive a platform ban, a bad quarter, or a channel rename: the consented client library, the Capture Standard, the dated log, and the email list. They survive only if they belong to something larger than one account.
+Third, the assets that compound should outlive a platform ban or a bad quarter: the consented client library, the Capture Standard, the dated log, and the email list. They do only if they belong to something larger than one account.
 
 | The brand owns | The face carries |
 |---|---|
@@ -251,9 +266,9 @@ A fixed sample size protects you from small numbers as well as temptation, becau
 
 Picture the rival who starts copying you in year 3. He can take your map, your terms, your Capture Standard, and your log's format in a week. He can't give his record a start date earlier than his own, so his pre-commitment is dated years after yours and his first ranges rest on a thinner sample. Your record shows, in order, what you promised in month 1 and what happened every month after, including the months that disappointed. Around it sit two more things he can't shortcut: the library of consented client records and the search history attached to your brand's name.
 
-The record binds you usefully, too, because a public, dated log makes any drift toward bigger claims visible to everyone who reads it. It's also what holds up a premium price later, once the honest stance is common.
+The record binds you usefully, too. A public, dated log makes any drift toward bigger claims visible to everyone who reads it, including the buyer deciding whether to trust you, so the moat and your own discipline turn out to be the same object.
 
-**When the signals disagree.** Say a rival launches with your Outcome Map nearly word for word and outgrows you for a quarter. Your comments ask what the difference is, while your eligible leads and held conversations hold steady: the position looks copied, but the business resting on it hasn't moved. Don't escalate your claims to stand apart, which walks you toward the column you refuse, and don't call him out, which turns a fight about ideas into a fight between people. Answer the comment with the record: "Here's what I committed to in [month 1], and every entry since." More voices answering the bone question straight make a better market, and in it the oldest dated record gets checked first.
+**When the signals disagree.** Say a rival copies your Outcome Map nearly word for word and outgrows you for a quarter. Your comments ask what the difference is, while your eligible leads and held conversations hold steady: the position looks copied, but the business resting on it hasn't moved. Don't escalate your claims, which walks you toward the column you refuse, and don't call him out, which turns a fight about ideas into one between people. Answer the comment with the record: "Here's what I committed to in [month 1], and every entry since." A category where more voices answer the bone question straight is a better market, and in it the oldest dated record gets checked first.
 
 ## Worked Example: Reid, Repositioning a Grift-Adjacent Channel
 
@@ -273,7 +288,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 | Title 2 | "How I got this jawline" | "Why most jaw before-and-afters prove nothing" |
 | Title 3 | "Do this daily for a sharper jaw" | "At ease in the group photo at 27: what can change, what can't, how you'd know" |
 
-**Week 2. The Honest Answer.** His next long-form was the Honest Answer: the question in a 27-year-old's words, the no first, oral-posture and chewing claims at their tier, then the first column as a destination with one line placing it beyond the face. He put his Capture Standard on screen, gave the under-18s already watching their own answer, an orthodontist and nothing to sign up for, and closed on the null-result stance and the door.
+**Week 2. The Honest Answer.** His next long-form followed the outline: the no first, the debated claims at their tier, then the first column as a destination with one line placing it beyond the face, and his Capture Standard on screen. It gave the under-18s already watching their own answer, an orthodontist and nothing to sign up for, and closed on the null-result stance and the door.
 
 **Week 3. The first pre-commitment post.** He pinned it on [date]. It promised a dated log of check-in completion, review turnaround, the claim rate, and fit declines every [month], with outcome ranges and denominators at 30 graduates, whatever they show. He had [no] paying clients when he posted it, which is exactly why it read as credible.
 
@@ -287,7 +302,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 
 ### The positioning statement
 
-Fill it in once, run it through the Neither-Grifter-nor-Doctor Test, and reuse its parts in every bio, About page, and descriptor.
+Fill it in once, run it through the Neither-Grifter-nor-Doctor Test, and reuse its parts wherever the brand describes itself.
 
 > For [adults who've spent months guessing], [Brand] is [the descriptor]. We tell you plainly what an adult can and can't change, then help you measure what can, so you walk into the room and stand in the photo knowing instead of hoping. We take on [the grift pattern, named as an idea] and the "it's all genetics" shrug, and we never claim [the never-claimed column, in one line]. Your face is one part of how you're seen, never the whole. [First name] fronts it on camera; the records carry the proof.
 
@@ -328,7 +343,7 @@ Run it on every product, tier, and program name before it's printed anywhere.
 
 **Early.** Reach binds and you have no proof, so the position has to earn trust before any record exists: the answer and the pre-commitment go public before the first client does. The trap is buying reach with the category's loud formats, day-count titles and idealized jaws, because they pull the youngest viewers fastest and teach the adults you want to read you as one more seller.
 
-**Growing.** Conversion and selling minutes bind, and the position's job is to send buyers to the call already sorted: they've seen the map, know what you won't claim, and have searched your name. Repeat the Honest Answer across every surface and watch branded search climb. The trap is answering a louder rival with a bigger claim, or letting the log lapse because nobody reads it yet.
+**Growing.** Conversion and selling minutes bind, and the position's job is to send buyers to the call already sorted, having seen the map and searched your name. Repeat the Honest Answer across every surface and watch branded search climb. The trap is answering a louder rival with a bigger claim, or letting the log lapse because nobody reads it yet.
 
 **Scaling.** Care minutes bind, and published ranges with real denominators make your position the standard the category gets measured against. The default move is to publish on the committed dates, flattering or not. The trap is quietly shifting the schedule or the denominator when a number disappoints, which turns the moat back into cheap talk.
 
@@ -345,8 +360,8 @@ Run it on every product, tier, and program name before it's printed anywhere.
 
 **Takeaways**
 - Buyers here audit everything, and both loud answers skip the question they asked.
-- The Outcome Map sorts by mechanism and age: the first column with conviction, the debated one at its tier, the third never claimed.
-- The Honest Answer is your first long-form, and it answers before it pitches.
+- The Outcome Map sorts by mechanism and age: the first column with conviction, the second at its tier, the third never.
+- The Honest Answer is your first long-form and answers before it pitches.
 - Honesty is copyable; the Dated Record, started in month 1 and published whatever it shows, is the moat.
 
 **The Outcome Map.**

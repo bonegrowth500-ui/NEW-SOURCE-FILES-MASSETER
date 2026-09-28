@@ -8,7 +8,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 |---|---|---|---|---|
 | 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | ✅ 3.5 passed (7,463 w) |
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | critique done (0 blocking, 15 major) → rebuilding |
-| 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | critique done (0 blocking, 11 major) → rebuilding |
+| 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -24,3 +24,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R1: proof milestone vs Dated Record: outcome ranges first join the log at the proof milestone (≥10 graduates) labeled as a small sample; standing published log from ≥30.
 - R1: "eligible lead → enrollment" is the single conversion term (VOICE §4 one-term table; LEDGER standardized).
 - R1: LEDGER additions approved from 01: held conversations at the configuration (~8–17/month at $25k; ~9–18 at $50k); engaged long-form view equivalent (~35–475k/month at $25k; ~55–725k at $50k); conversation-bind signs row (Call Cap trigger).
+
+## Integration notes for Step 4 (seams to fix in 4.1/4.3)
+- 03 glosses "your door" as "the self-assessment every lead starts with"; harmonize door glosses with 05's definition (self-assessment is the door's first step).
+- 16 §6 recaps the null-result stance with 03's gloss; 19 reuses 03's spoken Honest Answer verbatim.
