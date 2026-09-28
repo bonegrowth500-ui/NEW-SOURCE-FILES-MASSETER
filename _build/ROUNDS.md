@@ -20,7 +20,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | ✅ 3.5 passed (7,614 w) |
 | 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | ✅ 3.5 passed (7,611 w) |
 | 14 | 14-the-belief-chain.md | a89abc2dfc2ee7182 | a8010ad9e8a0be949 | ✅ 3.5 passed (7,589 w) |
-| 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | ab6ffdd5f62788935 | critique done (1 blocking, 11 major) → rebuilding |
+| 15 | 15-trust-without-credentials.md | a8333252e33aa0f27 | ab6ffdd5f62788935 | ✅ 3.5 passed (7,519 w) |
 | 16 | 16-evidence-that-persuades.md | a69517812edf19da3 | a721610947ef123b4 | critique done (2 blocking, 13 major) → rebuilding |
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 
@@ -93,3 +93,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R4 round (16 critique): testimonial asks never in any refund-deciding conversation (week-6 exit, week-12 verdict) and never of a client who claimed a refund (LEDGER D). No client stories in month 1. No universal 'your stall isn't genetic' claims.
 - Integration (5.1): MAP's Early Fast Path schedules Transition stories earlier than R3-11 allows; fix when writing the Intro.
 - R4 round (14 final): bounded-agency gloss fixed in FRAMEWORKS and Module 03 ('measurement shows what's moving', never a ceiling read off his face). LEDGER E rows: positive fantasy vs expectation (M, one group); sustained exposure to corrections (M/W, one six-month field experiment). LEDGER H: Canon rotation rule (claim #1 on every entry surface; each claim every ~4–6 weeks in the same words; a resurfacing myth's claim first for ~2 weeks). 19, 20, 26 quote canon claims verbatim; 26 adopts the rotation; 05, 06, 21 adopt the 'misdirected' standard.
+- R4 round (15 final): Module 05 table clarified: distress 'yes, most days' or checking 'many times a day' (no checking 'most days' signal).

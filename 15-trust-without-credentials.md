@@ -31,7 +31,7 @@ So calibrate. Be exact about what you control, and give outcomes as ranges once 
 
 ### He knows it's a sale, and he punishes what he uncovers
 
-This audience has watched every tactic the category runs: the countdown, the unmatched before/after, the DM that turns friendly before an offer appears. When a buyer spots a tactic he discounts the whole message, and the research finds that reaction stronger in personal selling than in ads. So a tactic that works only while hidden is a debt. It earns a little until he finds it, then costs more than it earned, because broken trust weighs more than kept trust.
+This audience has watched every tactic the category runs: the countdown, the unmatched before/after, the DM that turns friendly before an offer appears. When a buyer spots a tactic, he discounts the whole message. The research finds that reaction stronger in personal selling than in ads. So a tactic that works only while hidden is a debt. It earns a little until he finds it, then costs more than it earned, because broken trust weighs more than kept trust.
 
 Announcing that you'll change his mind backfires too, since forewarning stiffens resistance on questions a man cares about. What survives is plain disclosure of what this is, what you gain, and what it costs, said before he asks. Much of the House Standard, the playbook's rules for persuasion and proof (Intro), is this psychology written as rules. Its central test, whether a client at the low end of your range would endorse a tactic once he saw how it worked, rules out anything that works only unseen.
 
@@ -43,7 +43,7 @@ Anything an honest operator can say, a grifter can say too, so trust moves only 
 
 ### Talk is free, so a signal has to cost a liar something
 
-Every page in this category claims to be "science-based" with a "money-back guarantee", and your buyer read both on the page that sold him a device. Saying a thing costs nothing, so saying it proves nothing. A signal is believable only when a false one would cost the sender, and here the cost has to come from two directions.
+Every page in this category claims to be "science-based" with a "money-back guarantee". Your buyer read both on the page that sold him a device. Saying a thing costs nothing, so saying it proves nothing. A signal is believable only when a false one would cost the sender, and here the cost has to come from two directions.
 
 The first is the cost of keeping the signal true. Paid refunds, turned-away buyers, and plans that say "don't buy" cost an honest operator a little, because his program mostly works and his screening mostly holds. For a grifter they're ruinous, since his product fails often and his model runs on volume.
 
@@ -53,7 +53,7 @@ The second is the cost of being caught faking. He can post "[four] declines this
 
 Some signals every trustworthy operator must show, and a grifter can post them too. They include the adults-only statement at your door, public prices, refund terms, and a privacy page saying who sees photos. Add a comment policy and the Path and Timeline Card, which shows the full path's likely cost before payment. Their absence is a reason to leave, and their presence isn't a reason to buy. Write them once, and give every limit you state its reason and what to do instead, because a bare list of noes reads like the genetics shrug.
 
-Other signals would ruin a grifter to keep true. They're an honored guarantee with its claim rate published, the recommendation mix across your Decision Assessments, the paid written plans, and fit-decline counts. Add a disclosure of how reviews are made, and conflicts removed, with no affiliate codes or referral fees. Behind them sits the Dated Record, your published pre-commitment and dated log, started in month 1 (Module 3). That's **Costly vs Hygiene Signals**: hygiene signals are required but cheap, and costly signals are the ones a grifter can't afford.
+Other signals would ruin a grifter to keep true. They're an honored guarantee with its claim rate published, fit-decline counts, and the recommendation mix from your Decision Assessments, the paid written plans. Add a disclosure of how reviews are made, and conflicts removed, with no affiliate codes or referral fees. Behind them sits the Dated Record, your published pre-commitment and dated log, started in month 1 (Module 3). That's **Costly vs Hygiene Signals**: hygiene signals are required but cheap, and costly signals are the ones a grifter can't afford.
 
 **A costly signal is one a grifter can't afford to keep true and can't afford to be caught faking.**
 
@@ -66,11 +66,11 @@ Every costly signal proves one thing and leaves another open, and he can test ea
 | Claim rate, by guarantee layer | A payout on every failure | Using the fit window himself; payouts against the terms' 7 days | You pay what you owe | That it works: few claims can mean terms nobody could collect |
 | Recommendation mix (~30 assessments) | Plans that say "don't buy" | The published "don't buy" sample plan | Paid plans aren't pitches | That each recommendation was right |
 | Fit declines, when no sale follows | A shrinking funnel | Any declined man can contradict it | Your yes means something | How the men you accepted will do |
-| How reviews are made | The hidden labor behind his margin | His first review's timestamp, and whether it answers his week | He gets what the page describes | That your judgment is good |
+| How reviews are made | Admitting who writes his "personal" feedback | His first review's timestamp, and whether it answers his week | He gets what the page describes | That your judgment is good |
 | Conflicts removed | Affiliate and referral income | Links and descriptions free of codes | Your advice isn't a sales channel | That your advice is right |
-| The Dated Record | A log he can't back-fill | Platform dates; corrections as new entries; denominators matching each start's published fill, exits included | What happened to everyone, on a preset schedule | That it will work for him: each range is observed, not caused |
+| The Dated Record | Publishing the men it didn't work for | Platform dates; corrections as new entries; denominators matching each start's published fill, exits included | What happened to everyone, on a preset schedule | That it will work for him: each range is observed, not caused |
 
-Only the last row speaks to "does it work?", and only once graduates exist. The claim rate reports on the Layered Guarantee, from statutory rights through a fit window, a service guarantee on your inputs, a week-6 exit right, and a week-12 non-response clause (Module 7). Log the free corrective weeks your own review errors earn in it, since that's the entry a grifter would never publish. The review disclosure works only while the work shown is the work delivered, so it changes the day your process does.
+Only the last row speaks to "does it work?", and only once graduates exist. The claim rate reports on the Layered Guarantee, from statutory rights through a fit window of 14–21 days for a full refund, a service guarantee on your inputs, a week-6 exit right, and a week-12 non-response clause (Module 7). Log the free corrective weeks your own review errors earn in it, since that's the entry a grifter would never publish. The review disclosure works only while the work shown is the work delivered, so it changes the day your process does.
 
 ### A burned buyer tests one number before he books
 
@@ -92,7 +92,7 @@ In this category the reveal is itself a grift tell. The standard bait is a free 
 
 **Say what you sell, what you earn from it, and what it costs before he has to ask.**
 
-Your stake is the part operators skip. "I earn money when you join, which is why I'll tell you when you shouldn't" is a sentence any seller can say and only a record can back. Link your published recommendation mix when you say it. Here's where each part goes:
+Your stake is the part operators skip. "I earn money when you join, which is why I'll tell you when you shouldn't" is a sentence any seller can say and only a record can back. Link the record when you say it: your fit-decline count early on, your recommendation mix once it's published. Here's where each part goes:
 
 | Surface | Say early | What it removes |
 |---|---|---|
@@ -233,7 +233,7 @@ The route moves where force points and leaves what you recommend alone, so the l
 
 **Change the aim, never the recommendation.**
 
-The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed, and your tools store no fit or insecurity answers. Where the result page branches by his answers, the branch is computed as the page loads and nothing is kept. The route itself lives where a person is talking: on a call, in a reply, in a review.
+The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed. Your tools store no fit or insecurity answers at all. Where the result page branches by his answers, the branch is computed as the page loads and nothing is kept. The route itself lives where a person is talking: on a call, in a reply, in a review.
 
 Run it on Dan *(composite, Struggler)*, 24, who keeps a comparison-photo habit. On the call he says he checks his side profile "a few times a week" and looks weak in every photo, so the route runs. You validate first: it's a rough way to feel, and it makes sense after eight months with no answer. You reflect his stake as another year of guessing and leave out the team photos he named as his goal. Then comes the hard true thing: "You've spent eight months asking a mirror a question it can't answer, and the guessing is what's wearing on you."
 
@@ -249,7 +249,7 @@ The Dignity Check asks whether he leaves more capable or more defective (Intro),
 | Declined: a fixation signal | "You're not a fit for the program." | "The useful next step is someone who can help with how much time this takes. Here's who. The reading is yours either way." |
 | A budget buyer: "I can't afford it" | "Maybe when you're in a better spot", or any cheaper offer | "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." |
 
-The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once, the pause route is set, and money talk ends. If he keeps the practice, he's still one of the adults who measure instead of guess (Module 17).
+The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once. The pause route is set, and money talk ends. If he keeps the practice, he's still one of the adults who measure instead of guess (Module 17).
 
 ## Worked Example: Cole's First-Month Trust Audit
 
@@ -305,15 +305,15 @@ If he pushes:
 
 Never say "Honestly, I know more about this than most orthodontists," because it claims a credential nobody can verify and swings at the people you refer to.
 
-Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit, let him pick his decision date, and ask the affordability question word for word before any payment.
+Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit and let him pick his decision date. The affordability question runs word for word before any payment.
 
 ### The face statement
 
 Pin it under your first long-form piece, in your profile, and on the Verify Page. It's true on day one:
 
-> **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates, flat results included. Client photos stay private. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
+> **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates as a labeled small sample, flat results included. Client photos stay private. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
 
-Its first sentence runs both ways, so one reply answers a hostile comment and a flattering one alike. Update the evidence sentence as the log grows, so the statement never runs ahead of the record.
+Update the evidence sentence as the log grows, so the statement never runs ahead of the record, and quote its first sentence whenever a comment reads your face either way.
 
 ## Checklists: Costly Signals and Vocabulary Swaps
 
@@ -346,7 +346,7 @@ Its first sentence runs both ways, so one reply answers a hostile comment and a 
 
 - **The Qualifications Answer.** One fixed fact sentence, an exact title inside it if you hold one, and a scope no credential widens (the line on credentials). No title, suffix, clinical word, or "studied for years" stands in for what he can verify.
 - **The face statement and the replies.** Your face stays out of the evidence both ways, and the statement cites only what's true that day (the line on fabricated proof). *Fight ideas, not people* lets a reply cut at selling with a jaw and answer every grift claim at its tier, never touching the commenter's face.
-- **The Dignity Route.** Force stays on time, money from here on, and guessing (*Name the stakes*), the hard true thing lands on the guessing (*Say the true thing*), and the recommendation and ask stay firm (*Close*). Sequences carry the same limits by default, and fixation still ends the sale.
+- **The Dignity Route.** Force stays on time, money from here on, and guessing (*Name the stakes*), the hard true thing lands on the guessing (*Say the true thing*), and the recommendation and ask stay firm (*Close*). Sequences carry the same limits by default, and distress or fixation still ends the sale.
 
 ## Quick Reference
 
@@ -354,18 +354,18 @@ Its first sentence runs both ways, so one reply answers a hostile comment and a 
 
 **Takeaways**
 - Credentials shortcut competence; integrity and benevolence come from what you refuse and what it costs you.
-- Costly signals are ones a grifter can't afford to keep true or be caught faking; only outcome ranges answer "does it work?"
+- Costly signals cost a grifter to keep true or to fake; only outcome ranges answer "does it work?"
 - Your face shows who's accountable, never what works; on the Dignity Route, change the aim, never the recommendation.
 
 **The signals**
 
 | Signal | He tests it by | Can't prove |
 |---|---|---|
-| Claim rate | The fit window; the terms | That it works |
-| Recommendation mix | The "don't buy" sample plan | That each was right |
+| Claim rate | Using the fit window | That it works |
+| Recommendation mix | The "don't buy" sample | That each was right |
 | Fit declines | Any declined man | How accepted buyers do |
 | Review disclosure | His first review | Your judgment |
-| Dated Record | Platform dates, corrections, denominators | That it works for him |
+| Dated Record | Dates, corrections, denominators | That it works for him |
 
 **The answer.** Fact → scope → check → referral; minors get only the orthodontist line. **The statement.** True on day one, with no thumbnail, before/after, filter, jaw light, or face story. **The route.** Worth-language, a non-acute fit answer, or checking short of "many times a day" → time, money from here on, and guessing; no missed moments; stop at knowing instead of guessing.
 

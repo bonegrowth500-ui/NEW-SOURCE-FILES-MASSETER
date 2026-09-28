@@ -353,7 +353,7 @@ Answer from your records for your last 30 eligible leads.
 | What he shows | Where it routes |
 |---|---|
 | Not a legal adult, at the fork or later | The education lane; data deleted, any payment refunded |
-| Distress or checking, "most days" or "many times a day" | Help, an offer to talk, the pause route |
+| Distress "yes, most days", or checking "many times a day" | Help, an offer to talk, the pause route |
 | Jaw pain, bite, or snoring | A referral first; payment waits |
 | "No" to the question | The tool-free Starter Path, once; the pause route |
 | A fit-check signal | No payment today, written expectations, 72+ hours, no plan, fit window from day one |
