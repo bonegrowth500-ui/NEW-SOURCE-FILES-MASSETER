@@ -249,7 +249,7 @@ Time is the costly signal a rival can't shortcut. Money buys him a camera, an ed
 
 The pre-commitment is a short, dated public post that says four things: what you'll publish, at what sample size, on what schedule, and that you'll publish it whatever it shows. Write it in month 1, while you have no clients and nothing to protect, because that's the one moment it can't look self-serving. Selective publication is how the category's proof got made. Committing in advance removes your option to hide a bad number, and the buyer can see that you removed it.
 
-The log opens in month 1: fit declines from the first conversation, check-in completion and review turnaround from the first client, and the claim rate from the first refund window. Outcome metrics join once 30 clients have graduated: ranges on markers, published with denominators as observed among clients, beside the non-responder share and the share told they didn't need Round Two. The recommendation mix waits for 30 Decision Assessments.
+The log opens in month 1: fit declines from the first conversation, check-in completion and review turnaround from the first client, and the claim rate from the first refund window. At the proof milestone of 10 graduates, outcome ranges on markers join, observed among clients, with denominators, labeled a small sample, flat results included. From 30 they become the standing log, beside the non-responder share and the share told they didn't need Round Two. The recommendation mix waits for 30 Decision Assessments.
 
 | In the log | Starts | What it shows a skeptic |
 |---|---|---|
@@ -257,6 +257,7 @@ The log opens in month 1: fit declines from the first conversation, check-in com
 | Review turnaround kept | First client | You deliver what you promised, on time |
 | Guarantee claim rate | First refund window | The guarantee gets used and honored |
 | Fit declines, in aggregate | First conversations | You turn people away and send them elsewhere |
+| Outcome ranges, as a small sample | 10 graduates | Flat results beside the rest |
 | Outcome ranges, non-responder share, "you don't need Round Two" share | 30 graduates | What happened to everyone, not just the best cases |
 | Recommendation mix | 30 assessments | How often the answer was "don't buy" |
 
@@ -290,7 +291,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 
 **Week 2. The Honest Answer.** His next long-form followed the outline: the no first, the debated claims at their tier, then the first column as a destination with one line placing it beyond the face, and his Capture Standard on screen. It gave the under-18s already watching their own answer, an orthodontist and nothing to sign up for, and closed on the null-result stance and the door.
 
-**Week 3. The first pre-commitment post.** He pinned it on [date]. It promised a dated log of check-in completion, review turnaround, the claim rate, and fit declines every [month], with outcome ranges and denominators at 30 graduates, whatever they show. He had [no] paying clients when he posted it, which is exactly why it read as credible.
+**Week 3. The first pre-commitment post.** He pinned it on [date]. It promised a dated log of check-in completion, review turnaround, the claim rate, and fit declines every [month], with outcome ranges and denominators from 10 graduates, a small sample until 30, whatever they show. He had [no] paying clients when he posted it, which is why it read as credible.
 
 **What he left alone.** He didn't add a platform, buy reach to replace the lost views, cut his founding price, or chase the old numbers with bolder hooks. Honest disagreement stayed up in his old comment threads, because deleting it would have been one more thing to explain.
 
@@ -324,7 +325,7 @@ Order matters more than length, and the answer is complete before the offer appe
 Post it in month 1, pin it, and link it from the Verify Page.
 
 > **[Date]. What [Brand] will publish, whatever it shows.**
-> From today, [Brand] keeps a dated public log at [link]. On [a fixed day each month], it shows check-in completion, review turnaround kept, the guarantee claim rate, and fit declines in aggregate, never individuals or reasons. Once 30 clients have graduated, it adds ranges on each client's markers, the habit and measurement targets he agrees at the start, observed among clients and shown with denominators. Beside them go the share whose markers didn't move and the share told they didn't need our follow-on block. Once 30 Decision Assessments are done, it adds how often the answer was "don't buy". A disappointing number goes out on the same date as the rest, and corrections arrive as new dated entries.
+> From today, [Brand] keeps a dated public log at [link]. On [a fixed day each month], it shows check-in completion, review turnaround kept, the guarantee claim rate, and fit declines in aggregate, never individuals or reasons. Once 10 clients have graduated, it adds ranges on each client's markers, the habit and measurement targets he agrees at the start: observed among clients, with denominators, labeled a small sample, flat results included. From 30 graduates they become a standing log, beside the share whose markers didn't move and the share told they didn't need our follow-on block. Once 30 Decision Assessments are done, it adds how often the answer was "don't buy". A disappointing number goes out on the same date as the rest, and corrections arrive as new dated entries.
 
 ## Checklist: Product Naming
 
@@ -377,7 +378,7 @@ Run it on every product, tier, and program name before it's printed anywhere.
 
 **Name | Brand rules.** The brand owns the method, Capture Standard, library, and record; your face carries trust, never evidence. Names use process words, imply no credential, and read "First name | Brand" everywhere.
 
-**Pre-commitment check.** Dated and posted in month 1? Names what, the schedule, and the sample sizes: 30 graduates, 30 assessments? Says "whatever it shows"? Corrections added as new entries?
+**Pre-commitment check.** Dated and posted in month 1? Names what, the schedule, and the sample sizes: 10 graduates, then 30; 30 assessments? Says "whatever it shows"? Corrections added as new entries?
 
 **Framework cheat sheet**
 
