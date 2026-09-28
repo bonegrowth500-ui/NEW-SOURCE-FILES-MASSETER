@@ -29,7 +29,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | ✅ 3.5 passed (7,645 w) |
 | 23 | 23-long-form-where-trust-compounds.md | aebe6cd1c5c5729d1 | — | 3.1–3.2 drafting |
-| 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | — | 3.1–3.2 drafting |
+| 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | 3.3 critique (draft 7,343 w) |
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | — | 3.1–3.2 drafting |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | — | 3.1–3.2 drafting |
 | 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | — | 3.1–3.2 drafting |
@@ -119,3 +119,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (19 final): FRAMEWORKS Decision Date refined: on or before the next real decision point (a start's last day to join, or an announced step).
 - R5 round (18 final): VOICE §3.6 records the Pre-Publish Card exception (up to ten lines).
 - R5 round (22 final): 'measured peak' registered ○ (owner 22). LEDGER B: Round Two joins on the monthly start calendar (its last day to join anchors a deferral). Seams fixed in passed modules: 16 L190 results ask needs adherence too; 06 week-12 offer rows say 'adherence met'; 10 §5 adds the partner-enrolls-alone route.
+- R6 round (from 24): before/after pairs live in long-form and the site library only (THESES E8, brief 27 §4); Module 16's clip condition fixed ('No before/after pair appears in the clip at all…'). LEDGER F TikTok trigger: a labeled trial matching Reels on eligible adults per editing hour over ~30 door completions. LEDGER F cadence (every other week early) wins over THESES E5 (weekly). Integration: 16's opening 'two posts sit in his feed' shows a matched pair in a feed; check against E8 in 4.1 (it's another coach's post, illustrative).

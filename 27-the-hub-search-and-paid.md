@@ -245,13 +245,13 @@ Reid *(composite operator)* is twelve weeks in. His eligible leads run about [14
 
 Three fixes take [an evening], and his destinations pass.
 
-**Week 13. The second gate, and the misread.** His first pick for the budget is his most-viewed short, [~40k] views, the number he has watched since month 1. Its source tag shows [one] eligible lead. His quieter long-form piece, "[27 and still guessing: what an adult can measure]", brought [8] from about [3k] engaged views, and another short brought [3]. Views are the first number every dashboard shows, so his pick is a common misread. But paid multiplies what a piece already does, and his most-viewed short barely brings anyone in. He pushes the two proven pieces.
+**Week 13. The second gate, and the misread.** His first pick for the budget is his most-viewed short, [~40k] views, the number he has watched since month 1. Its source tag shows [one] eligible lead. His quieter long-form piece, "[27 and still guessing: what an adult can measure]", brought [8] from about [3k] engaged views, and another short brought [3]. It's a common misread, since views are the first number every dashboard shows, but paid multiplies what a piece already does. He pushes the two proven pieces.
 
-**Weeks 14–21. The buy.** He spends [$300] in each on-week, in blocks of [two] weeks on and [two] off: [$1,200] over [eight] weeks, about [$600] a month. The ads reach adults only, use no interests, and pay for views of the two pieces. Nothing at his door reports back to the ad platform. His booking page and checkout confirmation carry the optional question about where a buyer first heard of him.
+**Weeks 14–21. The buy.** He spends [$300] in each on-week, in blocks of [two] weeks on and [two] off: [$1,200] over [eight] weeks, about [$600] a month. The ads reach adults only, use no interests, and pay for views of the two pieces. Nothing at his door reports back to the ad platform, and his booking page and checkout confirmation carry the optional source question.
 
 **Week 22. The read.** The on-weeks brought [32] eligible leads. The off-weeks ran about [3.5] a week, so roughly [18] of the 32 came from the spend, at about [$67] each, inside the benchmark's $36–100. His tags credited the pieces with [26], more than the holdout allows, because organic viewers click the same links. Held conversations per eligible lead in on-weeks sat near [12%], inside 10–20% like his organic weeks. It's a thin read, so he writes it down and doesn't act on it.
 
-At his founding price and early conversion, an eligible lead is worth about [$40] to him, which caps what he can pay at about [$13]. The test costs [about five times] that, the result the default expected. He stops the spend and logs [$67] as his cost per eligible lead. Then he writes the re-test trigger: revenue per eligible lead near [$200], three times the tested cost, or a piece whose bought viewers cost less. That sits at the top of the planning range, with proof prices and a working back end behind it, which makes paid a year-2 lever for him.
+At his founding price and early conversion, an eligible lead is worth about [$40] to him, which caps what he can pay at about [$13]. The test costs [about five times] that, the result the default expected. He stops the spend and logs [$67] as his cost per eligible lead. Then he writes the re-test trigger: revenue per eligible lead near [$200], three times the tested cost, or a piece whose bought viewers cost less. That's the top of the planning range, reachable only with proof prices and a working back end, so paid is a year-2 lever for him.
 
 **Left alone.** His most-viewed short, a lead form on the ad platform, a bigger budget "for more data" before the window closed, and his founding price.
 
@@ -327,12 +327,12 @@ Answer from your records before the first dollar. A no on any line holds the tes
 
 ## Quick Reference
 
-**In one line.** Own the last search on your name with one page a skeptic can check, keep every destination inside one claims library, and buy adult reach only for proven pieces, after the gates, against a holdout.
+**In one line.** Own the last search with one page a skeptic can check, keep every destination inside one claims library, and buy adult reach only for proven pieces, after the gates, against a holdout.
 
 **Takeaways**
 - The hub routes, verifies, prices, and proves, on ground you own.
 - One page answers every check, in the words every surface uses, from month 1.
-- One claims library governs videos, pages, and emails; condition names and door answers stay out of pages and tracking.
+- One claims library governs every surface, and no condition name or door answer reaches a page or a tracker.
 - Paid runs about $36–100 per eligible lead against an affordable $10–70, so the first test is a measurement buy.
 
 *The Proof Portability Gradient*

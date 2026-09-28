@@ -309,7 +309,7 @@ Cole *(composite operator)* starts from zero in January with door v0, the first 
 
 **Week 1. The Honest Answer ships first.** He films it with the setup he'll keep: camera at eye level, soft window light in front, a clip-on microphone. The description carries the tagged door link and no date. What My Face Does and Doesn't Prove sits pinned beneath it, and his comment policy goes up the same day. A friend suggests a jaw close-up for the thumbnail. Cole keeps his level face and the question, because a jaw in the thumbnail would make his face the evidence.
 
-**Week 10. The trend piece, read in adults.** A claim about [the chewing trend] had started turning up in his door answers, so he moved Canon claim 1 to the front and answered it at week 7. The piece draws [~3×] the engaged views of anything so far, mostly from suggested feeds. At [30] door completions, his scorecard reads it: [~60%] of its door starts answer that they're under 18. It yields [2] eligible leads, while the Cause piece, with [a third] of the views, yielded [5]. It won on views and lost on yield.
+**Week 10. The trend piece meets its scorecard.** A claim about [the chewing trend] had started turning up in his door answers, so he moved Canon claim 1 to the front and answered it at week 7. The piece draws [~3×] the engaged views of anything so far, mostly from suggested feeds. At [30] door completions, his scorecard reads it: [~60%] of its door starts answer that they're under 18. It yields [2] eligible leads, while the Cause piece, with [a third] of the views, yielded [5]. It won on views and lost on yield.
 
 Click-through above his usual with yield below plan is the card's first row, so he ages up the package. The title becomes "[Tried the chewing trend at 25? What changes and what doesn't]", and the calm thumbnail stays. He hides [six] rating requests under the policy, answers one minor's growth question with the orthodontist line, and makes no sequel.
 
@@ -403,7 +403,7 @@ Run it on the export, before scheduling.
 | A Q&A archive | The archive |
 | A warm pool | Email |
 
-*Age-Up levers:* adult contexts · calm thumbnails · decision-stage topics. *Scorecard:* reach, belief, offer demand, in adults. *Courtroom:* publish the policy · hide ratings, details, harassment · pin the best skeptic · keep disagreement · minors and distress to you. *Cadence:* every other week Early · about 3 a month Growing · 2–3 Scaling · batch every two weeks.
+*Age-Up levers:* adult contexts · calm thumbnails · decision-stage topics. *Scorecard:* reach, belief, and offer demand, judged by eligible-adult yield. *Courtroom:* publish the policy · hide ratings, details, harassment · pin the best skeptic · keep disagreement · minors and distress to you. *Cadence:* every other week Early · about 3 a month Growing · 2–3 Scaling · batch every two weeks.
 
 **Framework cheat sheet**
 

@@ -88,7 +88,7 @@ With faces out of bounds, all the force goes to practices and business models. H
 
 > **You:** "Fair question, and the appeal makes sense: you want a change you can see, and the device promises one. But there's no good evidence that habits change the shape of an adult's bone, and a device you chew on is a habit with a price tag. Selling it on forward growth sells the one result the evidence doesn't support. Ask any seller, me included, for matched captures and how many people the result came from."
 
-The reply names no seller, touches no face, and ends in a test he can apply to you. That's *Fight ideas, not people* at its sharper setting: a grift claim doesn't get to stand in a thread you've answered. If he answers "I've seen the before-and-afters", ask whether the photos match in light, angle, and distance, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and hands the seller's buyers a reason to defend him.
+The reply names no seller, touches no face, and ends in a test he can apply to you. That's *Fight ideas, not people* at its sharper setting: a grift claim doesn't get to stand in a thread you've answered. If he answers "I've seen the before-and-afters", ask whether the light, angle, and distance match, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and gives his buyers a reason to defend him.
 
 ## 3. Instagram as a Private Router
 
@@ -214,7 +214,7 @@ X keeps nothing for you: the follow graph is the platform's, and posts fade. The
 
 The lab licenses force, all of it aimed at ideas. Go after device grift, manufactured before-and-afters, the endless-tips model that sells the stall back to its buyers, and the "it's all genetics" shrug, pointedly, after steelmanning each. When a thread asks what qualifies you, post your Qualifications Answer in the same words every time: the fact, the scope, the check, the referral (Module 15).
 
-The limits are about people. Quote-post an argument made in public by someone arguing in public, and answer it. Crop a seller's claim to its words, with the account and any face out. Never quote-post a private person's worry, and stay out of rating threads. Clinicians get your concessions on their ground, and your referrals. Spaces and co-hosted threads stay out with podcasts and collaborations, since live talk can't pass your claims approval or hold a stop rule while it runs.
+The limits are about people. Quote-post an argument made in public by someone arguing in public, and answer it. Crop a seller's claim to its words, with the account and any face out. Never quote-post a private person's worry, and stay out of rating threads. Clinicians get your concessions on their ground, and your referrals. Spaces and co-hosted threads stay out with podcasts and collaborations, since live talk can't pass your claims approval or hold a stop rule.
 
 **When the signals disagree.** A large account quote-posts your Honest Answer, your standing answer to the bone question, with "coach admits nothing works lol". By evening [several hundred] replies have piled on, some rating your face. Reach says ride it: reply to everyone, quote him back, post a thread while the eyes are there. The lab says a joke isn't an objection, so there's nothing to test. Your door says [five] completions tagged X, [one] of them eligible.
 
@@ -244,7 +244,7 @@ X's numbers are its tagged door completions, the email captures, and its argumen
 
 ### The drop rule is set before the numbers arrive
 
-Keep each denominator fixed and named in the metric, the habit Denominator Discipline makes a rule, since platforms redefine what counts as a view (Module 12). Drop X first, at a week past 25 hours or at a quarter's review with nothing moved to long-form, then native Instagram. Keep the Keyword Route and your DM slot through every cut, because routing costs minutes rather than editing, and it's where adults arrive. A dropped platform keeps one pinned line pointing to your long-form and door. It returns only on its trigger: reach binds, and the budget serves it natively.
+Keep each denominator fixed and named in the metric, the habit Denominator Discipline makes a rule, since platforms redefine what counts as a view (Module 12). Drop X first, then native Instagram, on the triggers in the table. Keep the Keyword Route and your DM slot through every cut, because routing costs minutes rather than editing, and it's where adults arrive. A dropped platform keeps one pinned line pointing to your long-form and door. It returns only on its trigger: reach binds, and the budget serves it natively.
 
 ## Worked Example: Cole's Objection, from an X Thread to a Keyword Reel
 
@@ -316,8 +316,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 
 **Permission-First Reply lines.**
 
-- *The ask, once he's placed himself as an adult:* "Mind if I DM you the free self-assessment? No is a fine answer."
-- *The yes:* "[Link]. I reply to every result myself."
+- *The ask, once he's placed himself as an adult:* "Mind if I DM you the free self-assessment? No is a fine answer." A yes gets "[link]. I reply to every result myself."
 - *Age unknown, in public:* "Start with the free self-assessment. It ends with a straight answer about what's worth measuring: [link]."
 - *A minor, in public:* "What I sell is only for adults, so this isn't for you, and the videos are free. For questions about a growing face, an orthodontist is the right person."
 - *A practice, pointedly:* "[Steelman in one line.] But [the practice] sells [the result] the evidence doesn't support in adults. Ask any seller, me included, for matched captures and how many people the result came from."
