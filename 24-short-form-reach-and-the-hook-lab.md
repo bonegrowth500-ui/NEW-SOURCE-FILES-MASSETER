@@ -47,7 +47,7 @@ None of the three is an adult feed, since teens use all of them heavily. Shorts 
 
 **When the signals disagree.** In week [3] of a TikTok trial, one piece runs to [40 times] the trial's usual views and adds [~3,000] follows in a weekend. The platform's age data and your fork agree that most are under 18. The piece's label shows [four] door completions, [one] of them eligible. Views say move your week to TikTok, and the trial exists so that one piece can't.
 
-The decision is already written. Hours stay put, with nothing moved from Shorts, Reels, or long-form. You make no sequel to ride the spike, and its framing gains no win, since the lab counts wins only in pairs. The young follows will tilt the trial's next audiences, so set the spike aside and read only later pieces, ending the trial early if their adult share at the fork trails Reels'. A window that closes short of 30 completions is a no. Meanwhile, hide the rating requests under your comment policy, and give anyone under 18 the public education-lane answer, with no DM and no route to the door.
+The decision is already written. Hours stay put, with nothing moved from Shorts, Reels, or long-form. You make no sequel to ride the spike, and its framing gains no win, since the lab counts wins only in matchups. The young follows will tilt the trial's next audiences, so set the spike aside and read only later pieces, ending the trial early if their adult share at the fork trails Reels'. A window that closes short of 30 completions is a no. Meanwhile, hide the rating requests under your comment policy, and give anyone under 18 the public education-lane answer, with no DM and no route to the door.
 
 ## 2. The Shorts Job Selector
 
@@ -59,7 +59,7 @@ Put every short on one leaderboard of views, and the winners are the pieces the 
 
 ### Each platform keeps its own count
 
-The count itself moves under you. A view counted from the first frame counts every 15-year-old who scrolled past, and platforms redefine their public counts without asking. So give each platform one fixed count: engaged views on YouTube, and on Reels and TikTok the count each reports, named in the metric and dated when it changes. Read a pair only within one platform. Compare platforms only on eligible adults per editing hour, which your door counts the same way everywhere. That's Denominator Discipline, a denominator you can hold still under every rate (Module 12).
+The count itself moves under you. A view counted from the first frame counts every 15-year-old who scrolled past, and platforms redefine their public counts without asking. So give each platform one fixed count: engaged views on YouTube, and on Reels and TikTok the count each reports, named in the metric and dated when it changes. Read a matchup only within one platform. Compare platforms only on eligible adults per editing hour, which your door counts the same way everywhere. That's Denominator Discipline, a denominator you can hold still under every rate (Module 12).
 
 ### Four jobs, each with its own number
 
@@ -97,15 +97,15 @@ A framing is the situation and promise a piece opens with. "27 and asking if it'
 - A piece's first audience is a small seed of strangers, many of them under 18, so a win can mean one young pocket liked it.
 - Buyers decide in clusters, after payday, a wedding, or a work photo, so a week measures your calendar as much as your framing.
 - The bone question pulls views whatever the framing, so a winner on that topic may be the topic winning.
-- Counts are small. At roughly 0.1–1 raw lead per 1,000 views, a piece with [5,000] views sends between none and five people to your door, so a pair judged on completions compares zero with one.
+- Counts are small. At roughly 0.1–1 raw lead per 1,000 views, a piece with [5,000] views sends between none and five people to your door, so a matchup judged on completions compares zero with one.
 
 ### A win needs a floor, a margin, and an adult audience
 
-Pair two framings of the same point in the same week, on one platform, with the same job and length, so only the framing differs. Where a platform lets you trial a piece with non-followers first, use that slot, since it holds the audience steadier. Judge the pair on events you can pin to each piece: taps on its own link where it has one, or messages with a keyword unique to it. Count them per 1,000 of that platform's count.
+Run a matchup: two framings of the same point in the same week, on one platform, with the same job and length, so only the framing differs. Where a platform lets you trial a piece with non-followers first, use that slot, since it holds the audience steadier. Judge the matchup on events you can pin to each piece: taps on its own link where it has one, or messages with a keyword unique to it. Count them per 1,000 of that platform's count.
 
-Set two lines before the pair runs. Under a floor of about 30 counted events across the pair, it's no result, and neither framing gains or loses. Above it, a framing wins only by a margin fixed in advance, [such as half again as many events per 1,000], and a tie never wins. Its adult share, read at your door's age fork across its labeled door starts, must hold at your running share or above. Door completions confirm a lead framing once about 30 have pooled across its pieces.
+Set two lines before the matchup runs. Under a floor of about 30 counted events across the matchup, it's no result, and neither framing gains or loses. Above it, a framing wins only by a margin fixed in advance, [such as half again as many events per 1,000], and a tie never wins. Its adult share, read at your door's age fork across its labeled door starts, must hold at your running share or above. Door completions confirm a lead framing once about 30 have pooled across its pieces.
 
-A framing that wins twice, in different weeks, has earned a long-form test, and no more. Small wins pass lucky framings more often than you'd guess, because each pair is a small sample of strangers on one day. So two wins only nominate a framing, and long-form decides.
+A framing that wins twice, in different weeks, has earned a long-form test, and no more. Small wins pass lucky framings more often than you'd guess, because each matchup is a small sample of strangers on one day. So two wins only nominate a framing, and long-form decides.
 
 ### Confirmation happens in long-form
 
@@ -119,18 +119,18 @@ That's the **Two-Win Rule**: a short-form framing counts only after it wins repe
 
 | What you saw | What it can be | The check |
 |---|---|---|
-| One piece at [10 times] your usual views | A young pocket, a trend, a lucky seed | Its adult share at the fork, and how its pair did |
+| One piece at [10 times] your usual views | A young pocket, a trend, a lucky seed | Its adult share at the fork, and how its matchup did |
 | A framing that won on views | The youngest viewers engaging first | The job's number |
-| A winner on the bone question | The topic pulling, whatever the framing | A pair on the same topic |
+| A winner on the bone question | The topic pulling, whatever the framing | A matchup on the same topic |
 | A 3-to-1 win in door starts | Four people | The floor: no result |
-| Three wins you remember | Five losses you don't | A written record of every pair |
+| Three wins you remember | Five losses you don't | A written record of every matchup |
 | A jump the week a platform recounted views | A new denominator | The platform's fixed count, with the break dated |
 
-Reid *(composite operator)* runs pairs on Reels and skips both lines. His first pair ends [3] door starts to [1] on about [4k] views each, and he calls it a win, though under the floor it was no result. His second ties on keyword messages, and he gives it to the framing he liked. Two "wins" in, he skips the long-form test and retitles his next [three] long-form pieces. Their clicks hold, their watch time slips, and his objection pieces book [two] fewer fit conversations that month. The test he finally runs says "performed the same". The rule would have logged one no result and one tie, and left his titles alone.
+Reid *(composite operator)* runs matchups on Reels and skips both lines. His first matchup ends [3] door starts to [1] on about [4k] views each, and he calls it a win, though under the floor it was no result. His second ties on keyword messages, and he gives it to the framing he liked. Two "wins" in, he skips the long-form test and retitles his next [three] long-form pieces. Their clicks hold, their watch time slips, and his objection pieces book [two] fewer fit conversations that month. The test he finally runs says "performed the same". The rule would have logged one no result and one tie, and left his titles alone.
 
 ### Run the lab inside the batch
 
-Test at most two framings at a time, each in one pair a week, inside the 4–7 pieces you already make. Keep a hook log of every pair: the date, platform, point, both framings, the counted events, the margin, and each framing's adult share. A framing that loses two pairs leaves the lab, and one that wins two waits for the next long-form piece whose topic fits. Test framings, never stakes. Pieces get faster and tighter in pace, never hotter in what they threaten, so no shame variant, rating, or idealized jaw enters a pair, whatever it might win.
+Test at most two framings at a time, each in one matchup a week, inside the 4–7 pieces you already make. Keep a hook log of every matchup: the date, platform, point, both framings, the counted events, the margin, and each framing's adult share. A framing that loses two matchups leaves the lab, and one that wins two waits for the next long-form piece whose topic fits. Test framings, never stakes. Pieces get faster and tighter in pace, never hotter in what they threaten, so no shame variant, rating, or idealized jaw enters a matchup, whatever it might win.
 
 ## 4. The Native Tax, Derivatives, and Reels Craft
 
@@ -157,7 +157,7 @@ Short-form rides the long-form batch and editor you already have, so one filming
 | Cuts well | Never cuts |
 |---|---|
 | A core claim, said whole in its fixed words | The pitch, whose price belongs on warm surfaces |
-| A capture fact shown on lamps or a capture grid | A before/after segment, or any face comparison |
+| A capture fact shown on lamps or an empty capture template | A before/after segment, or any face comparison |
 | A stall told back from anonymized patterns | An outcome story without its full count |
 | A teardown's steelman and its sharp point, together | A debated point whose caveat won't fit its sentence |
 | A destination line with its perspective line | Anything a commenter under 18 wrote |
@@ -170,7 +170,7 @@ A clip is a claim in your name, so every cut comes back to you, and the clip bri
 
 On Instagram, a stranger who likes a Reel usually opens your profile before he follows. In this category your grid tells him in a second whether you're one more transformation account, and the adults who want more tend to write by DM. Four parts of the craft follow from that.
 
-**Covers.** Make the grid read as a library of adult decisions: one plain line per cover, in the same type and frame. Never use a face pair or your own jaw angle, since your face carries trust and is never evidence for the method. Pin the pieces that route, starting with the Honest Answer, your straight public answer to the bone question.
+**Covers.** Make the grid read as a library of adult decisions: one plain line per cover, in the same type and frame. Never use a before/after pair or your own jaw angle, since your face carries trust and is never evidence for the method. Pin the pieces that route, starting with the Honest Answer, your straight public answer to the bone question.
 
 **Text.** Many viewers watch with the sound off, so the on-screen text carries the one point by itself, in the words he'd use. Canon claims stay word for word. A caveat stays on screen as long as its claim does, clear of the app's buttons, since a covered caveat is a missing one.
 
@@ -204,7 +204,7 @@ A short has room for one point, and a viewer carries away one sentence. If that 
 
 ### One sharp point at a practice
 
-A short suits *Fight ideas, not people* at its pointed strength, since one defensible point can carry an edge aimed at a practice. Cut it from your quarterly teardown of a published ad, and bring only the steelman and the point. The ad never appears, and neither does any pair. Show the tell on the lamps themselves, or on a consenting volunteer in one continuous shot as the light moves. Then point to your Capture Standard, the matched conditions every capture follows (Module 6):
+A short suits *Fight ideas, not people* at its pointed strength, since one defensible point can carry an edge aimed at a practice. Cut it from your quarterly teardown of a published ad, and bring only the steelman and the point. The ad never appears, and neither does any before/after pair. Show the tell on the lamps themselves, or on a consenting volunteer in one continuous shot as the light moves. Then point to your Capture Standard, the matched conditions every capture follows (Module 6):
 
 > **You:** "There's a jaw-device ad going around, and I won't show it. The man in it may well have worked hard, and wanting it is fair. Now watch the light on my volunteer. Overhead, it carves shadows along the jaw; in front, it fills them in. Look at that ad again, and you're comparing two lamps. Before you buy a device, ask for dated photos taken the same way, and hold my Capture Standard to the same test."
 
@@ -243,13 +243,13 @@ Short-form gets its most hours while long-form has no search traffic. The lab mo
 
 | Stage | Short-form a week | Pieces and the lab | Who cuts |
 |---|---|---|---|
-| Early, under about 50 eligible leads a month | About 3.5 h | 4–7 native pieces; two framings in pairs; about two long-form tests a month | You film; an editor cuts; you approve |
-| Growing | About 1.25 h | [3–5] pieces, mostly derivatives; one pair a week; up to three tests a month | A freelancer cuts; you approve |
-| Scaling | About 0.5 h | [2–4] derivatives; one pair when a long-form slot fits | Freelancers cut; you approve every clip |
+| Early, under about 50 eligible leads a month | About 3.5 h | 4–7 native pieces; two framings in matchups; about two long-form tests a month | You film; an editor cuts; you approve |
+| Growing | About 1.25 h | [3–5] pieces, mostly derivatives; one matchup a week; up to three tests a month | A freelancer cuts; you approve |
+| Scaling | About 0.5 h | [2–4] derivatives; one matchup when a long-form slot fits | Freelancers cut; you approve every clip |
 
 ### The Canon rotation sets the batch
 
-Each batch walks the Canon in order: one claim per piece, cycling through all seven. At 4–7 pieces a week, each claim returns every week or two. Claim 1, the Honest Answer, goes in every piece built on the category's search terms, whatever the rotation says. When a myth resurfaces, the claim that answers it leads for about two weeks. Pairs sit inside the rotation, two framings of one claim in the same week, so the lab never costs the Canon a slot.
+Each batch walks the Canon in order: one claim per piece, cycling through all seven. At 4–7 pieces a week, each claim returns every week or two. Claim 1, the Honest Answer, goes in every piece built on the category's search terms, whatever the rotation says. When a myth resurfaces, the claim that answers it leads for about two weeks. Matchups sit inside the rotation, two framings of one claim in the same week, so the lab never costs the Canon a slot.
 
 ### The week-3 shift pauses the lab's confirmations
 
@@ -271,9 +271,9 @@ Past 25 hours, the TikTok trial goes first, with the other experiments. After X 
 
 Cole *(composite operator)* starts in [January] with door v0, the first working version of his door, plus a founding page, the Honest Answer, and long-form every other week. He plans on Band B, the steady band. His Sprint runs all five labeled sources, and short-form gets its 3.5 hours: [five] pieces a week on Shorts and Reels, cut by an editor and approved by him.
 
-**Week 0. The tags.** He tags [20] pieces before filming: [eight] reach, [eight] lead, [four] proof, and no offer pieces, since almost nobody follows him yet. Each carries one Canon claim in rotation, with claim 1 on the [six] built on the category's search terms. Proof pieces show his own process, because no client clip can exist before consent does. Lead pairs run on Reels with a keyword per piece, and reach pairs on Shorts, where each piece links a long-form piece. Four framings enter the lab: [A] "27 and still guessing", [B] "eight months, nothing measured", [C] "what can an adult still change?", and [D] "the notes app nobody reads".
+**Week 0. The tags.** He tags [20] pieces before filming: [eight] reach, [eight] lead, [four] proof, and no offer pieces, since almost nobody follows him yet. Each carries one Canon claim in rotation, with claim 1 on the [six] built on the category's search terms. Proof pieces show his own process, because no client clip can exist before consent does. Lead matchups run on Reels with a keyword per piece, and reach matchups on Shorts, where each piece links a long-form piece. Four framings enter the lab: [A] "27 and still guessing", [B] "eight months, nothing measured", [C] "what can an adult still change?", and [D] "the notes app nobody reads".
 
-**Week 1. Two catches and no result.** His editor's derivative from the Honest Answer drops "debated, and I don't sell it". The caveat fits inside the sentence, so Cole puts it there and approves the clip. A second clip, on [whether age changes that answer], needs a minute of nuance, so its point goes back to long-form. The lead pair, A against C, ends [11] keyword messages to [9], under the floor of about 30. He logs no result.
+**Week 1. Two catches and no result.** His editor's derivative from the Honest Answer drops "debated, and I don't sell it". The caveat fits inside the sentence, so Cole puts it there and approves the clip. A second clip, on [whether age changes that answer], needs a minute of nuance, so its point goes back to long-form. The lead matchup, A against C, ends [11] keyword messages to [9], under the floor of about 30. He logs no result.
 
 **Week 2. First wins.** On similar views, A beats C [19] keyword messages to [11], at the floor and past his fixed margin. On Shorts, B beats D [23] taps into long-form to [11]. Both framings' adult shares at the fork hold near his running [~60%].
 
@@ -285,9 +285,9 @@ Cole *(composite operator)* starts in [January] with door v0, the first working 
 
 **The yield.** Shorts draw [~40–50k] engaged views, and Reels [~20–30k] on Instagram's own count. Together they send [15–20] door completions, [8–12] of them eligible adults, at a similar cost per editing hour on both platforms. Across all five labels he holds [6–9] conversations, [1–2] of them from short-form. [Two] founding clients join, inside the 15–35% planning range before proof.
 
-**What he left alone.** He counted the week-1 pair for no one, retitled nothing before the test, and put no price in any feed piece. TikTok stayed off, since a trial needs slack his Sprint weeks don't have.
+**What he left alone.** He counted the week-1 matchup for no one, retitled nothing before the test, and put no price in any feed piece. TikTok stayed off, since a trial needs slack his Sprint weeks don't have.
 
-**What it shows.** The door is the scoreboard, and two lines kept the lab honest. The no-result pair cost nothing because it was logged as nothing. The week-3 shift cost the lab three weeks of waiting and bought the conversations month 3 needed, and the framing that reached long-form won there clearly.
+**What it shows.** The door is the scoreboard, and two lines kept the lab honest. The no-result matchup cost nothing because it was logged as nothing. The week-3 shift cost the lab three weeks of waiting and bought the conversations month 3 needed, and the framing that reached long-form won there clearly.
 
 ## Templates: Hook Patterns, the Clip Brief, and a Reels Cover Set
 
@@ -309,7 +309,7 @@ Each opens on an adult situation, asks at most one question, and pays off inside
 | The genetics shrug | ""It's all genetics" is a claim about everyone, with no count." | Reach | "Out of how many?", then claim 1 |
 | The device pattern | "Before you buy the next jaw device, ask for the dates." | Reach | "Dated?", then claim 6 |
 
-Every fight pattern steelmans in a line and aims at the practice, never a person. Never use an age under 18, a feature named as his problem, a face or body result in a set number of days, a technique promise, or a pair of any kind.
+Every fight pattern steelmans in a line and aims at the practice, never a person. Never use an age under 18, a feature named as his problem, a face or body result in a set number of days, a technique promise, or a before/after pair of any kind.
 
 ### The clip brief
 
@@ -319,7 +319,7 @@ It adds these lines to your standing freelancer brief:
 >
 > Platform and job: [Shorts or Reels]; [reach, lead, or proof]; ask: [the next piece, a follow, or the door]. First frame: [an adult situation, in text or on camera].
 >
-> Deliver one clean vertical master with no other app's logo, plus a first line, on-screen text, and a cover for each platform. Never use anyone else's footage, client captures, a pair or face comparison, a price in a feed piece, or a "comment [word]" ask. Every clip comes back to me before it's scheduled.
+> Deliver one clean vertical master with no other app's logo, plus a first line, on-screen text, and a cover for each platform. Never use anyone else's footage, client captures, a before/after pair or face comparison, a price in a feed piece, or a "comment [word]" ask. Every clip comes back to me before it's scheduled.
 
 ### A Reels cover set
 
@@ -334,7 +334,7 @@ Here are six covers for the top rows of your grid, each one line in the same typ
 | "Eight months, nothing measured" | Lead | No |
 | "How a weekly review works" | Proof | No |
 
-Every cover stays readable at grid size, with no face pairs, no jaw close-ups, and no number that promises a result.
+Every cover stays readable at grid size, with no before/after pairs, no jaw close-ups, and no number that promises a result.
 
 ## Checklist: The Clip Context Check
 
@@ -353,18 +353,18 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, and short-form is its main source. The default is the full batch on Shorts and Reels, walking the Canon with two framings in pairs. The trap is reading the first month's pairs as results. Most sit under the floor at founding volume, and "no result" is the honest read.
+**Early.** Reach binds, and short-form is its main source. The default is the full batch on Shorts and Reels, walking the Canon with two framings in matchups. The trap is reading the first month's matchups as results. Most sit under the floor at founding volume, and "no result" is the honest read.
 
-**Growing.** Long-form's own traffic is compounding, so short-form's job narrows to the lab and derivatives. The default is one pair a week, with each two-win framing sent to the next long-form slot that fits. The trap is forcing a framing onto a topic it doesn't fit, so the test scores a broken title and a good framing leaves the lab.
+**Growing.** Long-form's own traffic is compounding, so short-form's job narrows to the lab and derivatives. The default is one matchup a week, with each two-win framing sent to the next long-form slot that fits. The trap is forcing a framing onto a topic it doesn't fit, so the test scores a broken title and a good framing leaves the lab.
 
 **Scaling.** Your approval time binds, because freelancers cut most clips and every one still passes you. The default is a fixed approval slot with the check run on every clip. The trap is letting a clipper's pace set your claims, since one stripped caveat at volume undoes a year of the Honest Answer.
 
 ## Standard Check
 
 - **One defensible point, caveats intact.** Each short makes one point true as stated, with any caveat inside its sentence, or the point goes to long-form (the line on structural claims).
-- **No pair, rating, or young bait.** No before/after pair, face comparison, idealized-jaw hook, or rating enters any short or pair, whatever it would earn, and minors in comments get the education lane in public (the line on vulnerability).
+- **No before/after pair, rating, or young bait.** No before/after pair, face comparison, idealized-jaw hook, or rating enters any short or matchup, whatever it would earn, and minors in comments get the education lane in public (the line on vulnerability).
 - **Results travel with their counts.** Consented clips run in organic short-form with range, denominator, and "observed, not caused" on screen, and never in ads (*Name the destination boldly*, inside the line on fabricated proof).
-- **The edge goes on the lamp.** Teardown shorts never show the ad or a pair: a steelman line, the tell on lamps or a consenting volunteer, and one sharp point at the practice (*Fight ideas, not people*).
+- **The edge goes on the lamp.** Teardown shorts never show the ad or a before/after pair: a steelman line, the tell on lamps or a consenting volunteer, and one sharp point at the practice (*Fight ideas, not people*).
 
 ## Quick Reference
 
@@ -373,8 +373,8 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 **Takeaways**
 - The door is the scoreboard: judge short-form by eligible adults, and compare platforms only per editing hour.
 - One job and one number per short; the offer job never runs in a feed.
-- A pair under about 30 counted events is no result, and a tie is never a win.
-- Every clip is a new claim, and no short ever carries a pair.
+- A matchup under about 30 counted events is no result, and a tie is never a win.
+- Every clip is a new claim, and no short ever carries a before/after pair.
 
 | Platform | Place | Condition |
 |---|---|---|
@@ -386,11 +386,11 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 
 | Framework | Use it to… |
 |---|---|
-| **The Two-Win Rule** | Count a framing only after two clear pair wins and a clear long-form win |
+| **The Two-Win Rule** | Count a framing only after two clear matchup wins and a clear long-form win |
 | **The Shorts Job Selector** | Give each short one job and judge it by that job's number |
 | **The Native Tax** | Pay each platform's cost of belonging with a light pass on one clean master |
 | **The Clip Context Check** | Put every clip's caveat back inside its sentence, or drop the clip |
 
 **Leans on:** the Honest Answer (Module 3) · the Capture Standard (Module 6) · the Founding Sprint (Module 9) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Context Stack and the Honest-Evidence Test (Module 16) · the Warmth Ladder (Module 18) · the Two-Job Scorecard and the Age-Up Dial (Module 23) · the Platform Count Rule (Module 25) · the Proof Portability Gradient (Module 27) · the Payoff Test (Intro).
 
-**Do this month:** tag every short with its job, rung, and Canon claim; set your floor and margin before the first pair runs; run the Clip Context Check on every clip before it's scheduled.
+**Do this month:** tag every short with its job, rung, and Canon claim; set your floor and margin before the first matchup runs; run the Clip Context Check on every clip before it's scheduled.

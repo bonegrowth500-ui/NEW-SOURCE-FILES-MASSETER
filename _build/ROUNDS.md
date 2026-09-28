@@ -29,7 +29,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | ✅ 3.5 passed (7,645 w) |
 | 23 | 23-long-form-where-trust-compounds.md | aebe6cd1c5c5729d1 | a1f293d45d49d406e | 3.4 rebuild (critique: 1 blocking, 11 major, 7 minor) |
-| 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | 3.5 audit (rebuilt 7,435 w; 'matchup' rename pending) |
+| 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | ac6eb22d4d27fe278 | ✅ 3.5 passed (7,444 w) |
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | a7fe4f7646c3ef45b | 3.4 rebuild (critique: 1 blocking, 7 major, 8 minor) |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | a5a18a892aa925902 | 3.4 rebuild (critique: 1 blocking, 10 major, 7 minor) |
 | 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | ac108ae2b0e5a083e | 3.4 rebuild (critique: 2 blocking, 12 major, 5 minor) |
