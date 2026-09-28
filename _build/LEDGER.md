@@ -22,7 +22,7 @@ Every number in any module must match this ledger; the ledger is updated here fi
 | One-to-one-only ceiling (12–14 delivery h/week) | ~$5–20k/month revenue | Price; minutes per client | PL (D) |
 | Free-call sales ceiling at ~5 selling h/week | ~3–10 enrollments/month | Close rate; hours per call | PL (D) |
 | Price leverage | +1% price → ~+1.2–1.3% profit at 75–85% margin if volume holds. When demand binds, a raise that loses a smaller share of buyers than its % flows almost entirely to profit | Margin; share of buyers lost | PL (D) |
-| Capacity-bound profit (proof prices, 7–12 enrollments/month) | ~$14–39k | Price; care minutes; Phase 2 take | PL (D) |
+| Capacity-bound profit (proof prices, 7–12 enrollments/month) | ~$14–39k | Price; care minutes; Round Two take | PL (D) |
 | What $50k requires at capacity | Lifetime value per client ~$5k at 10–12 enrollments/month (flagship ~$4–4.5k after proof, **or** equivalent leverage: Private seats, a paid self-serve system for graduates, async assessments, review templated to 6–8 min) | Proof; leverage | PL (D) |
 
 ### A2. Stages (trailing 3-month average + a volume signal)
@@ -46,7 +46,7 @@ Bands are defined by **eligible adult leads per month** (legal adult, passed the
 | **C — breaks out in year 1** | 20–40 → 60–150 → 150–400 | ~43–400k/month |
 | **D — breakout** | 25–50 → 100–250 → 400–700 | ~115–700k/month |
 
-**Waypoints** (per month; new clients means founding 1:1 at m3, founding group at m6, opening-band flagship at m9; cash includes early Phase 2/continuity at m9; month-9 capacity is ~7–10 new clients because review isn't templated yet; hours ≈ 20/week in every band):
+**Waypoints** (per month; new clients means founding 1:1 at m3, founding group at m6, opening-band flagship at m9; cash includes early Round Two/continuity at m9; month-9 capacity is ~7–10 new clients because review isn't templated yet; hours ≈ 20/week in every band):
 
 | Band | Month 3 | Month 6 | Month 9 | Maturity (proof prices) | Middle case (profit: m9 → maturity at proof → above the band) | $25k floor likely |
 |---|---|---|---|---|---|---|
@@ -81,7 +81,7 @@ Readings: **month 3 looks the same in every band** — the Founding Sprint, not 
 |---|---|---|---|
 | Care minutes per client-week | 12–20 for the first ~20 clients; 6–10 once feedback is templated | Check-in instrument; templated summaries the operator reviews | PL (D) |
 | Concurrent capacity inside 20–25 h | ~25–45 clients | Care minutes; group-call format | PL (D) |
-| Max new enrollments from capacity | ~7–12/month (12-week flagship + ~30% Phase 2 ≈ 3.6 months of care per enrollment) | Container length; Phase 2 take | PL (D) |
+| Max new enrollments from capacity | ~7–12/month (12-week flagship + ~30% Round Two ≈ 3.6 months of care per enrollment) | Container length; Round Two take | PL (D) |
 | Fit conversation, all-in (prep, 20–30 min call, recap) | 0.75–1.0 h | Templates | PL (D) |
 | Paid assessment, all-in | 1–1.5 h early; 0.5–0.75 h templated / async-first | Templates; async format | PL (D) |
 | Operator hours per enrollment | 2.5–6 with fit conversations; ~1.5–3 with a paid/async assessment | Close rate; no-fit share | PL (D) |
@@ -98,12 +98,13 @@ Readings: **month 3 looks the same in every band** — the Founding Sprint, not 
 | Flagship cohort, opening band | $1.5–2.2k | Proof, utilization, conversion signal | PL |
 | Flagship cohort, proof band | $2.4–3k | Proof milestones + conversion or utilization signal | PL |
 | Flagship above the band (Scaling) | ~$3.5–4.5k | Published outcome ranges; sold-out starts | PL (E) |
-| Phase 2 renewal (offered at the week-10/12 measurement) | ~$0.8–1.5k for ~12 weeks; 20–40% uptake among clients with measured momentum | Adherence data; peak design | PL (E) |
+| Round Two renewal (offered at the week-10/12 measurement) | ~$0.8–1.5k for ~12 weeks; 20–40% uptake among clients with measured momentum | Adherence data; peak design | PL (E) |
 | Continuity / alumni room ("Hold") | $39–79/month; 20–40% take at graduation | Programming; review intensity | PL (W/E) |
 | Open paid membership (option; Growing/Scaling; verified, fit-checked adults) | ~$29–59/month; only with budgeted moderation minutes | Moderation cost | PL (E) |
 | Private (from month 9+, when care minutes are measured and seats are spare) | ~$4–7k total for 12 weeks; fixed deliverables (weekly 30–45 min call, stated async turnaround, re-captures at weeks 0/6/12, business-hours message line with stated response time); ~12–15 delivery h + ~2 h sales/onboarding per seat; 0–3 seats | Care minutes; Optimizer demand | PL (D) |
 | Optimizer entry: one-off priority review (async, fast turnaround, written plan + recorded walkthrough) | ~$350–600, credited to Private | — | PL (E) |
 | Starter Path | Free branch first; low-cost tool $27–97 named once, never pushed; human touches batched (monthly group Q&A or templated check) | — | PL |
+| Self-Serve System (the Starter tool's upgrade, after ~20 graduates) | ~$97–297 one-time (capture standard, logs, decision framework, recorded walkthroughs); optional single async review at the assessment price | Stall taxonomy; proof library | PL (E) |
 | Payment plans | ≤3 installments, all due inside delivery; premium 0–5% (processing + expected leakage) stated as a total, or a regulated lender; cancel-forward after the fit window | Plan length vs delivery | RULE (M evidence) |
 | Payment-plan sales lift | ~+20%, concentrated among buyers least able to absorb risk | Underwriting | EV (M) |
 | Uncollected plan revenue (short plans inside delivery, with retries) | ~3–8% | Dunning; cancel-forward exits | PL (D/W) |
@@ -156,7 +157,7 @@ Readings: **month 3 looks the same in every band** — the Founding Sprint, not 
 | One combined group call | Until ~12–15 concurrent clients, then split by stage | — | RULE |
 | Appearance capture cadence | Baseline, ~week 6, week 12, then quarterly; behavior logged and reviewed weekly | — | RULE |
 | Continuity/community churn | 4–8%/month typical; 8–15% open and cheap; 2–3% curated premium | Price, programming | EV (W) |
-| Lifetime value per client (before referrals) | ~$1.7–3.0k at opening prices; ~$2.6–3.8k at proof prices | Price, Phase 2 and continuity take, churn | PL (D) |
+| Lifetime value per client (before referrals) | ~$1.7–3.0k at opening prices; ~$2.6–3.8k at proof prices | Price, Round Two and continuity take, churn | PL (D) |
 | Referred customers | More loyal and more valuable than other acquisitions | — | EV (M) — plan acquisition without referrals |
 | Non-responder share | Measured from the founding clients; published once ≥30 graduates | — | RULE |
 

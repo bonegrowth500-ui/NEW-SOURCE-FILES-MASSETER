@@ -166,7 +166,7 @@ Status notes are internal build notes. Glossary entries are rewritten natively i
 - **De-Scoping Order** — what gets cut first when a week runs past 25 hours — new.
 - **Unpriced-Minute Rule** — every per-person minute is priced, batched, or templated — new.
 - **Small Numbers Lie** — decide by thresholds; a ledger range yields to your own ratio after ~30 events — new.
-- **Phase 2** — the renewal offered at the week-10/12 measurement to clients with measured momentum — new.
+- **Round Two** — the renewal offered at the week-10/12 measurement to clients with measured momentum — new.
 - **Hold / Alumni Room** — continuity designed as a paid community of people who keep records — new.
 - **Private** — priced to fixed deliverables; month 9+; **Priority Review** as the Optimizer's entry — new.
 - **Service Guarantee / Fit Window / Non-Response Clause** — the three-layer guarantee on what the operator controls — new.
