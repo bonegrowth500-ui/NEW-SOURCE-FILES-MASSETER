@@ -276,7 +276,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | YouTube impressions CTR | Most videos 2–10% | Surface; audience warmth | EV (M) |
 | Organic engagement per post (median) | TikTok ~1.7%; Instagram ~0.4%; X ~0.03% | Averages run higher than medians | EV (M) |
 | Content cadence | Early: the Honest Answer, then long-form every other week + 4–7 native short-form/week + result email and welcome flow. Growing: 3/month long-form + weekly email. Scaling: 2–3/month. Batch filming every two weeks | Editing budget | RULE |
-| Default short-form platforms | Shorts first (it feeds the long-form channel), Reels second (it feeds the Instagram router). TikTok only if eligible-adult yield by source proves out: a labeled trial that matches Reels on eligible adults per editing hour over ~30 door completions | Minor exposure; yield | RULE (D) |
+| Default short-form platforms | Shorts first (it feeds the long-form channel), Reels second (it feeds the Instagram router). TikTok only if eligible-adult yield by source proves out: a labeled trial that matches Reels on eligible adults per editing hour over ~30 door completions. The trial runs [8–12] weeks or ~30 door completions, whichever comes first, on slack (first to go at De-Scoping step 1); it ends early if its adult share trails Reels'; short of 30 is a no | Minor exposure; yield | RULE (D) |
+| Short-form pieces by stage | Early 4–7 native a week; Growing ~3–5, mostly derivatives; Scaling ~2–4 derivatives. Lab pace follows the long-form tests | Editing budget | PL |
 | Email clicks per delivered | 2–5% (deep niches higher) | One link; stage match | EV (M) |
 | Unsubscribes per send | 0.1–0.4% | Frequency; relevance | EV (M) |
 | Spam complaints | Target < 0.1%; never ≥ 0.3% | Pressure; dormant segments | RULE (S) |
@@ -313,6 +314,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Warm network and early replies (labeled source) | ~2–8 held conversations/month in months 1–3 (disclosed), decaying to ~1–4 by month 9 (including referrals). Replace after ~30 events | PL (E) |
 | Speed to lead | Personal reply to every adult door completion within hours; booked within 24–48 h; reminded; held. When personal replies run past the design week's line for two weeks running, move the first reply to a template you approve (never AI speaking as you) | RULE |
 | Live windows | 2–3 fixed windows a week for calls and live replies; everything else batches | Calendar design | RULE (THESES B21) |
+| Framing matchups (short-form lab) | Two framings of one point, same week, one platform, same job and length. Under ~30 counted events across the matchup it's no result; a preset margin decides above it; a tie never wins. Two short-form wins only nominate a framing; a clear long-form win decides | RULE |
 | No-show rule | One templated rebooking offer; a second miss releases the slot; no chasing | — | RULE |
 | Voice-note replies | ~1–3 minutes, recorded by you (never AI speaking as you), one recommendation at most | — | RULE |
 | Selling-Skill Loop cadence | Score one consented recording a week against the call scorecard; protective-stop calls are never mined | — | RULE |

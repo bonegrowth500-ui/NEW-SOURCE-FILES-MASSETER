@@ -80,7 +80,7 @@ That's the **Shorts Job Selector**: name each short's job before you make it, an
 
 ### One point makes four pieces
 
-Take one defensible point from your Canon, your 5–7 core claims in fixed words (Module 14). As a reach piece, claim 4 opens on eight months of logs in a notes app that nobody has read, then points to the next piece. As proof, it walks through a sample weekly review labeled as a composite. As a lead piece, it ends on the door, for adults only. In every version the claim itself runs word for word: "A record doesn't read itself; review turns it into a decision."
+Take one defensible point, claim 4 from your Canon, your 5–7 core claims in fixed words (Module 14). As a reach piece, it opens on eight months of logs in a notes app that nobody has read, then points to the next piece. As proof, it walks through a sample weekly review labeled as a composite. As a lead piece, it ends on the door, the free self-assessment in your profile, offered to adults. In every version the claim runs word for word: "A record doesn't read itself; review turns it into a decision."
 
 The offer piece names the destination before the mechanics: taken seriously, at ease in photos and rooms, knowing instead of hoping. Then comes the obstacle, months with nothing measured. The plan is the Program, 12 weeks of written review of your week, with captures at weeks 0, 6, and 12 taken the same way every time. The piece says who it's for and who it isn't, states [$price], and points to the page for the next start. Its perspective line is claim 7: "Most of how people read you was never about your jaw."
 
@@ -176,7 +176,7 @@ On Instagram, a stranger who likes a Reel usually opens your profile before he f
 
 **Pacing.** The category's fastest Reels race to a face, and yours race to the point. Cut pauses and repeats, never the caveat or a claim's fixed words. The first line names a situation, the payoff lands in the same piece, and the last line makes one ask. That's the Payoff Test, every curiosity device paid off in the same asset (Intro).
 
-**The send-to-a-friend test.** A send shows that a stranger valued the piece enough to pass it on, and in this niche that's rare, because the man you want hides the pursuit. So design for the send, then test it: would an adult forward this, and would the friend feel recognized rather than rated? A piece that names a situation, like eight months with nothing measured, passes. So does one that arms him against a grift pattern, since forwarding it makes the sender look careful. A piece whose forward says "this is about your face" fails, however many sends it would earn.
+**The send-to-a-friend test.** A send shows that a stranger valued the piece enough to pass it on, and in this niche that's rare, because the man you want hides the pursuit. So design for the send, then test it: would an adult forward this, and would the friend feel recognized rather than rated? A piece that names a situation, like eight months with nothing measured, passes. So does one that arms him against a grift pattern, since forwarding it makes the sender look careful. A piece whose forward says "this is about your face" fails, however many sends it would earn, because the man receiving it never asked.
 
 ## 5. The Clip Context Check and the One-Defensible-Point Rule
 
@@ -275,11 +275,11 @@ Cole *(composite operator)* starts in [January] with door v0, the first working 
 
 **Week 1. Two catches and no result.** His editor's derivative from the Honest Answer drops "debated, and I don't sell it". The caveat fits inside the sentence, so Cole puts it there and approves the clip. A second clip, on [whether age changes that answer], needs a minute of nuance, so its point goes back to long-form. The lead pair, A against C, ends [11] keyword messages to [9], under the floor of about 30. He logs no result.
 
-**Week 2. First wins.** A beats C [24] to [11] on messages per 1,000, over the floor and past his fixed margin. On Shorts, B beats D [28] to [12] on taps into long-form. Both framings' adult shares at the fork hold near his running [~60%].
+**Week 2. First wins.** On similar views, A beats C [19] keyword messages to [11], at the floor and past his fixed margin. On Shorts, B beats D [23] taps into long-form to [11]. Both framings' adult shares at the fork hold near his running [~60%].
 
-**Week 3. The source check fires.** Warm network and replies have given [4] held conversations in three weeks, under 2 a week. He moves about 2 hours a week into short-form batches and Permission-First Replies, and his week-4 long-form piece slips to week [7]. That same week A beats B [31] to [14] for its second win, and waits in the queue with no piece to be tested in.
+**Week 3. The source check fires.** Warm network and replies have given [4] held conversations in three weeks, under 2 a week. He moves about 2 hours a week into short-form batches and Permission-First Replies, and his week-4 long-form piece slips to week [7]. That same week A beats B [21] messages to [10] for its second win, and waits in the queue with no piece to be tested in.
 
-**Week 4. The queue fills.** At [seven] pieces a week, B beats C [26] to [13] for its second win and joins the queue. C, with two losses, leaves the lab.
+**Week 4. The queue fills.** At [seven] pieces a week, B beats C [22] taps to [12] for its second win and joins the queue. C, with two losses, leaves the lab.
 
 **Week 7. The confirmation.** The delayed piece carries A's framing, "[27 and still guessing: what an adult can still change]", against his default, "[What an adult can actually change]". [Nine] days later the title test calls A a clear winner on watch time, and A becomes his packaging default. B is next in the queue.
 
@@ -364,7 +364,7 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 - **One defensible point, caveats intact.** Each short makes one point true as stated, with any caveat inside its sentence, or the point goes to long-form (the line on structural claims).
 - **No pair, rating, or young bait.** No before/after pair, face comparison, idealized-jaw hook, or rating enters any short or pair, whatever it would earn, and minors in comments get the education lane in public (the line on vulnerability).
 - **Results travel with their counts.** Consented clips run in organic short-form with range, denominator, and "observed, not caused" on screen, and never in ads (*Name the destination boldly*, inside the line on fabricated proof).
-- **The edge goes on the lamp.** Teardown shorts show no one's face: a steelman line, the tell on lamps or a consenting volunteer, and one sharp point at the practice (*Fight ideas, not people*).
+- **The edge goes on the lamp.** Teardown shorts never show the ad or a pair: a steelman line, the tell on lamps or a consenting volunteer, and one sharp point at the practice (*Fight ideas, not people*).
 
 ## Quick Reference
 
