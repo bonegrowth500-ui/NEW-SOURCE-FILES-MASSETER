@@ -47,7 +47,9 @@ Now the right moves flip. This is when the **Call Cap**, a weekly limit on free 
 
 The third position arrives when the Program, your 12-week flagship, is full. That's roughly 25–45 concurrent clients inside a 20–25-hour week, and more as review gets templated and the group call carries more of the load. Review is the product here: his weekly logs and check-ins, and at the measurement points his photos, taken the same way each time. It doesn't scale by itself, which is why minutes run out before leads do. The signs: a waiting list, review turnaround creeping toward its limit, and weeks that run past 25 hours unless you pause booking.
 
-From here, more leads and more calls only lengthen the waiting list. The levers that remain raise profit per operator hour, and price comes first. At capacity, a raise that costs you a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. Then comes the back end. The Hold, a low-touch measurement subscription for graduates, earns with very few minutes, and Round Two, a lighter maintenance block offered at the week-12 measurement to clients with measured momentum, fills a seat without a selling hour. Then review gets templated, from 12–20 minutes per client-week down to 6–10. Private seats, priced to fixed deliverables, stay open only where they earn at least what a Program seat earns per care hour. This is the good problem. It's where the $25–50k range lives, reached through price and leverage rather than more hours.
+From here, more leads and more calls only lengthen the waiting list. The levers that remain raise profit per operator hour, and price comes first. At capacity, a raise that costs you a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill.
+
+Then comes the back end. The Hold, a low-touch measurement subscription for graduates, earns with very few minutes, and Round Two, a lighter maintenance block offered at the week-12 measurement to clients with measured momentum, fills a seat without a selling hour. Then review gets templated, from 12–20 minutes per client-week down to 6–10. Private seats, priced to fixed deliverables, stay open only where they earn at least what a Program seat earns per care hour. This is the good problem. It's where the $25–50k range lives, reached through price and leverage rather than more hours.
 
 ### What a misread costs
 
@@ -63,7 +65,7 @@ Outside the House Standard's lines, most expensive mistakes here are the right m
 
 One move is wrong at every position: discounting to close. Buyers learn to wait, and in a category where "70% off, today only" is a grift tell, a discount makes you look like what you're positioned against. A founding price is different: it's a real price with a stated end.
 
-**When the signals disagree.** Say you're at [~$9–12k] a month on a high price with fewer than ~50 eligible leads a month. That's Growing on revenue and Early on volume, so go by the constraint. If your calendar has open slots and your inbox clears by lunch, reach binds, and a paid assessment would cost you the few conversations you have.
+**When the signals disagree.** Say you're at [~$9–12k] a month on a high price with fewer than about 50 eligible leads a month. That's Growing on revenue and Early on volume, so go by the constraint. If your calendar has open slots and your inbox clears by lunch, reach binds, and a paid assessment would cost you the few conversations you have.
 
 Name the binding constraint once a month, in the Operator Review (Module 12). A week holds too few conversations to read, and a quarter lets a misread run too long. Ask one question, *which of the three is stopping the next dollar?*, then pull the one lever that answers it and leave the others alone.
 
@@ -158,7 +160,7 @@ This objection sounds like a statement about bone. It's a **Range** objection (M
 
 **How to use it.** Give him the Honest Answer (Module 3) in thirty seconds, then hand the question back:
 
-> **You:** "You're right to push on that. Most of what's out there overclaims, so here's the straight version. There's no good evidence that habits reshape an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. And some things clearly do change and can be measured: your habits, your body composition, how you hold yourself, your grooming, how you're photographed. So the useful question is which of those you're working on, and how you'd know."
+> **You:** "You're right to push on that. Most of what's out there overclaims, so here's the straight version. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. And some things clearly do change and can be measured: your habits, your body composition, how you hold yourself, your grooming, how you're photographed. So the useful question is which of those you're working on, and how you'd know."
 >
 > **Dan** *(composite, Struggler)*: "I mean… I've been doing [his current routine] for about eight months and checking the mirror."
 >
