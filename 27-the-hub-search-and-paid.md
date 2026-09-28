@@ -30,7 +30,7 @@ Keep the hub small, since every page you add is one more place a claim can drift
 
 **Route, verify, price, prove: four jobs, one home you own.**
 
-One home means one domain in the brand's name, with every profile, description, and email pointing into it. Your door, the owned path from first click to one recommendation, comes first, live in week one. Any paid step before it sells blind to his age, fit, and money. The page he checks you on and the offer page follow in month 1, since every line on them can be true before your first graduate. The proof library fills as the record does. Your log and your own stories start in month 1, a client's words come once he's asked at his first measured progress after week 6, and outcome ranges wait until 10 graduates stand behind them.
+One home means one domain in the brand's name, with every profile, description, and email pointing into it. Your door, the owned path from first click to one recommendation, goes live in week one, because any paid step before it sells blind to his age, fit, and money. The page he checks you on and the offer page follow in month 1, since every line on them can be true before your first graduate. The proof library fills as the record does: your log and your own stories from month 1, a client's words once he's asked after week 6, and outcome ranges once 10 graduates stand behind them.
 
 ### Judge it by what verifying buyers do next
 
@@ -358,4 +358,4 @@ Answer from your records before the first dollar. A no on any line holds the tes
 
 **Leans on:** the maximum affordable cost per eligible lead (Module 1) · Name | Brand and the Dated Record (Module 3) · the verification kit (Module 5) · the Path and Timeline Card (Module 6) · the Layered Guarantee (Module 7) · the Risk Register (Module 11) · Denominator Discipline and Scaling Triggers (Module 12) · What My Face Does and Doesn't Prove (Module 15) · the Context Stack (Module 16).
 
-**Do this month:** publish your Verify Page with every section filled; write a one-page claims library and check your pages and tracking against it; run your name through a search engine, a video search, and an AI assistant, and fix what's yours.
+**Do this month:** publish your Verify Page with every section filled; write a one-page claims library and check your pages and tracking against it; search your name as a buyer would, and fix what's yours.
