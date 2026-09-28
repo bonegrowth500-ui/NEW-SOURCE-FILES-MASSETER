@@ -83,7 +83,7 @@ PATH AND TIMELINE CARD + EXPECTATION DOCUMENT sent before payment
 
 | Rung | What it is | Price (LEDGER B) | Job | Switches on | Owner |
 |---|---|---|---|---|---|
-| **Starter Path** (the net) | A free sequenced path (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger); a low-cost Starter tool named once | Free; tool $27–97 | Humane "not now / not a fit / can't afford" | Month 0 | 04 |
+| **Starter Path** (the net) | A free sequenced path (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger the buyer controls); a low-cost Starter tool named once, from ~20 graduates | Free; tool $27–97 (from ~20 graduates) | Humane "not now / not a fit / can't afford" | Month 0 (tool: ~20 graduates) | 04 |
 | **Self-Serve System** (the net's upgrade) | Tools (logs, capture standard, self-review prompts, walkthroughs), not the decision rules; its optional review is a Decision Assessment | $97–297 | Leverage; honest DIY path | After ~20 graduates | 04 |
 | **Fit conversation → Decision Assessment** (front buffer) | Free fit conversations up to the Call Cap; the paid, credited written plan for the overflow; a priority tier for speed | Free · $150–250 · priority $350–600 | Filter, front revenue, R&D | Month 0 (priority tier and fit conversation); the paid overflow when the cap binds | 05 |
 | **Founding group** (the flagship's first form) | Every founding client joins it from the first one: monthly entry, 1:1-level review while under ~4 members | ~$1.2–1.5k | First cash, stall taxonomy, instrument, capture standard | Month 0 | 09 |

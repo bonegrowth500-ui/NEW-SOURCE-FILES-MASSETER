@@ -153,7 +153,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Hold deliverables | One written review per quarter with the re-capture; weekly room prompts (once open); stated operator touch per member | — | RULE |
 | Open paid membership (option; Growing/Scaling; verified adults) | ~$29–59/month, only with budgeted moderation minutes | Moderation cost | PL (E) |
 | Private at Scaling (**Parity Rule**) | Sold only when price per operator hour ≥ cohort revenue per care hour (≈$1,250–1,400 at Scaling). In practice an async-first seat at ~$10k+, or no Private | Care minutes | RULE (D) |
-| Starter Path | A free sequenced path (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger); a low-cost tool of $27–97 named once; human touches templated (no free live group) | — | PL |
+| Starter Path | A free sequenced path from month 0 (weeks 1–4 and 5–8, logs, self-checks, a re-entry trigger the buyer controls, never a money condition); human touches templated (no free live group). The low-cost Starter tool ($27–97, named once, never after "I can't afford it") is a paid self-serve product, so it arrives with the ~20-graduate trigger | — | PL |
 | Self-Serve System (the Starter tool's upgrade, after ~20 graduates) | ~$97–297 one-time: tools (logs, capture standard, self-review prompts, walkthroughs), not the stall taxonomy's decision rules. Its optional review is a Decision Assessment | Stall taxonomy; proof library | PL (E) |
 | Payment plans | ≤3 installments, all due inside delivery. Premium 0–5% (processing + expected leakage) stated as a total. Your own installments only: no third-party lenders or buy-now-pay-later, since the affordability question rules out new credit (where local law treats installment plans as consumer credit, that's a Risk Register flag for professional advice). Each installment at or below about a third of monthly take-home. Cancel-forward after the fit window. No plan after a fit-check signal | Plan length vs delivery | RULE (M evidence) |
 | Payment-plan sales lift | ~+20%, concentrated among buyers least able to absorb risk | Underwriting | EV (M) |
@@ -195,6 +195,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Pause route | Set by an endorsed distress item, "can't afford" (call, checkout, or plan step), or a fit-check pause. No sales sequence or date sends for 60–90 days, then re-permission. It records no reason | — | RULE |
 | Category's hardcore audience under 18 | Majority in self-selected samples | Packaging; adult positioning lowers it | EV (W) |
 | Decision points | Every assessed buyer meets one real decision point within ~2–4 weeks: the next monthly start (with its real seat cap) or an announced price step. Credit windows are **not** deadlines | Calendar design | RULE |
+| Late entry | Through the end of week 2 of a start; that last day to join is the start's decision point | Onboarding load | RULE |
 | Follow-up | Written recap within 24 h · one check-in on the agreed decision date · one close-the-loop message · then regular email only (subject to the pause route) | — | RULE |
 | Early weekly numbers | Eligible leads · held conversations · enrollments + cash · pieces published · check-in completion | — | RULE |
 
@@ -259,7 +260,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Spam complaints | Target < 0.1%; never ≥ 0.3% | Pressure; dormant segments | RULE (S) |
 | Welcome flow vs broadcast (per recipient) | Several-fold more clicks and orders | E-commerce transfer | EV (M/W) |
 | Lead-age cohorts for revenue | 0–60 · 61–180 · 181–365 days; re-permission, don't delete | — | RULE |
-| Promotion sends per start date | One announcement + one reminder, engaged segments only, never to paused leads | Launch Line | RULE |
+| Promotion sends per start date | One announcement + one reminder, engaged segments only, never to paused leads. The announcement goes out on the previous start's day, the reminder the week before; every send carries both the start date and the last day to join | Launch Line | RULE |
 | Paid lead cost (Meta, broad benchmark) | ~$25–30 per raw lead → ~$36–100 per eligible lead | Objective; health-adjacent classification removes optimization | EV (M) / D |
 | Band A paid adult reach test | Default at months 3–4 once destinations pass the Destination Rule: ~$300–1,000/month pushing proven pieces to adults, judged against a holdout and the maximum affordable cost per eligible lead | Band; yield | RULE (D) |
 | Minimum meaningful conversion-optimized test | ~$1–3k/month per ad set | Event volume | PL (D) |

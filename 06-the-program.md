@@ -262,15 +262,17 @@ Dan is among the 10, and so is Theo, who chose his own date after reading the ve
 
 **Week 0. A capture retaken.** Adrian's first set arrives shot at arm's length under a ceiling light. Cole's baseline notes name the two conditions and resend the standard, and a matched set comes back the next evening, so every later comparison rests on clean conditions. By week 3, [four] clients have opted into the process board under their handles, ranked on check-ins submitted on time.
 
-**Week 6. An exit right and a flat read.** Sam's busy season arrives [a month] early. He has logged [~85]% of days, so when he asks to stop, Cole refunds the undelivered weeks, about half the price, within [three] days, with no re-pitch. Theo has logged [~95]% of days, and every marker sits at baseline. Cole's checks find matched captures, markers read the same way, and a lever that fits his goal and shows up in his spot-checks, so the read holds the plan and says in writing that week 12 decides.
+**Week 6. An exit right and a flat read.** Sam's busy season arrives [a month] early. He has logged [~85]% of days, so when he asks to stop, Cole refunds the undelivered weeks, about half the price, within [three] days, with no re-pitch. Theo has logged [~95]% of days, and every marker sits at baseline. Cole's checks find matched captures, markers read the same way, and a lever that fits his goal and shows up in his spot-checks. So the read holds the plan and says in writing that week 12 decides.
 
-**Week 12. Nine verdicts.** Theo finished at [~92]% of days with no marker at threshold. The clause pays the fixed cash share in his terms within [five] days, with the verdict that this lever isn't moving for him on this plan and a referral to [the professional his remaining question belongs with]. One client slid after his week-6 read and finished at [~60]% of days, below the threshold, so no clause applies, since the exit right was his earlier route out. His re-assessment says honestly that [50] logged days can't judge the lever. Both graduate.
+**Week 12. Nine verdicts.** Theo finished at [~92]% of days with no marker at threshold. The clause pays the fixed cash share in his terms within [five] days. His verdict says this lever isn't moving for him on this plan, and it comes with a referral to [the professional his remaining question belongs with].
+
+One client slid after his week-6 read and finished at [~60]% of days, below the threshold. No clause applies, since the exit right was his earlier route out, and his re-assessment says honestly that [50] logged days can't judge the lever. Both men graduate.
 
 The other seven each have at least one marker at threshold, so the lever moves for them. For [three], it's one marker of two, which under the clause counts as movement, so no refund is owed. [Five] have momentum on their sheets. Before any offer, Cole asks each the same question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" [Two] take Round Two, Adrian among them, and [two] choose the Hold. The fifth takes neither.
 
 Dan's [posture-habit marker] went from [2] to [7] of [10] spot-checks, and his habits hold, so he's told plainly he doesn't need Round Two. He answers the question yes and takes the Hold. The last graduate leaves with his record and a quarterly date.
 
-**What it shows.** The start cost Cole about [36] hours, roughly [19] minutes per client-week and inside the Growing range of about 18–20, so his Seat Math can promise [10] seats and keep the turnaround. Every verdict came from terms written in advance: the adherence threshold before anyone paid, and the markers on baseline day. Two refunds went out without an argument.
+**What it shows.** The start cost Cole about [36] hours, roughly [19] minutes per client-week, inside the Growing range of about 18–20, which is why his Seat Math can promise [10] seats. Every verdict came from terms written in advance, the adherence threshold before anyone paid and the markers on baseline day. So two refunds went out without an argument.
 
 ## Templates: The Check-In Form and the Marker Sheet
 
@@ -317,8 +319,8 @@ Adherence threshold: [80%] of days logged. Moved: at least one marker at thresho
 2. **What can and can't move.** For you, by column: [changeable items for your goal]; [debated items, at their evidence tier]; never claimed: habit-driven change to bone, or anything that replaces dental, medical, or orthodontic care.
 3. **Plateaus.** Expected, usually in the middle weeks. When one comes, your next review re-plans with one change and says why.
 4. **The terms that decide your verdict.** Adherence threshold, fixed now: [80%] of days logged. Two or three markers, set with you on baseline day, each with a threshold. "Moved" means at least one marker at threshold at week 12; if none is and you met the threshold, the non-response clause pays.
-5. **How reviews are made.** I read every log and write or approve every review from our structured template, and every line of judgment is mine. [Tool] fills in the Logged numbers from your entries, only with your consent; decline and you get the same review, tallied by hand. [Name or role] routes [scheduling] messages. No tool or router sees your captures, your written answers, or anything health-related. Reviews arrive within [48] hours of your check-in, and a late one earns [the stated credit].
-6. **Privacy and your face.** Captures are seen only by me, stored at [where], and deleted on request. Nothing is published without your separate, revocable consent, and nobody scores, draws on, or reads structure from your face. Standing in the group comes from check-ins on time and captures on schedule, and everyone who reaches week 12 graduates.
+5. **How reviews are made.** I read every log and write or approve every review from our structured template; every line of judgment is mine. [Tool] fills in the Logged numbers, only with your consent, and if you decline, I tally them by hand. [Name or role] routes [scheduling] messages. No tool or router sees your captures, your written answers, or anything health-related. Reviews arrive within [48] hours of your check-in, and a late one earns [the stated credit].
+6. **Privacy and your face.** Captures are seen only by me, stored at [where], deleted on request, and published only with your separate, revocable consent. Nobody scores, draws on, or reads structure from your face. Standing in the group comes from check-ins on time and captures on schedule, and everyone who reaches week 12 graduates.
 
 Signed after payment; signing changes none of your refund rights.
 
@@ -329,7 +331,7 @@ Signed after payment; signing changes none of your refund rights.
 | 1. Care minutes a week | [ ] | [180] | [615] |
 | 2. Fixed lines: group calls, the Hold, Private, and Round Two once it has its own line | [ ] | [30], a founding Private seat | [165] |
 | 3. Left for Program seats | [ ] | [150] | [450] |
-| 4. One Program client-week: all-in while calls sit inside founding delivery; review plus milestones ÷ 12 after | [ ] | [~32] | [15] |
+| 4. Minutes per Program client-week: all-in at Early, when the call sits inside founding delivery; review plus milestones ÷ 12 later | [ ] | [~32] | [15] |
 | 5. Concurrent Program seats: line 3 ÷ line 4 | [ ] | [~4–5] | [30] |
 | 6. Monthly start cap: line 5 ÷ 3 | [ ] | [1–2] | [10] |
 | 7. Back-end caps: each line's minutes ÷ its minutes per member-week | [ ] | — | Hold: [15] ÷ [minutes per member-week] |
@@ -359,9 +361,9 @@ Run it on the first of each month from last month's measured minutes; when line 
 
 **Takeaways**
 - The review is the product: proactive, weekly, on a turnaround stated as a point, plus one live call.
-- Behavior is logged weekly; appearance is captured at 0, 6, and 12 weeks, then quarterly, as observations.
+- Behavior is logged weekly; captures at 0, 6, and 12 weeks, then quarterly, are observations.
 - Markers decide: one at threshold means the lever moves; none, with adherence met, pays the clause.
-- Before payment he sees his first [9] months priced and exactly how reviews are made.
+- Before payment he sees his first [9] months priced and how reviews are made.
 
 **The Program on one page**
 
@@ -382,6 +384,6 @@ Run it on the first of each month from last month's measured minutes; when line 
 | **The Capture Standard** | Match distance, lens, angle, light, expression, and time of day so captures compare |
 | **The Path and Timeline Card** | Show what 12 weeks deliver, when change tends to show, and his first months' likely cost before payment |
 
-**Leans on:** the Commit Ritual, the First-14, and the Plateau Plan (Module 21) · the Layered Guarantee and the Collectability Test (Module 7) · Stall Verdicts (Module 14) · the Outcome Map (Module 3) · the verification kit (Module 5) · Integrity Levels (Module 16) · monthly entry (Module 8) · Program Async (Module 13).
+**Leans on:** the Commit Ritual, First-14, and Plateau Plan (Module 21) · the Layered Guarantee and Collectability Test (Module 7) · Stall Verdicts (Module 14) · the Outcome Map (Module 3) · the verification kit (Module 5) · Integrity Levels (Module 16) · monthly entry (Module 8) · Program Async (Module 13).
 
 **Do this month:** write your check-in form and Capture Standard and use both with your next client; draft your Path and Timeline Card and Expectation Document with real prices; run Seat Math on last month's minutes and state the next start's cap.

@@ -9,11 +9,11 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | ✅ 3.5 passed (7,463 w) |
 | 02 | 02-the-buyer.md | a6e6b16066686151e | aa9f016d84771f742 | ✅ 3.5 passed (7,394 w) |
 | 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | ✅ 3.5 passed (7,651 w) |
-| 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | draft done (7,374 w) → critique |
+| 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | critique done (1 blocking, 16 major) → rebuilding |
 | 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | critique done (2 blocking, 9 major) → rebuilding |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | critique done (0 blocking, 16 major) → rebuilding |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | critique done (1 blocking, 16 major) → rebuilding |
-| 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | critique done (0 blocking, 15 major) → rebuilding |
+| 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -47,3 +47,9 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R2 (from 06 critique): non-response clause defined: 'haven't moved' = no marker reached its threshold (one crossing = lever moves, no refund); below-adherence clients not covered (honest verdict; week-6 exit right was the route). Markers never read from photos; binary did-it items count as adherence. Path and Timeline Card: total cost over the first [6–9] months with a separate full-intensity Round Two line; the 'you don't need Round Two' share published at >=30 graduates. 07's clause wording must match.
 - R2 (from 05 critique): checkout enforces before payment (attestation, affordability question, Fit Check tier 2 before the pay button; pause tag blocks checkout; signal blocks same-day payment; BNPL/third-party financing off). Free-call booking form shows the public price range and asks the affordability question ('no' → free Starter Path + pause route, no call). Minor discovered after the fork: immediate exit to the education lane, delete data, refund anything paid. Default sample plans never recommend Program Async (Scaling-only, 13).
 - R2 (from 07 critique): first testimonial ask moved off the week-6 exit conversation to the first measured peak after the exit decision (from ~week 7) — LEDGER D row and briefs 09/16 updated; 22 must follow. New LEDGER B row: refunds paid within 7 days of request/verdict. Installment cap (≤3 × ≤⅓ take-home) binds: ~$2.8k plan cap at 20–24; above that, upfront from income/savings or a later start. Failed payment: reminder + retry, grace, delivery pauses, no fees/collections. Price Steps stay inside ledger bands; beyond the proof band is 13's.
+- R2 (from 08): LEDGER C 'Late entry: through end of week 2; that last day to join is the decision point'; LEDGER F send timing: announce on previous start's day, remind the week before, both dates on every send.
+- R2 (from 04 critique): Starter tool ($27–97) is a paid self-serve product → arrives with the ~20-graduate trigger; before that the Starter Path is free and tool-free. Re-entry trigger is buyer-controlled, never a money condition. LEDGER B + BUSINESS updated.
+
+## Integration notes (continued)
+- 02 §5 says 'nearest start after it'; 08 offers the next start first. Harmonize in 4.3.
+- 19's written recap must omit the credit (08 ruling: the credit appears once, as a stated term, in the written plan).
