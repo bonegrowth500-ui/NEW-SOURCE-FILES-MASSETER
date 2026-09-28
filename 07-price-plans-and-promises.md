@@ -124,7 +124,7 @@ Steps run inside the opening band, $1.5–2.2k, until the proof milestone is met
 
 On a call, the same policy becomes a sequence: the real tiers premium first, one recommendation, the price stated once, then silence. That's Premium First, Price Once (Module 19).
 
-**When the signals disagree.** Say your last two starts filled with names waiting and your close rate sits near [~40%], high in its range with proof. Every sales signal says step. But the next step takes the Program from [$3.05k] to [$3.2k], the proof band's top and the cash ceiling at 20–24. There his installments already exceed a third of his month. Take that step, since it's inside both, then stop stepping the core container: a waiting list is evidence about your demand, never his pay. From there, profit comes from the back end and templated review, or from keeping a real tier under the ceiling while the Program moves past it. That's the Buyer-Mix Shift (Module 13), with the affordability "no" share as its guardrail.
+**When the signals disagree.** Say your last two starts filled with names waiting and your close rate sits near [~40%], high in its range with proof. Every sales signal says step. But the next step takes the Program from [$3.05k] to [$3.2k], the proof band's top and the cash ceiling at 20–24. There a plan already needs a larger first payment from his savings. Take that step, since it's inside both, then stop stepping the core container: a waiting list is evidence about your demand, never his pay. From there, profit comes from the back end and templated review, or from keeping a real tier under the ceiling while the Program moves past it. That's the Buyer-Mix Shift (Module 13), with the affordability "no" share as its guardrail.
 
 ## 4. Plans at Cost
 
@@ -139,17 +139,17 @@ So your plan earns nothing and ends before delivery does. Plans at Cost, the rul
 - No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, triggers the signal pause: nothing paid that day, expectations in writing, 72 hours or more to cool off, and no plan (Module 5).
 - Cancel-forward: a client who stops under the guarantee's week-6 or week-12 terms owes nothing further, and anything he paid for undelivered weeks comes back.
 
-The installment cap is the rule that binds. A third of roughly $2.8k is roughly $930, so for a buyer aged 20–24, three installments cap a plan near $2.8k. Above that he pays upfront from income or savings, or takes the Starter Path, the free sequenced path for anyone who shouldn't buy now, and comes back by his own reply.
+The installment cap is the rule that binds. A third of roughly $2.8k is roughly $930, so for a buyer aged 20–24, three capped installments cover about $2.8k. Above that, the first payment comes from his savings and the remaining installments stay within the cap: at $3.1k, a first payment of about $1.24k, then two of about $930. If that first payment isn't comfortable, he takes the Starter Path, the free sequenced path for anyone who shouldn't buy now, and comes back by his own reply.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
 | Pay in full only | The fee is small or the product short: an assessment, the Hold | Nothing, since there's no lump sum to split |
 | Your own plan at cost | The Program and Round Two, up to his installment cap | Part of the 3–8% uncollected, plus reminders and pauses to run |
-| Upfront, or the Starter Path | The price is past his cap | Some buyers take the Starter Path and return by their own reply |
+| A larger first payment from savings, the rest capped | The price is past three capped installments | Some buyers can't cover the first payment and take the Starter Path |
 
-**Default: your own plan at cost beside pay-in-full, up to his cap; past it, upfront or the Starter Path.** A buyer with steady income but no lump sum then pays from that income, which is what the affordability question asks. Switch to pay-in-full only if uncollected plan revenue runs above 3–8% for two 30-plan windows.
+**Default: your own plan at cost beside pay-in-full; past the cap, a larger first payment from savings with the rest capped.** A buyer with steady income but no lump sum then pays from that income, which is what the affordability question asks. Switch to pay-in-full only if uncollected plan revenue runs above 3–8% for two 30-plan windows.
 
-A failed installment gets one reminder and one retry. If it's still unpaid after a short grace period, delivery pauses, with no late fee and no collections pressure. He chooses to pay and resume or to cancel forward. A missed payment from a man who passed the affordability question usually means his month changed, and chasing him turns a client into a dispute.
+A failed installment gets one reminder and one retry. If it's still unpaid after a 7-day grace period, delivery pauses, with no late fee and no collections pressure. He chooses to pay and resume or to cancel forward. A missed payment from a man who passed the affordability question usually means his month changed, and chasing him turns a client into a dispute.
 
 The Hold bills monthly, so it carries a reminder before each charge and a one-click exit (Module 10). A subscription that earns from forgotten cancellations fails the graduate who reads his statement. Where local law counts installment plans as consumer credit, put that on your Risk Register, the short list of your biggest legal and platform risks. Take advice before offering one (Module 11).
 
@@ -169,10 +169,10 @@ That's the **Layered Guarantee**. Each layer states five things before he pays: 
 |---|---|---|---|---|
 | Statutory rights | His local law (UK and EU: ~14 days for online services, with early-start rules) | The law | As the law allows | At least that; never "no refunds" copy |
 | Fit window | Any time before baseline day, or up to 14–21 days after it | His word | A one-line message; any call optional and feedback-only | A full refund, installments cancelled, within 7 days |
-| Service guarantee | A review past its turnaround (e.g., 48–72 h); a milestone, Hold, or Private deliverable past its date; a correction your review should have caught | Timestamps, or his logs and plan history | None: you apply it | [A stated amount] off his next installment, or cash [within 7 days]; corrective weeks free |
-| Week-6 exit right | His request within [7] days of his week-6 read, adherence at threshold | His log count | A written request | Payment for undelivered weeks (~half), within 7 days |
+| Service guarantee | A review past its turnaround (e.g., 48–72 h); a milestone, Hold, or Private deliverable past its date; a correction your review should have caught | Timestamps, or his logs and plan history | None: you apply it | [A stated amount] off his next installment or in cash, his choice, within 7 days of the miss; corrective weeks free |
+| Week-6 exit right | His request from the week-6 read until 7 days after it's delivered, adherence at threshold | His log count | A written request | Payment for undelivered weeks (~half), within 7 days |
 | Week-12 non-response clause | No marker at its threshold at week 12, adherence at threshold | The marker sheet signed on baseline day | None: you raise it | [A fixed share inside 25–50%] of what he paid, in cash, within 7 days of the verdict; no Round Two offer |
-| Plan-usefulness refund | His word, within [14] days, that his Decision Assessment's plan wasn't useful | His word | A written request | The fee, within 7 days |
+| Plan-usefulness refund | His word, within 14 days of receiving the plan, that his Decision Assessment's plan wasn't useful | His word | A written request | The fee, within 7 days |
 
 Never on the list: his appearance, the one promise nobody can keep (the line on structural claims).
 
@@ -264,7 +264,7 @@ Fill it in before you set a price and before you announce a step, using planning
 |---|---|---|
 | 1. Core buyer's monthly take-home | [$ ] | ~$2.8k at 20–24; ~$3.9k at 25–34 (US) |
 | 2. Cash ceiling | [$ ] | Line 1 × 1–1.25; the core container stays under it |
-| 3. Plan cap | [$ ] | 3 × (~⅓ of line 1); above it, upfront or the Starter Path |
+| 3. Plan cap | [$ ] | 3 × (~⅓ of line 1); above it, the first payment comes from savings and the rest stay capped |
 | 4. Care minutes per client-week | [ ] | ~30–35 early; ~18–20 Growing; ~13–15 Scaling |
 | 5. Revenue per care hour | [$ ] | Price ÷ (12 × line 4 ÷ 60); ~$800 at proof prices in Growing |
 | 6. Proof milestone met? | [yes/no] | ≥10 graduates with consented process testimonials, plus first ranges |
@@ -287,18 +287,18 @@ It rides inside the start announcement and never gets a send of its own.
 
 ### Plan terms
 
-> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan, offered only when each stays within about a third of your monthly take-home, with the last due by week [8]. A failed payment gets one reminder and one retry; [a stated number of] days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy; the Starter Path is free.
+> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan: every payment after the first stays within about a third of your monthly take-home, any larger first payment comes from savings, and the last is due by week [8]. A failed payment gets one reminder and one retry; [a stated number of] days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy; the Starter Path is free.
 
 ### Guarantee terms
 
 > [We guarantee the work we control. Miss a deadline and you're paid. Do the work and see no marker move, and part of what you paid comes back in cash.]
 >
 > 1. Your legal rights come first. Nothing below reduces them.
-> 2. Fit window. Cancel before your baseline day, or within [21] days after it, with a one-line message, and get a full refund within 7 days. Any call about it is optional; the refund never depends on it.
-> 3. Service guarantee. Every weekly review within [48] hours, your week-6 read and week-12 re-assessment on their dates, and Hold and Private deliverables as carded. Each miss takes [a stated amount] off your next payment, or comes back in cash within [7] days. A signal we missed in your logs, or a step we set wrong, gets its corrective weeks free.
-> 4. Week-6 exit right. If you've logged at least [80%] of days, ask within [7] days of your week-6 read, and what you paid for undelivered weeks comes back within 7 days.
+> 2. Fit window. Cancel before your baseline day, or within [14–21] days from it, with a one-line message, and get a full refund within 7 days. Any call about it is optional; the refund never depends on it.
+> 3. Service guarantee. Every weekly review within [48] hours, your week-6 read and week-12 re-assessment on their dates, and Hold and Private deliverables as carded. Each miss takes [a stated amount] off your next payment or comes back in cash, your choice, within 7 days. A signal we missed in your logs, or a step we set wrong, gets its corrective weeks free.
+> 4. Week-6 exit right. If you've logged at least [80%] of days, ask any time from your week-6 read until 7 days after it's delivered, and what you paid for undelivered weeks comes back within 7 days.
 > 5. Week-12 non-response clause. If you've logged at least [80%] of days and none of your two or three markers, set on baseline day, has reached its threshold at week 12, [a fixed share inside 25–50%] of what you paid comes back in cash within 7 days of the verdict. We raise it, and we won't offer you Round Two.
-> 6. Decision Assessment. If your written plan wasn't useful, tell us within [14] days, and the fee comes back within 7 days.
+> 6. Decision Assessment. If your written plan wasn't useful, tell us within 14 days of receiving it, and the fee comes back within 7 days.
 > 7. What we never guarantee: how your face looks. No one can honestly promise that.
 >
 > To claim anything, reply to any email from us. Claim counts are published as rolling totals at [link].
@@ -317,7 +317,7 @@ It rides inside the start announcement and never gets a send of its own.
 
 - **A price page with nothing invented.** Real tiers, premium first, countable delivery units, and no decoy, crossed-out price, or "total value" (*Present the price*).
 - **A step he hears about.** Announced steps always land, and his written recap names the next price and its start, so a good-fit buyer never drifts past a step unaware (*Use real dates*).
-- **Plans that stop at his means.** His own installments only, at most three inside delivery, each under about a third of his take-home, with the affordability question at the plan step and no plan after a signal (the line on vulnerability).
+- **Plans that stop at his means.** His own installments only, at most three inside delivery, none after the first above about a third of his take-home, with the affordability question at the plan step and no plan after a signal (the line on vulnerability).
 - **A guarantee he can collect.** Every layer passes the Collectability Test, and no testimonial ask or written reason is timed to his refund rights. Nothing is guaranteed about his face (the line on structural claims).
 
 ## Quick Reference
@@ -326,7 +326,7 @@ It rides inside the start announcement and never gets a send of its own.
 
 **Takeaways**
 - At capacity, a step that loses fewer buyers than its percentage is almost pure profit, and announced steps always land.
-- Plans: his own installments, at most three inside delivery, each within about a third of his take-home, so a plan caps near $2.8k at 20–24.
+- Plans: his own installments, at most three inside delivery, each within about a third of his take-home; past about $2.8k at 20–24, the first payment comes from savings.
 - Six guarantee layers pay money on stated timelines, and none is about his face.
 
 *The Three Ceilings*

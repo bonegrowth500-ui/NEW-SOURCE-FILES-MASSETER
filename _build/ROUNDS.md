@@ -12,7 +12,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 04 | 04-offer-architecture.md | ae789f43cf5fcbf02 | a8c8d6b0183699bf1 | ✅ 3.5 passed (7,561 w) |
 | 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | ✅ 3.5 passed (7,425 w) |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | ✅ 3.5 passed (7,362 w) |
-| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | critique done (1 blocking, 16 major) → rebuilding |
+| 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | ✅ 3.5 passed (7,371 w) |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
 
 ## Decisions made during Step 3
@@ -58,3 +58,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - 19's written recap must omit the credit (08 ruling: the credit appears once, as a stated term, in the written plan).
 - R2 (from 06): service guarantee covers operator review errors (corrective weeks free, never a paid block); full-intensity Round Two priced as a Program only when the misdirection came from outside the plan, disclosed on the Card. LEDGER B updated; 07 and 10 must follow.
 - R2 (from 04 final): fixed Module 2 L182 money-based re-entry ('when it's comfortable…') → buyer-controlled re-entry ('the door opens again whenever he writes back'). Told 07: fit-paused buyers get the reading-only Starter Path.
+- R2 (07 final): failed-payment grace period 7 days; non-response share fixed per start inside 25–50% = largest the reserve covers if the whole start claimed, stated in the Expectation Document (LEDGER B).
