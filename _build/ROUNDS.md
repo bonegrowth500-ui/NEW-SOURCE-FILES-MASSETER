@@ -14,11 +14,11 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | ✅ 3.5 passed (7,362 w) |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | ✅ 3.5 passed (7,371 w) |
 | 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | ✅ 3.5 passed (7,443 w) |
-| 09 | 09-the-founding-phase.md | a4d1beee624d836ef | a22bba410642a677c | draft done (7,501 w) → critique |
+| 09 | 09-the-founding-phase.md | a4d1beee624d836ef | a22bba410642a677c | critique done (0 blocking, 16 major) → rebuilding |
 | 10 | 10-lifetime-value.md | a5ebf882ac6f073ee | af28fb6227a00d9d0 | critique done (0 blocking, 12 major) → rebuilding |
 | 11 | 11-the-operating-week.md | ad69db360e41d53c3 | abbb51cf9aabb080d | critique done (0 blocking, 13 major) → rebuilding |
 | 12 | 12-growth-decisions.md | a5c76ed0875a1df40 | a951a3169f17d9330 | draft done (7,403 w) → critique |
-| 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | draft done (7,474 w) → critique |
+| 13 | 13-the-premium-lane-and-the-road-to-50k.md | af1c784364515bae9 | ab0d36721ab429764 | critique done (0 blocking, 14 major) → rebuilding |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -70,3 +70,5 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R3 round (11 critique): Cole = right reads, Reid = misreads (composite roles enforced); Cole starts templating at month 11 (Module 1). Routing help hides face-rating requests silently; distress/minor/purchase/client content → operator at once. Risk Register stays six flags; testimonials/endorsements fold into the claims-and-advertising flag.
 - R3 round (from 12): Module 03 (passed) put all outcome ranges at 30 graduates; sent 03's drafter a surgical fix to align with R3-4 (first ranges at the proof milestone as a labeled small sample; standing log at 30).
 - R3 round (from 10 critique): LEDGER D rules added: measured momentum (adherence ≥ threshold + ≥1 marker still improving across its last two readings); Round Two repeats (once by default; second only on its own measured momentum and his ask); corrective weeks for review errors (weeks lost, capped at 6, free, logged in the claim rate). Round Two below parity at Scaling (~$990/care h) → sold while minutes are spare, Seat Math caps it. $50k Hold 0.6 h = ~0.4 h templated quarterly reviews + ~0.2 h room moderation.
+- R3 round (13 critique): $50k told with LEDGER A3's middle case (tops ~$14k/$28k/$34k/$35k by band) → $50k is the good case (C–D, or B with a paid lever; years 2–3). Age packaging addressed as an income proxy (legit only with the affordability gate + Program Async under the younger ceiling; never income signals). No downsell after a 'no': tiers shown premium-first before the question; question asked about his pick. Parity benchmark defined by stage/price (~$800 Growing proof band → ~$1,250–1,400 Scaling ceiling); Hold and Round Two below parity at Scaling.
+- R3 round (09 critique): source label = booking source; Month-3 Gate reads volume and conversion, not bands (band unknowable at m3; paid test is the default fix when volume fails); conversion-leg fix order (replay calls → position/Card/price → one change at a time); founding price never extended; composites never cross a House Standard line, even as contrast (Reid's misreads are strategic).
