@@ -13,7 +13,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 05 | 05-the-door.md | ac25cee9328b86fba | aae990a7bb75afe21 | draft done (7,620 w) → critique |
 | 06 | 06-the-program.md | a7ee757e20232197b | a50cca6d05e5b9053 | draft done (7,530 w) → critique |
 | 07 | 07-price-plans-and-promises.md | a221eb1ab3ec932ae | a380515d49553e60b | draft done (7,546 w) → critique |
-| 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | draft done (7,298 w) → critique |
+| 08 | 08-real-dates.md | abac773561fc0f762 | a27f5c6b241ee3e4c | critique done (0 blocking, 15 major) → rebuilding |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
