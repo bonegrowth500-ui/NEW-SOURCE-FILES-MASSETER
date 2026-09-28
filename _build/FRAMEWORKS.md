@@ -208,6 +208,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | buying triggers | Pain spikes, failed DIY, life events, fresh starts, someone similar succeeding | 02 |
 | the Credible Middle | The position between grift hype and "it's all genetics" | 03 |
 | Name \| Brand | The brand owns the method, capture standard, and library; the face carries trust | 03 |
+| the null-result stance | A result that didn't move is published beside the ones that did, never buried; the Dated Record makes burying impossible | 03 |
 | the Neither-Grifter-nor-Doctor Test | A positioning line neither a hype merchant nor a dismissive clinician would say | 03 |
 | the Starter Path · the Starter tool | The free sequenced path for "not now / not a fit / can't afford" · its low-cost tool, named once | 04 |
 | the Self-Serve System | Tools (not decision rules) for DIY buyers, after ~20 graduates | 04 |

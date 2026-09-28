@@ -268,7 +268,8 @@ Generated from `FRAMEWORKS.md`; if the two ever disagree, FRAMEWORKS wins and th
 | the Evaluation Query | 27 |
 | Ad Gates | 27 |
 | Band Waypoints | 28 |
-| Name \ | The brand owns the method, capture standard, and library; the face carries trust |
+| Name \| Brand | 03 |
+| the null-result stance | 03 |
 
 ## Retired names (never used in the playbook)
 

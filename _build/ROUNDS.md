@@ -6,9 +6,15 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 
 | Module | File | Drafter agent | Critic agent | Status |
 |---|---|---|---|---|
-| 01 | 01-the-whole-business.md | a66743a4358c63e43 | — | drafting |
+| 01 | 01-the-whole-business.md | a66743a4358c63e43 | a4dc9005b9562c418 | draft done (7,223 w) → critique |
 | 02 | 02-the-buyer.md | a6e6b16066686151e | — | drafting |
-| 03 | 03-the-honest-position.md | ad8557f03357ac575 | — | drafting |
+| 03 | 03-the-honest-position.md | ad8557f03357ac575 | a7e11a17c8e86f9d7 | draft done (7,344 w) → critique |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
+- R1: LEDGER A5 "Eligible leads needed" recomputed from LEDGER's own eligible lead → client range (1.5–7%): $25k ≈ 120–285 at 3–7% (≈570 at 1.5%); $50k ≈ 185–435 at 3–7% (≈870 at 1.5%). Tell 01's drafter at rebuild (draft used the stale 100–275).
+- R1: LEDGER H Dated Record: process metrics from month 1; outcome metrics once ≥30 graduates (resolves FRAMEWORKS vs LEDGER wording).
+- R1: "the null-result stance" registered as ○, owner 03 (16 recaps).
+- R1: BUSINESS §6 membership wording aligned with LEDGER B (never the engine; optional add-on from Growing).
+- R1: style-sheet Name | Brand row repaired.
+- R1 note: sample-v2's Cole placeholders were adjusted by 01's drafter to fit Band B; the sample stays a voice reference, not a number source.

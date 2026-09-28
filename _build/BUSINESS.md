@@ -114,7 +114,7 @@ PATH AND TIMELINE CARD + EXPECTATION DOCUMENT sent before payment
 
 **The capacity truth.** All-in care runs ~18–20 minutes per client-week in Growing and ~13–15 at Scaling (review + group call + milestones). Capacity is ~25–30 concurrent in Growing and ~40–45 at Scaling, which caps new enrollments at ~8–10 and ~12–15 a month. Past that, profit grows only through price (inside the cash ceiling), the back end, tiering, templated review, and async assessments.
 
-**Alternatives (options + default; LEDGER A):** a premium 1:1-led engine (~$17–22k profit; a start or a lane, not the engine) · membership-led (a Scaling add-on only) · digital-led (a leverage layer only; it contradicts "judgment is the product") · a single 6-month container (the default's Round Two path gives the same outcome at a lower first price) · an async-only flagship (becomes Program Async as a tier).
+**Alternatives (options + default; LEDGER A):** a premium 1:1-led engine (~$17–22k profit; a start or a lane, not the engine) · membership-led (never the engine; an open paid membership is an optional add-on from Growing, with budgeted moderation, per LEDGER B) · digital-led (a leverage layer only; it contradicts "judgment is the product") · a single 6-month container (the default's Round Two path gives the same outcome at a lower first price) · an async-only flagship (becomes Program Async as a tier).
 
 ## 7. Pricing and promises (Module 07)
 

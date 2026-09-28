@@ -129,7 +129,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Decision Assessment fees (non-buyers) | ≈ $1k | ≈ $2.2k |
 | **Revenue → profit** | **≈ $31.5k → ≈ $24.5–26.5k** | **≈ $56k → ≈ $44–47k; small Price Steps over time carry it to ~$50k** |
 | Week | ~19.75 h | ~21 h |
-| Eligible leads needed | ~100–275/month | ~275–550+/month, or fewer with a working paid reach lever |
+| Eligible leads needed (≈ enrollments ÷ eligible lead → client) | ~120–285/month at 3–7% (a proven door by Scaling); ~570 at 1.5% | ~185–435/month at 3–7% (~13 enrollments); ~870 at 1.5%. Band C–D reach, or Band B with a working paid reach lever |
 
 ## B. Offers & pricing (PL; anchors M)
 
@@ -287,5 +287,5 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Starts | Monthly entry into a standing group from the founding group onward, pinned near real landmarks; expect New-Year intent | RULE (EV M landmarks; W seasonality in this niche) |
 | Private | Founding seats while minutes are spare; at Scaling only under the Parity Rule | RULE |
 | Paid self-serve products | Only after ~20 graduates have produced proof and a stall taxonomy | RULE |
-| The Dated Record | From month 1: publish the pre-commitment (what, at what sample size, on what schedule) and keep a dated log of process metrics (check-in completion, turnaround kept, claim rate, fit declines in aggregate) | RULE |
+| The Dated Record | From month 1: publish the pre-commitment (what, at what sample size, on what schedule) and keep a dated log of process metrics (check-in completion, turnaround kept, claim rate, fit declines in aggregate). Outcome metrics (ranges with denominators, the non-responder share) join the log once ≥30 clients have graduated | RULE |
 | Guardrails (always) | Refund + dispute count (rolling) · complaint rate · fit-check signal and decline counts (aggregate) · refunds/exits among signal-flagged enrollees · promotional sends to paused leads (target zero) · affordability "no" share · non-responder share · review turnaround kept | RULE |
