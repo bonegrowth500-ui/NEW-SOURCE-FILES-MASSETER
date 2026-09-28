@@ -197,7 +197,7 @@ A sheet that fails reads "jawline visibly sharper by week 12", which only a phot
 
 ### The week-6 read asks the verdict question first
 
-The week-6 read, the written mid-program read, asks the verdict question first: given your adherence, is the lever moving? It reads his adherence, each marker against its baseline wobble, and the week-6 capture's conditions, then lands in writing on one of four outcomes: adjust one lever, hold the plan, refer him out, or the exit right. The exit right is a pro-rata refund of undelivered weeks for a client who did the work and wants to stop. The read arrives inside the usual turnaround, because a late read teaches him the milestones are soft.
+The week-6 read, the written mid-program read, asks the verdict question first: given your adherence, is the lever moving? It reads his adherence, each marker against its baseline wobble, and the week-6 capture's conditions. Then it lands in writing on one of four outcomes: adjust one lever, hold the plan, refer him out, or the exit right. The exit right is a pro-rata refund of undelivered weeks for a client who did the work and wants to stop. The read arrives inside the usual turnaround, because a late read teaches him the milestones are soft.
 
 **When the signals disagree.** Say a client's logs are near-perfect, [~95]% of days, and every marker sits at baseline at week 6. Run the Stall Verdicts in order, the three honest reasons a stall happens: unmeasured, misdirected, or a lever that doesn't move for this person (Module 14). Unmeasured shows as drifting capture conditions or a marker read two different ways, so fix the measurement before judging anything else. Misdirected shows as a lever that doesn't fit his baseline or goal, or a habit done in its block that never appears in his spot-checks. Adjust one lever, write that the miss was yours, and leave the sheet as signed.
 
@@ -217,7 +217,7 @@ The week-12 re-assessment, the end-of-program capture and verdict, sets the matc
 
 ### Graduation hands him his record
 
-Everyone who reaches week 12 graduates. Graduation, the week-12 finish into alumni status, is a deliverable like the others: he receives his whole record in a form he keeps, every capture with its conditions, his logs, the scored marker sheet, and the re-assessment. It closes with his next capture date, Round Two's week 6 if he takes it, or a quarterly date he keeps in the Hold or on his own. A graduate who owns his record can keep measuring without you, and that's the promise you sold him, delivered.
+Everyone who reaches week 12 graduates, and graduation, the week-12 finish into alumni status, is a deliverable like the others. He keeps his whole record: every capture with its conditions, his logs, the scored marker sheet, and the re-assessment. It closes with his next capture date, Round Two's week 6 if he takes it, or a quarterly date he keeps in the Hold or on his own. A graduate who owns his record can keep measuring without you, and that's the promise you sold him, delivered.
 
 ## 6. Seat Math and the Container
 
@@ -229,7 +229,7 @@ Seat Math, the seat caps for the Program, Round Two, the Hold, and Private, set 
 
 **Program seats = care minutes left after the fixed lines ÷ minutes per client-week.**
 
-Start with the care hours your week allows, about 9–10.5 once you're running at your Capacity Ceiling, the most concurrent clients your care hours allow. Subtract the fixed lines: the group calls at about 2 hours, then the Hold and any Private seat, each from its own measured minutes. Divide what's left by one Program client-week, review minutes plus milestone time spread over 12 weeks, to get concurrent seats, then by three for the monthly cap, since a start opens every month. In the Growing stage, about $8–30k a month, that lands near 25–30 concurrent and 8–10 new enrollments, and templated review near 6 minutes lifts it to about 40–45 once you're Scaling, past about $30k.
+Start with the care hours your week allows, about 9–10.5 at your Capacity Ceiling, the most concurrent clients your care hours allow. Subtract the fixed lines: the group calls at about 2 hours, then the Hold and any Private seat. Divide what's left by one Program client-week, review minutes plus milestone time spread over 12 weeks, for concurrent seats, then by three for the monthly cap. In the Growing stage, about $8–30k a month, that lands near 25–30 concurrent and 8–10 new enrollments a month. Templated review near 6 minutes lifts it to about 40–45 concurrent once you're Scaling, past about $30k.
 
 Round Two, the Hold, and Private get caps from their own lines. When a line is full the offer waits, because the service guarantee, your promise on turnaround and milestones, covers Hold and Private deliverables too. Private sells only while minutes are spare, and at Scaling only when it earns at least what a Program seat earns per care hour. Recalculate on the first of each month from last month's measured minutes, so the cap drops before the turnaround slips.
 
@@ -242,7 +242,7 @@ Round Two, the Hold, and Private get caps from their own lines. When a line is f
 | 6 months | Clients reliably need the half-year, and the price still fits the cash ceiling, about 1–1.25 months of his take-home | Roughly double the first price, a long sag in the middle, and months some clients don't need |
 | Async-only | The Program's price must pass about $3.2k, the ceiling for buyers in their early 20s | No live call, so less belonging for the men who need the room |
 
-**Default: 12 weeks.** It holds two matched capture intervals and a midpoint read with six weeks left to act on it, at a first price inside the cash ceiling. Habits take anywhere from days to most of a year to become automatic, so Round Two and the Hold carry the months after for the men whose records call for it. Switch when the Program's price must pass about $3.2k: add async-only as Program Async, the same review without the live call, a real tier under the ceiling (Module 13).
+**Default: 12 weeks.** It holds two matched capture intervals and a midpoint read with six weeks left to act on it, at a first price inside the cash ceiling. Habits take anywhere from days to most of a year to become automatic. Round Two and the Hold carry the months after, for the men whose records call for it. Switch when the Program's price must pass about $3.2k: add async-only as Program Async, the same review without the live call, a real tier under the ceiling (Module 13).
 
 ## Worked Example: Cole's [April] Start, 10 Clients Through 12 Weeks
 
