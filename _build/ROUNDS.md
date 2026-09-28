@@ -28,6 +28,11 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | ✅ 3.5 passed (7,564 w) |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | ✅ 3.5 passed (7,645 w) |
+| 23 | 23-long-form-where-trust-compounds.md | aebe6cd1c5c5729d1 | — | 3.1–3.2 drafting |
+| 24 | 24-short-form-reach-and-the-hook-lab.md | ab1a1b730d169c82b | — | 3.1–3.2 drafting |
+| 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | — | 3.1–3.2 drafting |
+| 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | — | 3.1–3.2 drafting |
+| 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | — | 3.1–3.2 drafting |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
