@@ -144,3 +144,6 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
 - **TikTok trigger (round 6):** add TikTok only after a labeled trial matches Reels on eligible adults per editing hour over ~30 door completions (LEDGER F).
 - **The pause route in email (round 6):** a pause holds every marketing send (sequences, date sends, checkout links, unfinished-checkout notes, the Canon Lane, the weekly letter) for 60–90 days; only mail he asked for goes. Then one re-permission ask with no price, offer, or date; a yes is his own re-entry, silence or a no ends marketing mail.
 - **The Canon Lane (round 6):** opens by the first graduation (the Hold lists it as free to every subscriber), about one email a month, never to paused leads; Scaling adds cohort tuning.
+- **Mail during a pause (round 6):** Starter Path check-ins go only after he takes the path (a click or reply to the handover) and carry no offer, price, or date. The re-permission ask names start announcements and reminders plainly; a "not for me" click never counts as engagement.
+- **Unfinished-checkout note (round 6):** one note, only after a yes to the affordability question and a stop at payment; leaving at or before that question sends nothing.
+- **Result email (round 6):** the result and one next step; a quiet footer line may link the Verify Page (how we work, prices, terms).

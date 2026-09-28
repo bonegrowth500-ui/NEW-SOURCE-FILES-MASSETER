@@ -180,7 +180,7 @@ The rule inside the table is the decision framework itself. Log before you chang
 
 The capture is his, and the path uses it once. At week 12 he sets his baseline beside a matched capture taken under the Capture Standard, your fixed conditions for distance, light, and angle. He reads the pair only against the changeable column. A baseline taken while he waited for his first conversation counts, so he skips the week-1 capture. Appearance is captured rarely on purpose, because frequent checking feeds the comparison habit that stalled him.
 
-The path's only human touch is a templated check-in at weeks 1, 4, and 8, carrying the path's next step and never an offer, a price, or a date. A free monthly group Q&A stays off the ladder, since it's a free community by another name. A man who wants judgment on his logs can buy it as a Decision Assessment, with its usual checks. Score the net by one number that isn't conversion: the share of handed-over paths that reach the week-8 self-check.
+The path's only human touch is a templated check-in at weeks 1, 4, and 8, sent once he takes the path with a click or reply to the handover, carrying the path's next step and never an offer, a price, or a date. A free monthly group Q&A stays off the ladder, since it's a free community by another name. A man who wants judgment on his logs can buy it as a Decision Assessment, with its usual checks. Score the net by one number that isn't conversion: the share of handed-over paths that reach the week-8 self-check.
 
 ### The handover happens once, and the way back is his
 

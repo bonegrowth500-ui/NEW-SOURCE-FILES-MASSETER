@@ -285,7 +285,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Engaged (email) | A click or reply within ~60 days; opens don't count | Machine opens | RULE |
 | Re-permission timing | Silent leads get one re-permission ask at 181 days, or at 61 if the 61–180 cohort shows no revenue over a readable window; a yes restores the flow, silence or a no ends marketing mail | Cohort revenue | RULE (D) |
 | Welcome Arc length | ~10 days, shorter than the late-entry window | — | RULE (D) |
-| Unfinished checkout | One note, never to a paused lead (the pause blocks checkout) | — | RULE |
+| Unfinished checkout | One note, only to a man who answered yes to the affordability question and left at payment; leaving at or before that question sends nothing. Never to a paused lead (the pause blocks checkout) | — | RULE |
 | Promotion sends per start date | One announcement + one reminder, engaged segments only, never to paused leads. The announcement goes out on the previous start's day, the reminder the week before; every send carries both the start date and the last day to join | Launch Line | RULE |
 | Paid lead cost (Meta, broad benchmark) | ~$25–30 per raw lead → ~$36–100 per eligible lead | Objective; health-adjacent classification removes optimization | EV (M) / D |
 | Band A paid adult reach test | Default at months 3–4 once destinations pass the Destination Rule: ~$300–1,000/month pushing proven pieces to adults, judged against a holdout and the maximum affordable cost per eligible lead | Band; yield | RULE (D) |
