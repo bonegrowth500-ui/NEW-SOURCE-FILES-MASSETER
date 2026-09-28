@@ -83,9 +83,9 @@ What the call delivers is fixed, however you run it: his stall and goal said bac
 
 Somewhere past 6–8 held conversations a week, the calendar starts eating the business. The volume is the trigger: most weeks above that range, with selling hours cutting into your content minimum. A show rate sliding toward about 60%, or more than half of held conversations ending no-fit, at lower volume means the screening before the call needs work, not a cap.
 
-A free hour isn't worth the same to every buyer. It changes the decision of the uncertain buyer, who wants to talk it through or is wary after a purchase that let him down. It closes the high-intent buyer, ready to start and already past your offer page. The buyer who'd rather have it in writing loses little by getting a written plan, and he keeps it.
+A free hour isn't worth the same to every buyer. It changes the decision of the uncertain buyer, who wants to talk it through or is wary after a purchase that let him down. It also earns its hour with the buyer near a high-ticket decision, such as Private or the priority tier, where the price per call-hour is highest. A buyer already decided on the Program loses nothing by going straight to the written route. The buyer who'd rather have it in writing loses little by getting a written plan, and he keeps it.
 
-That's the logic of the **Call Cap**: free fit conversations stay open up to about 6–8 held a week, reserved by tags for uncertain or high-intent buyers. The overflow goes to the paid or async Decision Assessment. Below the cap, every eligible adult can book free. Once it binds, free slots show only on results carrying those tags, and every other result offers an assessment within days beside the next open slot. Nobody is refused a decision, only a free hour this week.
+That's the logic of the **Call Cap**: free fit conversations stay open up to about 6–8 held a week, reserved by tags for uncertain buyers and those near a high-ticket decision. The overflow goes to the paid or async Decision Assessment. Below the cap, every eligible adult can book free. Once it binds, free slots show only on results carrying those tags, and every other result offers an assessment within days beside the next open slot. Nobody is refused a decision, only a free hour this week.
 
 ### Free up to the cap, judged on the economics
 
@@ -367,7 +367,7 @@ Answer from your records for your last 30 eligible leads.
 | Framework | Use it to… |
 |---|---|
 | **The Door** | Route every buyer through age, fit, money, and the right human step to one recommendation |
-| **The Call Cap** | Keep free conversations for uncertain and high-intent buyers, and send the overflow to a paid written decision |
+| **The Call Cap** | Keep free conversations for uncertain buyers and those near a high-ticket decision, and send the overflow to a paid written decision |
 | **The Fit Check** | Hold any paid step on a plain-language signal before a pay button appears |
 
 **Leans on:** Let Him Succeed Before He Pays and the Week-Zero Baseline (Module 17) · Close by Contract (Module 19) · the Async Arc (Module 20) · the Warmth Ladder (Module 18) · Stall Verdicts (Module 14) · Readiness Tags (Module 26) · the Path and Timeline Card (Module 6) · the plan-usefulness refund (Module 7).

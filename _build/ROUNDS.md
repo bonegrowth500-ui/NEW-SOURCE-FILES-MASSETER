@@ -25,7 +25,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 17 | 17-identity-and-commitment.md | a731ca3f0c80dc3c6 | a2fd5d01abb28e5b3 | ✅ 3.5 passed (7,601 w) |
 | 18 | 18-content-that-sells.md | a1c32178a5c126f98 | a51dc49dac76ea92f | critique done (1 blocking, 14 major) → rebuilding |
 | 19 | 19-the-sales-conversation.md | ae0a8c59c80e19ba5 | ac53f7be982e89a8d | critique done (2 blocking, 13 major) → rebuilding |
-| 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | critique done (0 blocking, 11 major) → rebuilding |
+| 20 | 20-selling-without-the-call.md | a8bcf7e5953f8a1f4 | a187d70c220aa0f11 | ✅ 3.5 passed (7,564 w) |
 | 21 | 21-onboarding-adherence-and-the-plateau.md | ac2d67fe362ef69b3 | a97e54f078ff7b69c | ✅ 3.5 passed (7,448 w) |
 | 22 | 22-renewal-and-referral.md | afe54febb01c34e4e | a9f1efcfd72971737 | critique done (0 blocking, 11 major) → rebuilding |
 
@@ -108,3 +108,4 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R5 round (20 critique): Call Economics Test sets which tags get the Call Cap's reserved free calls (uncertain buyers = biggest lift; near-high-ticket buyers = highest price per call-hour); decided Program buyers go async. Lift measured over 30-event windows per route, decided on the conservative end (self-selection). Sequences end at the decision point.
 - R5 round (18 critique): evergreen videos never speak specific dates (point to the page's next start + last day to join); warm end cards carry the public price; Private never shown as a bare price; objection-pick rule for the Conversation-to-Content Loop (most frequent real objection by link in the last 30 held, or the Leak Trace's biggest drop).
 - R5 round (21 final): LEDGER rows: rewarding the return after a lapse (EV S/transfer M–W); stopping before the week-6 read (read brought forward; adherence over delivered weeks); corrective weeks run after week 12, which is never pushed back. Integration: 17's flat week-6 script overlaps 21 §5; 06 plateau item should allow 'hold'; 10/17 adopt the board freeze; 07/15 adopt the trigger rule.
+- R5 round (20 final): LEDGER E rows: voice vs text (M, one lab); in-person vs written requests (M/W, one group). Module 05 Call Cap reservation reworded to 'uncertain buyers and those near a high-ticket decision'; decided Program buyers go to the written route (consistent with 20's Call Economics Test).

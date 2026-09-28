@@ -256,6 +256,8 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Sustained exposure to corrections | Repeated corrections over months durably reduce a misperception where a single correction fades (one six-month field experiment) | Why the Canon repeats on a schedule | EV (M/W) |
 | Narrative persuasion | Small–moderate | Composites labeled | EV (M) |
 | Underestimating compliance with direct asks | People expect roughly half the yeses they get | Ask everyone, privately | EV (M) |
+| Voice vs text | Hearing a person's voice makes his reasoning seem more thoughtful and human than the same words in text | Why voice-note replies carry the one recommendation | EV (M; one lab) |
+| In-person vs written requests | Requests made in person get far more yeses than the same request by email or text, and requesters underestimate the gap | Why the referral ask is private and live where possible | EV (M/W; one group) |
 | Peak-end memory | Final moments and peaks weigh heavily in retrospective judgment | Make the last fortnight the peak | EV (M) |
 | "Free to refuse" phrasing | Small or none in low-bias studies | Insurance, not a lever | EV (C) |
 | Correction backfire | Essentially none; effects small and fading | Repetition needed | EV (S) |
