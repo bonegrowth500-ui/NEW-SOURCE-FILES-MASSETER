@@ -133,3 +133,4 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
 - **Dignity Route in practice (round 4):** a buyer on the route never hears his missed social moments reflected back, even ones he stated as his goal. Keep the destination at "knowing instead of guessing".
 - **Stop rules leave no record (round 4):** when a stop rule ends a sale, nothing beyond "stopped: stop rule" is recorded; no words or reasons feed content planning, the objection log, or the Conversation-to-Content Loop.
 - **Verdict integrity (round 4):** "misdirected" needs a named lever, a documented correction, and early movement on it at the next reading; otherwise "the lever doesn't move for this person" stands. Never relabel it to sell more time.
+- **Minors (round 4):** education-lane copy never implies a minor can buy later or after a visit: no "first", no "come back when", no route to the door. Adulthood re-entry is never marketed to minors.
