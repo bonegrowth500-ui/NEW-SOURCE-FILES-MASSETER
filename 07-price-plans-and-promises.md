@@ -58,7 +58,7 @@ The first limit is his pay. In the US, full-time men aged 20–24 earn about $42
 | $3.9k | ~1.4 | ~1.0 | Past the 20–24 ceiling; inside 25–34 |
 | $4.5k | ~1.6 | ~1.14 | Past the 20–24 ceiling; inside 25–34 |
 
-The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own eligibility rule agree. Installments carry a cap of their own, about a third of monthly take-home each, and for a buyer aged 20–24 that cap binds first, near $2.8k.
+The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own eligibility rule agree. Installments carry a cap of their own, about a third of monthly take-home each.
 
 ### Capacity sets how far price has to climb
 
