@@ -74,15 +74,7 @@ The same idea draws the line between what you publish and what you sell. The why
 
 **Give away the why and the decision framework; sell judgment applied to him, week after week.**
 
-That's the Free/Paid Line: the method's steps are free, and choosing his next step is paid. It has to survive every call on your ladder, so run it on the three that look like exceptions:
-
-| Case | The call | Why the line holds |
-|---|---|---|
-| The paid tools hold logs and sheets the path gives away | Free on the path; the tools sell only the ready-made version | The page says nothing is withheld, so he pays for hours saved |
-| Your stall rules | Private, applied only in review | Without someone reading his record, a rule turns a thin log into a verdict that the lever is dead |
-| Followers ask for "the routine as a PDF" | The steps stay free in your content; no paid PDF before the tools exist | A paid PDF prices free information against free, and a printable waits for the tools' trigger |
-
-Publishing the framework costs you little, because the framework was never the scarce thing. It buys trust in a category built on gated methods ("the full routine is inside"). It also makes buyers better judges of everyone selling to them, which favors the operator who has judgment to sell.
+That's the Free/Paid Line: the method's steps are free, and choosing his next step is paid. Publishing the framework costs you little, because the framework was never the scarce thing. It buys trust in a category built on gated methods ("the full routine is inside"). It also makes buyers better judges of everyone selling to them, which favors the operator who has judgment to sell.
 
 ## 3. One Flagship, Two Buffers, One Net
 
@@ -131,14 +123,14 @@ Rungs switch on by stage, because each needs something upstream to feed it and m
 
 **A rung switches on when the rung before it can feed it and your week can price its minutes.**
 
-That's the **Rung Activation Schedule**. The months show where its triggers tend to land in Band B, the steady reach you should plan on. The trigger decides and the month only estimates it, and the paid overflow, for one, reaches month 9 only near the top of that band:
+That's the **Rung Activation Schedule**. The months show where its triggers tend to land in Band B, the steady reach you should plan on. The trigger decides and the month only estimates it, and in Band B the paid overflow usually waits past month 9, since calls there rarely pass the cap's volume in year one:
 
 | Months | Switch on | The trigger | Leave off |
 |---|---|---|---|
 | 0–3 | The free fit conversation · the founding group · one or two founding Private seats · the priority tier · the free, tool-free Starter Path | Your first lead, client, Optimizer, or "not now" | The paid overflow, Round Two, the Hold, any paid tool |
 | 3–6 | Round Two and the Hold, for founding graduates · scheduled steps toward the opening band | The first graduation; starts that fill | The alumni room; any paid tool |
-| 6–9 | The paid Decision Assessment for the overflow · the Program at its opening band ($1.5–2.2k) | The Call Cap binds: most weeks above ~6–8 held conversations, with selling hours eating the content minimum | Program Async; Private at parity |
-| 9+ | The Starter tool and the Self-Serve System · the alumni room · Program Async · Private at parity · an open paid membership · the Training-Partner Seat and a paid group decision session | ~20 graduates · ~30 alumni · the Program's price past ~$3.2k · Scaling care minutes · Growing, with moderation budgeted · each owner's trigger | Anything whose trigger hasn't fired |
+| 6–9 | The Program stepping through its opening band ($1.5–2.2k) | Starts that fill; a close rate in range | The paid overflow while calls stay under the cap; Program Async; Private at parity |
+| 9+ | The paid Decision Assessment for the overflow · the Starter tool and the Self-Serve System · the alumni room · Program Async · Private at parity · an open paid membership · the Training-Partner Seat and a paid group decision session | The Call Cap binds (most weeks above ~6–8 held, selling eating the content minimum) · ~20 graduates · ~30 alumni · the Program's price past ~$3.2k · Scaling care minutes · each owner's trigger | Anything whose trigger hasn't fired |
 
 Three offers that look early start at month 0 on purpose, since each has a trigger that can fire in your first week. Every founding client joins the founding group, one group from the first client, with monthly entry. Review stays at one-to-one depth while it has fewer than about four members, so you never build a one-to-one product you'd later retire. One or two founding Private seats at about $4–6k serve the Optimizer, the buyer with more money than time, on speed, privacy, and fixed deliverables while your minutes are spare. The priority tier at about $350–600 is his way in: the same assessment, faster, with a recorded walkthrough.
 
@@ -146,7 +138,7 @@ The Starter Path starts at month 0 too, free and tool-free, because the first "I
 
 A founding page reads premium first, the founding Private seat, then the founding group with its next price stated, then the priority tier, because hiding a real tier fails a buyer as surely as pushing one on him. The Optimizer who never sees the priority tier waits a week for a free slot he'd have paid to skip.
 
-The months move with your band. In a breakout band calls can bind by month 6, so the overflow arrives early. In Band A it may not arrive in year one, which costs nothing, since it only receives what the Call Cap can't hold. The schedule also runs backward without a decision. After a quiet quarter fewer buyers overflow the cap, and the paid assessment goes quiet by itself.
+The months move with your band. In a breakout band calls can bind by month 6, so the overflow arrives early. In Bands A and B it may not arrive in year one, which costs nothing, since it only receives what the Call Cap can't hold. The schedule also runs backward without a decision. After a quiet quarter fewer buyers overflow the cap, and the paid assessment goes quiet by itself.
 
 ### Some rungs cost most when they come early
 
@@ -160,7 +152,7 @@ Five offers do their damage by arriving before their trigger:
 | Program Async before the Program passes ~$3.2k | A cheaper copy of your flagship at a price the core buyer can already carry |
 | The paid overflow while reach binds | Fewer conversations while every one counts |
 
-Community on this ladder follows Community Options, the paid-community choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted. A free community never switches on, at any stage, because it spends live minutes on free attention and draws the rating talk and underage viewers your door exists to keep out.
+Community on this ladder follows Community Options, the paid-community choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted. A free community never switches on, at any stage.
 
 ## 5. The Starter Path and the Self-Serve System
 
@@ -203,7 +195,7 @@ When he does come back, his Starter logs become his Week-Zero Baseline, the pre-
 
 The net's paid rung opens at about 20 graduates, the point where paid self-serve products are allowed, and not before. Its job fits in one sentence, a kit for keeping his own record without review, and it comes in two tiers. The Starter tool at $27–97 is the path's own logs, capture guide, and self-check sheets, ready-made. The Self-Serve System at $97–297, one time, adds the full Capture Standard kit, self-review prompts, and walkthroughs.
 
-The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. It stops where judgment starts, with no stall rules, since a rule applied without a reader of his record gives a confident wrong verdict. Their page says plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
+The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. It stops where judgment starts, with no stall rules. Their page says plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
 
 As two tiers of one rung, the tools share that one public page, premium first, for a man who wants to keep his own record. A Struggler who wants a decision on his goes to the door instead. The page is never linked from the path or pitched in its touches, and it's never a fallback when a graduate declines the Hold. Its checkout embeds the age attestation, the affordability question, and the Fit Check. A checking or fixation signal means no capture tools are sold at all.
 
@@ -265,13 +257,13 @@ Left alone: the paid overflow, because reach binds and every conversation counts
 
 **Month [6]. The read: the back buffer's trigger fired at the first graduation, in month [4].** By [June], [four] founding clients have reached week 12, and each record picks its own rung. [One] is still climbing, so he hears about Round Two at [~$0.8–1.2k]. [One] moved and holds, so he's told he doesn't need Round Two, and he takes the Hold at [$49] a month. [One] logged too little for his record to judge the lever, and [one] did the work while his markers stayed flat. Neither hears an offer, and the second gets the partial refund the guarantee promises for that case.
 
-**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.95k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it. A month later the Call Cap binds, and the paid overflow switches on.
+**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.95k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it.
 
 **Month 9, September. The read: every rung has a job and a trigger behind it.**
 
 | Slot | Rung live, and its job | Price on his page | Switched on |
 |---|---|---|---|
-| Front buffer | The door's human step: a screened decision | Free · [$150–250] · [~$350–600] | Month 0; the paid overflow at month [8] |
+| Front buffer | The door's human step: a screened decision | Free · [~$350–600] | Month 0 |
 | Flagship | The Program, with one founding Private seat: judgment on his record, weekly | [~$2.1k] · [~$4–6k] | Month 0 |
 | Back buffer | Round Two: more reviewed weeks for a climbing record | [~$0.8–1.2k] | Month [4] |
 | Back buffer | The Hold, with [five] members: a quarterly check that it holds | [$49]/month | Month [4] |
@@ -279,7 +271,7 @@ Left alone: the paid overflow, because reach binds and every conversation counts
 
 The net has gone to [15] buyers since January, and [5] of them reached the week-8 self-check. [Three] came back on their own replies, with their logs as week zero, and none received a pitch. Revenue runs at [~$8–11k] a month, inside Band B's month-9 range, with the Program carrying [about four-fifths] of it.
 
-Left alone at month 9: the paid tools, since [13] graduates is short of about 20, and the alumni room, with [five] Hold members. A follower offers to run a [$29]-a-month chat group for him. It stays off, because a follower moderating would see members' posts, distress would reach a stranger first, and nobody has budgeted its minutes.
+Left alone at month 9: the paid overflow, since he holds [4–5] conversations a week, under the Call Cap; the paid tools, since [13] graduates is short of about 20; and the alumni room, with [five] Hold members. A follower offers to run a [$29]-a-month chat group for him. It stays off, because a follower moderating would see members' posts, distress would reach a stranger first, and nobody has budgeted its minutes.
 
 **What it shows.** The month-9 ladder has more rungs than the month-0 one, and each addition arrived through its trigger. Each rung still does one job, so every call still ends in one recommendation from a list a buyer can hold in his head. And the net sent the flagship [three] clients without a single sales send.
 
@@ -370,8 +362,8 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 |---|---|
 | 0–3 | Fit conversation, founding group, founding Private seats, priority tier, Starter Path |
 | 3–6 | Round Two and the Hold, at the first graduation |
-| 6–9 | The paid overflow, when the Call Cap binds |
-| 9+ | By trigger: paid tools, alumni room, Program Async, Private at parity, community options |
+| 6–9 | Steps through the opening band |
+| 9+ | By trigger: the paid overflow, paid tools, alumni room, Program Async, Private at parity, community options |
 
 **The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. His way back: his own reply or a progress condition, never money.
 

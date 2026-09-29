@@ -394,6 +394,6 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 | **The Plain-Language Rule** | Swap the clinic's words for action and data words |
 | **The Dignity Route** | Keep force off his worth while the recommendation holds |
 
-**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · stops during delivery (Module 21) · the Comment Courtroom (Module 23) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
+**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · routing help (Module 11) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · stops during delivery (Module 21) · the Comment Courtroom (Module 23) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
 
 **Do this month:** put the face statement in your comment policy, profile, and Verify Page, and settle one wording of the Qualifications Answer; log declines, claims, and turnaround as they happen; run the vocabulary search and trust audit at month's end.

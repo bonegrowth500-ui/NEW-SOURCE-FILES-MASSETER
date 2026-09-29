@@ -17,7 +17,7 @@ Identity moves follow-through, and the evidence is specific about which kind doe
 
 When a task fits who a man thinks he is, difficulty reads as a sign the task matters. When it doesn't fit, the same difficulty reads as proof that it's impossible for someone like him. That's the core of identity-based motivation, a moderate body of evidence, and it turns on whichever identity is active at the moment he acts. The Struggler, the stalled, self-taught adult at the center of this business, has had eight months of practice at the second reading. The routine felt hard and nothing visible changed, so it must be meant for other men with other faces. The reframe that works is a true one: it felt hard because he was doing the real version with no feedback.
 
-So the identity has to be present where he acts: at the top of his log, in the first line of his review, in how his check-in names what he did. An identity that lives only on your sales page is gone by his first overtime shift.
+So the identity has to be present where he acts, because an identity that lives only on your sales page is gone by his first overtime shift.
 
 ### Labels follow behavior, and praise bounces off
 
@@ -136,7 +136,7 @@ So once he has a slot, he gets seven days of logging: what he already does, done
 
 The log counts however many days he keeps. With a booking inside 24–48 hours, most men log [one to three] days before the call, and the log runs to day 7 whatever the call decides. The call reads what's there, so it opens on his days and leaves his feelings about his face alone. [Four] of [seven], with both misses on shift days, is a success, because it tells him where any plan has to fit. A man who logs nothing keeps his slot, and his empty page is the first reading, said without blame, since nothing measured is where most stalls start.
 
-Nothing about the call or the offer waits on the log, and the week counts however it ends. That's why it passes the Informed-Client Test's ceiling, the check that a client at the low end of your range would endorse a tactic once he saw how it worked. A man who never buys still keeps a week of his own record, and nobody graded it.
+Nothing about the call or the offer waits on the log. That's why it passes the Informed-Client Test's ceiling, the check that a client at the low end of your range would endorse a tactic once he saw how it worked. A man who never buys still keeps a week of his own record, and nobody graded it.
 
 ### Week zero comes for every buyer
 
@@ -207,7 +207,7 @@ For a young man, paying a coach about his appearance can feel like a confession:
 
 **Lower the identity he fears, and make the one he's entering visible.**
 
-Privacy lowers the identity he fears, and the record makes the other one visible, because he crosses with his first log in hand. Paying learners finish courses far more often than free ones, mostly because of who chooses to pay and partly because paying commits them. So the threshold sorts more than it transforms. Don't sell the payment as the change, and don't inflate the threshold with application theater or "we only accept a few" lines that aren't true.
+Privacy does the first job and the record the second, since he crosses with his first log in hand. Paying learners finish courses far more often than free ones, mostly because of who chooses to pay and partly because paying commits them. So the threshold sorts more than it transforms. Don't sell the payment as the change, and don't inflate the threshold with application theater or "we only accept a few" lines that aren't true.
 
 ### He tells you which crossing he's making
 
@@ -228,15 +228,15 @@ He usually crosses alone, days after the call, at a pay button, so the words the
 
 > "Your record so far: [five] of [seven] days logged. That's the practice, and from [start date] [your name] reads it every week. Only [your name] sees your photos, the charge reads '[a discreet name]', and the group knows you by a handle you choose, camera optional."
 
-A no-call buyer's first line reads "Your record starts with your first seven logged days". After a call, his self-assessment's words come back once, in the recap's first lines, so the decision is argued from what he said:
+A no-call buyer's first line reads "Your record starts with your first seven logged days". After a call, the recap opens on his destination in his own words, often his self-assessment's, so the decision is argued from what he said (Module 19). One line carries the crossing, set after what waiting costs him:
 
-> "You said you want [his goal, in his words]. You've logged [two] of [two] days since we booked, which is the practice itself, and my one recommendation is below."
+> "You've logged [two] of [two] days since we booked, which is the practice itself."
 
-On the Dignity Route the first line names knowing what's moving instead, and no moment he wrote as his goal comes back to him. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw.
+On the Dignity Route the recap's first line names knowing instead of guessing, and no moment he wrote as his goal comes back to him. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw.
 
 ### The self-assessment is his first commitment
 
-The self-assessment is also his first commitment, and two parts of it hold up. The minutes of effort sort people, and screening effects are among the sturdier findings in this area. His written words move him too, a little: stating a position shifts a person toward it, the part of the dissonance work that survived replication. What doesn't hold up is the idea that more effort makes him value the result more. That effect is weak, so extra questions buy lost completions and no extra commitment, and the weight sits on the answers in his own words, his goal and why now.
+The self-assessment is also his first commitment, and two parts of it hold up. The minutes of effort sort people, and screening effects are among the sturdier findings in this area. His written words move him too, a little, since stating a position shifts a person toward it. What doesn't hold up is the idea that more effort makes him value the result more. That effect is weak, so extra questions buy lost completions and no extra commitment, and the weight sits on the answers in his own words, his goal and why now.
 
 A ladder of small yeses asks for agreement, and this one asks for work, each step leaving him something he keeps whether or not he takes the next: a result, a week of his record, a plan. Add effort only where it produces something he keeps.
 
@@ -325,7 +325,7 @@ A count survives a screenshot, because it's true whoever reads it.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Every held conversation counts, so the free log is call preparation: send it with every booking and read it back first on the call. The founding group is small enough that each client's status arrives as a personal note after he enrolls. The trap is putting founding status on the founding page as a reason to join, which turns it into a bonus that ends with a window.
+**Early.** Every held conversation counts, so the free log is call preparation: send it with every booking and read it back first on the call. The founding group is small enough that each client's status arrives as a personal note after he enrolls. The trap is putting founding status on the founding page as a reason to join.
 
 **Growing.** Monthly starts put a baseline day in every month while selling minutes bind, so the rituals run at cohort scale. Template each ritual's structure and leave the label's count to his record. The trap is a board that drifts to ranking self-reported days because they're the easiest number to pull.
 
@@ -368,6 +368,6 @@ A count survives a screenshot, because it's true whoever reads it.
 | **The Week-Zero Baseline** | Start every plan from a week of his record, with or without a call |
 | **Quiet Commitments** | Send commitments to the reviewer, and keep sharing and boards opt-in inside the cohort |
 
-**Leans on:** the Starter Path (Module 4) · the Door (Module 5) · baseline day, graduation, and the Capture Standard (Module 6) · Community Options (Module 10) · Private (Module 13) · the Self link (Module 14) · the Dignity Route (Module 15) · the Commit Ritual and the week-6 conversation (Module 21) · Measured-Peak Asks (Module 22).
+**Leans on:** the Starter Path (Module 4) · the Door (Module 5) · baseline day, graduation, and the Capture Standard (Module 6) · Community Options (Module 10) · Private (Module 13) · the Self link (Module 14) · the Dignity Route (Module 15) · the recap (Module 19) · the Commit Ritual and the week-6 conversation (Module 21) · Measured-Peak Asks (Module 22).
 
 **Do this month:** send the free 7-day log, with the phrase in its header, on every booking and no-call checkout confirmation; replace every template label no record could prove with a count; write the four status rules where clients will read them.

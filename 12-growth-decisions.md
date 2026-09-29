@@ -134,7 +134,7 @@ Repairs don't count. A repair puts back a rule you already hold, and it happens 
 
 ### A month in range still ends in a decision
 
-Cole's [October] review, month [10] of a Band B year, finds every number in range. Content held 6.75 hours all four weeks. Eligible leads ran near [80], [~15%] reached a held conversation, the close rate since his last step sits at [~28%], and check-in completion at [~87%]. The guardrails are clean, and no step falls due until [November]. The Monthly Constraint Read names conversations, answered by the Call Cap he set in month 8, and September's result-page change has read in range for two windows, so it stands.
+Cole's [October] review, month [10] of a Band B year, finds every number in range. Content held 6.75 hours all four weeks. Eligible leads ran near [80], [~15%] reached a held conversation, the close rate since his last step sits at [~28%], and check-in completion at [~87%]. The guardrails are clean, and no step falls due until [November]. The Monthly Constraint Read names conversations at about [3] held a week, far below the Call Cap's trigger, and September's result-page change has read in range for two windows, so it stands.
 
 The pull is to spend the hour on a queued idea: [a shorter booking form] or [a new first welcome email]. Each would open a window over a joint that works, and a change made in a clean month spends the clean reads you have. So the month's decision is to keep, written in the closing line: no change · every joint's next window runs clean · left alone, the booking form and the welcome email · next check, the [November] review.
 
@@ -249,7 +249,7 @@ The guardrails are clean, and he opens every file anyway: [one] fit-window refun
 
 The trace prices it. Two joints sit below their ranges. Eligible lead → held conversation runs [8] points under its midpoint. At [~110] leads, and [~$750] per held conversation, his [~30%] close rate times [~$2.5k] of lifetime value, that's about [$6.5k] of lifetime revenue a month. Round Two runs [11] points under its midpoint: about [$110] per graduate, or [~$450] a month at [four] graduates a month. By proportion Round Two looks worse; in dollars, the reply joint is the leak by more than ten times.
 
-**Decision one, the month's: fix speed to lead.** He answers door completions in [two] batches a day. He also opens conversation slots in all [three] of his weekly live windows, so the first open slot sits within [three] days. The Call Cap he set at [6] a week in month 8 isn't binding at about [2] a week, so nothing else at the door changes. The fix is read on the next two 30-lead windows, and that joint is locked until they close.
+**Decision one, the month's: fix speed to lead.** He answers door completions in [two] batches a day. He also opens conversation slots in all [three] of his weekly live windows, so the first open slot sits within [three] days. At about [2] held a week he's far below the Call Cap's trigger, so nothing else at the door changes. The fix is read on the next two 30-lead windows, and that joint is locked until they close.
 
 **Decision two, the quarter's: switch on routing help.** For [most weeks] of the quarter, moderation and door-link replies ran [about 2 hours] a week, against a replies line of about 1 hour at Growing. A task-billed helper now moderates against his published policy and sends one templated door link. Routed leads carry their own source label, so the reply fix is read without them.
 
