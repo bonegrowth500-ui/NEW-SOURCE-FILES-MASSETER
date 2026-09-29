@@ -33,7 +33,7 @@ So calibrate. Be exact about what you control, and give outcomes as ranges once 
 
 This audience has watched every tactic the category runs: the countdown, the unmatched before/after, the DM that turns friendly before an offer appears. When a buyer spots a tactic, he discounts the whole message. The research finds that reaction stronger in personal selling than in ads. So a tactic that works only while hidden is a debt. It earns a little until he finds it, then costs more than it earned, because broken trust weighs more than kept trust.
 
-Announcing that you'll change his mind backfires too, since forewarning stiffens resistance on questions a man cares about. What survives is plain disclosure of what this is, what you gain, and what it costs, said before he asks. Much of the House Standard, the playbook's rules for persuasion and proof (Intro), is this psychology written as rules. Its central test, whether a client at the low end of your range would endorse a tactic once he saw how it worked, rules out anything that works only unseen.
+Announcing that you'll change his mind backfires too, since forewarning stiffens resistance on questions a man cares about. Much of the House Standard, the playbook's rules for persuasion and proof (Intro), is this psychology written as rules. Its central test, whether a client at the low end of your range would endorse a tactic once he saw how it worked, rules out anything that works only unseen.
 
 **He trusts what he can check, and in this category he checks everything.**
 
@@ -70,7 +70,7 @@ Every costly signal proves one thing and leaves another open, and he can test ea
 | Conflicts removed | Affiliate and referral income | Links and descriptions free of codes | Your advice isn't a sales channel | That your advice is right |
 | The Dated Record | Publishing the men it didn't work for | Platform dates; corrections as new entries; denominators matching each start's published fill, exits included | What happened to everyone, on a preset schedule | That it will work for him: each range is observed, not caused |
 
-Only the last row speaks to "does it work?", and only once graduates exist. The claim rate reports on the Layered Guarantee, from statutory rights through a fit window of 14–21 days for a full refund, a service guarantee on your inputs, a week-6 exit right, and a week-12 non-response clause (Module 7). Log the free corrective weeks your own review errors earn in it, since that's the entry a grifter would never publish. The review disclosure works only while the work shown is the work delivered, so it changes the day your process does.
+Only the last row speaks to "does it work?", and only once graduates exist. The claim rate reports on the Layered Guarantee, your written refund and service promises, layer by layer (Module 7). Log the free corrective weeks your own review errors earn in it, since that's the entry a grifter would never publish. The review disclosure works only while the work shown is the work delivered, so it changes the day your process does.
 
 ### A burned buyer tests one number before he books
 
@@ -80,7 +80,7 @@ Then he tests one number. The corrective week sits in its own entry, dated [mont
 
 ### Start each signal with its first event
 
-Put every hygiene item live with your first working door, because a missing privacy page costs more trust than a present one earns. Start each costly signal the day its first event happens, and publish it on your pre-commitment's schedule, as counts and never names or reasons. A stop rule leaves only "stopped: stop rule" in your records, and minors never enter any count. Add each line when it can be published honestly. The mix joins at about 30 assessments, first outcome ranges at the proof milestone of 10 graduates with consented process testimonials, and the standing log at 30.
+Put every hygiene item live with your first working door, because a missing privacy page costs more trust than a present one earns. Start each costly signal the day its first event happens, and publish it on your pre-commitment's schedule, as counts and never names or reasons. A stop rule leaves only "stopped: stop rule" in your records, and minors never enter any count. The mix joins at about 30 assessments, first outcome ranges at the proof milestone of 10 graduates with consented process testimonials, and the standing log at 30.
 
 ## 3. Sell in the Open, and Presence over Pedigree
 
@@ -88,11 +88,9 @@ The sale itself is evidence: disclosed early, it leaves him nothing to uncover, 
 
 ### Say what you sell before he has to ask
 
-In this category the reveal is itself a grift tell. The standard bait is a free "face analysis" that ends in a pitch. A price he uncovers late in a call reads like the pattern he came to leave. The only disclosure that helps is the plain kind, said once, early, on every surface. That's Sell in the Open: announce structure, stake, and price early.
+In this category the reveal is itself a grift tell. The standard bait is a free "face analysis" that ends in a pitch, and a price he uncovers late in a call reads like the pattern he came to leave. The only disclosure that helps is the plain kind, said once, early, on every surface. That's Sell in the Open: announce structure, stake, and price early.
 
 **Say what you sell, what you earn from it, and what it costs before he has to ask.**
-
-Your stake is the part operators skip. "I earn money when you join, which is why I'll tell you when you shouldn't" is a sentence any seller can say and only a record can back. Link the record when you say it: your fit-decline count early on, your recommendation mix once it's published. Here's where each part goes:
 
 | Surface | Say early | What it removes |
 |---|---|---|
@@ -101,15 +99,33 @@ Your stake is the part operators skip. "I earn money when you join, which is why
 | The first minutes of a call | The structure, your stake, and the price range | A price revealed after most of an hour of rapport |
 | A DM asking "how much?" | The public price range and one link to your door | The DM closer's rapport-then-offer pattern |
 
-Openness also has to hold over time, because this buyer scrolls back. Old videos should match today's page, so prices sit only where you can edit them, like the end card and the description. Your answer to the bone question should read the same in your first long-form piece and your fortieth. Claims that hold still get tested less hard each month. The signs you're selling in the dark are "how much?" topping your pitch comments, calls going quiet at the price, and refund requests saying "I didn't realize it was a program."
+Openness has to hold over time, because this buyer scrolls back, so prices sit only where you can edit them. You're selling in the dark when "how much?" tops your pitch comments, calls go quiet at the price, or a refund request says "I didn't realize it was a program."
+
+### The stake line needs a count behind it
+
+Your stake is the part operators skip and the part a skeptic tests. "I earn money when you join, which is why I'll tell you when you shouldn't" is a sentence any seller can say, so it persuades only when he can check it on the spot.
+
+Run it on Adrian *(composite, Optimizer)*, 31, a consultant who hears vendors claim aligned incentives every week. When you give the stake line in his call's first minutes, he pushes: "Every vendor says they only win when I win." Concede it, since he's right about the sentence, then hand him what a vendor can't: "Fair. Check it: last month's log has [three] fit declines on the platform's dates, and the sample plan on my page says 'don't buy'." He opens it while you wait, and the record settles the stake. Never back the line with a story about a man you turned away, because a story he can't check is the move he came braced for.
 
 ### Presence carries what pedigree only claims
 
-A credential is a one-time claim, and it transfers badly, since a certificate in another field says little about reading a stalled adult's record. Presence accumulates. Hearing someone reason makes him seem more competent than reading the same words, and it makes his disagreements harder to dismiss. In guided programs in other fields, people usually did better with a reviewer who followed up on schedule. Whether that reviewer held a clinical qualification made little measurable difference.
+A credential is a one-time claim, and it transfers badly, since a certificate in another field says little about reading a stalled adult's record. Presence accumulates. Hearing someone reason makes him seem more competent than reading the same words. In guided programs in other fields, people usually did better with a reviewer who followed up on schedule, whether or not that reviewer held a clinical qualification.
 
-That's presence over pedigree: sustained presence and visible standards carry trust. Say the contrarian and selling parts on camera, where disagreement lands as reasoning. Reply personally while volume allows, because these buyers have been answered by bots and scripted closers. Show the work with a walk-through of a sample check-in review, labeled as a composite, and keep a fixed publishing day.
+That's presence over pedigree: sustained presence and visible standards carry trust. Say the contrarian and selling parts on camera, where disagreement lands as reasoning, keep a fixed publishing day, and walk through a sample check-in review, labeled as a composite.
 
-The trap is presence as a look: a filter, a staged jaw angle, a posture held for the thumbnail. Each one turns your face back into evidence. Presence does its real work in the weekly review, the one thing a product without you can't copy. That's why AI may help behind the scenes but never speaks as you.
+### When replies outgrow the week, your voice goes where trust is decided
+
+Personal replies carry presence early, because these buyers have been answered for years by bots and scripted closers. By Growing they outgrow the reply hours your week allows, and the choice is where your own voice goes:
+
+| Option | Pick it when | What it costs |
+|---|---|---|
+| Every reply personal | Early, while the reply hours hold | Hours that content and review need by Growing |
+| Templates in your own words | A few questions fill most comments, word for word | A canned tone, if it's the only voice he meets |
+| Routing help, a task-billed helper on public comments | Comments outgrow the reply hours | Nothing private: it never works DMs, check-ins, or client messages, and passes minors, distress, purchase questions, and client content to you |
+
+**Default:** templates for public repeats and routing help on public comments from Growing, while DMs, the pinned challenge, and every review stay yours. Move the first reply to a new lead onto a template you approve only after personal replies run past their hours two weeks running.
+
+Cole (composite operator) meets the signs at month [14]: replies past their hours for [two] weeks, [five] questions behind most comments, and his content minimum slipping. He reads it as volume, since the replies that decide trust are the ones about a man's own situation. So the five get templates cut from his best answers, routing help takes public moderation, and he keeps DMs, the pinned challenge, and reviews. Left alone: the rule that no AI speaks as him, and the weekly review, the one thing a product without you can't copy.
 
 ## 4. What My Face Does and Doesn't Prove
 
@@ -125,7 +141,7 @@ Attractive people are judged more socially skilled but barely more honest, and i
 
 Put the statement where skeptics look: in the comment policy every pin links to, in your profile, and on the Verify Page. That's the page where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof will come from and when, and the rules you keep. Write it to be true on day one. Before you have graduates, the proof is your pre-commitment's schedule, since client captures stay private and never become public evidence.
 
-The rules make it costly. They rule out thumbnails of your profile or jaw, before/afters of yourself, filters, light or angles that sharpen your jaw, stories of your own face as proof, and reposted praise of your looks. That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. An operator who sells with his own jaw can't publish it without retracting his best ad.
+The rules make it costly, because each one rules out an ad your face could run, from a jaw-lit thumbnail to reposted praise of your looks. That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. An operator who sells with his own jaw can't publish it without retracting his best ad.
 
 ### Answer the attack with the system, once
 
@@ -141,9 +157,7 @@ Sometimes the reply draws a grift claim, like "just mew harder and you'd have a 
 
 **When the signals disagree.** A short of yours takes off, [~400k] views in [three] days, and the top comments are about your face. There's mockery, "he looks fine, so it works", "just mew harder", honest questions, and a handful that read like under-18s. Views say lean in with a response video and a reply to everyone. Eligible-adult yield, the eligible leads each unit of reach produces, says otherwise, because the category's most engaged audience is mostly under 18 in the samples that exist.
 
-Go by the buyers. Run the Comment Courtroom, your comment section on published rules (Module 23): pin the best honest question in place of your own comment, answer it beneath with the statement's first sentence and the log link, and hide only what your policy names. A minor's growth question gets one public line: an orthodontist is the right person for questions about a growing face.
-
-Make no video about your face, and judge the spike by eligible leads over the next [two weeks], never by views. If its subject earns more, send it through the Two-Win Rule, which counts a short-form framing only after it wins repeatedly and holds in long-form (Module 24).
+Go by the buyers. Run the Comment Courtroom, your comment section on published rules (Module 23): pin the best honest question in place of your own comment, answer it beneath with the statement's first sentence and the log link, and hide only what your policy names. A minor's growth question gets one public line: an orthodontist is the right person for questions about a growing face. Make no video about your face, and judge the spike by eligible leads over the next [two weeks], never by views, since views here count the youngest viewers first.
 
 ## 5. The Qualifications Answer and the Scope Boundary
 
@@ -209,7 +223,7 @@ So the **Plain-Language Rule** covers your private notes too: action and data vo
 | "face analysis", "rate", "score" | A verdict on his face | the assessment, the decision, his record |
 | "Dr.", "specialist", "clinic", "practitioner" | A title or setting you don't hold | your name and what you do |
 
-Negation doesn't clean a word, because "I don't diagnose anything" still puts a clinic in the sentence. Say you give no medical or dental opinions instead. Warmth stays: telling him it's frustrating and makes sense after eight months with no answer is validation he needs before he can hear a plan. What's out is naming a condition, however kindly, since "that sounds like dysmorphia" is a verdict you can't give.
+Negation doesn't clean a word, because "I don't diagnose anything" still puts a clinic in the sentence. Say you give no medical or dental opinions instead. Warmth stays, because validation is what he needs before he can hear a plan. What's out is naming a condition, however kindly, since "that sounds like dysmorphia" is a verdict you can't give.
 
 ### Some buyers are asking about their worth
 
@@ -217,11 +231,11 @@ Most buyers here describe a situation, like "my profile hasn't moved in eight mo
 
 That buyer gets the **Dignity Route**, a way of running the sale that keeps force off his worth and the recommendation where it was. Insecurity-led language about his worth, in his own words, triggers it. So does a non-acute answer on the Fit Check, the plain-language screen before any paid step (Module 5), such as "sometimes" on the item about how he feels making everyday life hard. So does regular checking of his face in mirrors or photos, short of the "many times a day" that is the checking signal at both of its tiers.
 
-A signal the pause clears, such as a run of recent appearance purchases, puts him on the route too. The signal pause runs first, as written: no payment that day, adjusted expectations in writing, at least 72 hours to cool off, and no payment plan. The route's edge carries a stop rule. Checking many times a day, checking that eats work, sleep, or time with people, or "everything is ruined" language means no sale. He gets a referral conversation, reading-only content with no capture tools, and the pause route, and your records say only "stopped: stop rule".
+A signal the pause clears, such as a run of recent appearance purchases, puts him on the route too. The signal pause runs first, with no payment that day and at least 72 hours to cool off. The route's edge is a stop rule. Checking many times a day, checking that eats work, sleep, or time with people, or "everything is ruined" language ends the sale for a referral conversation, reading-only content, and the pause route.
 
 ### Change the aim, never the recommendation
 
-The route moves where force points and leaves what you recommend alone, so the last row of the table never changes. The ladder row is the Destination Ladder, the climb from the feature he names to the life behind it (Module 2):
+The route moves where force points, so the table's last row never changes. The ladder row is the Destination Ladder, the climb from the feature he names to the life behind it (Module 2):
 
 | Move | Standard route | On the Dignity Route |
 |---|---|---|
@@ -233,7 +247,7 @@ The route moves where force points and leaves what you recommend alone, so the l
 
 **Change the aim, never the recommendation.**
 
-The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed. Your tools store no fit or insecurity answers at all. Where the result page branches by his answers, the branch is computed as the page loads and nothing is kept. The route itself lives where a person is talking: on a call, in a reply, in a review.
+The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed. Your tools store no fit or insecurity answers at all. The route itself lives where a person is talking: on a call, in a reply, in a review.
 
 Run it on Dan *(composite, Struggler)*, 24, who keeps a comparison-photo habit. On the call he says he checks his side profile "a few times a week" and looks weak in every photo, so the route runs. You validate first: it's a rough way to feel, and it makes sense after eight months with no answer. You reflect his stake as another year of guessing and leave out the team photos he named as his goal. Then comes the hard true thing: "You've spent eight months asking a mirror a question it can't answer, and the guessing is what's wearing on you."
 
@@ -268,7 +282,7 @@ Cole (composite operator) starts from zero in [January]. By day [30] he has publ
 | 7 | DMs | "Are you a doctor?" answered with a bare "No." | True, and it left him nothing to verify | The DM version of the Qualifications Answer |
 | 8 | DMs | "How much?" answered "let's hop on a call" | The rapport-then-offer pattern he came here to leave | The public price range and one link to the door |
 
-**The two reads that mattered.** Finding 2 looked harmless because the comment was kind, and it was the costliest item on the list. Once a flattering reading of his face stands, the first hostile one can cite it, and he's arguing about his face either way. Finding 7 took longer to see, because the answer was true. To a burned buyer, a true answer with nothing behind it reads the same as a dodge.
+**The two reads that mattered.** Finding 2 looked harmless because the comment was kind, and it was the costliest item on the list, since a kind reading of his face licenses the next hostile one. Finding 7 took longer to see, because the answer was true. To a burned buyer, a true answer with nothing behind it reads the same as a dodge.
 
 **What he left alone.** He didn't buy a [weekend certificate] to have something to say, since a credential that doesn't cover the work gets stretched or explained away. He posted no testimonials, because no client could be asked yet, and he made no video about the jaw comment. He hid one face-rating request, which his comment policy names, and deleted nothing else.
 
@@ -309,11 +323,11 @@ Then return to the decision. Show the tiers premium first and recommend one, the
 
 ### The face statement
 
-Put it in the comment policy every pin links to, in your profile, and on the Verify Page. It's true on day one:
+It's true on day one, wherever it's posted:
 
 > **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates as a labeled small sample, flat results included. Client photos stay private. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
 
-Update the evidence sentence as the log grows, so the statement never runs ahead of the record, and quote its first sentence whenever a comment reads your face either way.
+Update the evidence sentence as the log grows, so the statement never runs ahead of the record.
 
 ## Checklists: Costly Signals and Vocabulary Swaps
 
@@ -354,7 +368,8 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 
 **Takeaways**
 - Credentials shortcut competence; integrity and benevolence come from what you refuse and what it costs you.
-- Costly signals cost a grifter to keep true or to fake; only outcome ranges answer "does it work?"
+- Costly signals cost a grifter to keep true or to fake, so back the stake line with a count; only outcome ranges answer "does it work?"
+- As replies outgrow the week, template the public repeats and keep your own voice in DMs, the pinned challenge, and reviews.
 - Your face shows who's accountable, never what works; on the Dignity Route, change the aim, never the recommendation.
 
 **The signals**
@@ -367,7 +382,7 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 | Review disclosure | His first review | Your judgment |
 | Dated Record | Dates, corrections, denominators | That it works for him |
 
-**The answer.** Fact → scope → check → referral; minors get only the orthodontist line. **The statement.** True on day one, with no thumbnail, before/after, filter, jaw light, or face story. **The route.** Worth-language, a non-acute fit answer, or checking short of "many times a day" → time, money from here on, and guessing; no missed moments; stop at knowing instead of guessing.
+**The route.** Worth-language, a non-acute fit answer, or checking short of "many times a day" → time, money from here on, and guessing; no missed moments.
 
 **Framework cheat sheet**
 
@@ -379,6 +394,6 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 | **The Plain-Language Rule** | Swap the clinic's words for action and data words |
 | **The Dignity Route** | Keep force off his worth while the recommendation holds |
 
-**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · stops during delivery (Module 21) · the Comment Courtroom (Module 23) · the Two-Win Rule (Module 24) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
+**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · stops during delivery (Module 21) · the Comment Courtroom (Module 23) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
 
 **Do this month:** put the face statement in your comment policy, profile, and Verify Page, and settle one wording of the Qualifications Answer; log declines, claims, and turnaround as they happen; run the vocabulary search and trust audit at month's end.

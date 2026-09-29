@@ -48,7 +48,7 @@ At his monthly review the read is a count. His short-form line covers one native
 
 An add answers the constraint that binds, the one stopping the next dollar this month. When reach binds, add a reach surface, a native Instagram format or TikTok after its trial, if the short-form line covers its pass. When conversion binds, in Growing, add X's full lab, since arguments that hold become objection pieces. When care minutes bind, add nothing.
 
-Drops wait for the monthly review. A week past 25 hours runs the De-Scoping Order, whose step 2 pauses X first and native Instagram second for that week, with routing kept. The review makes a pause a drop when the count stops fitting, or when a platform's yield trails the others' over about 30 eligible leads from its tag. By default, Instagram routes from month 0 and X stays replies only until Growing, because a lab needs your calls' objections before it knows what to test.
+Drops wait for the monthly review, since a week past 25 hours only pauses a platform under the De-Scoping Order's step 2, X first and native Instagram second. The review makes a pause a drop when the count stops fitting, or when a platform's yield trails the others' over about 30 eligible leads from its tag. By default, Instagram routes from month 0 and X stays replies only until Growing, because a lab needs your calls' objections before it knows what to test.
 
 ## 2. Permission-First Replies
 
@@ -117,8 +117,6 @@ Platforms let an automated reply answer only a conversation he started, and only
 | A scripted DM flow that asks, qualifies, or offers | Never | It collects answers outside the door, can't see a minor or distress, and speaks as you |
 
 **Default:** the labeled reply, fired only when the whole message is the keyword, and once per thread. Anything longer waits for your slot, because "[RECORD] im 15", or the keyword inside a hard message, needs a person before a link. Run it on the platform's own keyword setting or a tool that keeps no contact list, since such a list would hold minors' details. Where the setting can't restrict itself, send the link by hand.
-
-That separates it from the category's keyword funnels, auto-replies that close whoever types a word (Module 20). Yours keeps no list and carries no pitch, and every thread still reaches a human.
 
 ### Carousels and a broadcast channel are optional, and one-way
 
@@ -217,27 +215,30 @@ Go by the door and the Standard. Answer the idea once, in a post of your own, wi
 
 ## 6. Measuring Each Platform
 
-Each platform is judged by the number its job produces, eligible adults through the Keyword Route on Instagram and door completions plus argument outcomes on X, on fixed denominators and with drops set in advance.
+Each platform is judged by the number its job produces: eligible adults through the Keyword Route on Instagram, and arguments moved on X, on denominators that hold still when a platform recounts.
 
 ### Instagram is judged by eligible adults per keyword
 
-Instagram's number is eligible-adult yield, eligible leads per unit of reach by source, counted through each keyword's tagged link. Read it per keyword message, and per 1,000 views on Instagram's own fixed count, dated whenever the platform changes what it counts. Beside it sit anonymous counts per keyword of minors' messages and rating requests, which steer packaging. Likes and follows stay off the scoreboard, since they count minors and raters as readily as buyers.
+Instagram's number is eligible-adult yield, eligible leads per unit of reach by source, counted through each keyword's tagged link. Read it per keyword message and per 1,000 views on Instagram's own fixed count, dated whenever the platform changes what it counts, the habit Denominator Discipline makes a rule (Module 12). Beside it sit anonymous counts per keyword of minors' messages and rating requests, which steer packaging. Likes and follows stay off the scoreboard, since they count minors and raters as readily as buyers.
 
-Keyword messages to door completions shows where Reels leak: many messages and few completions mean the Reels drew people the door turns away, so their packaging changes. Until your own ratios exist, plan on about 0.1–1 lead per 1,000 short-form views, with about 30–70% of raw leads eligible, and replace each with your own after about 30 events.
+Many keyword messages with few completions mean a Reel drew people the door turns away, so its packaging changes, never the reply. Until your own ratios exist, plan on about 0.1–1 lead per 1,000 short-form views, with 30–70% of raw leads eligible.
 
-### X is judged by captures and by arguments moved
+### X is judged by arguments moved, read each quarter
 
-X's numbers are its tagged door completions and its argument outcomes: arguments tested, held, and moved to long-form each month. Completions arrive slowly, so read them quarterly and let the outcomes carry the verdict until about 30 have come in. The lab's real product shows up in long-form: set each piece built on a held argument beside your other long-form on the same count, and the lab keeps its minutes while those pieces yield at least as well.
+X's product arrives late and somewhere else. A held argument earns nothing on X; it pays when a long-form piece built on it answers the objection for months, so a monthly glance at X's own numbers reads the wrong place. Keep the weekly log you already write, and once a quarter count arguments tested against a real objector, arguments held in more than one week, and arguments moved into a long-form piece that shipped. Tagged door completions from X ride beside them as a count, read once about 30 have arrived.
 
-| Platform | Its number | Denominator | Read it at | Drop it when |
-|---|---|---|---|---|
-| Instagram routing | Eligible leads through keyword links | Per keyword message; per 1,000 views on Instagram's fixed count, dated | ~30 eligible leads from its tag | Never: routing stays at every stage |
-| Native Instagram | Eligible leads through its tagged links | Per post | ~30 eligible leads | At the monthly review, if its pass stops fitting or its yield trails your Reels'; step 2's second cut pauses it for a week |
-| X | Tagged door completions; arguments held and moved | Per month, completions quarterly | The monthly review | At the monthly review, if no minutes are left or a quarter moved no argument; step 2's first cut pauses it for a week |
+| The quarter shows | The read | The move |
+|---|---|---|
+| Held and moved, and the moved piece earns at least as well as its peers | The lab is paying | Keep its minutes; take the next objection from your calls |
+| Held, but nothing moved | Your long-form calendar is the bottleneck | Put the held argument in the next piece whose topic fits; start no new tests until it ships |
+| Tested, and nothing held | Your answers lose to the best objection | Sharpen the answer, or log a dated correction if the evidence moved; both are the lab working |
+| Nothing tested against a real objector | You posted claims nobody contested | Post your calls' top objection yourself; a second quarter like this argues for giving X's minutes back |
 
-### The drop rule is set before the numbers arrive
+Compare a moved piece only with its peers: long-form on the same rung, published in the same quarter, on long-form's fixed count. Once the pooled pieces reach about 30 door completions, read two lines: eligible leads per 1,000 engaged views from its tagged link, and how often its objection comes up on your calls in the month after it ships against the month before. The first line is reach, and the second is the belief it was built to repair.
 
-Keep each denominator fixed and named in the metric, the habit Denominator Discipline makes a rule, since platforms redefine what counts as a view (Module 12). Drops are decided at the monthly review, never inside an overloaded week, where step 2 only pauses a platform.
+Cole *(composite operator)* meets all four reads in his first year of the lab. One quarter he tests [five] arguments, [two] hold, and [one] moves into an objection piece that draws [~2.2] eligible leads per 1,000 engaged views against his Returning pieces' [~1.8], so the lab keeps its half hour. Another quarter moves nothing: [four] tested, none held, two lost to a clinician's point about [bite changes]. That's the lab working, so he sharpens one answer and logs a dated correction to an example he'd been using, with the claim's words untouched.
+
+The hard quarter is the one where a held argument's piece yields [~1.2] per 1,000, under his Returning pieces, while its objection falls from [six] mentions a month on his calls to [one]. Reach says the piece underperforms, and his calls say it repaired the belief it was built for. He goes by its rung: a Returning objection piece earns on belief and offer demand, so it joins the objection pieces on his offer page, and the lab keeps its minutes.
 
 ## Worked Example: Cole's Objection, from an X Thread to a Keyword Reel
 

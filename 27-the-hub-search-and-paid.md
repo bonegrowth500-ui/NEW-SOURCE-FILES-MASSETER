@@ -13,28 +13,36 @@ Your own site has four jobs: routing buyers, letting them check you, showing you
 
 ### Rented ground can't run your checks
 
-A platform rents you reach and keeps the rules. It decides what counts as a view, where a link may point, which ads run, and whose account stays up. In this category the rules keep tightening. Platforms hold back appearance-comparison videos from teens and limit appearance and health ads to adults. A careful brand can live with that, but the ground still belongs to someone else, and it can shift under you in a week.
+A platform rents you reach and keeps the rules, and in this category they keep tightening: appearance-comparison videos held back from teens, appearance and health ads limited to adults. Your checks need ground of their own. The door asks his age before it keeps anything and asks about fit and money before any pay button, an order no rented form lets you set, and a skeptic needs one place where every claim, price, and term sits side by side.
 
-Your checks need ground of their own. The door asks his age before it keeps anything, and asks about fit and money before any pay button, an order no rented form lets you set. What he tells you about his face belongs in your records alone. And a skeptic needs one place where every claim, price, and term sits side by side. No feed gives him that, since a feed shows one piece at a time.
+### Build it in the order its checks need
 
-### Four jobs share one small home
+Keep the hub small, since every page you add is one more place a claim can drift. One home means one domain in the brand's name, with every profile, description, and email pointing into it, built in this order:
 
-Keep the hub small, since every page you add is one more place a claim can drift. Each job gets a page, and each page has one thing it never does:
-
-| Job | Where it lives | What it never does |
-|---|---|---|
-| Route | The door: the self-assessment, the result, booking, and a checkout that runs the checks | Keeps data before the fork, or shows a pay button before the checks |
-| Verify | One page that answers every check a skeptic runs | Says anything the record can't back yet |
-| Price | The offer page: every tier premium first, the next start and its last day to join | Hides a price behind a call |
-| Prove | The proof library and your dated log | Runs a client's story past his consent, a pair outside the library, or your face as evidence |
+| Order | Page and its job | Live by | Why then | What it never does |
+|---|---|---|---|---|
+| 1 | The door, to route: self-assessment, result, booking, a checkout that runs the checks | Week one | Every piece routes here, and a paid step before it sells blind to his age, fit, and money | Keeps data before the fork, or shows a pay button before the checks |
+| 2 | The offer page, to price: tiers premium first, the next start and its last day to join | Month 1 | Warm assets need a page that states their public prices | Hides a price behind a call |
+| 3 | The page he checks you on, to verify | Month 1 | Every line on it can be true before your first graduate | Says what the record can't back yet |
+| 4 | The proof library and dated log, to prove | As the record fills | Stories wait for his consent at a measured peak, adherence and a marker at threshold; outcome ranges for 10 graduates | Runs a story past consent, a pair outside the library, or your face as evidence |
 
 **Route, verify, price, prove: four jobs, one home you own.**
 
-One home means one domain in the brand's name, with every profile, description, and email pointing into it. Your door, the owned path from first click to one recommendation, goes live in week one. Any paid step before it sells blind to his age, fit, and money. The page he checks you on and the offer page follow in month 1, since every line on them can be true before your first graduate. The proof library fills as the record does: your log and stories from month 1, a client's words at his first measured peak after his week-6 decision, and outcome ranges once 10 graduates stand behind them.
+What waits is any page that adds no check, such as general articles written for traffic or a landing page for a single piece.
 
 ### Judge it by what verifying buyers do next
 
-Traffic flatters a hub, because a page can fill with visits from people who were never going to buy. Judge it by the door's counts instead: eligible leads, meaning adults who passed the age fork, by source label, the channel each came through. Then read held conversations and enrollments. Ask the men who enroll what they checked before paying, since the page a buyer reads last rarely looks busy. If most name that page or your log, the hub works. If none do, the page is hard to find or not worth finding, and a search of your own name tells you which.
+Traffic flatters a hub, because a page fills with visits from people who were never going to buy, and the page a buyer reads last rarely looks busy. So read the hub by what visitors do next, from your door's own records, each stage against its planning range until about 30 events give you your own ratio:
+
+- door starts that finish, about two in three;
+- eligible leads who hold a conversation, 10–20% with a reply within hours;
+- warm offer-page visitors who enroll, about 1–3%, read through its stages (visit, checkout start, a yes to the affordability question, payment) until about 30 enrollments exist.
+
+Beside them sits one onboarding question, read only in aggregate: what did you check before you paid? At the monthly review, a stage is below range once it stays under for two windows of about 30 events, or sooner when a check of its page turns up a plain fault. Change one thing on the page that owns the worst stage and leave the rest alone, since two changes at once hide which one worked. If every stage holds but no enrolled man names the page he checks you on, your log, or the offer page, search your own name as he would to see why.
+
+Cole *(composite operator)* runs this at month [5]. His door finishes [~63%] of starts and his eligible leads book at [~14%], both in range, but his offer page drew [~170] warm visits and [one] enrollment. Through its stages: [12] checkout starts, [9] yeses to the affordability question, [one] payment. [Eight] men said yes and stopped at payment, too sharp a drop to wait out a second window. Side by side, the pages disagree: the checkout shows the three-payment total, [$1,830], where the offer page says [$1,750] "or three payments" with no total, and a burned buyer stops at a number he didn't see before.
+
+One change puts the total on the offer page in the checkout's words. Left alone: the price, the pitch, and the door's questions. The next window brings [three] enrollments from [~150] visits, inside the 1–3% plan, and [two] of the three name that page's guarantee terms as what they checked.
 
 ## 2. The Verify Page and the Evaluation Query
 

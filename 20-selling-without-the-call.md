@@ -13,7 +13,7 @@ Calls are your scarcest selling resource, so at scale most enrollments have to h
 
 ### The hours run out before the buyers do
 
-A fit conversation costs about an hour all-in early on, and about 0.75 hours once prep and the recap are templated. While reach binds, that's affordable: eligible adults, legal adults who could pay from their own income or savings without new credit, are scarce, and each call teaches you how buyers decide. At scale the same hours come out of review and content. At the $50k configuration, the good case at the top of your range, about 13 enrollments a month fit inside roughly 2.8 selling hours a week. That works because about 65–70% of those buyers never need a call.
+A fit conversation costs about an hour all-in early on, and about 0.75 hours once prep and the recap are templated. While reach binds, that's affordable: eligible adults, legal adults who could pay from their own income or savings without new credit, are scarce, and each call teaches you how buyers decide. At scale the same hours come out of review and content. At the $50k configuration, the good case at the top of your range, about 13 enrollments a month fit inside roughly 2.8 selling hours a week, because about 65–70% of those buyers never need a call.
 
 | Stage | Enrollments with no live call | Selling hours per enrollment | What it means for you |
 |---|---|---|---|
@@ -21,17 +21,17 @@ A fit conversation costs about an hour all-in early on, and about 0.75 hours onc
 | Growing | ~20–50% | 1.5–3 | Build async from arcs your calls have proven |
 | Scaling | ~50–70% | ~0.8–1.5 | Calls are kept for buyers a call would move |
 
-The signs show up before the numbers do. Men who have watched every long-form video book a call only to ask for the start date, and selling hours start eating the content minimum that brings next month's leads.
+### A page can borrow two of what a call does
 
-### Many of your best buyers would rather not talk
+A call adapts to what he says, carries your voice, and makes its ask in person. Branches computed from his answers borrow the first, and a voice note borrows the second: in several experiments, the same words sounded more thoughtful and human in a voice than in text. The third doesn't travel. In one group's studies, requests made in person got far more yeses than the same requests in writing, and the askers underestimated the gap, though that evidence is narrow.
 
-A burned buyer wants to verify on his own clock, and a call required before he can buy looks to him like the category's free strategy call. The Optimizer, the buyer with income and little time, wants speed and privacy. And plenty of men would rather type how they feel about their face than say it aloud, so a door that insists on a call loses them or gets a guarded half-hour.
+Dan *(composite, Struggler)* replies to the third email asking whether [night shifts] break the plan, and his real doubt is whether anyone is thinking about his week, which a voice answers better than text. So he gets a 90-second note and no call. Sam, after two years of "after the busy season", moved only when he said the cost aloud to a person, which no page can ask of him, so his hour was well spent.
 
-### A call still does three things a page can't
+### Build the route when calls stop changing decisions
 
-A call adapts to what he says as he says it. In several experiments, a voice made the same words sound more thoughtful and competent than text did. In one group's studies of requests to strangers, asking in person also moved far more people than asking in writing, though that evidence is narrow. Async selling borrows the first two, through branches computed from his answers and voice notes in your own voice. The third is why a few buyers still get the hour.
+Build on signs, not on a full calendar. Men who have watched every long-form piece book a call only to ask for the start date, decided buyers take slots uncertain ones need, and selling hours start eating the content minimum that brings next month's leads. Read together, they say calls have stopped changing decisions for part of your buyers. The default move, usually in Growing and once about 30 held conversations have shown which lines move a buyer, is a no-call route built from those recordings, with decided buyers sent to it. Two things stay as they are: the free call for every eligible adult who wants one while reach binds, and every call a rule requires.
 
-This category's grift lives in async selling too: sales videos with countdown timers, recorded webinars dressed as live, and auto-replies that close whoever types a keyword. So a no-call path earns trust only if it carries the call's standard along with its structure. The useful question about a high-ticket sale is which beats of the call each surface carries, and who still needs the hour.
+This category's grift lives in async selling too: sales videos with countdown timers, recorded webinars dressed as live, and auto-replies that close whoever types a keyword. So a no-call path earns trust only if it carries the call's standard along with its structure.
 
 ## 2. The Async Arc and Threshold Continuity
 
@@ -59,7 +59,7 @@ So a no-call path carries the call's seven beats, in the call's order and in the
 | The ask | "Do you want to start on [date]?" | The walkthrough's last segment, then the pay button |
 | A real date | His Decision Date, the day he agrees to decide by | Both dates on every surface; his own date, by voice note |
 
-The walkthrough also opens with the call's contract, and objections go to its sixth segment, the fourth email, and your voice notes. Two things don't travel: adapting to him in the moment, and his stake said aloud. Branches computed from his answers carry the first, and his replies carry what they can of the second.
+The walkthrough also opens with the call's contract, and objections go to its sixth segment, the fourth email, and your voice notes. His stake said aloud is the one beat that travels only as far as his replies carry it.
 
 Build the arc from calls that worked: record them with consent, mark the lines that moved a buyer, and put those lines on the pages, never mining a protective-stop call. An arc written from guesses sells a version of you no buyer has met. Read the no-call route monthly, and fix the one beat where most eligible adults leave, judging each change over about 30 events.
 
@@ -106,7 +106,7 @@ Your email tool gets four tags from the door, beside his name and address. They 
 
 Every automated asset also keeps the limits of the Dignity Route, the way of selling that keeps force off a buyer's worth: stakes stay with time, money from here on, and guessing (Module 15). No missed moment is said back to anyone, even one he wrote as his goal, so no dignity tag is ever needed.
 
-A paused result carries no sales content. An endorsed distress or checking item sets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks his permission again. His page shows a plain line, where to find help, an offer to talk, and reading-only content, with no offer, price, date, capture tool, or button. A yes on jaw pain, bite, or snoring puts a referral at the top of any result, and payment waits for your note.
+A paused result carries no sales content. An endorsed distress or checking item sets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. His page shows a plain line, where to find help, an offer to talk, and reading-only content, with no offer, price, date, capture tool, or button. A yes on jaw pain, bite, or snoring puts a referral at the top of any result, and payment waits for your note.
 
 ## 4. The Branched Walkthrough, Sales Emails, and Voice Notes
 
@@ -134,7 +134,7 @@ In every email the stake is another season of guessing, plus the money he'd spen
 
 ### Voice notes answer the question the assets couldn't
 
-A written answer to a hard question reads like policy, and the same answer in your voice sounds like judgment, so replies are where your voice comes back. A voice note answers one question in about 1–3 minutes, in the call's tone: plain, calm, and validating first if he's frustrated. It opens with his words, answers them, and makes at most one recommendation, with the date it depends on. If he hasn't named a date, it asks which one he'll decide by, and one written line underneath carries the recommendation, the price if he asked, and both dates.
+A voice note answers one question in about 1–3 minutes, in the call's tone: plain, calm, and validating first if he's frustrated. It opens with his words, answers them, and makes at most one recommendation, with the date it depends on. If he hasn't named a date, it asks which one he'll decide by, and one written line underneath carries the recommendation, the price if he asked, and both dates.
 
 You record and send every note yourself, because AI assists behind the scenes and never speaks as you. Stop rules hold as on a call. "I can't afford it" gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, once, with the pause route and no recommendation. Distress or fixation turns the note into a referral conversation, and a minor goes to the education lane, public content and a referral with nothing kept, with anything he paid refunded. The rest leave only "stopped: stop rule" in your records.
 
@@ -188,7 +188,7 @@ The attestation, the question, and the Fit Check run at booking, as at any paid 
 
 A live call is worth its hour when it moves his decision by more than that hour earns elsewhere, and that rule decides who gets the free calls your Call Cap reserves.
 
-A free call feels generous and costs nothing you can see, so calendars fill with calls that change nothing, for buyers already decided or never going to buy. Each of those hours comes out of review, content, or another buyer's call. A call is worth the lift it adds to his chance of enrolling, times the price, spread over the call's hours. So lift peaks where doubt is, and price per call-hour peaks near a high-ticket decision.
+A free call feels generous and costs nothing you can see, so calendars fill with calls that change nothing, for buyers already decided or never going to buy. A call is worth the lift it adds to his chance of enrolling, times the price, spread over the call's hours. So lift peaks where doubt is, and price per call-hour peaks near a high-ticket decision.
 
 **Lift × price ÷ call-hours, set against what the hour earns elsewhere this month.**
 
@@ -328,7 +328,7 @@ The line you never say is "Trust me, nobody ever asks for one." Once he names a 
 
 **DM Handoff lines.** A verified adult, ready to buy:
 
-> **Dan** *(composite, Struggler)*: "Watched the walkthrough. I'm in for April. What do I do?"
+> **Dan:** "Watched the walkthrough. I'm in for April. What do I do?"
 >
 > **You:** "Good. The Program starts Monday [April 6], and you can join through [April 17]. It's $[2.8k] for 12 weeks. Here's the checkout: [link]. It asks a few short questions before payment, and your free log comes with the confirmation."
 >

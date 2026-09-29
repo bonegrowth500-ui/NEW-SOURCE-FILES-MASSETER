@@ -109,7 +109,7 @@ Run the decision as a short contract, the arc of Close by Contract, from an agre
 
 > "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-A yes goes to the Fit Check, the plain-language check for signals that buying could hurt him, and then to booking his start. A no ends money talk, with no Hold after a Round Two no and no plan or start date. He keeps his record and his quarterly date, and your notes keep only "stopped: stop rule". The pause route, a content-free tag, holds every marketing send and blocks checkout for 60–90 days, then asks permission again. Nothing starts by default: Round Two ends at its own week 12, and the Hold begins only on his yes.
+A yes goes to the Fit Check, the plain-language check for signals that buying could hurt him, and then to booking his start. A no ends money talk, with no Hold after a Round Two no and no plan or start date. He keeps his record and his quarterly date, and your notes keep only "stopped: stop rule". The pause route, a content-free tag, holds every marketing send and blocks checkout for 60–90 days, then asks permission once. Nothing starts by default: Round Two ends at its own week 12, and the Hold begins only on his yes.
 
 "Let me think" is a deferral, a real objection to sort, and it isn't a no. Ask what he's weighing, then agree his Decision Date, a day he picks on or before the last day to join Round Two's next start. The Follow-Up Rule carries it from there: a written recap within 24 hours, one check-in on his date, then one close-the-loop message.
 
@@ -178,27 +178,27 @@ Graduation confers alumni status, a dated fact in his record that nothing he doe
 
 ### Alumni status is a dated fact, the same for every graduate
 
-Everyone who reaches week 12 graduates and keeps his whole record. Alumni status is that fact, dated in his record: [Brand] graduate, [date], reached week 12. Beside it go a label that leads with a count from his logs and his next capture date, on his own or in the Hold. When prices step up, alumni keep the rates they were shown. What the status means for who he is belongs to Adults Who Measure, the group of adults who measure instead of guess (Module 17).
+Everyone who reaches week 12 graduates and keeps his whole record. Alumni status is that fact, dated: [Brand] graduate, [date], reached week 12, beside a label that leads with a count from his logs and his next capture date. When prices step up, alumni keep the rates they were shown. What the status means for who he is belongs to Adults Who Measure, the group of adults who measure instead of guess (Module 17). Nothing about it rests on his results, his purchases, or a refund right. Theo *(composite, Burned Struggler)*, 26, whose clause paid in the worked example below, carries the same dated line and a label with his own count.
 
-Nothing about it rests on his results, his purchases, or a refund right, and nobody presents it as something an exit costs. Take Theo *(composite, Burned Struggler)*, 26, in the worked example below, whose clause paid. He carries the same dated line as a man who renewed, a label with his own count, "[77] of [84] days logged", and his own quarterly date. The asks skip him, since his graduation isn't a measured peak, and his status is untouched.
+### Status given first takes the price off the ask
 
-### The call confers the status before it asks for anything
+An ask made before the status reads as the status's price. A man who hears "do you want Round Two?" and then "you've graduated" infers that the second waited on the first, and in a category known for the surprise next phase, that inference is his default. Given first and without conditions, the status is settled before any ask arrives, so no answer can touch it, and the ask gets weighed on his record alone.
 
-On the graduation call, the status comes first. His record is read in the verdict's order, then he's given the dated line and his label. Only then, at a measured peak, come the Renewal Case, the referral ask, and a results ask unless he has already said no. So no ask can read as the price of the status, and no answer changes it. A man who declines all three leaves with the same line as one who says yes to each.
+So the call reads his record, gives him the dated line and his label, and only then, at a measured peak, makes its asks. A man who declines every ask leaves with the same line as one who says yes to each.
 
-### The room is opt-in, and nothing a graduate is owed sits inside it
+### Status drifts toward leverage unless you check it
 
-The alumni room is part of the Hold, opening once you have about 30 alumni, and each member chooses to join (Module 10). Standing inside comes from re-captures kept and logs sent, and no room, board, or email mentions who left. A graduate paid under the clause isn't offered the Hold, so the room isn't open to him. He loses nothing a graduate is owed, since his record, label, date, and status all live outside it.
+Drift starts in small places: a graduation email that opens with the offer, "as an alumnus" in renewal copy, alumni rates framed as a reward for renewing, a label worded differently for the man the clause paid. Each is status starting to work as leverage. The default move strips it back to the dated line and the count, and puts every offer in its own message after the status. The status itself stays alone: never revoked, never tiered by what he bought, never mentioned beside an exit. The alumni room, part of the Hold from about 30 alumni, is opt-in, so a graduate the clause paid loses nothing by staying outside it (Module 10).
 
 ## Worked Example: Cole's [April] Start, Weeks 10 to 12
 
 Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,800], and with [six] Hold months at [$55], to [$3,130]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,965].
 
-Ten clients started in [April]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Maya took the exit right after her week-6 read, when a [release crunch] filled the weeks she had left, and had her pro-rata refund within [four] days. She was asked for nothing then or since, and nobody in the group heard about it from Cole.
+Ten clients started in [April]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Maya took the exit right after her week-6 read and had her pro-rata refund within [four] days. She was asked for nothing then or since, and nobody in the group heard about it from Cole.
 
 **Week 10. Five peaks, three climbing, one flat.** Of nine records, [five] sit at a measured peak: Adrian's since week [8], Dan's since week [9], and those of Clients 8, 9, and 10 from this review. Those three first peaks each bring a process-testimonial ask. Their reviews name what week 12 decides and the card line each outcome leads to. [Three] have markers still climbing, so their reviews leave the card out while the clause stays open.
 
-Theo's readings have sat flat for [three] weeks at [92%] adherence, so his review carries no card line and no ask. Within 48 hours it re-plans one lever and names what week 12 decides. That's the Plateau Plan, the pre-announced re-plan every plateau gets (Module 21).
+Theo's readings have sat flat for [three] weeks at [92%] adherence, so his review carries no card line and no ask. Within 48 hours it re-plans one lever and names what week 12 decides, as the Plateau Plan sets (Module 21).
 
 **Week 11. A quiet week, on purpose.** Every client gets the same capture check: tripod mark, lamp, hour, expression. No lesson, survey, or billing notice goes out. Cole checks each sheet against the peak rule, so no ask can land beside a refund.
 

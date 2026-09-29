@@ -141,7 +141,7 @@ Which start they name depends on the day he arrives, within Decision Points, the
 
 ### Send rules become true at the moment of sending
 
-Module 8's rule gives each start one announcement, on the day the previous start begins, and one reminder the week before, to engaged segments only and never to a paused lead. Both carry the start date and the last day to join. The announcement also carries the Fill History line, the last closed start's cap and fill, and any Price Step, a scheduled price rise, rides inside it. No send mentions an assessment credit, since a credit he already paid for is never a deadline.
+Module 8's rule gives each start one announcement on the day the previous start begins and one reminder the week before, engaged segments only and never a paused lead, both carrying the start date and the last day to join. The announcement also carries the Fill History line, the last closed start's cap and fill, and any Price Step, a scheduled price rise, while no send mentions an assessment credit, since a credit he already paid for is never a deadline.
 
 Plumbing makes the rule true. Each date send and weekly letter checks four exclusions as it goes out: paused leads, clients, leads inside their Welcome Arc, and anyone outside the engaged segment. A lead mid-arc already has his start's dates in his own emails. Engaged means a click or a reply in about the last 60 days. Opens never count, since mail apps' privacy features load images whether or not anyone reads, and neither does a click on "not for me".
 
@@ -153,11 +153,11 @@ Most of your list reads without clicking, and some of those readers are still de
 
 ### Silent readers are still deciding
 
-Theo *(composite, Burned Struggler)* is the pattern. He paid for a device that promised structural change, so he verifies everything and clicks nothing. For months he reads your emails in the preview pane, checking what you say against what your record shows. By any send-level number he's dead weight. By the one that matters he's deciding, while the category's content tells him daily the opposite of what you said once. A correction heard once fades, and what holds a belief is short, regular exposure over months. That's why the Canon, your 5–7 calibrated core claims in fixed words, runs on a schedule across every surface (Module 14).
+Theo *(composite, Burned Struggler)* is the pattern. He paid for a device that promised structural change, so he verifies everything and clicks nothing, reading your emails in the preview pane for months. By any send-level number he's dead weight, and by the one that matters he's deciding, while the category tells him daily the opposite of what you said once. A correction heard once fades, which is why the Canon, your 5–7 calibrated core claims in fixed words, runs on a schedule across every surface (Module 14).
 
 ### One claim a send, in the Canon's exact words
 
-The Canon Lane is that schedule's email surface: a low-frequency lane that sends one Canon claim at a time to every subscriber. It cycles through all of them, starting with claim 1, the Honest Answer, your straight answer about what adults can change. Each send quotes its claim word for word, because a skeptic comparing your emails with your videos should find the same sentence. Around it go [two or three] sentences on what the claim means for a stall like his, from anonymized patterns, and one link to proof he can check.
+The Canon Lane is that schedule's email surface: one Canon claim a send, about once a month, a pace a silent reader tolerates, to every subscriber except a paused lead. Each send quotes its claim word for word, because a skeptic comparing your emails with your videos should find the same sentence. The lane opens by your first graduation, since the Hold, your measurement subscription for graduates, lists it as free to every subscriber (Module 10), and each send takes that week's stock slot in place of the letter.
 
 > *Subject:* What a record can tell you by week 12
 >
@@ -165,13 +165,30 @@ The Canon Lane is that schedule's email surface: a low-frequency lane that sends
 >
 > [Your name] | [Brand] · [One] email a [month]; one click to leave.
 
-The lane opens by your first graduation, since the Hold, your measurement subscription for graduates, lists it as free to every subscriber (Module 10). It runs about one send a month, in place of that week's letter. Across your surfaces each claim returns every four to six weeks. The lane alone is slower on purpose, because a silent reader tolerates a monthly claim where a weekly one reads like a newsletter he never asked for. When a myth resurfaces, its claim runs first on every surface for about two weeks, and in email it takes the next week's stock send.
+Start the lane with claim 1, the Honest Answer, your straight answer about what adults can change. After that, each send carries the claim that has gone longest without appearing on any surface, from the rotation log your batches already keep, so the lane fills the gaps other surfaces leave in the four-to-six-week rotation. A resurfacing myth's claim overrides the gap, leading everywhere for about two weeks and taking the next week's stock send, and claim 1 returns once each cycle, since a reader who joined months ago met it only in his welcome.
 
-### It sells nothing, and that's how it reaches everyone
+### What goes around the claim
 
-The lane carries no offer, price, or date, and that restraint is its design. Complaints rise with dormancy, so unengaged readers get no promotions, and a claim with its proof is the one thing you can send them at almost no complaint cost. Its one ask is to check the proof. That click moves a silent reader back into the engaged segment, where the next start's announcement can find him. For Theo, a click on [the sample weekly review] in month [five] is the first signal you'd have had.
+Around the claim go [two or three] plain sentences and one link, whose click is the lane's one ask, since it moves a silent reader back into the engaged segment. The never column runs longer, because the lane reaches every reader, including the ones your sequences keep away from pressure:
 
-Clients and Hold members stay on the lane, because belief in the method fades after the program as surely as before it. Paused leads don't get it, for the pause's reason. Judge the lane by its job, never its click rate. Its complaint and unsubscribe rates should stay the lowest of your lanes, and your older leads should keep producing replies and enrollments.
+| It may hold | It never holds |
+|---|---|
+| What the claim means for a stall like his, from anonymized patterns | A client's words or result, even consented; link his Case instead |
+| The claim's evidence tier, where the claim is debated | A second claim, or the claim in other words |
+| One link to proof he can check, such as your log or your terms | An offer, price, date, checkout link, or "reply to book" |
+| Plain words he can check against your videos | A stake about his face, a missed moment, or a reason to hurry |
+
+### Judge it by the cohorts it keeps alive
+
+Judge the lane by its job, never its click rate. Read three lines each month:
+
+- complaints under 0.1% of delivered over the rolling month, the lowest of your lanes;
+- silent readers who click its proof links, counted per send;
+- enrollments from the 61–180-day cohort, once about 30 enrollments sit behind your cohort split.
+
+The third line decides. A middle cohort with no revenue over a readable window means the lane isn't keeping those men deciding, so re-permission moves to 61 days, while one that pays keeps 181 days and one send a month.
+
+Cole's split at month [15] holds [30] enrollments: [21] from the 0–60 cohort, [7] from 61–180, and [2] from 181–365. The lane drew no complaint that month, and [nine] silent readers clicked its proof links in two sends. The middle cohort pays, so re-permission stays at 181 days and the lane stays monthly. Left alone: the claims' wording, its pace, and the pause that holds it.
 
 ## 5. Deliverability, the Complaint Budget, and Lead-Age Cohorts
 
@@ -247,7 +264,7 @@ Cole is in Growing, in Band B. His list now holds [~420] eligible adults, so his
 
 **Day 0, Tuesday March 10. Four tags.** Dan *(composite, Struggler)*, 24, finishes the door at [9 pm] with [eight months] of [his routine] behind him and nothing measured. His tags read stage "next month", Struggler, route no-call, no pause. The read: March has three days left to join, too few even for a "this month" lead, and his stage names April anyway. Within the hour he opens a result recommending the Program, Cole's 12-week flagship, from the April start at $[price], stated once. Left alone: March. A man who said "next month" and hears "join by Friday" gets a deadline built from your calendar instead of his answer.
 
-**Days 1–6. His Welcome Arc, on his clock.** Welcome 1 arrives on day 1 and draws no click, which is fine, since it asks nothing new. Email 1 on day 2 starts his free 7-day log, and email 2 on day 4 gets a click to the sample plan. Email 3 on day 6 recommends the Program with its price and both April dates. He watches the walkthrough that night. Not sent: the Thursday letter, the Canon Lane, and anything about March.
+**Days 1–6. His Welcome Arc, on his clock.** Welcome 1 arrives on day 1 and draws no click, which is fine. Email 1 on day 2 starts his free 7-day log, and email 2 on day 4 gets a click to the sample plan. Email 3 on day 6 recommends the Program with its price and both April dates. He watches the walkthrough that night. Not sent: the Thursday letter, the Canon Lane, and anything about March.
 
 **Day 8, Wednesday March 18. His date, by reply.** Dan answers email 3: "I get paid on the [27th]. Can I decide then?" The read: a Decision Date by message, well inside April's last day to join. A reply from his result's address verifies him, so Cole answers himself: "Yes. The April group starts Monday the 6th, and you can join through the 17th. It's $[price] for 12 weeks. I'll check in on the 27th, and here's the checkout if you want it sooner: [link]." One check-in on the 27th replaces emails 4 and 5.
 

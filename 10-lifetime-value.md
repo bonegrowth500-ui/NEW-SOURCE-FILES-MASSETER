@@ -63,7 +63,7 @@ A graduate takes Round Two once. A second block follows only if Round Two's own 
 
 ### The format is lighter on purpose
 
-The format is the Program's rhythm at maintenance strength. He gets a written review of his check-in every second week, and a seat on the weekly group call if he wants one. For a graduate of Program Async, the same Program without the live call, Round Two stays async at the same price. He re-captures to your Capture Standard, the matched conditions every capture follows, at Round Two's own weeks 6 and 12. The review stays proactive, because in behavior-change research, contact the coach initiates goes with better results, and support that waits to be asked adds little. Lower-intensity contact after an intensive phase also tends to help people keep what they built, moderate evidence borrowed from other kinds of habit change.
+The format is the Program's rhythm at maintenance strength. He gets a written review of his check-in every second week, and a seat on the weekly group call if he wants one. For a graduate of Program Async, the same Program without the live call, Round Two stays async at the same price. He re-captures to your Capture Standard, the matched conditions every capture follows, at Round Two's own weeks 6 and 12. The review stays proactive, because in behavior-change research, contact the coach initiates goes with better results, and support that waits to be asked adds little.
 
 Price it at about $0.8–1.2k, well under the Program, because it carries half the review cadence and two capture reads. He pays in full or in up to three of your own installments inside its 12 weeks, at cost.
 
@@ -110,7 +110,7 @@ Price the Hold inside $39–79 a month from what its minutes cost at your Progra
 |---|---|---|---|
 | Hold members, at ~8 graduates a month, a ~30% take, and ~6% monthly churn | ~12 | ~21 | ~31 |
 
-Membership churn typically runs 4–8% a month, faster in open, cheap groups and slower in curated ones, and it moves with whether each quarter delivers something he'd miss. Some churn is success. A member whose re-captures have shown it holding for [two or three] quarters, and who leaves, got what he came for.
+Membership churn typically runs 4–8% a month, faster in open, cheap groups and slower in curated ones. Some churn is success. A member whose re-captures have shown it holding for [two or three] quarters, and who leaves, got what he came for.
 
 ### Opt-in at the review is the default
 
@@ -149,9 +149,9 @@ Community Options, the paid-room choices for alumni and members, come down to th
 | An in-cohort peer space: contact between calls for one start | A start asks for it and its reviews are running inside their turnaround | [Two] fixed passes a week, [~10] min in all, from that start's care minutes; it closes at graduation |
 | An open paid membership: a room for verified adults keeping their own record with your tools | Rarely: from Growing, and only if its moderation line passes parity | $29–59 a month at the 8–15% monthly churn open groups run, the heaviest moderation, and steady pressure from underage viewers |
 
-**Default: the alumni room.** Every member arrives with a record, the Fit Check behind him, and 12 weeks of the norms, so standing rests on process and two passes a week keep it safe. Until about 30 alumni are in the Hold, the default is no room at all, since the review is the product. The peer space is a start-by-start choice, and the open membership is the option you'll rarely pick.
+**Default: the alumni room.** Every member arrives with a record, the Fit Check behind him, and 12 weeks of the norms, so standing rests on process and two passes a week keep it safe. Until about 30 alumni are in the Hold, the default is no room at all, since the review is the product.
 
-As an engine, a membership needs about 530–1,080 members at $29–59 with 8–15% monthly churn, and it undercuts the premise that judgment applied to him is what he pays for. As an add-on, its buyer is a verified adult who keeps his own record with the Self-Serve System and wants a room of others doing the same. It reviews nobody's record, its checkout runs the age attestation, the affordability question, and the Fit Check, and no content routes a first-time viewer to it. Open it only once its moderation line earns what a Program hour earns, a point that at its churn and price often never comes.
+The open membership's buyer is a verified adult who keeps his own record with the Self-Serve System and wants a room of others doing the same. It reviews nobody's record, its checkout runs the age attestation, the affordability question, and the Fit Check, and no content routes a first-time viewer to it. Open it only once its moderation line earns what a Program hour earns, a point that at its churn and price often never comes.
 
 ### Room rules have consequences, and distress comes first
 
@@ -163,27 +163,32 @@ Other breaks follow a fixed ladder, because members of a paid room are owed pred
 
 ## 5. The Training-Partner Seat and Coming Back
 
-A graduate's training partner arrives already knowing the work and the man doing it. The seat works only if each partner comes through his own door.
+A training partner and a returning graduate both arrive knowing the work, and each still buys on his own record, through his own door.
 
-### Pair enrollment needs one door each
+### A pair costs two seats and saves none
 
-The Training-Partner Seat, pair enrollment into the same start, fits this niche. Many men here keep the pursuit private, and a training partner is often the one person who already knows. He shares the gym, the schedule, or the flat, so a second man in the same start notices a skipped week that nobody else would. Referred clients also tend to stay longer and be worth more than others, though you plan acquisition without them.
+The Training-Partner Seat is pair enrollment: two adults in one start, each through his own door. It also arrives at graduation, when a graduate introduces the man he trains with. It fits this niche because many men here keep the pursuit private, and a training partner is often the one person who already knows. He shares the gym, the schedule, or the flat, so he sees a skipped week days before it reaches a log. Referred clients also tend to stay longer and be worth more, though you plan acquisition without them.
 
-The seat is two seats in one start, drawn from its real cap. If only one is left, the pair takes the next start together, or the partner who's ready enrolls alone as an ordinary buyer through the door. Everything else is individual. Each partner answers the age attestation, the affordability question, and the Fit Check himself, in private. A partner paying for the other is money that isn't his, which routes that partner to the Starter Path, the free sequenced path for anyone who shouldn't buy now. Each has his own baseline, markers, record, and guarantee. Neither learns the other's answers, verdict, exit, or refund unless he shares it, and an opt-in pairing shows each man only the other's timestamped process.
+The minutes decide the rest. Each partner gets his own baseline, markers, reviews, and reads, and only the group call is shared. So a pair costs exactly two Program seats: at 18–20 care minutes a client-week in Growing, about 3.6–4 care hours each over 12 weeks, or 7–8 for the pair. That's why there's no pair discount: the pair saves you no minutes, and a second seat priced below what recent buyers paid breaks the rule that nobody pays less for the same seat.
 
-There's no pair discount. A second seat priced below what recent buyers paid breaks the rule that nobody pays less for the same seat, and a two-for-one reads like the promotions these buyers learned to distrust. Theo *(composite, Burned Struggler)* asks to put his gym partner's seat on his own card, and the answer is his partner's own checkout or the Starter Path. When a client's partner turns out to be Jordan *(composite, minor)*, 16, his cousin, there's no seat at all. Jordan gets the education lane, public content and an orthodontist referral, and nothing about him is collected.
+Both seats come from the start's real cap. With one left, the pair takes the next start together, or the partner who's ready enrolls alone. Open the seat only once starts fill and the group call has split by stage, past about 12–15 concurrent clients, because a pair in a founding group of four is half the room.
 
-Open the seat once your starts fill to their caps and your group call has split by stage, past about 12–15 concurrent clients. A pair then joins a group instead of becoming half of it. You design the seat here, and offering it is a private ask at a measured peak, like every other back-end ask.
+Each partner answers the age attestation, the affordability question, and the Fit Check himself, in private, and neither learns the other's answers, verdict, exit, or refund unless he shares it. Theo *(composite, Burned Struggler)* asks to put his gym partner's seat on his own card, and the answer is the partner's own checkout, since money that isn't his routes him to the Starter Path, the free sequenced path for anyone who shouldn't buy now. When a client's partner turns out to be Jordan *(composite, minor)*, 16, there's no seat; he gets the education lane, public content and an orthodontist referral, with nothing collected. Offering the seat is a private ask at a measured peak, like every back-end ask.
 
-### Coming back runs on his record
+### Coming back starts with his record
 
-Sam *(composite, Ambivalent)* declined the Hold, kept his own quarterly date once, and went quiet through his busy season. [Seven] months later he replies to an email: "Season's over. Can I come back?" Nothing pulled him, since this business sends no win-back sequence. A way back he triggers himself works like the Starter Path's re-entry, and a graduate who gets chased learns that his "done" wasn't respected.
+A graduate who returns has the skills, so the question is what held, and his record answers it before any offer. Nothing pulls him back, since this business sends no win-back sequence, and a way back he triggers himself respects the "done" he said. He books a fit conversation like any buyer, sets a fresh capture beside his week-12 set on his own device, and brings his logs and marker readings since:
 
-His return starts with his record, before any offer. He books a fit conversation like any buyer, retakes a capture to the standard, and sets it beside his week-12 set on his own device, the way he learned to. In the conversation you read his logs and his account of what held, what slid, and which habits went first, and one recommendation follows. If most of it held, that may be restarting [one habit block] on his own, or the Hold.
+| His record shows | The read | One recommendation |
+|---|---|---|
+| Markers near their week-12 readings, one habit slid, dates kept | The lever held; one habit needs restarting | [That habit block] restarted on his own, with his quarterly date |
+| Markers near their week-12 readings, dates missed | The lever held; the calendar didn't | The Hold, after the two checks |
+| The marker that moved has slid back with the habits | The lever needs the work again | The Program at the next start and the published price |
+| He left through the non-response clause | The lever didn't move for him | Never the same plan; a new goal starts at the door |
 
-If the lever that moved for him slid with the habits, it's the Program again, at the next monthly start and the published price, since a returning seat is a new seat. His first record becomes his week zero, and every paid step runs the same two checks. A graduate who left through the non-response clause is never re-sold the same plan; a new goal starts at the door like any buyer's.
+**Default:** the smallest step his record supports, because he already has the skills and should pay only for review his record still needs. Step up to the Program only when the marker that moved has slid back. Round Two stays off the table, since measured momentum needs adherence he hasn't logged. The Self-Serve System, the paid kit for keeping your own record without review, is never pitched as his route back (Module 4).
 
-The Self-Serve System, the paid kit for keeping your own record without review, is never pitched to a graduate as his route back (Module 4). Graduation already gave him its core: his record, the Capture Standard he used for 12 weeks, and a quarterly date.
+Sam *(composite, Ambivalent)* declined the Hold and went quiet through his busy season. [Seven] months later he replies to a Canon Lane email: "Season's over. Can I come back?" His readings put [his posture-habit marker] still at threshold, [his weekly habit block] stopped in month [3], and he kept one of [two] quarterly dates. The lever held and the calendar didn't, so the recommendation is the Hold. The affordability question and the Fit Check run before the first charge, and he joins. The fresh 12 weeks he half expected stays unsold, because his record doesn't call for it.
 
 ## 6. What the Back End Costs in Minutes
 

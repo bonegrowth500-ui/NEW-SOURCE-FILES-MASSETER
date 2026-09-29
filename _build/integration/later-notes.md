@@ -24,3 +24,4 @@
 - 'Stop Rules' capitalized when naming the set (◆ framework); lowercase 'a stop rule' / 'the stop rule'; 'stopped: stop rule' stays as record text.
 - Clear resolved open issues from summaries 10, 13, 17, 20, 26, 27 (resolved in Part II's 4.1).
 - Run `_build/tools/reconcile.py` (canon, stages, cast, qr, pointer) after 4.2.
+- Align every bracketed Cole price and month to the canonical path in 4.1-partII.md (e.g., 27 §1's month-5 offer page shows [$1,750] / [$1,830]; the path has [$1.8k] from May).

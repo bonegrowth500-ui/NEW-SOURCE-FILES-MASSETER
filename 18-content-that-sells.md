@@ -187,7 +187,7 @@ Replies and DMs follow the DM Handoff: an unverified contact gets the door, a ve
 
 **When the signals disagree.** You add pitches to your decision-stage pieces, and the comments turn: sellout, a sales channel all along. Yet returning viewers still hold [about half] your watch time, and offer-page visits are up. In a comment section that skews young, many of the loudest voices were never eligible to buy. Bristling under a Stranger-rung piece means the ladder broke there, so move that pitch.
 
-Then check the pitch's form, meaning where it sits, how long it runs, and whether the first minute announced it, since an ambush or an apology draws bristle. Read the buyers over two starts, because one holds too few enrollments to read. If visits and enrollments held, keep the pitch and pin a reply saying the videos stay free. If both fell, fix the rung or the form, since dropping the pitch returns you to respect without demand.
+Then check the pitch's form: where it sits, how long it runs, and whether the first minute announced it, since an ambush or an apology draws bristle. Read the buyers over two starts, because one holds too few enrollments to read. If visits and enrollments held, keep the pitch and pin a reply saying the videos stay free. If both fell, fix the rung or the form, since dropping the pitch returns you to respect without demand.
 
 ## 6. The Conversation-to-Content Loop and the Pre-Publish Card
 
@@ -205,11 +205,11 @@ That's the Conversation-to-Content Loop: objections become content earlier in th
 
 ### The card catches what its maker can't see
 
-The failures that cost most here are the ones nobody notices while making the asset: a hook tuned for views, a clip trimmed off its caveat, a paused lead left on a send list. Each can end in a screenshot, a refund, or a broken stop rule, and each is a yes or no that someone who didn't make the asset can check.
+The failures that cost most here are the ones nobody notices while making the asset, and each can end in a screenshot, a refund, or a broken stop rule. So the check is one someone else can run: the **Pre-Publish Card**, one card of at most ten yes/no lines, run before any asset ships, clips and sends included.
 
-That's the **Pre-Publish Card**: one card of at most ten yes/no lines, run before any asset ships, clips and sends included. Lines 1, 2, and 8 keep prices, stacked asks, and rating or comparison framing away from feeds that skew under 18. Lines 3 to 6 stop a hook, a claim, a Canon line, or a before/after pair from promising more than the evidence holds, and line 7 stops a destination from making his face the cause. Lines 9 and 10 stop a machine from breaking a promise, through a date that outlives its start or a send to a paused lead.
+Lines 1, 2, and 8 keep prices, stacked asks, and rating or comparison framing away from feeds that skew under 18. Lines 3 to 6 stop a hook, a claim, a Canon line, or a before/after pair from promising more than the evidence holds, and line 7 stops a destination from making his face the cause. Lines 9 and 10 stop a promise breaking after you publish: a date that outlives its start, or a send that reaches a paused lead.
 
-Run it in two passes, because failures are born in two places. Lines 1 to 3, 7, and 9 are settled in the script, so check them before filming, while a fix costs a sentence rather than a re-shoot. All ten run again on the finished cut, its captions, and the send list. Your editor runs both passes and marks every no, and you sign off, since claims approval stays with you.
+Run it in two passes, because failures are born in two places. All but lines 6 and 10 are settled in the script, so check those eight before filming, while a fix costs a sentence rather than a re-shoot. All ten run again on the finished cut, its captions, and the send list, where a caveat gets trimmed or a paused lead slips in. Your editor runs both passes and marks every no, and you sign off, since claims approval stays with you.
 
 Reid runs the card once, on finished cuts, and in one Growing month [three] pieces fail line 9 on a spoken start date, each a 4–6-hour re-shoot. One line failing across several assets is the sign of a template upstream that keeps producing it. So the default move fixes the template, here an outline that sends every date to the page, and moves the line into the script pass. The card stays as it is: a new failure joins the line it belongs to, and no line loosens because it fails often.
 
@@ -329,7 +329,7 @@ A no on any line holds the asset.
 3. **Click Contract.** Is every hook's promise paid before the pitch? → Rewrite the hook or the body.
 4. **Claim Ladder.** Does every observational or outcome claim carry all six items of the Context Stack? → Drop it a rung, or cut it.
 5. **Canon.** Is every canon claim quoted word for word? → Paste it from your Canon.
-6. **Proof travel.** Does client proof run only where the Proof Portability Gradient and his written consent allow: never in ads, never as a before/after pair outside long-form and the site library, and in short-form only with range and denominator on screen (Module 27)? → Move it or cut it.
+6. **Proof travel.** Does client proof run only where the Proof Portability Gradient and his written consent allow, with no pair outside long-form and the site library, none in ads, and range and denominator on screen in short-form (Module 27)? → Move it or cut it.
 7. **Perspective line.** Does every destination line carry one line placing it beyond the face? → Add it.
 8. **Minors.** Is it free of rating, comparison, and minor-targeted framing? → Reframe it for adults, or don't ship it.
 9. **Launch Line.** Does every date pass all five tests, with any dated send carrying the start and its last day to join, the end of week 2? → Fix it, or cut the date.
@@ -341,13 +341,13 @@ A no on any line holds the asset.
 
 **Early.** Reach binds and short-form carries it, so most of what you publish lands on the Stranger rung. Put the founding price on long-form end cards and the founding page, never in the audio, since it ends. Start the objection log with your first call. The trap is a founding-price short: it feels like selling, and its viewers are mostly strangers, many of them minors.
 
-**Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the Loop's rule picks each month's objection piece. The trap is a date spoken into a piece meant to last.
+**Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the card's script pass keeps dates out of them. The trap is a date spoken into a piece meant to last.
 
 **Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private survives only at parity, which means an async-first seat at about $10k or more. Program Async, the program without the live call, joins the tiers under the core buyer's cash ceiling. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
 
 ## Standard Check
 
-- **Warm assets sell; strangers get the door.** From the Returning rung up, every asset and end card names the offer, who it's for and isn't, the public price, and one step (*Sell directly*). No price reaches a surface built for strangers, where the youngest viewers are (the line on vulnerability).
+- **Warm assets sell; strangers get the door.** From the Returning rung up, every asset names the offer, who it's for and isn't, the public price, and one step (*Sell directly*), and no price reaches a surface built for strangers, where the youngest viewers are (the line on vulnerability).
 - **Dates live on the page.** Evergreen pieces point to the next start and never speak a date, so none outlives its date or ramps toward a start (*Use real dates*, inside the Launch Line).
 - **Dignity in every stake.** Broadcast stakes stay on time, money from here on, and guessing, each destination carries a perspective line, and each hook is paid before the pitch (*Name the stakes*, *Name the destination boldly*).
 - **The price, itemized and backed.** Deliverables and the cap, never minutes, with the guarantee said aloud (*Present the price*).
@@ -378,7 +378,7 @@ A no on any line holds the asset.
 | **The Warmth Ladder** | Match every asset's ask to its coldest viewer's rung |
 | **The Offer Pieces** | Answer a warm buyer's five questions, one piece and one ask each |
 | **The Stake-to-Step Ratio** | Name one true stake, then spend the minutes on a verifiable step |
-| **The Pre-Publish Card** | Clear every asset, clips and sends included, before it ships |
+| **The Pre-Publish Card** | Check every asset in two passes, script and cut, before it ships |
 
 **Leans on:** the Belief Chain, Fantasy to Expectation, the Canon (Module 14) · the Launch Line, Decision Points (Module 8) · the one-stock-send cap (Module 26) · the Path and Timeline Card (Module 6) · Surface Types (Module 23) · the Dignity Route (Module 15) · the Context Stack (Module 16) · the Proof Portability Gradient (Module 27) · the DM Handoff (Module 20) · the Leak Trace (Module 12) · the Free/Paid Line, the Starter Path (Module 4) · the pause route, the Decision Assessment (Module 5) · the Payoff Test, the Dignity Check (Intro).
 

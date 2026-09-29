@@ -27,7 +27,7 @@ The answer is to decide where every hour goes before the week starts. Each kind 
 
 ### Each stage's week is priced line by line
 
-Every line in the four stage weeks carries hours, including the four that operators leave off: milestones, the measurement subscription called the Hold, the premium Private seat, and building. Read each column as a budget for its stage's job, and the last column for what each line buys.
+Every line in the four stage weeks carries hours, including the four that operators leave off: milestones, the measurement subscription called the Hold, the premium Private seat, and building. Read each column as a budget for its stage's job: early hours go to content and conversations because reach binds, Growing's go to care, the review, call, and milestone minutes clients take, and the last column says what each line buys.
 
 | Line (h/week) | Early (months 0–3) | Growing | Scaling at $25k | Scaling at $50k | What it buys |
 |---|---|---|---|---|---|
@@ -50,11 +50,9 @@ Every line in the four stage weeks carries hours, including the four that operat
 | Total | ~19.75–20.25 | ~22 | ~19.75 | ~20.5 (~21–22 with Private at parity) | Slack to 25: ~5, ~3, ~5, ~4.5 |
 | Content, first four lines | ~8.5 | ~6.75 | ~5.25 | ~5.0 | Trust, reach, and first conversations |
 
-Early hours go to content and conversations because reach binds, and Growing's go to care, the review, call, and milestone minutes clients take. At the configurations, templates and call-free enrollments hand hours back, which is why the $25k week is lighter than the Growing one.
-
 ### The forgotten lines are promises with dates
 
-Milestones cost about 0.75–1.25 hours per enrollment beyond weekly review: the Commit Ritual, the review and decision on baseline day; the written week-6 read; and the week-12 re-assessment, the closing capture and verdict. So that line grows with monthly enrollments rather than with clients, and it lumps, because a start's week-6 reads all land in the same week. The Hold's line climbs as graduates join, from about a quarter-hour in Growing to about 0.6 hours at $50k, since every member is owed a re-capture and a written review each quarter. From about 30 alumni it also carries the moderation of the alumni room the Hold opens into, which stays yours because room posts are client content.
+Milestones cost about 0.75–1.25 hours per enrollment beyond weekly review: the Commit Ritual, the review and decision on baseline day; the written week-6 read; and the week-12 re-assessment, the closing capture and verdict. So that line grows with monthly enrollments rather than with clients, and it lumps, because a start's week-6 reads all land in the same week. The Hold's line climbs as graduates join, since every member is owed a re-capture and a written review each quarter, and from about 30 alumni it also carries the moderation of the alumni room, which stays yours because room posts are client content.
 
 Private gets a line only while a seat earns its place: a founding seat while minutes are spare, and about one seat at $25k. At $50k it has none until a seat passes the Parity Rule by earning at least what a seat in your 12-week Program earns per hour of care (Module 13). One or two async-first seats at parity add about 0.6 hours a week each, taking that week from about 20.5 hours to 21–22. The build line is where leverage gets made: the first working version of your door and the check-in form early, then the templates that make Scaling lighter. It's protected because every later week is only as light as what it built.
 
@@ -129,7 +127,7 @@ Give calls and live replies 2–3 fixed windows a week, and let your booking pag
 
 ### One rule covers every missed call
 
-The no-show rule is one templated rebooking offer; a second miss releases the slot, and nobody chases. Its time sits on the half-hour line for no-shows, recaps, and follow-up. Bookings land within 24–48 hours with one reminder, because show rates fall the further out a slot sits. A no-show gets the rebooking offer once, with open slots in the next windows and no reproach, and a reschedule request gets the same offer. If he misses the rebooked slot, it goes back on the calendar, and the written path his self-assessment gave him carries him until he books again.
+The no-show rule is one templated rebooking offer, and a second miss releases the slot. Its time sits on the half-hour line for no-shows, recaps, and follow-up. Bookings land within 24–48 hours with one reminder, because show rates fall the further out a slot sits. A reschedule request gets the same offer. If he misses the rebooked slot, it goes back on the calendar, and the written path his self-assessment gave him carries him until he books again.
 
 Nobody chases him with a second message, a "still interested?" sequence, or a fee after the fact, and the reason is who misses. A man who books on a hopeful night and loses his nerve by morning is common in a category this close to shame, and a reproachful chase confirms what he was afraid of. If no-shows still eat your selling hours once bookings land fast with a reminder, switch the fit conversation to a small credited booking fee, the door's own option for exactly this (Module 5).
 
@@ -226,24 +224,26 @@ A minor found after the age fork, your door's legal-adult question, leaves for t
 
 ## 6. The Risk Register
 
-Six legal and platform risks are big enough to write down, and each needs one line: what can go wrong, your default, and the point where you pay for advice.
+Six legal and platform risks are big enough to write down, and each arrives here by a route you can learn to spot.
 
-### Six flags carry the risks worth writing down
+### Each flag arrives as an ordinary week's event
 
-Legal risk here sits where the category's history does: young audiences, health-adjacent claims, money taken over months, and private data about faces. So the Risk Register, your short list of the biggest legal and platform risks, holds six flags, few enough to read at every quarterly Operator Review. It tells you when to buy advice and never stands in for it.
+Legal risk here sits where the category's history does: young audiences, health-adjacent claims, money taken over months, and private data about faces. It shows up as a dispute notice, a rejected ad, or a parent's email, and the Risk Register, your short list of the biggest legal and platform risks, exists so you read that event as a flag. Six are few enough to read at every quarterly Operator Review, and again whenever you add an offer, a tool, a country, or a paid channel. The register says when to buy advice and never stands in for it.
 
-| Flag | The risk, in one line | Your default | Get advice when |
+| Flag | How it arrives here | Your default | Get advice when |
 |---|---|---|---|
-| Payment processor and disputes | At solo volume one dispute can breach a processor's tolerance, near one in a hundred transactions, and a closed account can follow you | A discreet descriptor in your brand's name, with no face or jaw words; at most one dispute per rolling 90 days early; refunds before disputes | A processor warns you, holds funds, or questions your business model |
-| Installment plans as consumer credit | Where local law counts installment plans as credit, even your own plan can carry licensing or disclosure duties | Your own installments only, at most three, inside delivery; no lender or buy-now-pay-later | Before you offer a plan, and again for each new country you sell to |
-| Health-adjacent advertising, claims, and endorsements | Structural or medical claims, testimonials without their typical range or with an undisclosed reward, and condition names can bring ad rejections, a health label on your whole site, and regulators | Process language and no medical or dental opinion; outcome claims only from your records, with range and denominator; testimonials consented, typical, and with any reward disclosed | Before your first paid ad, published outcome range, testimonial, or product name |
-| Minors and platform policy | In self-selected samples most of the category's keenest audience is under 18, adulthood starts at 19 in two US states and 21 in one state and one territory, and platforms restrict appearance-comparison content for teens | The age fork; the education lane; same-day deletion and a refund when a minor surfaces | A platform strikes or age-restricts your account, or a parent writes to you |
-| Data privacy | Health-adjacent answers, captures, and messages are sensitive data, and some places protect face data specially | The retention map and consent log; captures coach-only; no tool that measures faces | Before any tool beyond your check-in form and record store touches client data, and before your first client in a new region |
-| Statutory cancellation | UK and EU consumers can cancel online services within about 14 days, with rules on early starts, and subscriptions carry renewal rules in many places | Terms that state those rights ahead of your own fit window; the Hold reminds before each charge, with a one-click exit | Before your terms go live, and before selling a subscription in a new country |
+| Payment processor and disputes | A charge he doesn't recognize under your discreet name; at solo volume one dispute can breach a tolerance near one in a hundred transactions | A descriptor in your brand's name with no face or jaw words; refunds within 7 days, before disputes; at most one dispute per rolling 90 days early | A processor warns you, holds funds, or questions your business model |
+| Installment plans as consumer credit | A buyer where local law counts even your own installments as credit | Your own installments only, at most three, inside delivery; no lender or buy-now-pay-later | Before you offer a plan, and again for each new country |
+| Health-adjacent ads, claims, and endorsements | An ad rejected for a condition word, a clip stripped of its range, or a product name that sounds structural, then a health label on your site | Process language, no medical or dental opinion; outcome claims only from your records, with range and denominator; testimonials consented and typical, any reward disclosed | Before your first paid ad, published outcome range, testimonial, or product name |
+| Minors and platform policy | A 16-year-old who ticked "adult", a parent's email, or a comparison short age-restricted; adulthood starts at 19 in two US states and 21 in one state and one territory | The age fork; the education lane; same-day deletion and a refund when a minor surfaces | A platform strikes or age-restricts your account, or a parent writes to you |
+| Data privacy | A deletion request, an add-on quietly reading check-ins, or a first client where face data has special protection | The retention map and consent log; captures coach-only; no tool that measures faces | Before any new tool touches client data, and before your first client in a new region |
+| Statutory cancellation | A UK or EU client cancelling in his first 14 days, or a Hold renewal he says he didn't expect | Those rights stated ahead of your fit window; a reminder before each Hold charge, with a one-click exit | Before your terms go live, and before selling a subscription in a new country |
 
-### The register says when to pay for advice
+### A dispute gets read before it's argued
 
-Read it again whenever you add an offer, a tool, a country, or a paid channel, since each of those can move a flag. Advice costs less at the trigger than after the problem, and in this category a problem often arrives as a screenshot before it arrives as a letter.
+In month [7], Cole gets a dispute notice on a client's second installment, marked "unrecognized". The signs: the client's check-ins arrived on time through week [5], no refund request sits in the inbox, and the charge ran under [BRAND CO], the discreet name his privacy terms promise, which the pre-charge reminder never named. Among [20] charges that month, one dispute is [5%] of transactions, five times the line processors watch. The read is recognition, not quality: the name that protects the client's privacy is the one his statement couldn't place.
+
+So Cole answers the processor with the accepted terms and the delivery record, sends the client one plain message naming the charge, and puts the exact descriptor in every pre-charge reminder. The dispute is withdrawn [that week]. He leaves alone the discreet name, a second message, any fee, and paid advice, since the flag's trigger hasn't fired.
 
 ## Worked Example: Reid's [29]-Hour Growing Week, Redesigned
 
@@ -259,7 +259,7 @@ Reid is Growing in month [19], six weeks after the [31]-hour week that opened th
 
 **Week 3. The minimum first.** Long-form comes back with [two] pieces batch-filmed on [Monday], because the minimum is the line the overrun ate, and it's next month's leads. Live work moves into [two] windows, [Tuesday afternoon] and [Thursday evening]. With long-form back in it, the week lands near [24.5] hours, so steps 4 and 5 are never needed.
 
-**Week 4. The trigger fires.** His log still shows comment moderation and door-link replies at [about 1.5] hours against a replies line of about 1, and they've run over all quarter. That's routing help's trigger. A task-billed helper starts on batches [each weekday] from the brief below, and anything touching distress, a minor, a purchase question, or a client goes to Reid at once. DMs and email never leave him, and his editor takes the clipping.
+**Week 4. The trigger fires.** His log still shows comment moderation and door-link replies at [about 1.5] hours against a replies line of about 1, and they've run over all quarter. That's routing help's trigger. A task-billed helper starts on batches [each weekday] from the brief below, DMs and email never leave him, and his editor takes the clipping.
 
 **Weeks 5–10. The queue pays.** The build line, unbroken at 1.25 hours since week 1, finishes the review template in [four] weeks. Before it touches anyone, he adds the review disclosure to his written terms, with a separate opt-in for the tool that tallies logged numbers. Review falls from [about 15] minutes per client-week toward [about 8].
 
@@ -267,7 +267,7 @@ Reid is Growing in month [19], six weeks after the [31]-hour week that opened th
 
 **Week 10. The outcome.** His logged week sits at [about 21] hours, with content back at its 6.75, review near [3], and conversations near [3]. Eligible leads, [about 60] a month when he started logging, climb back toward [80–90] as the cadence holds.
 
-**What it shows.** An overloaded week is usually a design problem that looks like hard work. The cuts followed the order, the leaks got answers, the content minimum took the room first, and help came only on its trigger. The build line never dropped; it changed what it built, and that is the saving that compounds.
+**What it shows.** An overloaded week is usually a design problem that looks like hard work. The build line never dropped; it changed what it built, and that is the saving that compounds.
 
 ## Templates: The Design Week Worksheet, the Freelancer Brief, and the Routing-Help Brief
 

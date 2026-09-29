@@ -45,9 +45,9 @@ That's **Close by Contract**, the close that agrees its structure first and runs
 
 ### The floor holds on a live call
 
-The Informed-Client Test, the check every tactic passes in both directions (Intro), cuts both ways on a call. Its ceiling asks whether a client anywhere in your range, low end included, would still say the call served him after seeing what you did. Its floor says that letting a screened, good-fit buyer talk himself out of the right decision fails him too, since he goes back to guessing while the next device waits. It applies once he's through the door's checks, until a stop rule fires.
+The Informed-Client Test, the check every tactic passes in both directions (Intro), holds from the door's checks until a stop rule fires. Its ceiling asks whether a client anywhere in your range, low end included, would still say the call served him. Its floor says a screened, good-fit buyer left to talk himself out of the right decision was failed too, since he goes back to guessing while the next device waits.
 
-Force means his stake, one confident recommendation, an explicit ask, up to two probes per real objection, and a real date. Pressure means asking after a clear no, reopening money after "I can't afford it", selling into distress, invented urgency, or shame. The free jaw analysis runs on embedded commands, false takeaways, and the assumptive close, each of which works only while he can't see it.
+Force means his stake, one confident recommendation, an explicit ask, up to two probes per real objection, and a real date. Pressure means asking after a clear no, reopening money after "I can't afford it", selling into distress, invented urgency, or shame. The free jaw analysis runs on embedded commands and false takeaways, which work only while he can't see them.
 
 ## 2. Excavation and the Implication Question
 
@@ -106,7 +106,7 @@ Then comes the question he'll hear before every payment you take. Once he has na
 
 > **You:** "I ask everyone this before any payment. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-It follows the tiers because by then he has seen every real option, so a no can't be met with a cheaper one. A yes lets the checkout run the Fit Check, the plain-language check for signs that buying could hurt him (Module 5), before any pay button. A no ends money talk: the Starter Path once, tool-free, and the pause route, the content-free tag that holds every marketing send and blocks checkout for 60–90 days before asking his permission again. There's no plan, no lower tier, and no Program Async, the tier without the live call. What he says aloud sets the same tag a checkout answer would.
+It follows the tiers because by then he has seen every real option, so a no can't be met with a cheaper one. A yes lets the checkout run the Fit Check, the plain-language check for signs that buying could hurt him (Module 5), before any pay button. A no ends money talk: the Starter Path once, tool-free, and the pause route, the content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. There's no plan, no lower tier, and no Program Async, the tier without the live call. What he says aloud sets the same tag a checkout answer would.
 
 ### A plan is its own paid step
 
@@ -141,7 +141,7 @@ A yes rests on six beliefs, Cause, Range, Vehicle, Guide, Self, and Now, and a n
 
 "I need to think" is this category's all-purpose cover, and under it sits one of three things: a doubt he hasn't voiced, a fear of deciding wrong, or a polite no. A repair aimed at the wrong one reads as pressure, so sort before you answer, starting with what he's weighing. An unvoiced doubt gets its link's check question and evidence from his record. Fear of deciding wrong is a Guide doubt, answered with the guarantee's terms. A polite no gets named so it can end cleanly: "Is that a no? That's a good outcome too," then the clear-no line.
 
-That's **the Real-Objection Sort**: separate the stated objection from the real one, and resolve each he raises with up to two probes. Two is the limit, because a third question stops sorting and starts wearing him down. A Self doubt often needs the hard true thing: "You didn't quit because you're weak. You quit because nothing showed you it was working." A burned buyer's "I need to think" gets no probe at all.
+That's **the Real-Objection Sort**: separate the stated objection from the real one, and resolve each he raises with up to two probes. Two is the limit, because a third question stops sorting and starts wearing him down. A burned buyer's "I need to think" gets no probe at all.
 
 **Sort, check, repair with his evidence, and return to the ask.**
 
@@ -223,23 +223,27 @@ Every call ends in one of three places, day one booked, a clear no, or a Decisio
 
 ### Day one is booked before you hang up
 
-How firmly a man commits as a call ends tends to predict what he does, and "I'll sort it this week" is weaker than "Monday at 7". On a yes, send the checkout while you're talking, with the Card and the Expectation Document, the fuller written terms of the work, above the pay button, and book baseline day. A signal at checkout starts the signal pause: no payment that day, expectations in writing, at least 72 hours to cool off, and no plan.
+How firmly a man commits as a call ends tends to predict what he does, and "I'll sort it this week" is weaker than "Monday at 7". On a yes, send the checkout while you're talking, with the Card and the Expectation Document, the fuller written terms of the work, above the pay button, and book baseline day. A signal at checkout starts the signal pause instead, with no payment that day.
 
 ### The Decision Date sits on a real point
 
 When he needs time, he leaves with the Decision Date, his personal date to decide by. It falls on or before the last day to join of the start he's deciding for: the next start by default, and a later one when a burned buyer picks it or a real constraint dates it. Late entry through each start's second week keeps the next one within about 2–4 weeks, and an announced Price Step, a scheduled rise stated at least 30 days ahead, is said once if it lands first (Module 8). The date rests on honesty and planning, never on deadline pressure, whose evidence is contested.
 
-### Follow-up is fixed in advance
+### Follow-up holds his date, then lets him go
 
-The Follow-Up Rule sets everything after the call: a written recap within 24 hours, one check-in on his Decision Date, and one close-the-loop message, then regular email only, and nothing while the pause route holds. Fixed in advance, follow-up can't slide into chasing. After a protective stop he gets the Starter Path, the referral note, or the signal pause's written expectations, once.
+This category follows up by chasing: the "just checking in" run, the cart email that multiplies, the credit that suddenly expires. So the Follow-Up Rule is fixed before the call, and every touch is one he was told about: a written recap within 24 hours, one check-in on his Decision Date, and one close-the-loop message, then regular email only, and nothing while the pause route holds.
 
-### The close improves on a loop you can check
+Say Sam leaves with [March 9]. The recap goes out that evening, and the check-in on [March 9] names his date, the start, and its last day to join, then meets silence. Silence on a date he chose usually means the date slipped or the answer is a no he didn't want to say, and another touch turns either into pressure. So the close-the-loop goes two days later with the next start's dates, and nothing follows it: no second check-in, no "seats are filling", no credit. After a protective stop none of this runs; he gets the Starter Path, the referral note, or the signal pause's written expectations, once.
 
-Record every call he consents to, and score one recording a week against the call scorecard. Keep an objection log by link, in his words, but never his fit-check answers or anything he said about his face or his worth, and never quote him without his consent. It feeds content through the Conversation-to-Content Loop, which moves each answer earlier in his path (Module 18). Trace every refund and dispute to the promise and path used on its call, and change one thing at a time, judged over about 30 held conversations. That's the Selling-Skill Loop: recorded, scored calls and an objection log, with protective-stop calls never mined.
+### The scorecard names the step to fix first
+
+Memory keeps the moments of a call that stung, so a close improves only on a record. Record every call he consents to, score one recording a week against the call scorecard, and score your last 30 held conversations monthly. Keep an objection log by link, in his words, never with his fit-check answers or what he said about his face or worth, quoted only with his consent; it feeds the Conversation-to-Content Loop (Module 18). That's the Selling-Skill Loop: recorded, scored calls and an objection log, with protective-stop calls never mined.
+
+A weak score is one item failing across several recordings, or a close rate under its range over 30 held conversations, and the fix starts at the earliest failing step, since each rests on the one before. In month [11], Cole *(composite operator)* sees item 3 fail on [four] of his [eight] scored recordings, as he fills the silence after the price with "and that includes…", and item 5 fail on [two], a third probe. He fixes the silence first, because a price defended sounds doubted and his third probes were chasing that doubt. The offer and price stay as they are, and by month [14] his last 30 close at [35%]. Refunds and disputes get the same trace, back to the promise and path used on their call.
 
 ## Worked Example: Dan, From Contract to Day One
 
-Cole *(composite operator)* is in Growing, month [14]: proof milestone met, the Program at $[2,400] in full or three payments of $[820], and one Private seat open while minutes are spare. The [March 2] start's last day to join is [March 13]. Dan booked from his result page after a yes to the affordability question beside the price range.
+Cole is in Growing, month [14]: proof milestone met, the Program at $[2,400] in full or three payments of $[820], and one Private seat open while minutes are spare. The [March 2] start's last day to join is [March 13]. Dan booked from his result page after a yes to the affordability question beside the price range.
 
 **Minutes 0–12. The read: a Struggler on the standard route.** Dan agrees to the contract and the recording. Excavation turns up about eight months of [his routine], bathroom photos every few weeks, and [about $300] on [an app and a chewing gadget] never sold as bone change. His conclusion is "maybe it's just genetics". He describes his situation, never his worth, so the standard route runs, led by Cause and Self. The ladder climbs from "a sharper jaw" to "I'd get picked to present to the regional team". Left alone: the Program, his face, and the [$300], which stays in the notes.
 
@@ -251,7 +255,7 @@ Cole *(composite operator)* is in Growing, month [14]: proof milestone met, the 
 
 The stake is lived, forward, and his, so it's said back plainly, gadget money left out.
 
-**Minute 15. The summary, the straight answer, the true thing.** Dan confirms the summary: taken seriously at work, the cost he named, and the missing baseline and review. The Honest Answer's spoken version follows word for word, as on every call, then the true thing: "You've spent eight months doing this without knowing whether it works. That's the problem, not you."
+**Minute 15. The summary, the straight answer, the true thing.** Dan confirms the summary: taken seriously at work, the cost he named, and the missing baseline and review. The Honest Answer's spoken version follows word for word, as on every call, then the true thing from section 5.
 
 **Minute 18. One recommendation, the tiers, the price.** Cole recommends the Program from [March 2], because Dan wants to know what's moving and nobody has read his record, and walks the Card, yes before no. The tiers come top first: a Private seat at $[5,000] with [recorded walkthroughs and 24-hour written replies], then the Program at $[2,400] in full, or three payments of $[820], $[2,460] in total. [About eight] seconds of silence pass before Dan says, "The Program." He says yes to the affordability question, asked word for word about it.
 
@@ -275,7 +279,7 @@ The stake is lived, forward, and his, so it's said back plainly, gadget money le
 
 That was fear of deciding wrong, a Guide doubt, so the repair was the guarantee's terms, then back to the ask. Left alone: a third probe, a discount, and "most people love it".
 
-**Minute 24. The plan step, and day one.** The plan is its own paid step, so Cole asks the question again, word for word, and Dan says yes, from his pay; each $[820] payment sits under a third of his take-home. At checkout he attests, answers the question, and clears the Fit Check. He pays the first installment and books baseline day for [March 2, 7 pm]. The recap leaves out the [$300]. Cole's time was about 45 minutes all-in, and across his last [30] held conversations, [35%] enrolled, inside the 25–45% range with proof.
+**Minute 24. The plan step, and day one.** The plan is its own paid step, so Cole asks the question again, word for word, and Dan says yes, from his pay; each $[820] payment sits under a third of his take-home. At checkout he attests, answers the question, and clears the Fit Check. He pays the first installment and books baseline day for [March 2, 7 pm]. The recap leaves out the [$300]. Cole's time was about 45 minutes all-in, and his close rate sits inside the 25–45% range with proof.
 
 **The same words from Theo.** Theo *(composite, Burned Struggler)*, 26, sells for a living and bought [a device and a course] that promised structural change, so his door answers tagged him Burned Struggler. Cole put the terms first, took his answer to one forward stake question as given, then recommended the Program and ran the tiers, the question, and the ask. Theo said he needed to think.
 
@@ -307,14 +311,11 @@ Quoted lines are word for word; brackets hold his details.
 
 2. **Excavate.** "Walk me through the last [eight] months." · "How did you check whether it was working?" · "What happened around month 3?" · "Why now?" · Then the ladder.
 
-3. **The stake and the summary.**
+3. **The stake and the summary.** The Implication Question from section 2, its silence held, then:
 
-> **You:** "If the next 12 months look like the last [eight], what does that cost you?"
-> *[Stop. Let him answer.]*
->
 > **You:** "So waiting costs you [his words]. Let me check I've got it. You want [his destination]. You've put [eight] months in with nothing measured, and what's been missing is a baseline and someone reading your record. Did I get that right?"
 
-On the Dignity Route, [his destination] is "to know instead of guess, and to be at ease", and the stake holds only time, money from here on, and guessing.
+On the Dignity Route, [his destination] is "to know instead of guess, and to be at ease".
 
 4. **The straight answer, then the recommendation.** The Honest Answer's spoken version comes first, word for word.
 
@@ -419,7 +420,7 @@ On the Dignity Route the first paragraph reads: "You said you want to know inste
 
 ## Checklist: The Call Scorecard
 
-Score one consented recording a week, and your last 30 held conversations monthly. Protective-stop calls are never scored.
+Answer from your recordings and your last 30 held conversations. Protective-stop calls are never scored.
 
 1. Did the contract name both good endings and the free path before any question about him? → No: open with the contract line.
 2. Did he name the stake and confirm your summary before any recommendation? → No: ask the Implication Question, then summarize.
@@ -459,8 +460,6 @@ Score one consented recording a week, and your last 30 held conversations monthl
 **The arc.** Contract → excavate → summary → one recommendation → tiers, price once, silence → the affordability line → ask → sort → Decision Date → day one → recap.
 
 **The objection map.** Range: adults, orthodontist, timeline · Vehicle: free content, your time · Guide: fake proof, no change, privacy, stopping · Self: minutes, quitting · Now: "I need to think" · money first: parents, partner · a minor: stop.
-
-**State routes.** Struggler: Cause, then Self · Burned: the kit, his date · Optimizer: Vehicle, Guide · Ambivalent: Now · insecurity-led: the Dignity Route.
 
 **Stops and follow-up.** A clear no ends the ask; money he can't spare, distress, a fit-check signal, or a minor ends the sale, leaving nothing beyond "stopped: stop rule". Then one recap, one check-in, one close-the-loop.
 

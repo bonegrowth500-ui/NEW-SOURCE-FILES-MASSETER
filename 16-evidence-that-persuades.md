@@ -15,9 +15,7 @@ In this category, more proof persuades less, because your buyer arrives knowing 
 
 ### He knows how the photos were made
 
-Once a buyer recognizes a persuasion tactic, he discounts the whole message and starts asking what the seller wants, which is among the better-established findings about persuasion. Your buyer has had years of practice: manufactured before/afters, devices sold with a jaw promise attached, and tips that never end. The camera facts behind the first are well documented and easy to show: distance, lens, overhead light, and a tilted chin each change how a jaw reads, and a few kilograms lost show in the lower face. He has concluded that any photo can be staged, and he's right.
-
-So the dramatic pair works against you: the bigger the change it shows, the harder he hunts for the light. The Burned Struggler, the buyer who already paid for a structural promise, goes further and assumes any proof he can't check was made the way his last purchase was sold.
+Once a buyer recognizes a persuasion tactic, he discounts the whole message and starts asking what the seller wants, which is among the better-established findings about persuasion. Your buyer has had years of practice: manufactured before/afters, devices sold with a jaw promise attached, and tips that never end. The camera facts behind the first are well documented and easy to show: distance, lens, overhead light, and a tilted chin each change how a jaw reads, and a few kilograms lost show in the lower face. He has concluded that any photo can be staged, and he's right, so the dramatic pair works against you: the bigger the change it shows, the harder he hunts for the light.
 
 ### Volume reads as selection
 
@@ -36,7 +34,11 @@ Every format you might publish meets the same audit. Most fail on the first ques
 | Matched captures with their context | "What else changed?" | The caption answers before he asks |
 | A dated log of process and outcomes | "Did they publish the bad months?" | The men it didn't work for are in it |
 
-The survivors share three properties: he can check how the proof was made, what else could explain it, and who else was counted. Build every piece to answer all three before he asks, because to a buyer who audits, an answer he had to request reads as a concession, and one you volunteered reads as a standard.
+The survivors share three properties: he can check how the proof was made, what else could explain it, and who else was counted. So the operating rule is to answer all three inside the asset before it ships, because to a buyer who audits, an answer he had to request reads as a concession, and one you volunteered reads as a standard. An answer that would read "ask me" means it isn't proof yet: it ships as process with its count, or it waits for the record.
+
+**If he'd have to ask, it isn't proof yet.**
+
+Run it on Cole *(composite operator)* at month [5]. [Four] founding clients have consented to share delighted messages, and his draft proof page stacks all four at the top. The sign is already in his comments: "how many didn't write?" Each message passes the first question and fails the third. So the page leads with his dated log, check-in completion across all [9] clients and the [one] who left in the fit window, and the messages sit beneath it as process moments. Left alone: any result claim, since no range exists yet.
 
 ## 2. The Claim Ladder and the Context Stack
 
@@ -134,7 +136,7 @@ Four stories carry this brand, and each persuades only at the rung your records 
 
 ### Stories move him, and imply what's typical
 
-A story carries him into one man's weeks. Narrative persuades with a small to moderate effect, moving intentions a little more while statistics move beliefs a little more, so every story here travels with its numbers or a plain statement that it has none. The risk comes with the power: a story about one man implies he's typical, so each carries its context, and the four split by whose voice they're in.
+A story carries him into one man's weeks. Narrative persuades with a small to moderate effect, moving intentions a little more while statistics move beliefs a little more, so every story here travels with its numbers or a plain statement that it has none. Each carries its context, since one man's story implies he's typical, and the four split by whose voice they're in.
 
 Each answers a question he brings: why you built this, why he stalled, what changes when a man starts measuring, and what happened to one measured man among everyone measured. That's the **Four Stories**: Origin, the Stall Told Back, the Transition, and the Case, each with its context. Two are yours and run from month 1. Two are his and wait for consent asked at his first measured peak after his week-6 decision, a reading with his adherence and one marker at threshold, so no client story exists in month 1.
 
@@ -256,7 +258,7 @@ Cole wrote his Capture Standard in month 1 and published his first teardown in m
 
 Then he ran the six questions. Matched? No: in the after shot the light sits overhead, the chin is tilted, and the background shows the camera moved in, so he recreated each change on a consenting volunteer. Dated? Only "[60] days". What else changed? The post doesn't say. Which rung? "Rebuild your jawline" claims a cause no photo can show. The count? One man, posted by the seller of the lever, and the rest nowhere. His sharpest line went at the practice: "That's a lighting choice with a discount code attached." Then he ran the same questions on his own record: his capture log, his check-in completion, and the trigger for his first range. [Three] adults booked fit conversations that week.
 
-The default is a standing teardown every quarter, plus one whenever a claim pattern starts showing up in your door answers, where buyers say what they've already tried. Each ends on your own record, because the protection fades without repeats and the ending turns his skepticism into trust in you. Targets are businesses' published claims, such as ads, sales pages, and sponsored posts, and never a private person, anyone who could be under 18, or a clinician. Blur every face and analyze the photograph and the claim, never the person, because the features of someone who hasn't consented aren't yours to discuss.
+The default is a standing teardown every quarter, plus one whenever a claim pattern starts showing up in your door answers, where buyers say what they've already tried. Each ends on your own record, because the protection fades without repeats and the ending turns his skepticism into trust in you. Targets are businesses' published claims, never a person, and every face is blurred, because the features of someone who hasn't consented aren't yours to discuss.
 
 ### The Proof Stack matches proof to the doubt
 

@@ -156,7 +156,7 @@ Three things stay out of every exit: his written reasons, a re-pitch, and a test
 
 Weekly review puts you closest to him in the weeks a checking habit can grow, so read for it in every check-in. The signs are a climb in how often he checks his face, interim photos sent to you, a request to rate a capture, distress, or "everything is ruined". Any one of them pauses persuasion: no renewal offer, no referral or testimonial ask, no hard true thing, and no sharing or board. The scheduled captures stop, and his markers carry the verdict without them.
 
-The pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, goes on too. Asks return only after it lapses, he agrees to hear from you again, and his record reaches a measured peak. The referral conversation names a doctor or mental-health professional, with crisis resources if it's acute, and names no condition. A stopped offer leaves only "stopped: stop rule".
+The pause route goes on too: a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. Asks return only after it lapses, he agrees to hear from you again, and his record reaches a measured peak. The referral conversation names a doctor or mental-health professional, with crisis resources if it's acute, and names no condition. A stopped offer leaves only "stopped: stop rule".
 
 **When the signals disagree.** Say a client logs [42] of [42] days and sends every check-in on time. In week [6] he mentions he has started photographing his side profile every morning "to see if it's working". The log says model client, maybe one due a label. The photos say a checking habit is growing around the work. The checking outranks the log, because the log counts his habit blocks and says nothing about his relationship with the mirror.
 
@@ -167,12 +167,18 @@ So his week-6 read runs under the rising-checking rules. The capture is skipped,
 His renewal case at week 12 is written in weeks 1 to 11 or not at all, from data the review collects anyway. Measured momentum, the qualifier for Round Two, the maintenance block after graduation, has two halves (Module 10). His adherence sits at or above his threshold, and at least one marker is still improving across its last two readings. Both halves must be on the record before anyone asks, so capture five things now:
 
 1. Days logged each week, with comebacks counted, since the threshold reads all twelve weeks.
-2. Every marker reading on schedule through weeks 10–12, since "its last two readings" needs two readings near the end.
+2. Every marker reading on schedule through weeks 10–12, since "its last two readings" must fall near the end.
 3. His effort and plan-fit ratings by [habit block], which show which habits still take effort at week 12: the honest case for maintenance, and never a timeline for his face.
-4. Every re-plan, with its named lever, its correction, and the next reading, so a corrected misdirection has its evidence and a review error shows its free weeks.
+4. Every re-plan, with its named lever, its correction, and the next reading, so the record shows whose miss it was.
 5. The Alliance Check's trend, which says whether the relationship can carry a recommendation.
 
-The same data tells some men they don't need more, and "you don't need Round Two" belongs to the case as much as a renewal does. Every ask waits for a measured peak: adherence at or above his threshold and at least one marker at its threshold, with no refund decision open. The ask belongs to the Renewal Case, argued from his record at the week-12 re-assessment (Module 22).
+### Weeks 1 to 11 decide what week 12 can recommend
+
+Adrian reaches week 12 with [80] of [84] days logged, his [posture tally] past its threshold since week [8], and his [second marker] higher at week [12] than at week [10]. Three captures decide what he'll hear. The week-10 reading shows momentum, so Round Two is on the table. His week-6 re-plan names the lever, the correction, and the day-[46] reading, so the week the misdirection cost is your review's miss and comes back free before any paid block. And his effort ratings show the [hotel-morning block] still leaning on review, the honest reason for maintenance. His case reads one free corrective week, then Round Two.
+
+Miss the week-10 reading and his last two readings sit six weeks apart, too far to say the marker is still moving at the end, so the honest recommendation drops to the Hold or a clean finish. Leave the lever unnamed and nobody can say whose miss it was, so it counts as yours. The signs to watch are gaps, not scores: a reading missed, a re-plan with no lever named, blank ratings. Fill each that week, on the calendar's own dates, and leave alone any extra reading between dates, any photo, and any hint of the ask to come.
+
+The same data tells some men they don't need more, and "you don't need Round Two" belongs to the case as much as a renewal does. Every ask waits for a measured peak, with a marker at its threshold, adherence met, and no refund decision open. Arguing it with him belongs to the Renewal Case, at the week-12 re-assessment (Module 22).
 
 ## Worked Example: Dan's Week-5 Plateau, From Check-In to Verdict
 

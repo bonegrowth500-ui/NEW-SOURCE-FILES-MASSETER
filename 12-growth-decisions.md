@@ -92,7 +92,7 @@ Lines are counted in ones. A page that reads as a structural promise gets fixed 
 
 The rule reaches price through the gate on each Price Step, the small raise on a published schedule (Module 7). The gate reads the close rate over 30 held conversations, all held since the last step landed. So a thin fortnight can't cancel a step the gate calls for, and a hot week can't add one it doesn't. Until those 30 exist, filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call.
 
-The same rule sets what you publish. The non-responder share and the share told they don't need Round Two wait for 30 graduates. The recommendation mix waits for 30 Decision Assessments, the paid written plans that end in one recommendation. The deliberate exception is your first outcome ranges. They go up at the proof milestone, 10 or more graduates with consented process testimonials, labeled as a small sample so a buyer can weigh them for what they are.
+The same rule sets what you publish. The non-responder share and the share told they don't need Round Two wait for 30 graduates, and the recommendation mix for 30 Decision Assessments, the paid written plans that end in one recommendation. Your first outcome ranges are the deliberate exception, going up at the proof milestone, 10 or more graduates with consented process testimonials, labeled as a small sample so a buyer can weigh them for what they are.
 
 ### Every rate keeps its denominator
 
@@ -126,15 +126,17 @@ That's the **Operator Review**. Its time sits in the admin line of the Design We
 | Monthly | Rates with a full window, the Monthly Constraint Read, the month's profit, the next start's seat cap, the month's week-6 and week-12 verdicts | One change at one unlocked joint, a due Price Step included, with two moves written down as left alone | A new rung, platform, or paid test |
 | Quarterly | Stage placement, every route from reach to renewal, the triggers set for scaling moves, publications that fall due | One structural move, from the trace or a fired trigger | Anything no trigger or trace has called for |
 
-### Content hours are checked first
-
-The weekly review opens with the Protected Content Minimum, the hours client work may never eat: about 8.5 a week early, and never under 5 at any stage, because a week that ate the camera time shows up only as a thin month later. If client work keeps eating those hours, the seat cap is the question, and your Design Week's fixed order of cuts answers it.
-
 ### A decision is any change that touches a joint
 
 A joint is any rate between reach and renewal. A decision is any change that could move one: a new script, a rewritten result page, a rung switched on, a scheduled step announced. A step is a decision even when a rule chose its timing, because it opens a window that has to be read. Two limits keep decisions readable. A joint with an open window is locked, so nothing else changes there until that window closes. And the quarterly review, which falls on the same day as that month's review, can add its one decision only at a different joint.
 
 Repairs don't count. A repair puts back a rule you already hold, and it happens the day you find the break, whatever the clock says. Two ordinary weekly fixes show the difference. Content hours fell to [6] against the early minimum, so the lost filming block goes back on [Thursday] before anything new is added. One door completion waited [30] hours for a reply, so that day's reply batch moves up. Neither changes a joint's setting, since each puts back a standard already written down. A send to a paused lead is handled the same way: fixed that day, and never counted as a decision.
+
+### A month in range still ends in a decision
+
+Cole's [October] review, month [10] of a Band B year, finds every number in range. Content held 6.75 hours all four weeks. Eligible leads ran near [80], [~15%] reached a held conversation, the close rate since his last step sits at [~28%], and check-in completion at [~87%]. The guardrails are clean, and no step falls due until [November]. The Monthly Constraint Read names conversations, answered by the Call Cap he set in month 8, and September's result-page change has read in range for two windows, so it stands.
+
+The pull is to spend the hour on a queued idea: [a shorter booking form] or [a new first welcome email]. Each would open a window over a joint that works, and a change made in a clean month spends the clean reads you have. So the month's decision is to keep, written in the closing line: no change · every joint's next window runs clean · left alone, the booking form and the welcome email · next check, the [November] review.
 
 ## 4. The Leak Trace
 
@@ -152,7 +154,7 @@ Buyers reach enrollment by three routes, and each is traced on its own. One is t
 | Assessment: Decision Assessment → program | 25–45% | Lifetime value | The written plan · Module 5 |
 | No call: warm offer-page visitor → enrollment | ~1–3% | Lifetime value | Selling without the call · Module 20 |
 | Back end: graduate → Round Two | ~10–26% | Round Two's price, ~$0.8–1.2k | The renewal ask at a measured peak, adherence met and a marker at threshold · Module 22 |
-| Back end: graduate → the Hold | 20–40% | Its monthly price × the months members stay | The Hold's deliverables · Module 10 |
+| Back end: graduate → the Hold, the measurement subscription | 20–40% | Its monthly price × the months members stay | The Hold's deliverables · Module 10 |
 
 Price every gap the same way: the middle of the joint's planning range minus your rate, times the volume that reached the joint this month, times what each one through is worth. A back-end gap comes out as lost lifetime value per graduate, which you multiply by this month's graduates. Hold churn, typically 4–8% a month, is priced the same way, in months lost.
 
@@ -160,7 +162,7 @@ A joint at or above its midpoint isn't leaking. Read single-digit joints as coun
 
 **Trace each route from reach to renewal, price every gap in dollars a month, and fix only the biggest.**
 
-That's the **Leak Trace**. Three things stay out of its ranking. Refunds are a guardrail, because the cheap way to lower them is a guarantee that's harder to collect. Check-in completion and referrals have no planning range, so they're read and never ranked. Revenue per eligible lead, lifetime value times eligible lead → enrollment, spans the whole trace. Lifetime value itself is the LTV Stack's sum of the Program, Round Two per graduate, months of the Hold, the measurement subscription for graduates, and premium seats (Module 10). That's why revenue per eligible lead sits on the Growing list: it falls when any joint leaks, and the trace says which.
+That's the **Leak Trace**. Three things stay out of its ranking. Refunds are a guardrail, because the cheap way to lower them is a guarantee that's harder to collect. Check-in completion and referrals have no planning range, so they're read and never ranked. Revenue per eligible lead, lifetime value times eligible lead → enrollment, spans the whole trace. Lifetime value itself is the LTV Stack's sum per client (Module 10). That's why revenue per eligible lead sits on the Growing list: it falls when any joint leaks, and the trace says which.
 
 The call's joint leaks both ways. A close rate below its range can mean calls full of men your door should have routed elsewhere. It can also mean good-fit buyers who left without a recommendation, a stated price, and an ask. Guardrails catch the pushed sale, and the trace catches the un-asked one.
 
@@ -170,7 +172,7 @@ A joint can also fail the other way, by flooding. The Call Cap fires on volume: 
 
 Most leaks here sit early in the chain and look like manners. Dan *(composite, Struggler)* finishes your self-assessment at [11 pm] after a shift, the day after a team photo he didn't like. A reply within hours meets him while he still wants a decision; a reply [three] days later meets a man back in his routine. So check speed to lead first whenever eligible leads grow faster than your habits: a personal reply within hours, and a booking inside 24–48 hours.
 
-Fix one joint at a time, through its owner's move, and trace again once its windows close, with the joint locked meanwhile. A repaired joint can move the biggest drop elsewhere. Faster replies send more men to your calendar, and the next trace may find the call is now the costliest gap.
+Fix one joint at a time, through its owner's move, and trace again once its windows close. A repaired joint can move the biggest drop elsewhere. Faster replies send more men to your calendar, and the next trace may find the call is now the costliest gap.
 
 ## 5. Scaling Triggers
 
@@ -200,7 +202,7 @@ Three rules keep the table honest. Read each trigger at the review it belongs to
 
 ### Paid reach depends on your band
 
-Paid reach is the one trigger that turns on your reach band, because the band decides whether organic reach can carry the plan. Bands are named at month 9, and at month 3 Band A, the channel that never breaks out, still overlaps Band B. So the signal is the Month-3 Gate's volume leg (Module 9): fewer than about 15 held conversations by week 12 says reach is short. Then a small test from months 3–4 becomes the default, run as a measurement buy.
+Paid reach is the one trigger that turns on your reach band, because the band decides whether organic reach can carry the plan. Bands are named at month 9, and at month 3 Band A, the channel that never breaks out, still overlaps Band B. So the signal is the Month-3 Gate's volume leg (Module 9), and the test it opens runs as a measurement buy.
 
 A broad benchmark puts paid reach at about $36–100 per eligible lead, above what you can afford at opening prices, so you're buying your own real cost per lead. Pass the gate, and paid waits for the Ad Gates.
 
@@ -249,7 +251,7 @@ The trace prices it. Two joints sit below their ranges. Eligible lead → held c
 
 **Decision one, the month's: fix speed to lead.** He answers door completions in [two] batches a day. He also opens conversation slots in all [three] of his weekly live windows, so the first open slot sits within [three] days. The Call Cap he set at [6] a week in month 8 isn't binding at about [2] a week, so nothing else at the door changes. The fix is read on the next two 30-lead windows, and that joint is locked until they close.
 
-**Decision two, the quarter's: switch on routing help.** For [most weeks] of the quarter, moderation and door-link replies ran [about 2 hours] a week, against a replies line of about 1 hour at Growing. A task-billed helper now moderates against his published policy and sends one templated door link, and anything touching a minor, distress, a purchase question, or client content comes to him. Routed leads carry their own source label, so the reply fix is read without them.
+**Decision two, the quarter's: switch on routing help.** For [most weeks] of the quarter, moderation and door-link replies ran [about 2 hours] a week, against a replies line of about 1 hour at Growing. A task-billed helper now moderates against his published policy and sends one templated door link. Routed leads carry their own source label, so the reply fix is read without them.
 
 **The step that ran by rule.** His step from [$2.2k] to [$2.4k], announced in [November], lands at the [January] start. The holiday fortnight held [2] conversations and no enrollments, and postponing feels prudent, but announced steps land, and [2] conversations are [2] events. The step reads on the close rate, a different joint. Until 30 conversations stand since January, about [three] months at his volume, filling starts carry the next step alone.
 
@@ -258,7 +260,7 @@ The trace prices it. Two joints sit below their ranges. Eligible lead → held c
 - A postponed step, which would teach every buyer who plans around his dates that they move.
 - Native TikTok, after a short answering ["is it too late at 27?"] ran to [four times] his usual views: its door counts showed an eligible share of [~25%], and TikTok waits until its own yield proves out.
 
-**What it shows.** Revenue held while revenue per eligible lead slid. Only the trace, priced in dollars, put the leak at the reply rather than at Round Two, where proportions pointed. Each change has its own joint and window. Two windows later, eligible lead → held conversation reads [~14%] and [~15%], and revenue per eligible lead is back near [~$155] before the step adds its [~9%].
+**What it shows.** Only the trace, priced in dollars, put the leak at the reply rather than at Round Two, where proportions pointed. Each change has its own joint and window. Two windows later, eligible lead → held conversation reads [~14%] and [~15%], and revenue per eligible lead is back near [~$155] before the step adds its [~9%].
 
 ## Templates: Stage Dashboards, Review Agendas, and the Trigger Table
 
@@ -365,8 +367,6 @@ Turn each row of the trigger table into a card in a calm month, and read each ca
 | Weekly: counts, guardrails, content hours | One repair, or none |
 | Monthly: full-window rates, the Monthly Constraint Read, verdicts | One change, two left alone |
 | Quarterly: stage, the trace, triggers, publications | One structural move |
-
-*Scaling Triggers:* the Call Cap, Module 5 · a new rung, Module 4 · the next Price Step, Module 7 · templated review, Private, and the cash ceiling, Module 13 · routing help, Module 11 · paid adult reach, Module 27 · a platform added or dropped, Module 25.
 
 **Framework cheat sheet**
 

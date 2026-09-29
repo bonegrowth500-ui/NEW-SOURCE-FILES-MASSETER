@@ -76,7 +76,7 @@ The stop matters as much as the climb. Once the answer is about his life, you ha
 
 Say the destination back in his words. Put three things in the same breath: the obstacle, the plan, and one perspective line that places the destination beyond his face. The obstacle and the plan keep a vivid destination an expectation, which sustains effort, instead of a fantasy, which drains it. That pairing is Fantasy to Expectation (Module 14). The perspective line keeps you honest about cause, because the life he wants runs through far more than his face.
 
-Name it vividly, because a destination said flatly moves no one. Future-pace the record: a moment he'll recognize, with his week-12 captures, the standardized photos, beside his baseline. Then add the line beyond his face. Never join the destination to the feature as cause and effect, because that's a structural promise and a claim that his face is why they don't.
+Name it vividly, because a destination said flatly moves no one. Future-pace the record: a moment he'll recognize, with his week-12 captures, the standardized photos, beside his baseline. Never join the destination to the feature as cause and effect, because that's a structural promise and a claim that his face is why they don't.
 
 The say-back bends to his state. A burned buyer hears the record he'll keep and the terms he can check before anything vivid. An Optimizer hears deliverables and their dates, and an Ambivalent buyer hears the start date he'd choose. For an insecurity-led buyer, leave missed moments out of the say-back, even ones he named as his goal, and keep the destination at knowing instead of guessing. That's part of the Dignity Route, a way of running the sale that keeps his face out of the stakes (Module 15).
 
@@ -125,7 +125,7 @@ Most buyers show more than one state, so read them in a fixed order. Burned come
 
 ### States move, so read them at every contact
 
-A state is a reading, not a label. It moves inside one conversation, when an Ambivalent buyer names his own stake, and across months, when a Struggler buys one more device that promised a jawline. So write it in your notes in his words and date it. Read it again at every contact, because a reading that's weeks old sends him down a route that stopped fitting him. How each route runs on a live call is State Routing (Module 19).
+A state is a reading, not a label, and it can move inside one conversation, when an Ambivalent buyer names his own stake. So write it in your notes in his words and date it. Read it again at every contact, because a reading that's weeks old sends him down a route that stopped fitting him. How each route runs on a live call is State Routing (Module 19).
 
 ### Women and men past the core band are welcome, not targeted
 
@@ -197,11 +197,21 @@ Those moments are buying triggers, events that turn a stall he can live with int
 
 ### A trigger speeds your reply and nothing else
 
-A trigger is the moment a buyer is most willing, and sometimes the moment he's most fragile. The team photo that sent Dan to your door is, for another man, the edge of a fixation. A wedding next month can make a buyer want a promise no one can keep. So a trigger changes his timing and never your checks: the same fork, the same question, the same fit screening, the same honest timeline. Answered fast and calmly, a pain spike builds more trust than urgency would, because he can tell which reply is using the moment.
+Your door already asks for it in his words, "What made you look for help now?", beside "When could you start?" (Module 5). Read the answer for three things. The trigger it names shapes his first reply. A date of its own, which a life event or a fresh start brings, sets where his decision date comes from. And words that lean on his worth or on checking send him to the Dignity Route or the Fit Check, whatever the trigger.
+
+Beyond that, the trigger changes only your speed. It's the moment he's most willing and sometimes most fragile, since the team photo that sent Dan to your door is, for another man, the edge of a fixation, so every check runs as it would on any other day.
+
+### A pain spike gets a fast reply and the calendar's date
+
+Dan's answers show the read: [about eight months] of [his daily routine] and a [jaw device], "This month" for a start, "No" and "Rarely" on the two fit items, and for why now, "Got tagged in the team photo from the offsite". That's a pain spike, his stall gone public at work, with no date of its own and no words about his worth, so the standard route runs. The reply goes out within hours, from you, and never mentions the photo, since he can tell which reply is using the moment:
+
+> "Thanks, Dan. I've read your answers. Eight months of work with nothing measured is what a free call is for: my straight answer on what can change for you, and one recommendation, which may be 'don't buy'. I have [Monday 7pm] or [Tuesday 12:30]. Until then, log [one habit] daily, so we start from your record."
+
+The date comes from the calendar, never the photo: the next monthly start and its last day to join. On Monday's call he hears it once, with what his week-6 read will show him, and decides there. Left alone: the photo in any copy, a "before the next team photo" deadline, and any discount to catch the moment.
 
 ### Respect them; never manufacture them
 
-Respecting triggers is mostly being ready for them. Have content for the searches men run after one ("is it too late at 27?", "why isn't mewing working?"). Keep a door that replies within hours, and a real start date to pin the decision to. Ask at the door what made him look for help now, because the answer names the trigger in his words. When Sam says "after the busy season", he's naming a fresh start of his own. Offer the next start first and ask what changes then: a vague answer keeps the next start, and a concrete one dates his decision to the first start after it.
+Being ready is most of respecting them: content for the searches men run after one ("is it too late at 27?", "why isn't mewing working?"), and the same calm for a fresh start he names. When Sam says "after the busy season", offer the next start first and ask what changes then: a vague answer keeps the next start, and a concrete one dates his decision to the first start after it.
 
 Manufacturing triggers is the category's habit. Insecurity hooks make the pain spike for him, "new year, new jawline" countdowns fake a fresh start, and comparison content invites him to rate himself against strangers. Each can lift clicks for a week. Each also recruits the buyers most likely to fixate or ask for refunds, trains your audience to wait for the next manufactured moment, and hands the category's harshest critic a screenshot. Buyers who arrive on their own trigger bring their own reasons, and those survive the Program's first hard week in a way borrowed urgency doesn't.
 
@@ -241,7 +251,7 @@ Declines build your position once they're visible. Count your fit declines in ag
 
 Cole (composite operator) is in month [4], Early stage, holding [4] conversations a week. His founding group, every early client in one group with monthly entry, is open at [~$1.2–1.5k] for 12 weeks. Four buyers who look eligible reach his door in one week, each in a different state, and a fifth completes it on Friday.
 
-**Monday. Dan: the read is Struggler.** His door: legal adult, about eight months of [his daily routine], one [jaw device], and a team photo at work as the reason he's looking now. On a free first call, Cole finds the widest gap is feedback. The ladder reaches the destination: taken seriously at work, at ease on camera, and knowing whether the months did anything. Dan names what another year of guessing would cost him. Cole recommends the founding group from [the next monthly start], shows both real tiers with the founding Private seat first, and states the price once. Dan answers yes to the affordability question, clears the Fit Check, says yes to the ask, and books day one. Left alone: what the device cost him.
+**Monday. Dan: the read is Struggler.** His door names the team photo at work as the reason he's looking now. On a free first call, Cole finds the widest gap is feedback. The ladder reaches the destination: taken seriously at work, at ease on camera, and knowing whether the months did anything. Dan names what another year of guessing would cost him. Cole recommends the founding group from [the next monthly start], shows both real tiers with the founding Private seat first, and states the price once. Dan answers yes to the affordability question, clears the Fit Check, says yes to the ask, and books day one. Left alone: what the device cost him.
 
 **Tuesday. Theo: the read is Burned Struggler.** Theo *(composite, Burned Struggler)*, 26, in sales, names a device and a course that both promised structural change, and he wants the guarantee terms before booking. Cole says the plain thing first: "You weren't foolish to buy those. You were sold promises nobody could check, so check everything here." He recommends the founding group once, sends the verification kit and the terms, and asks what another year of buying things he can't check would cost. He future-paces from the record: a written read by [a fixed date in week 6] would tell Theo what's moving, the knowing no photo gives him. Theo picks his decision date, [ten days out]. Left alone: any probe of "I need to think", and what the device cost.
 

@@ -46,7 +46,7 @@ Those beliefs don't add up; they chain. Each one is necessary and none is enough
 5. "With this structure, I'll actually do it."
 6. "Waiting costs something real, and there's a real date."
 
-That's the **Belief Chain**: the six beliefs a purchase completes, named Cause, Range, Vehicle, Guide, Self, and Now, with Hold and Share after the sale. It's a working model built from the evidence on each belief, and you'll test its order on your own calls.
+That's the **Belief Chain**: the six beliefs a purchase completes, named Cause, Range, Vehicle, Guide, Self, and Now, with Hold and Share after the sale. It's a working model built from the evidence, and you'll test its order on your own calls.
 
 **Cause, Range, Vehicle, Guide, Self, Now: every no names a broken link, though a stop rule can mark one you never work on.**
 
@@ -81,7 +81,7 @@ Some no's mark a link you never work on: money he's said he can't spare, distres
 
 The Hold link, the belief that buys continuity, says what he built is worth protecting until it holds on its own. It covers Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. Habits take from days to most of a year to run without reminders, so at week 12 some of his still need them. The case for continuing is the Renewal Case, made from his record and only at a measured peak, a reading with his adherence and one marker at threshold (Module 22). When his record says he doesn't need more, telling him so repairs Guide.
 
-The Share link, the belief that makes a referral feel rigorous, says recommending you makes him look careful rather than insecure. Buying help with your face can read as insecurity, so few men here will recommend it in public. The ask comes once, privately, at a measured peak, with something inside it that makes the sender look rigorous, and never at a plateau, a flat read, or an exit.
+The Share link, the belief that makes a referral feel rigorous, says recommending you makes him look careful rather than insecure. Buying help with your face can read as insecurity, so few men here will recommend it in public. The ask comes once, privately, at a measured peak, with something rigorous inside it, and never at a plateau, a flat read, or an exit.
 
 ### Every asset earns its place by the link it repairs
 
@@ -93,7 +93,7 @@ A no rarely says which link broke. You read it from the signs in his words, chec
 
 ### Each link leaves signs in his words
 
-A buyer's conclusion arrives in the category's vocabulary, "I need to think" or "is it too late for me?", and the link shows in the words around it. You'll hear them as patterns in comments, in one man's phrasing on calls, as a change from last week in check-ins, and in refund requests:
+A buyer's conclusion arrives in the category's vocabulary, "I need to think" or "is it too late for me?", and the link shows in the words around it, in comments, on calls, in check-ins, and in refund requests:
 
 | Link | The sign in his words | The question that checks it |
 |---|---|---|
@@ -136,7 +136,9 @@ What you never say is that nobody sticks with this on their own, which answers a
 
 ### Two limits come before any check
 
-A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date. Every stop rule ends the work on links entirely. "I can't afford it" gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that holds every marketing send for 60–90 days, then asks his permission again. Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. Whatever the stop, the card reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
+A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date.
+
+Every stop rule ends the work on links entirely. "I can't afford it" gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that holds every marketing send for 60–90 days, then asks his permission again. Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. Whatever the stop, the card reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
 
 **When the signals disagree.** Say Sam *(composite, Ambivalent)*, 22, an apprentice electrician who keeps deferring, says he'll start "after the busy season", a Now sign. Earlier he mentioned restarting [his routine] [three] times this year and dropping it by week [3] each time, a Self sign. Repair the earlier link first, and when his words and his record disagree, trust the record, because a date laid on a broken Self link buys a start and a week-3 exit. So check Self first: ask what happened the last three times.
 
@@ -228,8 +230,6 @@ Say that verdict with force aimed at the situation: "Your logs show [~90]% of da
 
 Each correction fades, so the Canon works by sustained exposure: a few calibrated claims, in fixed words, reaching him on a schedule for as long as the business runs.
 
-### Sustained exposure holds what single corrections can't
-
 Picture the buyer who never comments. He watches for months while the category's content reaches him daily, so what holds him is exposure that doesn't stop. One large field experiment sent short corrections every fortnight for six months, and the corrected beliefs stuck, most of all among people who read them. It's one study, but its shape is the Canon's: short, regular, and for months.
 
 ### The Canon is short and said in fixed words
@@ -250,15 +250,15 @@ That set is the **Canon**: 5–7 calibrated core claims, the Honest Answer first
 
 Repetition makes any claim feel truer, true or not. That's how "mewing gave me a jawline" came to feel like evidence under thousands of videos, and it works the same way for whatever you repeat. So a claim passes three tests before it enters the rotation.
 
-Its tier sits inside the sentence: claim 1 holds a refusal, a debated middle, and an established yes, and "we see" makes claim 2 an observation from your own conversations. Its words survive the crop you run on a destination sentence, with no caveat outside it and no count that goes stale. And it points to one proof a skeptic can open, like the sample weekly review behind claim 5, so repetition he can check becomes verification. "Your stall isn't genetic" fails the crop, since nobody can say it about every stall.
+Its tier sits inside the sentence: claim 1 holds a refusal, a debated middle, and an established yes, and "we see" makes claim 2 an observation from your own conversations. Its words survive the crop you run on a destination sentence, with no caveat outside it and no count that goes stale. And it points to one proof a skeptic can open, like the sample weekly review behind claim 5, so repetition he can check becomes verification. "Your stall isn't genetic" fails the first test, since nobody can say it about every stall, which is why claim 2 says what you see.
 
-Choose the set from your link tally, the count of which link broke behind each no. After about 30 link cards, give a claim to every link a broadcast can reach that breaks, and a second to the busiest, with claim 1 fixed first because his search lands on Range. Fewer than five leaves a busy link on one claim, and more than seven comes round too rarely to hold: at one Canon Lane email a month, seven already take seven months.
+Choose the set from your link tally. After about 30 link cards, your notes on each no, give a claim to each of Cause, Range, Vehicle, and Guide that breaks, and a second to the busiest, with claim 1 fixed first because his search lands on Range. Fewer than five leaves a busy link on one claim, and more than seven comes round too rarely to hold: at one Canon email a month, seven already take seven months.
 
 ### Claims change by dated correction, and the rotation by its signs
 
 The words stay set because a hedge about bone in one video and a hint in the next teaches a viewer to trust neither. A claim changes only when the evidence under it moves or it fails the crop in public. The change goes on your log, dated, with the old words, the new ones, and the reason, and a retired claim keeps its line. A silent edit is the tell a skeptic hunts. A correction on the record is a signal a grifter can't afford.
 
-The rotation follows one rule: claim 1 on every entry surface, each other claim at least every four to six weeks, and a resurfacing myth's claim first for about two weeks:
+The rotation follows one rule: claim 1 on every entry surface, each other claim at least every four to six weeks, and a resurfacing myth's claim first for about two weeks. The defaults by surface:
 
 | Surface | Which claims | How often |
 |---|---|---|
@@ -267,17 +267,17 @@ The rotation follows one rule: claim 1 on every entry surface, each other claim 
 | Email | The Canon Lane, one claim per send to every subscriber but paused leads, from your first graduation (Module 26) | About monthly |
 | Calls and check-in replies | Claim 1 whenever Range comes up; the claim for the link you confirmed | Every time, in the claim's words |
 
-Run it on Cole (composite operator) at his month-[9] quarterly review. Cause led his last [~30] link cards. Door answers named a [new chewing device] [five] times in a fortnight. And comments were quoting his sign-off, "measure it and you'll see", back to him as a promise about their jaws. He reads the device as a resurfacing myth, so claim 1 leads everywhere for about two weeks. Cause is a weighting change, so claim 2 takes its long-form slot every four weeks.
+Run it on Cole (composite operator) at his month-[9] quarterly review. Cause led his last [~30] link cards. Door answers named a [new chewing device] [five] times in a fortnight. And comments were quoting his sign-off, "measure it and you'll see", as a promise about their jaws. He reads the device as a resurfacing myth, so claim 1 leads everywhere for about two weeks. Cause is a weighting change, so claim 2 takes its long-form slot every four weeks.
 
 The sign-off is the hard read. Any line said often enough works as a claim, and this one fails the crop. He retires it by dated entry, "[date]: retired, read as a promise about your face; claim 5 carries the idea", and ends each short on its own claim. Left alone: every Canon claim's words, the Canon Lane's pace, and the size of the set.
 
 ## Worked Example: Dan, Link by Link from First Video to Renewal
 
-Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about eight months into [his routine] with nothing measured, the stalled adult this business is built around.
+Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about eight months into [his routine] with nothing measured.
 
-**First video: Range, then Cause.** One night after a team photo at work, he searches whether an adult can still change his jaw and finds your Honest Answer. He watches it to the end, then a second video that tells a stall like his back to him: months of effort, photos under whatever light the bathroom had, a new tip every few weeks. He comments, "This is literally me." Range held first because his search landed there, and Cause followed, because the stall was missing measurement rather than missing him. You answered in public and linked your door, which starts with a self-assessment. Left alone: any pitch in the reply.
+**First video: Range, then Cause.** After a team photo at work, he searches whether an adult can still change his jaw and finds your Honest Answer. A second video tells a stall like his back to him: months of effort, photos under whatever light the bathroom had, a new tip every few weeks. He comments, "This is literally me." Range held first because his search landed there, and Cause followed, because the stall was missing measurement rather than missing him. You answered in public and linked your door, which starts with a self-assessment. Left alone: any pitch in the reply.
 
-**Three weeks later: Vehicle at the door.** The result page that answers his self-assessment names his pattern in his words and what was missing: a baseline, captures taken the same way every time, someone reading the record. He books a fit conversation, the free first call that ends in one recommendation, and keeps the free week of logging while he waits: [6] of [7] days. Vehicle held, and Self got its first evidence from a record he produced.
+**Three weeks later: Vehicle at the door.** His result page names his pattern in his words and what was missing: a baseline, captures taken the same way every time, someone reading the record. He books a fit conversation, the free first call that ends in one recommendation, and keeps the free week of logging while he waits: [6] of [7] days. Vehicle held, and Self got its first evidence from a record he produced.
 
 **The call: Guide and Self.** He asks how he'd know you're not one more channel selling a jawline. Instead of arguing, you walk him through the Verify Page and your dated log, which counts the buyers you've told not to buy. When he says he always quits after a few weeks, you ask what happened last time: he couldn't tell whether it was doing anything. His logged week answers that, [6] of [7] days with no one watching.
 
@@ -378,8 +378,6 @@ Keep one row per claim, checked at your quarterly review. In your own copy, add 
 | Now | His stake, said back; the next real start |
 | Hold | His week-12 record, in the Renewal Case |
 | Share | A private ask with a guide inside |
-
-**The verdicts.** Adherence first. Unmeasured → fix the measurement. Misdirected → only with a named lever, a written correction, and early movement. Otherwise the lever doesn't move → say so.
 
 **Framework cheat sheet**
 

@@ -21,15 +21,15 @@ Reach Bands, the four planning bands for how many eligible leads a month your ch
 
 ### Early conversations teach what a dashboard can't
 
-A view arrives with no age, no budget, and no history. A held conversation arrives with all three. It tells you why a man eight months into [his current routine] still can't tell whether it works, what he has bought, and what he measures. It tells you which destination he's after: to be taken seriously, to be at ease in photos, or simply to know. Those answers become your first check-in, your first review template, and the words your pages use.
+A view arrives with no age, no budget, and no history, while a held conversation arrives with all three: why a man eight months into [his current routine] can't tell whether it works, what he has bought, and what he measures. Those answers become your first check-in, your first review template, and the words your pages use. Early calls also show where your close breaks while a break still costs only one buyer: an argument about bone mid-call, or a price that arrives at the very end.
 
-Early calls also show where your close breaks, while a break is still cheap. This category sets two traps. The bone question pulls you into an argument mid-call, or the research runs so long that the price arrives at the very end. Heard back in your notes in week 4, either flaw costs one buyer; left until month 9, it costs a month.
+### Week 1's open hours start conversations
 
-### Founding revenue pays for the editor
+In week 1 your content is already set at about 8.5 hours: the Honest Answer, long-form every other week, 4–7 short pieces, the result email, and replies. What's open are the lines no client has claimed: about 4.5 hours of conversation slots, 2.5 of review, and half an hour of Private, roughly 7.5 hours. Posting into them feels productive, and here it's slow: a new channel's long-form pays off over months, and short-form's first job is reach, with far fewer leads per view. A disclosed message to an adult you know can book a conversation this week.
 
-The Early week runs about 20 hours, and roughly 8.5 of them are the Protected Content Minimum, content hours client work can never eat. A long-form piece costs about 4–6 of your hours with an editor, and a good deal more without one. Long-form is also where a skeptical buyer checks you before he books, so a thin month there costs you the buyers who check.
+**Default:** keep content at its lines and spend the open hours starting conversations, because extra posts can't book the calls week 3 needs. The hours go back to clients as the first ones enroll.
 
-The first edits, the Honest Answer's included, come out of the reserve you hold before month 1, about 2–3 months of costs. Founding cash refills it. That's why founding clients pay the business's costs before they pay you, and why you keep your other income through these months.
+Cole *(composite operator)* reads his week 1 from what he can count: [no] subscribers, [zero] door completions, [about 40] adults he knows by name, and those 7.5 open hours. Reach can't carry this month; his warm network can, once. Over [three] evenings he sends the warm-network message, one disclosed business message to each adult he knows, to all [40]. He answers [two] threads a day with Permission-First Replies, answering in public and asking before anything private. He leaves alone a daily posting plan, price, paid reach, and a second platform, since none adds a conversation before week 4. By the end of week 2 the message has booked [2] conversations, in hours his week already held.
 
 ## 2. The Founding Sprint: Sources and Speed
 
@@ -65,7 +65,7 @@ If someone replies "Are you saying I need this?", answer: "Not at all. It went t
 
 ### Replies route to the door
 
-Replies under your pieces and Permission-First Replies, answering in public and asking before anything private, carry attention to the door with no public pitch (Module 25). A man whose age you can't tell gets the public answer and nothing private. Anyone who says he's under 18 gets the education lane, your public content plus an orthodontist referral. Here a commenter who has mentioned his warehouse shifts asks whether it's too late at 24:
+Replies under your pieces and Permission-First Replies carry attention to the door with no public pitch (Module 25). A man whose age you can't tell gets the public answer and nothing private. Anyone who says he's under 18 gets the education lane, your public content plus an orthodontist referral. Here a commenter who has mentioned his warehouse shifts asks whether it's too late at 24:
 
 > **You:** "Straight answer: there's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Which are you working on?"
 >
@@ -75,9 +75,9 @@ Replies under your pieces and Permission-First Replies, answering in public and 
 
 A yes gets the door link and nothing else, since the door checks age and fit first. If he wants the answer right there, keep it public and point to [the Honest Answer]. Never offer "send me a side profile and I'll rate it", and let a no end it.
 
-### Three numbers frame the weekly count
+### Two numbers frame the weekly count
 
-The count sits beside three numbers with different jobs. The target, 3–6 held conversations a week, is what you aim for. The month-3 waypoint, roughly 3–18 a month across the bands, is what you plan on. The minimum, about 15 held by week 12, is the line you can't stay under without changing sources.
+The count sits beside two numbers with different jobs. The target, 3–6 held conversations a week, is what you aim for. The minimum, about 15 held by week 12, is the line you can't stay under without changing sources.
 
 The Early week's 4.5 conversation hours hold 4–5 calls at about an hour each, so a sixth comes out of slack. Plan on 0–2 clients in month 1 and 2–6 by month 3, depending on your labels. First cash can slip past month 1 if every label runs slow. A plan that says so in advance is one you won't abandon in week 5.
 
@@ -169,7 +169,7 @@ Founding clients buy a program, and the business gets its instruments, so every 
 
 ### The instruments are built on real weeks
 
-Few check-ins, photo standards, or review templates survive their first real client unchanged. A check-in designed at a desk meets a man whose shifts rotate, and the field he skips is the one you thought mattered. Photo conditions copied from a guide meet his bathroom light and a phone held at arm's length. A list of why men stall, written from your own months, meets stalls you never had. One-to-one review finds all of it fast, which is why the founding group's depth is research as much as service.
+Few check-ins, photo standards, or review templates survive their first real client unchanged. A check-in designed at a desk meets a man whose shifts rotate, and photo conditions copied from a guide meet his bathroom light and a phone held at arm's length. A list of why men stall, written from your own months, meets stalls you never had. One-to-one review finds all of it fast, which is why the founding group's depth is research as much as service. Version the check-in and the Capture Standard from those weeks, and keep any rating that dipped before a missed week, your earliest warning of a slide.
 
 The R&D Harvest is what founding clients must produce, each part frozen at version 1 once it survives the founding group. The founding page says so, and asks his consent for his record, stripped of his name, to shape it. The last row feeds the Dated Record, your published pre-commitment plus a dated log no one can back-fill (Module 3):
 
@@ -189,8 +189,6 @@ Pattern: [name, in plain words] · Verdict: [unmeasured | misdirected | lever no
 Signs in the log: [sign] · [sign] · First move: [one adjustment]
 Seen in: [n] founding records · [n] research answers · Version 1, [date]
 ```
-
-Version the check-in and the Capture Standard from the founding weeks. Cut or rewrite a field that goes blank week after week, and keep any rating that dipped before a missed week, your earliest warning of a slide. When a capture needs a retake, note the condition that failed, such as arm's length, overhead light, or a clenched jaw, and rewrite that step.
 
 ### Process testimonials wait for the record
 
@@ -257,7 +255,7 @@ Cole *(composite operator)* starts from zero in [January] with door v0, a foundi
 | 7–9 | [1] | [0] | [3] | [4] | [1] | [4] | [~$10.65k] |
 | 10–12 | [0] | [0] | [3] | [4] | [2] | [5] | [~$12.75k] |
 
-**Weeks 1–2. Every label opens.** He sends the warm-network message to [40] adults he knows, one at a time. Jordan *(composite, minor)*, 16, a teammate's younger brother, asks under a short for a rating of his side profile. He gets the public answer about growing faces, the orthodontist referral, and no message. The first client comes through a forward, takes the [January] start's late entry, and is labeled warm network.
+**Weeks 1–2. Every label opens.** Jordan *(composite, minor)*, 16, a teammate's younger brother, asks under a short for a rating of his side profile. He gets the public answer about growing faces, the orthodontist referral, and no message. The first client comes through a forward, takes the [January] start's late entry, and is labeled warm network.
 
 **Week 3. Two labels under 2 a week.** Warm network and replies have given [4] held conversations in three weeks. He moves [2] hours a week from long-form to short-form batches and Permission-First Replies, so his next long-form slips to [week 7]. He leaves price and paid reach alone. The shift pays first in week [5], when a short brings a second group client.
 
@@ -365,7 +363,7 @@ Run it at each founding client's week 12, and monthly for your log.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, so labeled sources, the Dual-Purpose Conversation, and the founding group are the default until the Month-3 Gate passes. Founding graduates become Round Two's first cohort. The trap is a quieter way of waiting for an audience: posting daily while the warm-network message sits unsent and door completions wait a day for a reply.
+**Early.** Reach binds, so labeled sources, the Dual-Purpose Conversation, and the founding group are the default until the Month-3 Gate passes. Founding graduates become Round Two's first cohort. The trap is answering a door completion the next day because content felt more urgent, when a reply within hours is what turns a completion into a booking.
 
 **Growing.** Conversion and selling hours bind, and the founding method opens each new offer. First buyers hear they're first, the price is real or has a stated end, and their weeks become its instrument. Round Two was the first, built on your founding graduates, and the Decision Assessment, the paid route once free calls hit their cap, usually comes next. The trap is a "founding" price on the core Program after it has sold at full price, a discount with a story attached.
 

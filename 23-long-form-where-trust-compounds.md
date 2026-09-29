@@ -31,7 +31,7 @@ Give each job one asset that answers for it and one number that shows it working
 | A Q&A archive | The archive: one page linking every answered question to its answer | Repeat questions answered by a link, not a new reply |
 | A warm pool | Email, where adults who finished your self-assessment are tagged by stage | Eligible adults on the list; clicks per delivered against 2–5% |
 
-Those are the **Nurture Jobs**: the five jobs every coaching business must get done between a first view and a purchase, each with its owning asset. Long-form owns the first and feeds the rest, filling the archive and sending viewers to the proof library. Every piece routes to your door, the one owned path from first click to one recommendation (Module 5). Early, the library holds process proof only, since a client's story needs consent after the fit window, his full-refund period. Later stories carry their Context Stack: who, what else changed, the timeline, capture conditions, the range, and the denominator.
+Those are the **Nurture Jobs**: the five jobs every coaching business must get done between a first view and a purchase, each with its owning asset. Long-form owns the first and feeds the rest, filling the archive and sending viewers to the proof library. Every piece routes to your door, the one owned path from first click to one recommendation (Module 5). Early, the library holds process proof only, since a client's story needs consent after the fit window, his full-refund period.
 
 **Five jobs, one owner each, one door.**
 
@@ -67,7 +67,7 @@ Long-form pieces keep working after the week they ship, carry a clickable path i
 
 An adult with a decision question types it into search: too late at 24, worth doing after braces, a year with nothing to show. Those questions don't expire, so a piece that answers one keeps getting found for months or years. Suggested feeds weigh whether viewers were satisfied more than whether they clicked, so a piece that satisfied adults keeps reaching adults, and one that satisfied teenagers keeps reaching teenagers.
 
-Each of those viewers meets a path inside the piece: links in the description and pinned comment beside the ask you say aloud, opening on your door's age question before anything is kept. Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10, counting only views where he kept watching past the first seconds. Decision-stage topics, a matched door page, and a spoken ask that's also pinned push it up, while a generic freebie and teen-heavy traffic pull it down. The minutes he stays are also the minutes he watches you reason. That's presence over pedigree: sustained presence and visible standards carry the trust a credential only claims (Module 15).
+Each of those viewers meets a path inside the piece: links in the description and pinned comment beside the ask you say aloud, opening on your door's age question. Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10, counting only views where he kept watching past the first seconds. Decision-stage topics and a spoken ask that's also pinned push it up, and teen-heavy traffic pulls it down. The minutes he stays are also minutes he watches you reason, which is presence over pedigree: sustained presence and visible standards carry the trust a credential only claims (Module 15).
 
 ### Half-life decides the hours per piece
 
@@ -75,7 +75,7 @@ Half-life budgeting sets an asset's hours by how long it keeps working times how
 
 | Asset | How long a piece keeps working | Its path to the door | Hours per piece |
 |---|---|---|---|
-| Long-form | Months to years, through search and suggested feeds | Clickable links in the piece, plus a spoken ask | ~4–6 of yours, with an editor |
+| Long-form | Months to years | Links in the piece, plus a spoken ask | ~4–6 of yours with an editor, fewer as batching settles |
 | Short-form | Mostly days | One link to a long-form piece, or the profile | Minutes, inside a weekly batch |
 | Instagram and X posts | Most of a post's reach arrives within a day or two | A profile link, or a keyword he sends by DM | Minutes |
 | Email | The send | One link, to adults already on the Assessed rung | A small weekly line, mostly automated flows |
@@ -86,20 +86,20 @@ In this niche, half-life and yield point the same way. A trend piece dies within
 
 ### Compounding shows up in old pieces
 
-Read each piece by where its views come from, because a piece that compounds looks ordinary in its first week. After its first month it draws most of its engaged views from search and suggested feeds, and its monthly views hold or rise while a launch spike decays toward zero. Across the channel, the sign is the back catalog's share: the eligible leads each month that arrive through links on pieces older than a quarter. That share starts at zero and should climb through the first year, which is why a steady cadence beats a chased upload.
+Read each piece by where its views come from, since a piece that compounds looks ordinary in its first week. After its first month, most of its engaged views come from search and suggested feeds, and its monthly views hold or rise while a launch spike decays toward zero. Channel-wide, the sign is the back catalog's share: eligible leads each month through links on pieces older than a quarter. It starts at zero and should climb through the first year.
 
-At each quarterly Operator Review, read three lines per piece from the platform's report and its tagged link: its search-and-suggested share, its monthly engaged views, and its eligible leads per 1,000 engaged views. Most pieces earn no change, since each change makes the feeds re-learn whom a piece satisfies. A few earn one:
+At each quarterly Operator Review, read three lines per piece: its search-and-suggested share, its monthly engaged views, and its eligible leads per 1,000 engaged views from its tagged link. Most pieces earn no change, since each change makes the feeds re-learn whom a piece satisfies. A few earn one:
 
-| Two quarterly reads in a row show | The read | The default move |
+| Two quarterly reads show | The read | The default move |
 |---|---|---|
-| Search impressions steady, click-through below your usual | The title no longer matches the question, or a newer piece outranks it | Retitle once, and let the platform's title test judge it on watch time |
-| Views steady, yield falling, more door starts under 18 | Its package drifted toward the teens a suggested feed found | Age up its title and thumbnail |
-| A claim it quotes changed, or its price segment is stale | The piece now says something untrue | Swap the segment or re-film that section the same week |
-| Search share and views falling, yield steady | Fewer adults ask this question | Leave it, and build the next piece on what door answers ask now |
+| Search impressions steady, click-through below your usual | The title stopped matching the question | Retitle once; the platform's title test judges on watch time |
+| Views steady, yield falling, more door starts under 18 | The package drifted young | Age up its title and thumbnail |
+| A quoted claim or the price segment is out of date | It now says something untrue | Swap the segment or re-film that section that week |
+| Search share and views falling, yield steady | Fewer adults ask this | Leave it; make the next piece on what door answers ask now |
 
-A refresh never adds a date or an "updated" label, since an evergreen piece points to the page for the next start and its last day to join.
+A refresh never adds a date or an "updated" label, since an evergreen piece points to the page for the next start. Cole *(composite operator)* runs the read at month [9]. His first piece, the Honest Answer, his straight answer on bone, now draws [~75%] of its views from search and suggested feeds, with monthly views up from [~1.1k] to [~1.6k] at a steady [~2] eligible leads per 1,000, so he leaves it.
 
-Cole *(composite operator)* runs the read at his month-[9] review. His first piece, the Honest Answer, his straight answer on bone, now draws [~75%] of its views from search and suggested feeds, and its monthly views have climbed from [~1.1k] to [~1.6k] at a steady [~2] eligible leads per 1,000. It compounds, so he leaves it. His stall piece, "Eight months in and nothing to show", holds its search impressions, but its click-through has slid from [~6%] to [~3%] over two reads since a larger channel posted a near-identical title. He retitles it once, "[24, eight months in: what your logs can't tell you]", and the title test keeps the new package on watch time. Pieces older than a quarter now bring [about half] of long-form's eligible leads. Left alone: every other piece, and any re-upload, which would start the feeds' learning from nothing.
+His stall piece, "Eight months in and nothing to show", keeps its search impressions, but its click-through has slid from [~6%] to [~3%] over two reads since a larger channel posted a near-identical title. He retitles it once, "[24, eight months in: what your logs can't tell you]", and the title test keeps the new package on watch time. Pieces older than a quarter now bring [about half] of long-form's eligible leads. Left alone: every other piece, and any re-upload, which restarts the feeds' learning from nothing.
 
 ## 3. Packaging for Adults
 
@@ -123,9 +123,9 @@ Three packaging choices lower the minors' share without touching the method or a
 
 **Every title picks an audience, so pick adults.**
 
-No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. A matched pair appears only in your site's library or inside a long-form piece, with its Context Stack said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
+No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. A matched pair appears only in your site's library or inside a long-form piece, with its Context Stack, the six items that make a result checkable, said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
 
-The dial lowers the minors' share at every stage and never aims at an adult age band. Read it at your door's age fork, and guard the other side with the 18–24 share of adult completions, read in aggregate from the door's age-band item. If a package pushes that share down, pull it back, because nothing may push out adults inside your 19–32 core. At Scaling the dial does the same job. Any change in your adult mix comes from the Buyer-Mix Shift's state lever and its page for Optimizers, buyers with more money than time, read as an observed mix (Module 13).
+The dial lowers the minors' share at every stage and never aims at an adult age band. Read it at your door's age fork, and guard the other side with the 18–24 share of adult completions, read in aggregate from the door's age-band item. If a package pushes that share down, pull it back, because nothing may push out adults inside your 19–32 core. Any change in your adult mix comes from the Buyer-Mix Shift's state lever and its page for Optimizers, buyers with more money than time, read as an observed mix (Module 13).
 
 The default puts every package at each lever's first position or past it. Turn a lever one position further when a package's minors' share at the fork runs above your channel's over about 30 door completions. Early, one piece rarely reaches 30, so read the platform's audience-age report per piece and pool pieces by package type until the pool does.
 
@@ -145,7 +145,7 @@ Every piece has two jobs. Reach brings new eligible adults to you, and belief re
 | Belief | Held conversations and door answers that name the piece; how often its link's objection comes up on calls | That objection's count before the piece shipped |
 | Offer demand | Enrollments traced to its offer-page ask | About 1–3% of warm offer-page visitors |
 
-One Ask per Asset, one primary ask with at most one ranked secondary, lets each line trace to one piece. Read the card once a piece, or a pool in one package, reaches about 30 door completions, and again each quarter. Count every line in adults, because a view can't buy. Click-through explains the card: most videos land at 2–10% of impressions, so compare each piece with your channel's usual.
+One Ask per Asset, one primary ask with at most one ranked secondary, lets each line trace to one piece. Read the card once a piece, or a pool in one package, reaches about 30 door completions, and again each quarter. Click-through explains the card: most videos land at 2–10% of impressions, so compare each piece with your channel's usual.
 
 | Click-through | Eligible yield | The read | The move |
 |---|---|---|---|
@@ -188,7 +188,7 @@ The playlist plays the five in order, so each keeps the ask its rung and link se
 
 The fifth piece carries the series' full pitch segment. It names the offer, who it's for and who it isn't, and the destination with one line placing it beyond the face. Then it gives the public price with what's in it, and the likely cost of his first [9] months from the Path and Timeline Card he reads before paying. Record it as a two-minute module you swap at each Price Step, because steps can land every second start and a re-shoot costs 4–6 hours. Anyone under 18 hears that it isn't for him, and the date line points to the page.
 
-Pin the series as a playlist at the front of your channel and link it in every description. Assemble it in your first quarter from pieces you'd make anyway. At Growing, re-film the weakest at your higher bar and add the Offer Pieces, the five pieces that answer a warm buyer's questions on your offer page. Replace a piece when its scorecard sits below plan for two readings or a claim it quotes changes.
+Pin the series as a playlist at the front of your channel and link it in every description. Assemble it in your first quarter from pieces you'd make anyway. At Growing, re-film the weakest at your higher bar and add the Offer Pieces, the five pieces that answer a warm buyer's questions on your offer page. Replace a piece when its scorecard sits below plan for two readings.
 
 ## 5. The Production Bar, on Camera from Day One
 
@@ -222,13 +222,13 @@ None of it is about looking better. No filter, beauty mode, retouch, or AI edit 
 
 ### Batch every two weeks, and hand out production first
 
-Film in one batch every two weeks. A batch day holds lens, distance, and light identical, so no two videos hand viewers an accidental before/after of your own face. It also stops a heavy client week from eating a piece. Plan about 4–6 of your hours per piece with an editor, fewer as scripting and batching settle.
+Film in one batch every two weeks. A batch day holds lens, distance, and light identical, so no two videos hand viewers an accidental before/after of your own face. It also stops a heavy client week from eating a piece.
 
 Production is the first work to hand out, because it's the largest block of hours where your judgment isn't the product. Editing goes first, then clips, then thumbnails and design. Scripts, claims approval, and final sign-off stay with you, because every clip is a new claim in your name.
 
 ### Hook and retention stay simple
 
-The opening restates the title's question and starts paying it at once. When the title asks whether it's too late, the first minute gives the no about bone and then the yes about what moves, in the Honest Answer's order. Where viewers drop, the promise stalled: tighten that stretch and name what's coming at each turn. Make the pace faster and tighter, and never the stakes hotter, because a hotter stake wins the click of the man you'd least want to sell to.
+The opening restates the title's question and starts paying it at once: asked whether it's too late, the first minute gives the no about bone, then the yes about what moves. Where viewers drop, the promise stalled, so tighten that stretch and name what's coming next. Make the pace faster, never the stakes hotter, since a hotter stake wins the click of the man you'd least want to sell to.
 
 ## 6. The Comment Courtroom and Cadence
 
@@ -273,7 +273,7 @@ The line you never say is "Unlike those scammers, my clients get real results." 
 
 ### Teardowns run on the same rules
 
-Once a quarter, and whenever a claim pattern turns up in your door answers, a teardown runs the Honest-Evidence Test, the tells of manufactured proof, on a published claim. Its faces are blurred and its handles and watermarks removed (Module 16). Package it by this module's rules: no pair or seller in the title or thumbnail, no "exposed" framing, and no place in the Start Here Series.
+Your quarterly teardown runs the Honest-Evidence Test, the tells of manufactured proof, on a published claim, with faces blurred and handles removed (Module 16). Package it by this module's rules: no pair or seller in the title or thumbnail, no "exposed" framing, and no place in the Start Here Series.
 
 ### Cadence follows the stage
 
@@ -291,7 +291,7 @@ When a week runs past 25 hours, long-form above its minimum cadence is the fourt
 
 Cole *(composite operator)* starts from zero in January with door v0, the first working version of his door, and an editor paid per piece. His founding page sells the founding group, which every founding client joins from the first, at a founding price whose end the page states. His Founding Sprint, the labeled first conversations of an operator with no audience, supplies most early calls. So long-form's job this quarter is trust and search.
 
-**Month 1. Five owners, however thin.** Before piece 2 ships, he names each job's owner. Exposure gets the Honest Answer and an every-other-week cadence. Proof gets his pre-commitment and dated log, process proof only, since no client can consent to a story yet. Identity gets the free log with every booking, the Starter Path, and a two-minute practice segment in each piece. The archive starts as a page of his first [three] answers, and the warm pool is the list his door fills.
+**Month 1. Five owners, however thin.** Before piece 2 ships, he names each job's owner. Exposure gets the Honest Answer and an every-other-week cadence, proof his pre-commitment and dated log, identity the free log and a two-minute practice segment, the archive a page of his first [three] answers, and the warm pool his door's list.
 
 | Week | Piece | Job | Link | Rung | Ask | Age-Up choices |
 |---|---|---|---|---|---|---|
@@ -325,7 +325,6 @@ Score each candidate topic before it gets a batch slot. A topic earns one only w
 | "Is it too late at 27?" | [9] door answers this month | Exposure · Range | Stranger | Yes | 1, 7 | Yes | Make it: the door, no price |
 | "Is it all genetics at 24? Six questions for the shrug" | [Five] comments saying so this month | Exposure · Range | Stranger | Yes | 1, 2 | Yes | Make it: steelman the shrug, then run the Honest-Evidence Test's six questions |
 | "[This week's jaw trend]" | Comments on [one] piece | Exposure · Range | Stranger | No | 1 | No | Reframe for adults, or drop |
-| "[Brand]: what we do, what we refuse, and what it costs" | People searching your name | Proof · Guide | Returning | Yes | 1, 6 | Yes | Make it once your name gets searched, usually in Growing |
 | [Your topic] | [Where you heard it] | [Job · link] | [Rung] | [ ] | [ ] | [ ] | [ ] |
 
 Demand means what adults said to you, in door answers, on calls, and in comments, never a guess about what might trend. A question adults will still search next year earns the most hours.
@@ -360,8 +359,6 @@ Run it on the export, before scheduling.
 5. Are your eyes on the lens for the Honest Answer, the stake, and the pitch? → Re-film those lines.
 6. Is every face free of any filter, retouch, or AI edit? → Re-export from the raw footage.
 7. Are prices only in editable places, captions corrected, and no date anywhere? → Fix it before scheduling.
-8. Did the piece take about 4–6 of your hours with the editor, or fewer? → Over: hand the next step to your editor or your batch day.
-
 ## Stage Notes
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
@@ -397,7 +394,7 @@ Run it on the export, before scheduling.
 | A Q&A archive | The archive |
 | A warm pool | Email |
 
-*Dial:* "adult" → an age or life stage → an adult decision · level face → faceless object · Range → Vehicle or Guide. *Production Bar:* card and rung · hook paid · captions · editable prices, no dates · the on-camera standard. *Courtroom:* publish the policy · pin your comment, then the best skeptic · minors, distress, and face remarks to you. *Cadence:* every other week Early · about 3 a month Growing · 2–3 Scaling.
+*Dial:* "adult" → an age or life stage → an adult decision · level face → faceless object · Range → Vehicle or Guide. *Production Bar:* card and rung · hook paid · captions · editable prices, no dates · the on-camera standard. *Courtroom:* publish the policy · pin your comment, then the best skeptic · minors, distress, and face remarks to you.
 
 **Framework cheat sheet**
 

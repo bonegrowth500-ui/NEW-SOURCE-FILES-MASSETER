@@ -151,13 +151,9 @@ The position to hold sits between the hype and the shrug. You hold it by fightin
 
 ### The middle answers both questions
 
-Call it the Credible Middle: the position between grift hype and "it's all genetics". A middle is usually weak ground, where an operator splits the difference to offend no one. This one is strong because it isn't a compromise between the two answers. It's the only position that answers both of the buyer's questions, about bone and about everything else, each at its evidence tier. The hype answers the second question with a promise about the first, and the shrug answers the first and walks away from the second.
+Call it the Credible Middle: the position between grift hype and "it's all genetics". A middle is usually weak ground. This one is strong because it answers both of the buyer's questions, about bone and about everything else, each at its evidence tier, while the hype answers the second with a promise about the first and the shrug answers the first and walks away.
 
-Holding it takes force. You can be pointed, even cutting, about practices and business models: a title that promises bone in weeks is a sales tactic, and a before/after without matched capture proves nothing. A channel that never measures has no idea whether its advice works, so say that plainly too. Steelman before you strike, though. A buyer who followed that channel for a year will defend it if he hears you mock what he believed, and a man defending an old belief is rehearsing it.
-
-### Ideas take the hits, people never do
-
-Aim at ideas and incentives, never at a person, and keep the two lists apart:
+Holding it takes force aimed at ideas: pointed, even cutting, about practices and business models, after a steelman, because a man who hears you mock what he believed will defend it, and a man defending an old belief is rehearsing it. Keep the targets and the people on separate lists:
 
 | Aim at | Never at |
 |---|---|
@@ -165,28 +161,33 @@ Aim at ideas and incentives, never at a person, and keep the two lists apart:
 | Business models: the next tip, the next device, the next rating | Anyone's features |
 | The genetics shrug, steelmanned first | Clinicians, who are where you send people |
 
-An attack on a person reads as rivalry, makes you one more loud voice in the fight you're positioned above, and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea gives the buyer a tool he can use on anyone, including you.
+An attack on a person reads as rivalry and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea hands the buyer the Honest-Evidence Test, the tells of manufactured proof and the standard of honest evidence, taught through teardowns with every face cropped or blurred (Module 16). Build your Capture Standard, matched conditions for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
 
-That tool is the Honest-Evidence Test, which teaches buyers the tells of manufactured proof and the standard of honest evidence. It covers teardowns of published claims, with every face cropped or blurred (Module 16). Teaching it binds the teacher, so build your Capture Standard, matched distance, lens, angle, light, expression, and time of day for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
+### A grift claim gets a teardown of the idea, never the seller
 
-### Clinicians are where you send people
+Theo forwards you an ad that's everywhere this week: a before/after captioned "[21] days with the [device]", an affiliate code beneath it, and his question, "Is this real?" [Three] door answers mention the same ad, so it has earned an extra teardown. His question is due diligence, the claim is device grift, and the pull is to mock the seller.
 
-Your position should read to an orthodontist, dentist, sleep physician, or psychologist as correct about bone, careful about the middle, and honest that coaching replaces none of them. Name the triggers that send a man their way and leave the advice to them: sleep or snoring signs, jaw pain, bite concerns, distress or fixation, and anyone under 18. The "what doctors won't tell you" angle is a trap, because it collides with the lines on structural claims and credentials and makes you sound like what you're positioned against.
+Steelman first, because part of it is true: distance, light, and a few pounds can change how a face looks within weeks. Then take the claim apart at full strength, faces blurred and the handle and product cropped. The after is shot closer and lit from above, the face is leaner, the timeline is in days, and the caption sells the lever: a before-and-after at a different distance is a photograph of the camera. Left alone: the seller's name, face, and motives, and any "scam" label. Theo gets the teardown and the test to run on your claims too. Yours survive it partly because you carry no affiliate code, and a removed conflict is a signal a grifter can't afford.
 
-Money follows the same logic. Remove conflicts instead of disclosing them: no affiliate codes, sponsorships, or referral fees from device, supplement, or procedure sellers, said on the Verify Page. A disclosed conflict still reads as one, and a removed one is a signal a grifter can't afford to send.
+### A dismissive clinician gets agreement on bone and the referral
+
+Your position should read to any clinician as correct about bone, careful about the middle, and honest that coaching replaces none of them. Test it under your Honest Answer, where a commenter who says he's an orthodontist writes, "Mewing is nonsense. Adults can't change their jaws. See a professional." It gathers [hundreds of] likes by evening, and every adult reading watches whether you fight a clinician. He's right about bone and wrong that nothing else changes, so agree, keep the yes, and name the referral:
+
+> "Agreed on bone, and it's the first thing the video says: 'There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed.' Anything structural, like a bite concern, jaw pain, snoring, or a growing teenager, goes to someone like you. Clinicians are where I send people."
+
+Pin the exchange. Left alone: his credentials, his tone, and any "what doctors won't tell you" angle, which collides with the lines on structural claims and credentials.
 
 ### A good line is one neither voice would say
 
-Every positioning line, title, and product description gets one quick test. Read it once in the voice of a hype merchant. Then read it in the voice of a clinician being dismissive at the end of a long clinic day, answering only the bone question. If it sounds natural in the first voice, it overclaims; if it sounds natural in the second, it has dropped the yes. That's the Neither-Grifter-nor-Doctor Test: keep a positioning line only if neither a hype merchant nor a dismissive clinician would say it.
+Every positioning line, title, and product description gets those two voices as a quick test. If it sounds natural from a hype merchant, it overclaims; if it sounds natural from a clinician who's dismissive at the end of a long day, it has dropped the yes. That's the Neither-Grifter-nor-Doctor Test: keep a line only if neither voice would say it.
 
 | Line | Hype merchant? | Dismissive clinician? | Verdict |
 |---|---|---|---|
 | "Build the jaw you were meant to have, at any age" | Yes | No | Out: a structural promise |
 | "Habits won't change your jaw. See an orthodontist if it bothers you." | No | Yes | Out: true about bone, silent on the rest |
 | "Your bone won't change from habits. Here's what can, and how you'll measure it" | No | No | Keep |
-| "At ease in the photo, taken seriously in the room: what can change, what can't, and how you'd know" | No | No | Keep |
 
-A line that passes can be read by a skeptic and a clinician without either one flinching. An adult who's done being lied to acts on it, because it's the first line in his search that didn't ask for faith.
+A line that passes is often the first in his search that didn't ask for faith, and an adult who's done being lied to acts on it.
 
 ## 5. Name | Brand
 

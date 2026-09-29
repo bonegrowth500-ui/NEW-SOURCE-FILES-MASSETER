@@ -239,31 +239,33 @@ Ask: the free self-assessment in my profile
 
 ## 6. Cadence by Stage
 
-Short-form gets its most hours while long-form has no search traffic. The lab moves at long-form's pace, because every framing it nominates needs a long-form piece to be confirmed.
+Short-form's line moves when long-form starts finding adults on its own, and the lab changes shape as derivatives replace native pieces. Both follow long-form, because every framing the lab nominates needs a long-form piece to confirm it.
 
-| Stage | Short-form a week | Pieces and the lab | Who cuts |
-|---|---|---|---|
-| Early, under about 50 eligible leads a month | About 3.5 h | 4–7 native pieces; two framings in matchups; about two long-form tests a month | You film; an editor cuts; you approve |
-| Growing | About 1.25 h | [3–5] pieces, mostly derivatives; one matchup a week; up to three tests a month | A freelancer cuts; you approve |
-| Scaling | About 0.5 h | [2–4] derivatives; one matchup when a long-form slot fits | Freelancers cut; you approve every clip |
+| Stage | Short-form a week | Pieces | The lab | Who cuts |
+|---|---|---|---|---|
+| Early | About 3.5 h | 4–7 native | Two framings filmed as separate openings; about two long-form tests a month | You film; an editor cuts; you approve |
+| Growing | About 1.25 h | [3–5], mostly derivatives | One matchup a week, both framings scripted into the long-form batch | A freelancer cuts; you approve |
+| Scaling | About 0.5 h | [2–4] derivatives | One matchup when a long-form slot fits | Freelancers cut; you approve every clip |
 
-### The Canon rotation sets the batch
+Each batch walks the Canon one claim per piece, with claim 1 in every piece built on the category's search terms and a resurfacing myth's claim first for about two weeks. Matchups sit inside that rotation, two framings of one claim in the same week, so the lab never costs the Canon a slot.
 
-Each batch walks the Canon in order: one claim per piece, cycling through all seven. At 4–7 pieces a week, each claim returns every week or two. Claim 1, the Honest Answer, goes in every piece built on the category's search terms, whatever the rotation says. When a myth resurfaces, the claim that answers it leads for about two weeks. Matchups sit inside the rotation, two framings of one claim in the same week, so the lab never costs the Canon a slot.
+### The line moves on yield, not revenue
 
-### The week-3 shift pauses the lab's confirmations
+Early, shorts carry reach because a new channel can't rank yet, while a feed shows your piece to strangers in its first week. That edge fades once long-form's older pieces bring adults through search and suggested feeds, since a long-form view yields several times the leads of a short one and carries its own path. Revenue can't show that crossing. A Price Step can lift you into Growing's revenue while reach still binds, and cutting the reach engine then starves the month after. So read the crossing in your own counts at the monthly review, per source label:
 
-The Founding Sprint's week-3 source check can collide with the lab. If your warm network and replies give fewer than 2 held conversations a week by week 3, move about 2 hours a week from long-form into short-form batches and Permission-First Replies. Those are public answers on other threads, with a DM only after he says yes. Long-form is left with about half an hour a week, so its next piece slips, and the lab's confirmations wait with it. Take that cost with open eyes, because conversations decide month 3 and a framing can wait a month.
+- Eligible leads have held at about 50 a month or more for two months, the Growing volume signal.
+- Long-form's eligible leads per hour of your time beat short-form's over two windows of about 30 door completions each.
+- The share of long-form's eligible leads from pieces older than a quarter is climbing.
 
-Keep the Honest Answer up and every link pointing at it, and let two-win framings queue in the order they won. The hours go back to long-form once your weekly count reaches the Sprint's 3–6 held conversations. If week 12 brings fewer than about 15, the shift stays. Short-form and replies then take more slack, up to 25 hours a week, beside the small adult-only paid test that opens at months 3–4.
+When all three hold, move short-form to about 1.25 hours and give the freed hours to the lines Growing adds, one of them long-form's third piece a month. While any fails, keep the Early line, whatever revenue says. The move to about half an hour waits for care minutes to bind, since a waiting list means a short that adds leads now adds them to a queue. Left alone at every move: Reels routing, the Clip Context Check on every clip, and the matchup rules.
 
-### The hours follow compounding
+### Derivatives narrow what the lab can test
 
-Once long-form draws its own search and suggested traffic, an hour there buys more adults than an hour of shorts, since its views yield far more leads and carry a clickable path and your pitch. So Growing's design week moves short-form to about 1.25 hours, and Scaling's to about half an hour of approvals. Keep the Early line while eligible leads run under about 50 a month, whatever revenue says.
+A native piece is filmed for its platform, so two framings can open on different situations: the 27-year-old at his mirror, or the headshot about to go on the company site. A derivative is cut from a long-form script, so its point, words, and length are set before the short exists, and only its first line, first frame, text, and cover can differ. Test only those, and the lab measures covers. So in Growing, write the week's two framings into the long-form script as two vertical takes of one point, shot in the same batch, and keep the matchup's floor, margin, and adult-share line.
 
-### Overload cuts come in a fixed order
+The clip brief names which framing each cut carries, word for word, because a cutter's tidier first line turns a matchup into a different test. If the Sprint's week-3 check moves hours from long-form into shorts and replies, confirmations wait with the slipped piece, and two-win framings queue in the order they won. Past 25 hours, the De-Scoping Order cuts the TikTok trial first, then X and native Instagram, then short-form above its stage line, Reels before Shorts, and never the line itself, which sits inside the Protected Content Minimum (Module 11). A short that spreads adds no hours or platform; it's a candidate for the lab like any other framing.
 
-Past 25 hours, the TikTok trial goes first, with the other experiments. After X and native Instagram posts, short-form above its stage line goes next, Reels before Shorts, while keyword replies keep routing the Reels already up. The stage line itself sits inside the Protected Content Minimum, content hours client work can never eat (Module 11). A short that spreads never adds hours or a platform. It's a candidate for the lab, like any other framing.
+Cole *(composite operator)* reads the crossing at month [7]. Eligible leads ran [~55] and [~62] the last two months, and long-form brought [~4] eligible leads per hour of his time against short-form's [~2] over two windows. His revenue crossed Growing's line [two] months earlier, on a Price Step, and he kept the Early line then, because leads still ran under 50. Now short-form drops to about 1.25 hours: [four] derivatives a week, cut by a freelancer, with one matchup scripted as two vertical takes. The freed hours go to a third long-form piece a month. Left alone: Reels routing, the Canon rotation, and TikTok, which still has no slack for a trial.
 
 **Short-form leads while long-form is young, and the lab keeps long-form's pace.**
 
