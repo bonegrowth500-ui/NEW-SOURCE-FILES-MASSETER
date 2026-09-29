@@ -3,9 +3,9 @@
 
 **The shift:** from *"proof means before/afters and testimonials"* to *"proof is a format a skeptic can audit, plus a test of honest evidence he can apply to anyone."*
 
-Theo *(composite, Burned Struggler)*, 26, checks everything before he buys, since his last device came with a promise about his jaw. Tonight two posts sit in his feed. The first is a transformation pair: the after shot lit from above, the chin tilted, "[90] days" in bold, a discount code underneath, and no dates anywhere. The second is plainer. It shows two captures of a stranger, taken at a marked distance under the same lamp and dated 12 weeks apart. The caption names what was measured, says he also lost [a few] kilograms over those weeks, and shows how [n] of [N] graduates did on the same measure, including the men whose measures didn't move.
+Theo *(composite, Burned Struggler)*, 26, checks everything before he buys, since his last device came with a promise about his jaw. Tonight two pairs of photos reach him. The first sits in his feed, another seller's transformation pair: the after shot lit from above, the chin tilted, "[90] days" in bold, a discount code underneath, and no dates anywhere. The second is plainer, in a long-form video he found by searching. It shows two captures of a stranger, taken at a marked distance under the same lamp and dated 12 weeks apart. The caption names what was measured, says he also lost [a few] kilograms over those weeks, and shows how [n] of [N] graduates did on the same measure, including the men whose measures didn't move.
 
-Theo has seen that overhead light before, so he scrolls past the first. He reads the second twice, opens the dated log behind it, and books a fit conversation, the free first call that ends in one recommendation.
+Theo has seen that overhead light before, so he scrolls past the first. He pauses the second on its caption, opens the dated log linked below it, and books a fit conversation, the free first call that ends in one recommendation.
 
 The dramatic pair lost because he knew how it was made. The modest one won because he could check how it was made, what else changed, and who else was counted. In this category, that's what proof is: a format a skeptic can audit, plus a test of honest evidence he can use on anyone, you included.
 
@@ -15,7 +15,7 @@ In this category, more proof persuades less, because your buyer arrives knowing 
 
 ### He knows how the photos were made
 
-Once a buyer recognizes a persuasion tactic, he discounts the whole message and starts asking what the seller wants, which is among the better-established findings about persuasion. Your buyer has had years of practice: manufactured before/afters, devices sold with a jaw promise attached, and tips that never end. The camera facts behind the first are well documented and easy to show. Distance and lens change a face's proportions, and a phone held close enlarges the nose most visibly. Overhead light carves shadows along the jaw, a chin tilted up or down changes how the jaw reads, and a few kilograms lost show in the lower face. He has concluded that any photo can be staged, and he's right.
+Once a buyer recognizes a persuasion tactic, he discounts the whole message and starts asking what the seller wants, which is among the better-established findings about persuasion. Your buyer has had years of practice: manufactured before/afters, devices sold with a jaw promise attached, and tips that never end. The camera facts behind the first are well documented and easy to show: distance, lens, overhead light, and a tilted chin each change how a jaw reads, and a few kilograms lost show in the lower face. He has concluded that any photo can be staged, and he's right.
 
 So the dramatic pair works against you: the bigger the change it shows, the harder he hunts for the light. The Burned Struggler, the buyer who already paid for a structural promise, goes further and assumes any proof he can't check was made the way his last purchase was sold.
 
@@ -66,9 +66,9 @@ Educational claims carry their evidence tier, how well supported a claim is: est
 
 Cole *(composite operator)* meets the ladder in a check-in. In week [9], Sam *(composite, Ambivalent)*, 22, a founding client, ends his log with a sincere line he wants public: "My jaw is way sharper. This method works. Post it." "This method works" is an outcome claim about everyone with no count behind it, and "my jaw is sharper" is a bathroom-mirror reading of the debated column. Cole replies the same day: "Good to hear it. Keep logging. At week 12 we'll look at matched captures and your markers, and that's the only version I'd put in public, with your say-so."
 
-At week 12, one of Sam's markers, the two or three measures agreed at baseline that decide his verdict, reaches its threshold. Once the verdict is settled, Sam agrees to a results testimonial and offers his captures, and it waits for Cole's first range. When it runs, the caption reads:
+At week 12, one of Sam's markers, the two or three measures agreed at baseline that decide his verdict, reaches its threshold. Once the verdict is settled, Sam agrees to a results testimonial and offers his captures, and it waits for Cole's first range. When it runs in his site library, the caption reads:
 
-> "Sam, 22, eight months of solo effort before he joined. [Body-composition marker]: [baseline reading] on [date], [week-12 reading] on [date], past his threshold. Matched captures below: same distance, lens, light, and hour, [no] deviations. Also changed: he shaved off a beard in [week 8], and at 22 he may still be maturing. Among all clients so far, [N] started, [n] left at week 6, and [n] graduated; [n] graduates reached a threshold on at least one marker, and [k] reached none. On this marker type the range was [A–B] across [n] graduates. Observed, not caused."
+> "Sam, 22, [eight] months of solo effort before he joined. [Body-composition marker]: [baseline reading] on [date], [week-12 reading] on [date], past his threshold. Matched captures below: same distance, lens, light, and hour, [no] deviations. Also changed: he shaved off a beard in [week 8], and at 22 he may still be maturing. Among all clients so far, [N] started, [n] left at week 6, and [n] graduated; [n] graduates reached a threshold on at least one marker, and [k] reached none. On this marker type the range was [A–B] across [n] graduates. Observed, not caused."
 
 ### Every observation carries its context
 
@@ -136,7 +136,7 @@ Four stories carry this brand, and each persuades only at the rung your records 
 
 A story carries him into one man's weeks. Narrative persuades with a small to moderate effect, moving intentions a little more while statistics move beliefs a little more, so every story here travels with its numbers or a plain statement that it has none. The risk comes with the power: a story about one man implies he's typical, so each carries its context, and the four split by whose voice they're in.
 
-Each answers a question he brings: why you built this, why he stalled, what changes when a man starts measuring, and what happened to one measured man among everyone measured. That's the **Four Stories**: Origin, the Stall Told Back, the Transition, and the Case, each with its context. Two are yours and run from month 1. Two are his and wait for consent asked at his first measured peak after his week-6 decision, so no client story exists in month 1.
+Each answers a question he brings: why you built this, why he stalled, what changes when a man starts measuring, and what happened to one measured man among everyone measured. That's the **Four Stories**: Origin, the Stall Told Back, the Transition, and the Case, each with its context. Two are yours and run from month 1. Two are his and wait for consent asked at his first measured peak after his week-6 decision, a reading with his adherence and one marker at threshold, so no client story exists in month 1.
 
 | Story | Whose voice | What it proves | Rung | Usable from |
 |---|---|---|---|---|
@@ -153,7 +153,7 @@ Origin tells why the standard exists: what you watched fail, what you couldn't f
 
 The Stall Told Back is his story told better than he tells it, built from anonymized patterns in your conversations and, later, your records. Its force goes at the situation, and it claims no verdict it can't check:
 
-> "Eight months. You did the work most nights and took a comparison photo most weeks, and no two were taken the same way, so the photos couldn't tell you anything. Most stalls I see come from direction: real effort, no map, and nothing measured. Yours might be one of those, or it might be a lever that doesn't move for you, and right now nobody can say which, you included. Measure it, and by week 6 your record shows what's moving. By week 12 it can tell you if a lever doesn't."
+> "Eight months. You did the work most nights and took a comparison photo most weeks, and no two were taken the same way, so the photos couldn't tell you anything. Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. Right now nobody can say, you included. By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you."
 
 Dan *(composite, Struggler)* hears himself in it and gets nothing he can't check. It names the part of his stall he can change this week, the missing measurement, and admits the third answer, which keeps it inside Stall Verdicts: a stall is unmeasured, misdirected, or "the lever doesn't move for this person" (Module 14). It grades his setup, not his face or his discipline, so it passes the Dignity Check, whether he leaves more capable or more defective (Intro).
 
@@ -383,7 +383,6 @@ Run it before filming and again before publishing. One "no" holds the piece.
 
 **Takeaways**
 - To a buyer who audits, format is evidence, and volume without a count reads as selection.
-- Each rung up the Claim Ladder carries more context; the top rung is never used.
 - Points for what you control, tight ranges with named denominators for what varies.
 - Your two stories run from month 1; his two wait for his consent, and Cases run in a set order.
 
@@ -417,6 +416,6 @@ Run it before filming and again before publishing. One "no" holds the piece.
 | **The Four Stories** | Run your two stories now, his two when consent and range allow |
 | **The Honest-Evidence Test** | Teach the tells and six questions, down to out of how many |
 
-**Leans on:** the Capture Standard (Module 6) · Measured-Peak Asks (Module 22) · the Dated Record and the null-result stance (Module 3) · the Proof Portability Gradient (Module 27).
+**Leans on:** the Outcome Map, the Dated Record, and the null-result stance (Module 3) · the Capture Standard (Module 6) · the Belief Chain and Stall Verdicts (Module 14) · What My Face Does and Doesn't Prove (Module 15) · Measured-Peak Asks (Module 22) · the Clip Context Check (Module 24) · the Proof Portability Gradient (Module 27).
 
 **Do this month:** sort every live claim and testimonial by rung, and pull anything above its context; add your milestone trigger, Case order, and consent template to your pre-commitment; publish one teardown once your Capture Standard is public.

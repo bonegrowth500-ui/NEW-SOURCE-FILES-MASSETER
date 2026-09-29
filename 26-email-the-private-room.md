@@ -49,7 +49,7 @@ So he drops the second letter and builds what those days lacked: the result in m
 
 Until your list holds a few hundred eligible adults, send no weekly letter. Early on, email gets about half an hour of your week, enough for the result email and the welcome. Reach binds then, so the hour a letter would take makes more leads as short-form or public replies. A small list can't teach you anything either. At 2–5% clicks per delivered, a letter to [80] readers draws [two to four] clicks, too few to tell a good letter from a bad one.
 
-The threshold usually arrives with Growing, when your week gives email about an hour. Every address finished your door as an adult, which puts email on the Assessed rung of the Warmth Ladder, the rule for which asset may ask for what (Module 18). So the letter's one ask is the offer page with its public price. Stock never gets more than one send a week: the letter, or in its place a date send or the month's Canon Lane claim. And nothing from stock reaches a man while his own welcome runs.
+The threshold usually arrives with Growing, when your week gives email about an hour. Every address finished your door as an adult, which puts email on the Assessed rung of the Warmth Ladder, the rule that you never ask for a rung the buyer isn't standing on (Module 18). So the letter's one ask is the offer page with its public price. Stock never gets more than one send a week: the letter, or in its place a date send or the month's Canon Lane claim. And nothing from stock reaches a man while his own welcome runs.
 
 ## 2. The Welcome Arc and Readiness Tags
 
@@ -76,7 +76,7 @@ Everything a sequence needs from the door fits in four labels: his stage, his Bu
 | Route | Call · assessment · no-call | What follows welcome 1: a booking, a paid written plan, or the sales sequence |
 | Pause | Set, with no reason | Whether any marketing send reaches him |
 
-No tag records a fit answer, how he feels about his face, how often he checks it, his goal in his words, or a mention of jaw pain, bite, or snoring. A yes on those three only sets his route to call, so your note, referral first, comes before any sequence or payment; the route is stored, never the answer.
+No tag records a fit answer, how he feels about his face, how often he checks it, his goal in his words, or a mention of jaw pain, bite, or snoring. A yes on those three only sets his route to call, and the route is stored, never the answer.
 
 His answers stay on your own site, where his result page reads them and saves nothing. Your email tool is where segments get built, exported, and synced to other tools, so a field reading "checks mirrors daily" sits one integration away from an audience. In a category whose grift sells to insecurity, a list of who is insecure is the asset this business refuses to build.
 
@@ -121,7 +121,7 @@ Build the exits before the emails, because a sequence with one exit missing keep
 
 That fixed follow-up is the Follow-Up Rule: a recap within 24 hours, one check-in on his Decision Date, his personal date to decide by, and one close-the-loop (Module 19). The unfinished-checkout note waits for a yes to the affordability question, because a generic cart email fires on exactly the man who stopped at the question. The "not for me" link sits beside the unsubscribe in every sales email, so a man can end the pitch without leaving the list or spending a complaint.
 
-Two rows carry most of the risk. "I can't afford it" arrives in replies as well as checkouts, and writes the same tag wherever it's heard. A minor can surface anywhere. The education lane, public content and a referral with nothing kept, means deleting him from your tool that day, with no list of who he was and no word about coming back.
+Two rows carry most of the risk: "I can't afford it" arrives in replies as well as checkouts, and a minor can surface anywhere. The education lane, public content and a referral with nothing kept, means deleting him from your tool that day, with no list of who he was and no word about coming back.
 
 **Wire the exits before you write the emails.**
 
@@ -203,7 +203,7 @@ The common advice is to delete any address that hasn't clicked in a few months. 
 
 The youngest cohort should carry the largest share, since that's where flow lives. The middle one sets your re-permission point. A silent lead, one with no click or reply since his welcome ended, gets one re-permission ask at 181 days, or at 61 if the 61–180 cohort shows no revenue over a readable window. The oldest reads what the Canon Lane and re-permission keep alive, revenue from men who went quiet and came back, which is the case for their sends and their complaints.
 
-Re-permission rather than deletion means asking an old lead once whether to stay. It's one email with no price, offer, or date that names what a yes brings, and a plain line that silence ends his emails. A yes brings the flow back and keeps a man who has just chosen you again; silence or a no ends marketing mail without spending a complaint. Hard bounces go at once, and no bought or imported list ever joins.
+Re-permission rather than deletion means asking an old lead once whether to stay, in the same email that ends a pause. A yes keeps a man who has just chosen you again, and silence or a no ends marketing mail without spending a complaint. Hard bounces go at once, and no bought or imported list ever joins.
 
 **When the signals disagree.** The morning after Cole's [May] announcement, one recipient has reported it as spam. Against the [~150] engaged leads it reached, that single complaint reads [0.67%], past the never-line. Against the [~1,900] emails his domain delivered that month, it's about [0.05%], inside the budget. The send says stop promotions; the month says the list is healthy. Go by the month, because providers judge the domain over time, and trace the complaint anyway.
 
@@ -229,7 +229,7 @@ Client mail and receipts run as streams of their own, which limits the damage a 
 
 The first touch after onboarding is yours, a personal note within 72 hours of baseline day that reads his first days back to him. After that, the check-in reminder earns its place: the program asks about 10 minutes a week, and the reminder gets those minutes spent. Send it once, on his check-in day, with the form link and nothing else. Its wording, and what happens when a check-in doesn't come, follow your adherence rules, which count returns and never point a reminder at his refund terms (Module 21).
 
-Capture reminders go out only on the calendar's dates: baseline, about week 6, week 12, and then quarterly. Rising checking or distress in a check-in switches them off and sets the pause tag. A prompt to photograph his face is the wrong mail for a man whose checking is climbing. Captures never travel by email, since an attachment copies his face into places neither of you can delete. No automated client email asks for a renewal, a referral, or a testimonial; those asks come from you, at moments his record shows progress.
+Capture reminders go out only on the calendar's dates: baseline, about week 6, week 12, and then quarterly. Rising checking or distress in a check-in switches them off and sets the pause tag. A prompt to photograph his face is the wrong mail for a man whose checking is climbing. Captures never travel by email, since an attachment copies his face into places neither of you can delete. No automated client email asks for a renewal, a referral, or a testimonial; those asks come from you, and only at a measured peak, a reading where his adherence and a marker have reached their thresholds, so no refund decision is open.
 
 ### Replies are yours
 

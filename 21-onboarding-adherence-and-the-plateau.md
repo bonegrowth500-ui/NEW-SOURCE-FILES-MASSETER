@@ -41,7 +41,7 @@ Doubt peaks after a costly purchase. Here it cuts deeper, because every earlier 
 
 Baseline day, the Program's first review-and-decision day, produces his first capture, his log week, and his markers, the two or three pre-agreed measures that decide his verdict (Module 6). Inside it, in about [25] minutes, three things happen. First, you read his week-zero record, the days he logged before day one, and decide the first change. [His habit block] moves to [before his shift], and nothing else changes for [two] weeks.
 
-Second, he writes two or three lines in his own words on what he wants these twelve weeks to settle. Third, he signs off the Expectation Document, the written terms he read before paying, and you read its adherence condition aloud once: [80%] of days logged. Then you name every exit with its date. Up to day [16] the fit window refunds in full. From his week-6 read, the written mid-program review, the exit right refunds unused weeks to a client who did the work. At week 12 the non-response clause returns part of his fee in cash if he did the work and no marker moved. That's the **Commit Ritual**, and its one job is clarity:
+Second, he writes two or three lines in his own words on what he wants these twelve weeks to settle. Third, he signs off the Expectation Document, the written terms he read before paying, and you read its adherence condition aloud once: [80%] of days logged. Then you name every exit with its date. Up to day [16] the fit window refunds in full. From his week-6 read, the written mid-program review, the exit right refunds unused weeks to a client who did the work. At week 12 the non-response clause returns part of his fee in cash if he did the work and no marker reached its threshold. That's the **Commit Ritual**, and its one job is clarity:
 
 **Decide the first change from his record, let him write his reasons for you alone, and sign the terms with every exit in view.**
 
@@ -140,7 +140,7 @@ The terms come from the Layered Guarantee, one refund layer for each thing that 
 | Stop | Who, and when | What he gets |
 |---|---|---|
 | Fit window | Anyone, day one of delivery to day [14–21] | A full refund within 7 days |
-| Before the week-6 read | Anyone, once the fit window has closed | Delivery ends at his word; his refund route is the exit right at the read |
+| Before the week-6 read | Anyone, once the fit window has closed | His week-6 read comes forward, adherence judged over the weeks delivered, and the exit right applies from it |
 | Exit right | At or above his adherence threshold, flat record or not, from the week-6 read until 7 days after | What he paid beyond delivered weeks (about half, if paid in full), within 7 days; unpaid installments cancel |
 | Referral stop | Anyone, in any week, when a refer-out trigger ends delivery | What he paid beyond delivered weeks, within 7 days; unpaid installments cancel |
 | After the exit window | Anyone stopping by choice | Installments cancel forward, and unused weeks can move to a start within 6 months; delivered weeks aren't refunded |
@@ -156,7 +156,7 @@ Three things stay out of every exit: his written reasons, a re-pitch, and a test
 
 Weekly review puts you closest to him in the weeks a checking habit can grow, so read for it in every check-in. The signs are a climb in how often he checks his face, interim photos sent to you, a request to rate a capture, distress, or "everything is ruined". Any one of them pauses persuasion: no renewal offer, no referral or testimonial ask, no hard true thing, and no sharing or board. The scheduled captures stop, and his markers carry the verdict without them.
 
-The pause route, a content-free tag that blocks sales sequences, date sends, and checkout for 60–90 days, goes on too. Asks return only after it lapses, he agrees to hear from you again, and his record reaches a measured peak. The referral conversation names a doctor or mental-health professional, with crisis resources if it's acute, and names no condition. A stopped offer leaves only "stopped: stop rule".
+The pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, goes on too. Asks return only after it lapses, he agrees to hear from you again, and his record reaches a measured peak. The referral conversation names a doctor or mental-health professional, with crisis resources if it's acute, and names no condition. A stopped offer leaves only "stopped: stop rule".
 
 **When the signals disagree.** Say a client logs [42] of [42] days and sends every check-in on time. In week [6] he mentions he has started photographing his side profile every morning "to see if it's working". The log says model client, maybe one due a label. The photos say a checking habit is growing around the work. The checking outranks the log, because the log counts his habit blocks and says nothing about his relationship with the mirror.
 
@@ -176,7 +176,7 @@ The same data tells some men they don't need more, and "you don't need Round Two
 
 ## Worked Example: Dan's Week-5 Plateau, From Check-In to Verdict
 
-Cole *(composite operator)* is Growing, with about [25] clients across three monthly starts and a [48]-hour review turnaround. Dan joined his [March] start from a call where his comparison-photo habit, a few times a week, put him on the Dignity Route. So his reviews aim at the record, and any stake stays on time, money from here on, and guessing.
+Cole *(composite operator)* is Growing, with about [25] clients across three monthly starts and a [48]-hour review turnaround. Dan joined his [April] start from a call where his comparison-photo habit, a few times a week, put him on the Dignity Route. So his reviews aim at the record, and any stake stays on time, money from here on, and guessing.
 
 **Day 0. The Commit Ritual.** Week zero showed three misses, all on early shifts. So the first change moves [his habit block] to [after the shift] and leaves everything else alone for [two] weeks. His markers are a [posture-habit tally], [2] of [10] spot-checks against a threshold of [6], and a [body-composition measure], [x] against [x − y]. Cole reads the [80%] adherence condition aloud once and names each exit with its date. Dan writes two lines of reasons, which stay in his file.
 

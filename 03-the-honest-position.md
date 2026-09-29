@@ -38,7 +38,7 @@ The adults still looking survived both, and they arrive trained. The Burned Stru
 | Your incentives | An affiliate code under the video | Conflicts removed, and said so |
 | Your name | Nothing, or a stranger's thread | One consistent name and a record with dates on it |
 
-Bigger promises also fail on arithmetic. The loudest formats pull the youngest viewers fastest: ratings, comparisons, idealized jaws, and day-count timelines. The category's hardcore audience is majority under 18 in self-selected samples, so a bigger promise buys attention from people you can never sell to and repels the eligible adults, legal adults who can pay from their own income or savings without new credit. The adults it does win bought a promise nobody can keep, which comes back as a refund, a dispute, and a screenshot. For an adult offer, the honest position is the growth strategy, and the category has left it open.
+Bigger promises also fail on arithmetic. The loudest formats pull the youngest viewers fastest: ratings, comparisons, idealized jaws, and day-count timelines. The category's hardcore audience is majority under 18 in self-selected samples, so a bigger promise buys attention from people you can never sell to and repels the eligible adults, legal adults who could pay from their own income or savings without new credit. The adults it does win bought a promise nobody can keep, which comes back as a refund, a dispute, and a screenshot. For an adult offer, the honest position is the growth strategy, and the category has left it open.
 
 ## 2. The Outcome Map
 
@@ -50,7 +50,7 @@ Both loud answers hear it as one question. The seller hears a question about bon
 
 For an adult, a large set of things can change and be measured: his habits and consistency, his body composition, which shows visibly in the face, his posture and breathing habits, his grooming and presentation, and how he's photographed. Visible change in the jaw or profile from oral-posture or chewing habits sits in a middle column: argued about, thinly evidenced, and different from one person to the next. Habit-driven change to adult bone sits in a column you never claim, in any wording or at any price. Questions about a young person's growth sit in a fourth column that belongs to an orthodontist.
 
-That's the **Outcome Map**: the bone question answered straight, by age and by evidence tier, meaning how well supported each claim is. The first three columns are for adults, and the fourth covers anyone under 18. Say the columns the same way on every surface, so a buyer meets one answer wherever he finds you:
+That's the **Outcome Map**: the bone question answered straight, by age and by evidence tier, meaning how well supported each claim is. Say the columns the same way on every surface, so a buyer meets one answer wherever he finds you:
 
 **Changeable and measurable. Debated. Never claimed. During growth.**
 
@@ -78,7 +78,7 @@ Saying a debated item at its tier means three things in one breath: what's claim
 
 Honest operators tend to spend their conviction on the no and under-sell the column that pays. It's well established that distance alone changes how a face reads: a phone at arm's length widens the nose against the same face shot from a few steps back. That's why the category's proof is so easy to fake, and why the yes is real: those levers are his, and each can be measured.
 
-So sell the yes as the life it leads to, with the conviction the grifters spend on bone. It's the meeting where he's thinking about the meeting, the dating-app photo he takes once and keeps, and a written week-6 read that tells him what's moving, so the guessing stops. That's being taken seriously, at ease in photos, and knowing instead of hoping, and much of how people see him was never in his jaw.
+So sell the yes as the life it leads to, with the conviction the grifters spend on bone: the dating-app photo he takes once and keeps, and a week-6 read that tells him what's moving. That's being taken seriously, at ease in photos, and knowing instead of hoping.
 
 ### Age decides the column
 
@@ -88,7 +88,7 @@ The fourth column also stops the category's quietest trick: research on children
 
 ### A burned buyer trusts a map he can check
 
-Run it on Theo *(composite, Burned Struggler)*, 26, a confirmed adult through your door, the self-assessment every lead starts with. On the fit conversation, the free first call that ends in one recommendation, he describes a device and a course that promised structural change, then asks what can change at his age.
+Run it on Theo *(composite, Burned Struggler)*, 26, a confirmed adult through your door, the one owned path from first click to one recommendation, which opens with a self-assessment. On the fit conversation, the free first call, he describes a device and a course that promised structural change, then asks what can change at his age.
 
 Sort his history before you mention the offer. Each piece lands in a column, and the columns explain the stall better than blame does:
 
@@ -99,9 +99,9 @@ Sort his history before you mention the offer. Each piece lands in a column, and
 | [Five] months of phone photos | None: distance and light changed every time | Nothing reliable |
 | A log, a body-composition baseline, matched captures | Changeable and measurable | What's moving, from his first week |
 
-The last row is his yes, and a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. Recommend the Program, the 12-week flagship, state its public price once, and ask whether it's comfortable from his own income or savings without new credit. Then hand him the verification kit, a sample written plan and a sample weekly review, and let him choose his date, because his "I need to think" is due diligence.
+The last row is his yes, and a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. His question is what opens that row: had his goal sat wholly in the never-claimed column, the honest recommendation would be "don't buy", because nothing you sell reaches it.
 
-The written recap carries his goal in his words, the plan, the recommendation, the price, and his date. The device money stays out of it, because a pitch that leans on money already lost is how he was sold the first time.
+The rest is the burned buyer's route (Module 2): the tiers premium-first, one recommendation, the Program, your 12-week flagship, its price said once, and the affordability question word for word. Then come the verification kit and a date he chooses, and the device money stays out of the recap, because a pitch that leans on money already lost is how he was sold the first time.
 
 ### Every outcome sentence gets a column
 
@@ -115,7 +115,7 @@ A map nobody hears does nothing, so the first thing your brand publishes is the 
 
 ### The answer comes before the pitch
 
-That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before any offer appears, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the pitch at the end credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, result page, and first email, and a spoken version for calls.
+That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before it asks for anything, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the one ask at its end, the door, credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, the result page, and a welcome email, and a spoken version for calls.
 
 ### Every no travels with a yes
 
@@ -131,7 +131,7 @@ The pairing runs the other way as well. A yes without the no reads as a pitch, a
 
 Write the yes as where he's going, and let the levers serve it. Here's the paragraph version, in the order all three lengths keep:
 
-> Can an adult change his jaw with habits? There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Most of the online proof is a closer phone, a higher light, or a few pounds lost. Some things are debated: people report visible change from oral-posture and chewing habits, but the evidence is thin and varies by person. A lot can change and be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Picture a year from now. You know what moved because you measured it, you stand in the middle of the group photo without thinking about your angle, and you walk into the meeting thinking about the meeting. What's in the way is months of effort with nothing measured, and the plan is measuring what moves. Your face was never the whole of how people see you. To find out where you stand, take the self-assessment.
+> Can an adult change his jaw with habits? Most of the online proof is a closer phone, a higher light, or a few pounds lost. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin: people report visible change from oral-posture and chewing habits, but it's rarely measured and varies by person. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Picture a year from now. You know what moved because you measured it, you stand in the middle of the group photo without thinking about your angle, and you walk into the meeting thinking about the meeting. What's in the way is months of effort with nothing measured, and the plan is measuring what moves. Most of how people read you was never about your jaw. To find out where you stand, take the self-assessment.
 
 That's the paragraph. The spoken version runs under a minute and ends on a question, because on a call the next move is his:
 
@@ -167,7 +167,7 @@ Aim at ideas and incentives, never at a person, and keep the two lists apart:
 
 An attack on a person reads as rivalry, makes you one more loud voice in the fight you're positioned above, and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea gives the buyer a tool he can use on anyone, including you.
 
-That tool is the Honest-Evidence Test, which teaches buyers the tells of manufactured proof and the standard of honest evidence so they can judge anyone, you included. It covers teardowns of published claims, with every face cropped or blurred (Module 16). Teaching it binds the teacher, so build your Capture Standard, matched distance, lens, angle, light, expression, and time of day for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
+That tool is the Honest-Evidence Test, which teaches buyers the tells of manufactured proof and the standard of honest evidence. It covers teardowns of published claims, with every face cropped or blurred (Module 16). Teaching it binds the teacher, so build your Capture Standard, matched distance, lens, angle, light, expression, and time of day for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
 
 ### Clinicians are where you send people
 
@@ -209,13 +209,13 @@ Third, the assets that compound should outlive a platform ban or a bad quarter: 
 
 ### The camera carries trust and no evidence
 
-Put rules on the camera, because this audience reads every face on screen as a result. No thumbnail uses your own profile or jawline, and no shot of you is lit from above to sharpen a jaw, since both are manufactured proof with your face as the product.
+So put rules on the camera. No thumbnail uses your own profile or jawline, and no shot of you is lit from above to sharpen a jaw, since both are manufactured proof with your face as the product.
 
-Pin What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, where skeptics comment. Answer "what are your qualifications?" with the Qualifications Answer: no implied title, the method you can show, and the record he can check (Module 15). An implied title falls apart the first time he searches your name, while a record gets stronger every month he checks it.
+Put What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, in the comment policy your pinned comments link to and on the Verify Page. Answer "what are your qualifications?" with the Qualifications Answer: no implied title, the method you can show, and the record he can check (Module 15). An implied title falls apart the first time he searches your name, while a record gets stronger every month he checks it.
 
 ### The descriptor names what you deliver
 
-The descriptor, the one line under your brand name on every profile and page, names deliverables and never an outcome from the structural column. "Jawline transformation at any age" makes a claim each time it's read, while "assessment, a written plan, and weekly review of habits and presentation, for adults done guessing" makes a promise you control. The category's search terms appear only inside questions your titles answer, like "Does mewing work for adults?", never as the brand's identity, because men keep their distance from labels tied to groups they don't want to be seen in.
+The descriptor, the one line under your brand name on every profile and page, names deliverables and no outcome from the never-claimed column. "Jawline transformation at any age" makes a claim each time it's read, while "assessment, a written plan, and weekly review of habits and presentation, for adults done guessing" makes a promise you control. The category's search terms appear only inside questions your titles answer, like "Does mewing work for adults?", never as the brand's identity, because men keep their distance from labels tied to groups they don't want to be seen in.
 
 ### Names are claims
 
@@ -229,7 +229,7 @@ Every product name is a claim that a regulator, a platform, and a buyer read at 
 
 The name also sits on his card statement and in his inbox, and buying help with his face is something many men keep private. So it should be recognizable to him and mean nothing to anyone reading over his shoulder, which protects his privacy and heads off the "I didn't recognize this charge" dispute. Settle names before your first group starts, because every later change spends some of the trust the old name carried.
 
-Before a skeptic buys, he runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen (Module 27). Use "First name | Brand" as the display name on every profile, spelled one way everywhere, so search recognizes you as one entity. When an AI summary answers a generic question, clicks on the results beneath it roughly halve, while searches for a brand's own name lose less and sometimes gain. Your name is the query you can own.
+Before a skeptic buys, he runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen (Module 27). Use "First name | Brand" as the display name on every profile, spelled one way everywhere, so search recognizes you as one entity. Your name is the query you can own.
 
 ## 6. The Dated Record
 
@@ -247,9 +247,7 @@ Time is the costly signal a rival can't shortcut. Money buys him a camera, an ed
 
 ### The pre-commitment is written in month 1
 
-The pre-commitment is a short, dated public post that says four things: what you'll publish, at what sample size, on what schedule, and that you'll publish it whatever it shows. Write it in month 1, while you have no clients and nothing to protect, because that's the one moment it can't look self-serving. Selective publication is how the category's proof got made. Committing in advance removes your option to hide a bad number, and the buyer can see that you removed it.
-
-The log opens in month 1: fit declines from the first conversation, check-in completion and review turnaround from the first client, and the claim rate from the first refund window. At the proof milestone of 10 graduates, outcome ranges on markers join, observed among clients, with denominators, labeled a small sample, flat results included. From 30 they become the standing log, beside the non-responder share and the share told they didn't need Round Two. The recommendation mix waits for 30 Decision Assessments.
+The pre-commitment is a short, dated public post that says four things: what you'll publish, at what sample size, on what schedule, and that you'll publish it whatever it shows. Write it in month 1, while you have no clients and nothing to protect, because that's the one moment it can't look self-serving. Selective publication is how the category's proof got made. Committing in advance removes your option to hide a bad number, and the buyer can see that you removed it. The log opens in month 1 with process metrics, and outcomes join on the schedule you committed to: ranges on markers from the proof milestone of 10 graduates, observed among clients, with denominators and flat results included.
 
 | In the log | Starts | What it shows a skeptic |
 |---|---|---|
@@ -265,7 +263,7 @@ A fixed sample size protects you from small numbers as well as temptation, becau
 
 ### A rival three years in still can't copy the start date
 
-Picture the rival who starts copying you in year 3. He can take your map, your terms, your Capture Standard, and your log's format in a week. He can't give his record a start date earlier than his own, so his pre-commitment is dated years after yours and his first ranges rest on a thinner sample. Your record shows, in order, what you promised in month 1 and what happened every month after, including the months that disappointed. Around it sit two more things he can't shortcut: the library of consented client records and the search history attached to your brand's name.
+Picture the rival who starts copying you in year 3. He can take your map, your terms, your Capture Standard, and your log's format in a week, yet his pre-commitment is dated years after yours and his first ranges rest on a thinner sample. Your record shows, in order, what you promised in month 1 and what happened every month after, including the months that disappointed. Around it sit two more things he can't shortcut: the library of consented client records and the search history attached to your brand's name.
 
 The record binds you usefully, too. A public, dated log makes any drift toward bigger claims visible to everyone who reads it, including the buyer deciding whether to trust you, so the moat and your own discipline turn out to be the same object.
 
@@ -275,19 +273,19 @@ The record binds you usefully, too. A public, dated log makes any drift toward b
 
 Reid *(composite operator)* started from zero, and by month 5 his channel was growing faster than he'd planned. The growth came from the category's loudest formats, which is the common misread and an easy one to make: those formats are what the category rewards with views, and the search term in his titles is what people type.
 
-**Month 5. The signs.** His last [six] titles promised results in days, his thumbnails showed his own jawline lit from above, his descriptor led with the category's bone promise, and every description carried a device affiliate code. Views ran at [~40k] a month, but most door completions came from under-18s, who get public education and a referral and nothing else. His eligible share of raw leads sat near the bottom of the 30–70% planning range, and he'd held [one] conversation in [three] weeks. On that call, a 27-year-old asked whether he could still change his jaw, and Reid heard himself hedge.
+**Month 5. The signs.** His last [six] titles were day-count challenges and myth rankings built on the category's search term, his thumbnails ran arrows and shock words, his descriptor was the search term itself, and every description carried a device affiliate code. Views ran at [~40k] a month, but most door completions came from under-18s, who get public education and a referral and nothing else. His eligible share of raw leads sat near the bottom of the 30–70% planning range, and he'd held [one] conversation in [three] weeks. On that call, a 27-year-old asked whether he could still change his jaw, and Reid heard himself hedge.
 
-**The read: the position.** Nothing was wrong with his cadence or editing. His position was grift-adjacent, so he inherited the category's young audience, its trust problem, since every adult who arrived audited him as a seller of bone, and its conflict of interest, through the affiliate code.
+**The read: the position.** Nothing was wrong with his cadence or editing. He had never promised bone, and he had never answered the bone question either. That's a grift-adjacent position: the category's formats, vocabulary, and conflict of interest brought him its young audience and its trust problem, since every adult who arrived audited him as one more seller of bone.
 
-**Week 1. Sort everything against the map.** He ran every title, thumbnail, and description through the Outcome Map and the Neither-Grifter-nor-Doctor Test. [Six] titles implied a never-claimed outcome, so he retitled them and pinned a correction under each: what the old title implied, why there's no good evidence for it, and a link to what can change. He dropped the affiliate codes, [~$150–300] a month he'd come to count on, and said so publicly. His own face left the thumbnails, and he wrote the first version of his Capture Standard before planning any piece about manufactured proof.
+**Week 1. Sort everything against the map.** He ran every title, thumbnail, and description through the Outcome Map and the Neither-Grifter-nor-Doctor Test. [Six] titles sounded natural in a hype merchant's voice and left the bone question open, so he retitled them to say what each piece settles and pinned the straight answer under each, with a link to what can change. He dropped the affiliate codes, [~$150–300] a month he'd come to count on, and said so publicly. The arrows and shock words left his thumbnails, and he wrote the first version of his Capture Standard before planning any piece about manufactured proof.
 
 | | Before | After |
 |---|---|---|
-| Descriptor | "Bone growth and jawline transformation" | "Assessment, a written plan, and weekly review of habits and presentation, for adults done guessing" |
-| Positioning line | "Unlock your jaw's full potential" | "What an adult can and can't change, and a way to measure it" |
-| Title 1 | "Mewing results in [21] days" | "Eight months of guessing: what an adult can and can't change" |
-| Title 2 | "How I got this jawline" | "Why most jaw before-and-afters prove nothing" |
-| Title 3 | "Do this daily for a sharper jaw" | "At ease in the group photo at 27: what can change, what can't, how you'd know" |
+| Descriptor | "Mewing, jawline, and face tips" | "Assessment, a written plan, and weekly review of habits and presentation, for adults done guessing" |
+| Positioning line | "Your daily jawline tips" | "What an adult can and can't change, and a way to measure it" |
+| Title 1 | "The [21]-day mewing challenge" | "Eight months of guessing: what an adult can and can't change" |
+| Title 2 | "Every jawline myth, ranked" | "Why most jaw before-and-afters prove nothing" |
+| Title 3 | "My morning mewing routine" | "At ease in the group photo at 27: what can change, what can't, how you'd know" |
 
 **Week 2. The Honest Answer.** His next long-form followed the outline: the no first, the debated claims at their tier, then the first column as a destination with one line placing it beyond the face, and his Capture Standard on screen. It gave the under-18s already watching their own answer, an orthodontist and nothing to sign up for, and closed on the null-result stance and the door.
 
@@ -309,7 +307,7 @@ Fill it in once, run it through the Neither-Grifter-nor-Doctor Test, and reuse i
 
 ### The Honest Answer outline
 
-Order matters more than length, and the answer is complete before the offer appears.
+Order matters more than length, and the answer is complete before the one ask at its end.
 
 1. **The question, in his words.** "[Is it too late at 27?]", and why the usual answers failed him.
 2. **The no.** Habit-driven change to adult bone: no good evidence, not sold here, and why the online proof misleads.
@@ -318,14 +316,14 @@ Order matters more than length, and the answer is complete before the offer appe
 5. **How he'd know.** Behavior logged weekly; appearance captured rarely and the same way each time, with your Capture Standard on screen.
 6. **Growth questions.** Under 18: public education and an orthodontist referral, nothing more.
 7. **The null result.** One sentence on how a result that didn't move gets published, and why the offer holds anyway.
-8. **One next step.** The door. The offer's public price can appear as information, never as a second ask.
+8. **One next step.** The door, with no price, because this piece meets strangers first (Module 18).
 
 ### The pre-commitment post
 
 Post it in month 1, pin it, and link it from the Verify Page.
 
 > **[Date]. What [Brand] will publish, whatever it shows.**
-> From today, [Brand] keeps a dated public log at [link]. On [a fixed day each month], it shows check-in completion, review turnaround kept, the guarantee claim rate, and fit declines in aggregate, never individuals or reasons. Once 10 clients have graduated, it adds ranges on each client's markers, the habit and measurement targets he agrees at the start: observed among clients, with denominators, labeled a small sample, flat results included. From 30 graduates they become a standing log, beside the share whose markers didn't move and the share told they didn't need our follow-on block. Once 30 Decision Assessments are done, it adds how often the answer was "don't buy". A disappointing number goes out on the same date as the rest, and corrections arrive as new dated entries.
+> From today, [Brand] keeps a dated public log at [link]. On [a fixed day each month], it shows check-in completion, review turnaround kept, the guarantee claim rate, and fit declines in aggregate, never individuals or reasons. Once 10 clients have graduated, it adds ranges on each client's markers, the two or three measures he agrees at the start, each with a threshold: observed among clients, with denominators, labeled a small sample, flat results included. From 30 graduates they become a standing log, beside the share whose markers didn't move and the share told they didn't need our follow-on block. Once 30 Decision Assessments are done, it adds how often the answer was "don't buy". A disappointing number goes out on the same date as the rest, and corrections arrive as new dated entries.
 
 ## Checklist: Product Naming
 
@@ -342,7 +340,7 @@ Run it on every product, tier, and program name before it's printed anywhere.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds and you have no proof, so the position has to earn trust before any record exists: the answer and the pre-commitment go public before the first client does. The trap is buying reach with the category's loud formats, day-count titles and idealized jaws, because they pull the youngest viewers fastest and teach the adults you want to read you as one more seller.
+**Early.** Reach binds and you have no proof, so the position has to earn trust before any record exists: the answer and the pre-commitment go public before the first client does. The trap is buying reach with the category's loud formats, which win viewers you can't sell to and teach the adults you want to read you as one more seller.
 
 **Growing.** Conversion and selling minutes bind, and the position's job is to send buyers to the call already sorted, having seen the map and searched your name. Repeat the Honest Answer across every surface and watch branded search climb. The trap is answering a louder rival with a bigger claim, or letting the log lapse because nobody reads it yet.
 
@@ -388,6 +386,6 @@ Run it on every product, tier, and program name before it's printed anywhere.
 | **The Honest Answer** | Answer the bone question in full before any pitch |
 | **The Dated Record** | Turn honesty into evidence with a month-1 pre-commitment and a dated log |
 
-**Leans on:** the Canon, bounded agency, and Fantasy to Expectation (Module 14) · Costly vs Hygiene Signals and the Qualifications Answer (Module 15) · the Honest-Evidence Test and the Proof Stack (Module 16) · the Verify Page (Module 27).
+**Leans on:** the burned buyer's route (Module 2) · the Canon, bounded agency, and Fantasy to Expectation (Module 14) · Costly vs Hygiene Signals, the face statement, and the Qualifications Answer (Module 15) · the Honest-Evidence Test and the Proof Stack (Module 16) · the Verify Page and the Evaluation Query (Module 27).
 
 **Do this month:** publish the Honest Answer as your first long-form; post your dated pre-commitment and start the log; set your descriptor and "First name | Brand" everywhere.

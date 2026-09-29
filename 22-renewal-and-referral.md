@@ -65,9 +65,9 @@ That's the **Peak-End Finish**: the final fortnight designed as the Program's pe
 
 ### When the markers moved and the captures didn't
 
-Theo *(composite, Burned Struggler)*, 26, finishes with [his posture-habit marker] at threshold since week [10] and [his body-composition measure] past its own. His week-12 captures, matched to the standard, show little a stranger would notice. He once paid for a device sold on a before-and-after, and he has waited twelve weeks for this comparison. If the call opened on the photos, he'd file the Program beside the device.
+Dan finishes with [his posture-habit marker] at threshold since week [9] and [his body-composition measure] still improving. His week-12 captures, matched to the standard, show little a stranger would notice. Eight months of bathroom comparisons trained him to wait for exactly this pair, and he has waited twelve weeks for it. If the call opened on the photos, he'd file the Program beside everything else he tried.
 
-So his page runs in order: [68] of [84] days logged, both markers past their thresholds, the pair labeled as observations, and the verdict, moved. On the call you say it plainly: "Your captures show little change at twelve weeks, which is common. Your markers decide, and they moved." Nobody promises what later photos will show, because visible change from habits is debated. His peak is what he now knows about his own levers, and he can check every line.
+So his page runs in order: [70] of [84] days logged, one marker past its threshold and the other still climbing, the pair labeled as observations, and the verdict, moved. On the call you say it plainly: "Your captures show little change at twelve weeks, which is common. Your markers decide, and one has already moved." Nobody promises what later photos will show, because visible change from habits is debated. His peak is what he now knows about his own levers, and he can check every line.
 
 ### A record without a peak gets the same finish, minus the asks
 
@@ -109,7 +109,7 @@ Run the decision as a short contract, the arc of Close by Contract, from an agre
 
 > "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-A yes goes to the Fit Check, the plain-language check for signals that buying could hurt him, and then to booking his start. A no ends money talk, with no Hold after a Round Two no and no plan or start date. He keeps his record and his quarterly date. The pause route, a content-free tag, stops sales sends for 60–90 days, then asks permission again. Nothing starts by default: Round Two ends at its own week 12, and the Hold begins only on his yes.
+A yes goes to the Fit Check, the plain-language check for signals that buying could hurt him, and then to booking his start. A no ends money talk, with no Hold after a Round Two no and no plan or start date. He keeps his record and his quarterly date, and your notes keep only "stopped: stop rule". The pause route, a content-free tag, holds every marketing send and blocks checkout for 60–90 days, then asks permission again. Nothing starts by default: Round Two ends at its own week 12, and the Hold begins only on his yes.
 
 "Let me think" is a deferral, a real objection to sort, and it isn't a no. Ask what he's weighing, then agree his Decision Date, a day he picks on or before the last day to join Round Two's next start. The Follow-Up Rule carries it from there: a written recap within 24 hours, one check-in on his date, then one close-the-loop message.
 
@@ -180,7 +180,7 @@ Graduation confers alumni status, a dated fact in his record that nothing he doe
 
 Everyone who reaches week 12 graduates and keeps his whole record. Alumni status is that fact, dated in his record: [Brand] graduate, [date], reached week 12. Beside it go a label that leads with a count from his logs and his next capture date, on his own or in the Hold. When prices step up, alumni keep the rates they were shown. What the status means for who he is belongs to Adults Who Measure, the group of adults who measure instead of guess (Module 17).
 
-Nothing about it rests on his results, his purchases, or a refund right, and nobody presents it as something an exit costs. Take Client 10 in the worked example below, whose clause paid. He carries the same dated line as a man who renewed, a label with his own count, "[71] of [84] days logged", and his own quarterly date. The asks skip him, since his graduation isn't a measured peak, and his status is untouched.
+Nothing about it rests on his results, his purchases, or a refund right, and nobody presents it as something an exit costs. Take Theo *(composite, Burned Struggler)*, 26, in the worked example below, whose clause paid. He carries the same dated line as a man who renewed, a label with his own count, "[77] of [84] days logged", and his own quarterly date. The asks skip him, since his graduation isn't a measured peak, and his status is untouched.
 
 ### The call confers the status before it asks for anything
 
@@ -190,42 +190,42 @@ On the graduation call, the status comes first. His record is read in the verdic
 
 The alumni room is part of the Hold, opening once you have about 30 alumni, and each member chooses to join (Module 10). Standing inside comes from re-captures kept and logs sent, and no room, board, or email mentions who left. A graduate paid under the clause isn't offered the Hold, so the room isn't open to him. He loses nothing a graduate is owed, since his record, label, date, and status all live outside it.
 
-## Worked Example: Cole's [May] Start, Weeks 10 to 12
+## Worked Example: Cole's [April] Start, Weeks 10 to 12
 
-Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,600], and with [six] Hold months at [$55], to [$2,930]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,765].
+Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,800], and with [six] Hold months at [$55], to [$3,130]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,965].
 
-Ten clients started in [May]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Client 9 took the exit right after his week-6 read and had his pro-rata refund within [five] days. He was asked for nothing then or since, and nobody in the group heard about it from Cole.
+Ten clients started in [April]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Maya took the exit right after her week-6 read, when a [release crunch] filled the weeks she had left, and had her pro-rata refund within [four] days. She was asked for nothing then or since, and nobody in the group heard about it from Cole.
 
-**Week 10. Five peaks, three climbing, one flat.** Of nine records, [five] sit at a measured peak: Adrian's since week [8], Dan's since week [9], and Maya's, Theo's, and Client 8's from this review. Those three first peaks each bring a process-testimonial ask. Their reviews name what week 12 decides and the card line each outcome leads to. [Three] have markers still climbing, so their reviews leave the card out while the clause stays open.
+**Week 10. Five peaks, three climbing, one flat.** Of nine records, [five] sit at a measured peak: Adrian's since week [8], Dan's since week [9], and those of Clients 8, 9, and 10 from this review. Those three first peaks each bring a process-testimonial ask. Their reviews name what week 12 decides and the card line each outcome leads to. [Three] have markers still climbing, so their reviews leave the card out while the clause stays open.
 
-Client 10's readings have sat flat for [three] weeks at [83%] adherence, so his review carries no card line and no ask. Within 48 hours it re-plans one lever and names what week 12 decides. That's the Plateau Plan, the pre-announced re-plan every plateau gets (Module 21).
+Theo's readings have sat flat for [three] weeks at [92%] adherence, so his review carries no card line and no ask. Within 48 hours it re-plans one lever and names what week 12 decides. That's the Plateau Plan, the pre-announced re-plan every plateau gets (Module 21).
 
 **Week 11. A quiet week, on purpose.** Every client gets the same capture check: tripod mark, lamp, hour, expression. No lesson, survey, or billing notice goes out. Cole checks each sheet against the peak rule, so no ask can land beside a refund.
 
-**Week 12. Verdicts first, then the calls.** Every re-assessment goes out in writing before any call, and [eight] records reach a measured peak. Client 10's doesn't: at [85%] adherence, above his threshold, no marker reached its own, so the clause pays its fixed share within [five] days. A referral to [the professional his question belongs with] goes with it. He gets the same finish minus the asks, and the same alumni status as anyone.
+**Week 12. Verdicts first, then the calls.** Every re-assessment goes out in writing before any call, and [eight] records reach a measured peak. Theo's doesn't: at [77] of [84] days, above his threshold, no marker reached its own, so the clause pays its fixed share within [five] days. He gets the same finish minus the asks, and the same alumni status as anyone.
 
-[Five] of the [eight] have measured momentum. Each hears Round Two recommended from his sheet, with the Hold priced beside it, and one plain question: does he want to start it? Dan, Adrian, and Client 6 say yes, answer the affordability question yes, and take Round Two, and Client 7's clear no is accepted without another word. That's [three] seats from [nine] graduates and [five] with momentum, above the planning ranges of about 10–26% and 20–40%. [Nine] is far too few events to read, so Cole logs it and waits for 30.
+[Five] of the [eight] have measured momentum. Each hears Round Two recommended from his sheet, with the Hold priced beside it, and one plain question: does he want to start it? Dan, Adrian, and Client 6 say yes, answer the affordability question yes, and take Round Two, Adrian's after the free corrective week his week-6 read owed him. Client 7's clear no is accepted without another word. That's [three] seats from [nine] graduates and [five] with momentum, above the planning ranges of about 10–26% and 20–40%. [Nine] is far too few events to read, so Cole logs it and waits for 30.
 
-Sam gives his old line, "after the busy season", and since a deferral isn't a no, Cole sorts it (Module 19). Sam says the season means [six-day weeks] and "no time to log". Cole asks to show him one thing. In the last rush, weeks [5] and [6], his logs fell to [three] days a week, and the review brought them back.
+Sam gives his old line, "after the busy season", and since a deferral isn't a no, Cole sorts it (Module 19). Sam says the season means [six-day weeks] and "no time to log". Cole asks to show him one thing. In the last rush, weeks [8] to [10], his logs fell to [three] days a week, and the review brought them back.
 
 That's the stake in his own words. Round Two needs a check-in only every second week, and its next start takes joiners until [its last day to join]. Sam agrees to decide by then. On that date he writes that he'll keep his own quarterly date, a clear no that Cole accepts without another ask.
 
-[Three] records reach their peak and hold, and all three hear they don't need Round Two. Maya and Client 8 want a reviewer's quarterly read on whether it holds, so both take the Hold after the same question. Theo, who expected an upsell, hears the honest answer twice: "You don't need Round Two, and I don't think you need the Hold. Your last [six] check-ins named your own misses before I did."
+[Three] records reach their peak and hold, and all three hear they don't need Round Two. Clients 8 and 9 want a reviewer's quarterly read on whether it holds, so both take the Hold after the same question. Client 10, who expected an upsell, hears the honest answer twice: "You don't need Round Two, and I don't think you need the Hold. Your last [six] check-ins named your own misses before I did."
 
-Each of the [eight] then hears one private referral question, and five hear the results ask. Client 6, Client 7, and Sam, whose first peak came at week 12, decline, and Maya says her week-10 lines already say it. Theo, who at week 10 had asked to be asked once he'd seen his verdict, writes a results line now.
+Each of the [eight] then hears one private referral question, and five hear the results ask. Client 6, Client 7, and Sam, whose first peak came at week 12, decline, and Client 9 says his week-10 lines already say it. Adrian, who at week [8] had asked to be asked once he'd seen his verdict, writes a results line now.
 
 | Client | Week-12 record | Renewal Case | Referral ask | Testimonial asks |
 |---|---|---|---|---|
 | Dan | Momentum | Round Two | Yes: two roommates | Week [9]: no |
-| Adrian | Momentum | Round Two; no Private needed | No | Week [8]: no |
+| Adrian | Momentum | Round Two, after his free corrective week; no Private needed | No | Week [8]: "ask me at the end"; week 12: yes |
 | Client 6 | Momentum | Round Two | Yes: a shareable | Week 12: no |
 | Client 7 | Momentum | Clear no; his own date | Yes: his link | Week 12: no |
 | Sam | Momentum | Dated, then no | Yes: a shareable | Week 12: no |
-| Maya | Holding | "You don't need Round Two"; the Hold | Yes: a shareable | Week [10]: yes, text only; week 12: no |
 | Client 8 | Holding | "You don't need Round Two"; the Hold | No | Week [10]: no |
-| Theo | Holding | "You don't need Round Two"; clean | No | Week [10]: "ask me at the end"; week 12: yes |
-| Client 9 | Exit right, week 6 | None | Not asked: an exit | Never: refund paid |
-| Client 10 | No peak; clause paid | None | Not asked: no peak | Never: refund paid |
+| Client 9 | Holding | "You don't need Round Two"; the Hold | Yes: a shareable | Week [10]: yes, text only; week 12: no |
+| Client 10 | Holding | "You don't need Round Two"; clean | No | Week [10]: no |
+| Maya | Exit right, week 6 | None | Not asked: an exit | Never: refund paid |
+| Theo | No peak; clause paid | None | Not asked: no peak | Never: refund paid |
 
 **Weeks 13–20. What came back.** From those asks, one of Dan's roommates enrolled alone in [the next start] at the published price. The other said no to the money question and got the free path. Another man's Fit Check showed a signal, so his sale paused, with no payment that day and at least 72 hours to cool off. And a capture card Sam passed on reached Jordan *(composite, minor)*, 16, whose first answer at the door sent him to public content and an orthodontist referral, with nothing kept.
 
@@ -289,18 +289,18 @@ Notice the move. The ask named one person Sam already had in mind, one small ste
 
 What you never say: "Get three friends signed up and your next quarter's free." If he says no, that's the last of it: "No problem. That's the only time I'll ask."
 
-**The testimonial ask.** Theo, after his week-12 verdict, at a measured peak with no refund claimed. It's his second and last ask, since at week 10 he'd asked to be asked once he'd seen his verdict.
+**The testimonial ask.** Adrian, after his week-12 verdict, at a measured peak with no refund claimed. It's his second and last ask, since at week [8] he'd asked to be asked once he'd seen his verdict.
 
 > **You:** "Your verdict's settled, so this is the ask you told me to save. Would you write two or three lines, in your own words, about what the record showed you? Text only, under your initials, unless you choose otherwise. You decide where it goes and for how long, and you can pull it any time."
 >
-> **Theo:** "You want me to say it worked?"
+> **Adrian:** "You want me to say it worked?"
 >
-> **You:** "I want what you'd say anyway. It sits beside the range for everyone who's graduated, including the men who reached no threshold. If your line is 'I found out I didn't need more', that's a testimonial too."
+> **You:** "I want what you'd say anyway. It sits beside the range for everyone who's graduated, including the men who reached no threshold. If your line is 'I found out which of my levers move', that's a testimonial too."
 > *[Stop. Let him answer.]*
 
-Notice the move. Everything a burned buyer suspects about testimonials was answered before he raised it: the timing, the words, the scope, and the range beside them. That's Measured-Peak Asks at its strictest, and it leaves his yes worth something to the next skeptic who reads it.
+Notice the move. Everything a private, exacting buyer suspects about testimonials was answered before he raised it: the timing, the words, the scope, and the range beside them. That's Measured-Peak Asks at its strictest, and it leaves his yes worth something to the next skeptic who reads it.
 
-> **Theo:** "What's it worth to you?"
+> **Adrian:** "What's it worth to you?"
 >
 > **You:** "Nothing goes to you for it, and nothing changes if you say no. Your record, your date, and anything you ask me later stay exactly the same."
 

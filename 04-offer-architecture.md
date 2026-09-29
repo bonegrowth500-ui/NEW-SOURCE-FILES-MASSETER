@@ -17,7 +17,7 @@ Your ladder is set by arithmetic before taste. Start at $25k of profit a month, 
 
 That head count is what makes every leak expensive. Free calls alone hold roughly 3–10 enrollments a month on about 5 selling hours a week, so the target sits at the top of what a calendar of free calls can do. That's why the steady state that reaches $25k closes about half its enrollments without a call. It's also why undecided buyers need a step of their own, a free fit conversation or the Decision Assessment, a paid written plan, before they reach the flagship's hours.
 
-The back end leaks the same way: about 8–9 graduates a month finish week 12, and for many of them the habits aren't automatic yet. At $25k, Round Two and the Hold turn those months into about $1.5k and $1.2k a month, plus the record where proof appears. At the other edge, roughly 5–20% of paid-step applicants show a signal at the Fit Check, the plain-language screen before any paid step. Others answer no to the affordability question, which asks whether paying is comfortable from their own income or savings, without new credit. The stop rules, the fixed points where selling ends, need somewhere honest to send them.
+The back end leaks the same way: about 8–9 graduates a month finish week 12, and for many of them the habits aren't automatic yet. At $25k, Round Two and the Hold turn those months into about $1.5k and $1.2k a month, plus the record where proof appears. At the other edge, roughly 5–20% of paid-step applicants show a signal at the Fit Check, the plain-language screen before any paid step. Others answer no to the affordability question, which asks whether paying is comfortable from their own income or savings, without new credit. Stop Rules, the fixed points where selling ends, need somewhere honest to send them.
 
 **Work down from the target: profit and the cash ceiling set the head count, and every leak that head count can't afford earns a rung.**
 
@@ -107,9 +107,9 @@ This module places the rungs, and each owner in the table designs them. Round Tw
 
 ### At week 12, the record chooses the rung
 
-Sam *(composite, Ambivalent)* reached the Program through the net, with his Starter logs counting as his week zero (Module 2). At week 12 he graduates beside Theo *(composite, Burned Struggler)* and Maya *(composite, welcome, not targeted)*. The shape decides what each one hears, and it decides from each record, never from the month's revenue.
+Sam *(composite, Ambivalent)* reached the Program through the net, with his Starter logs counting as his week zero. At week 12 he graduates beside Adrian *(composite, Optimizer)* and Maya *(composite, welcome, not targeted)*. The shape decides what each one hears, and it decides from each record, never from the month's revenue.
 
-Sam's record is still climbing: [one marker] has reached its threshold, and [another] is still rising. That's measured momentum, a record still moving at week 12, so he hears about Round Two, whose job is more reviewed weeks. Theo's markers moved and his habits hold, so he's told plainly that he doesn't need Round Two. He wants proof that it lasts, which is the Hold's job, and he takes it at [$39–79] a month.
+Sam's record is still climbing: his adherence clears its threshold, [one marker] has reached its own, and [another] improved across its last two readings. That's measured momentum, adherence met with a marker still improving at week 12, so he hears about Round Two, whose job is more reviewed weeks. Adrian's markers moved and his habits hold, so he's told plainly that he doesn't need Round Two. He wants proof that it lasts, which is the Hold's job, and he takes it at [$39–79] a month.
 
 Maya's markers moved, her habits hold, and she wants no more measuring. She hears about the Hold once, declines, and graduates with her full record, a clean finish the shape counts as a success. Each paid step here starts with the affordability question, and none is offered where the record doesn't call for it.
 
@@ -123,7 +123,7 @@ Run the test whenever you add, reprice, or retire an offer, and once a quarter w
 
 **When the signals disagree.** Say a [template pack] you added in month [5] at [$37] sells [20–30] copies a month and brings in [$700–1,100], a real share of an Early month. Revenue says keep it, and the test says it has no rung. It serves the net's condition, but the net's paid rung waits for about 20 graduates, and until then each sale is a Struggler buying templates instead of review. Count its support emails, the checkout checks it needs, and the content slot it takes.
 
-Then price the fold. Folding it gives up the [$700–1,100], while one buyer a month who needed review and enrolls instead brings in about $1.5–2.2k at opening prices, so the job wins on money once a single sale moves. The default is to stop new sales, move its sheets onto the free path, and relaunch them as the Starter tool when the trigger fires. Buyers keep what they already paid for. One rung, one job.
+Then price the fold. Folding it gives up the [$700–1,100], while one buyer a month who needed review and enrolls instead brings in about $1.5–2.2k at opening prices, so the job wins on money once a single sale moves. The default is to stop new sales, move its sheets onto the free path, and bring them back as the Starter tool when the trigger fires. Buyers keep what they already paid for. One rung, one job.
 
 ## 4. The Rung Activation Schedule
 
@@ -137,14 +137,14 @@ That's the **Rung Activation Schedule**. The months show where its triggers tend
 |---|---|---|---|
 | 0–3 | The free fit conversation · the founding group · one or two founding Private seats · the priority tier · the free, tool-free Starter Path | Your first lead, client, Optimizer, or "not now" | The paid overflow, Round Two, the Hold, any paid tool |
 | 3–6 | Round Two and the Hold, for founding graduates · scheduled steps toward the opening band | The first graduation; starts that fill | The alumni room; any paid tool |
-| 6–9 | The paid Decision Assessment for the overflow · the Program at its opening band ($1.5–2.2k) | The Call Cap binds: most weeks above ~6–8 held conversations, shows sliding toward ~60%, over half ending no-fit | Program Async; Private at parity |
+| 6–9 | The paid Decision Assessment for the overflow · the Program at its opening band ($1.5–2.2k) | The Call Cap binds: most weeks above ~6–8 held conversations, with selling hours eating the content minimum | Program Async; Private at parity |
 | 9+ | The Starter tool and the Self-Serve System · the alumni room · Program Async · Private at parity · an open paid membership · the Training-Partner Seat and a paid group decision session | ~20 graduates · ~30 alumni · the Program's price past ~$3.2k · Scaling care minutes · Growing, with moderation budgeted · each owner's trigger | Anything whose trigger hasn't fired |
 
 Three offers that look early start at month 0 on purpose, since each has a trigger that can fire in your first week. Every founding client joins the founding group, one group from the first client, with monthly entry. Review stays at one-to-one depth while it has fewer than about four members, so you never build a one-to-one product you'd later retire. One or two founding Private seats at about $4–6k serve the Optimizer, the buyer with more money than time, on speed, privacy, and fixed deliverables while your minutes are spare. The priority tier at about $350–600 is his way in: the same assessment, faster, with a recorded walkthrough.
 
 The Starter Path starts at month 0 too, free and tool-free, because the first "I can't afford it" can arrive in your first week. Every paid rung gets a public page the day it opens, naming who it's for, who it isn't for, its price, and one next step. Your decision-stage videos carry a pitch section for the flagship by default, price included (Module 18). From Growing, one ladder page shows every paid rung, premium first.
 
-A founding page reads premium first: [one founding Private seat at ~$4–6k], then the founding group at [~$1.2–1.5k] with the next price stated, [$1.5–2.2k from the [April] start], and the priority tier at [~$350–600]. Hiding a real tier fails a buyer as surely as pushing one on him. The Optimizer who never sees the priority tier waits a week for a free slot he'd have paid to skip.
+A founding page reads premium first, the founding Private seat, then the founding group with its next price stated, then the priority tier, because hiding a real tier fails a buyer as surely as pushing one on him. The Optimizer who never sees the priority tier waits a week for a free slot he'd have paid to skip.
 
 The months move with your band. In a breakout band calls can bind by month 6, so the overflow arrives early. In Band A it may not arrive in year one, which costs nothing, since it only receives what the Call Cap can't hold. The schedule also runs backward without a decision. After a quiet quarter fewer buyers overflow the cap, and the paid assessment goes quiet by itself.
 
@@ -178,7 +178,7 @@ Each block ends in a self-check and in something he can tell by then. The method
 
 The rule inside the table is the decision framework itself. Log before you change a lever, change one thing at a time, and give each change [N] weeks at [your log threshold] before you judge it. By week 8 that rule lets him reach one verdict alone. If he couldn't log the weeks, his stall was never measured, and he knows what to fix first. The other two verdicts, a misdirected plan or a lever that doesn't move for him, need someone reading his record, which is where the paid rungs start.
 
-The capture is his, and the path uses it once. At week 12 he sets his baseline beside a matched capture taken under the Capture Standard, your fixed conditions for distance, light, and angle. He reads the pair only against the changeable column. A baseline taken while he waited for his first conversation counts, so he skips the week-1 capture. Appearance is captured rarely on purpose, because frequent checking feeds the comparison habit that stalled him.
+The capture is his, and the path uses it once. At week 12 he sets his baseline beside a matched capture taken under the Capture Standard, your fixed conditions for distance, light, and angle. He reads the pair only against the changeable column. If an earlier recap or written plan already had him take an own-device baseline, that one counts, and he skips the week-1 capture. Appearance is captured rarely on purpose, because frequent checking feeds the comparison habit that stalled him, so a man whose answers showed regular checking gets the path without the capture step.
 
 The path's only human touch is a templated check-in at weeks 1, 4, and 8, sent once he takes the path with a click or reply to the handover, carrying the path's next step and never an offer, a price, or a date. A free monthly group Q&A stays off the ladder, since it's a free community by another name. A man who wants judgment on his logs can buy it as a Decision Assessment, with its usual checks. Score the net by one number that isn't conversion: the share of handed-over paths that reach the week-8 self-check.
 
@@ -192,10 +192,10 @@ The path goes out once, in the written recap within 24 hours, in the version his
 | Money that isn't his | The full path, with the same silence on price | Never named | His own reply, or the progress condition |
 | "Not now", for a real reason | The full path | Named once, from ~20 graduates | His own date: one check-in on it, then one close-the-loop message |
 | Not a fit: a goal only in the never-claimed column, or no time for the work | The full path, aimed at the changeable column | Named once, from ~20 graduates | His own reply, or the progress condition |
-| A referral trigger: sleep or snoring signs, jaw pain, a bite concern | The referral first, in writing (Module 15); reading-only until he's been seen | Never named | His reply once he's been seen |
+| A referral trigger: sleep or snoring signs, jaw pain, a bite concern | The referral first, in writing (Module 15); reading-only until he's been seen, since no reviewer watches the trigger | Never named | His reply once he's been seen |
 | A Fit Check pause | Reading-only, with no captures or logs; for checking or fixation, the referral first and nothing about measuring | Never named | His own permission after the pause |
 
-After "I can't afford it", the pause route governs every automated touch: a content-free tag that stops every sales and date message for 60–90 days, then asks his permission again. The path's week-8 message carries only its next step, the self-check, and nothing that invites him back with a price. That keeps the stop rule true inside your email tool, where it's easiest to break.
+After "I can't afford it", the pause route governs every automated touch: a content-free tag that holds every marketing send, the weekly letter included, for 60–90 days, then asks once whether he'd like to hear from you again, with no price, offer, or date. Only the path's check-ins still go, because taking the path asked for them. That keeps the stop rule true inside your email tool, where it's easiest to break.
 
 When he does come back, his Starter logs become his Week-Zero Baseline, the pre-purchase record that counts as week zero of his program (Module 17). His first review starts from eight weeks of his own record instead of none. A credit from a Decision Assessment that recommended the path waits until he enrolls, for up to about 12 months. It's stated once in the plan, never in the path's touches or as a deadline.
 
@@ -203,9 +203,9 @@ When he does come back, his Starter logs become his Week-Zero Baseline, the pre-
 
 The net's paid rung opens at about 20 graduates, the point where paid self-serve products are allowed, and not before. Its job fits in one sentence, a kit for keeping his own record without review, and it comes in two tiers. The Starter tool at $27–97 is the path's own logs, capture guide, and self-check sheets, ready-made. The Self-Serve System at $97–297, one time, adds the full Capture Standard kit, self-review prompts, and walkthroughs.
 
-The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. It stops where judgment starts, with no stall rules, since a rule applied without a reader of his record gives a confident wrong verdict. Both pages say plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
+The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. It stops where judgment starts, with no stall rules, since a rule applied without a reader of his record gives a confident wrong verdict. Their page says plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
 
-The tools share one public page, premium first, for a man who wants to keep his own record. A Struggler who wants a decision on his goes to the door instead. The page is never linked from the path or pitched in its touches, and it's never a fallback when a graduate declines the Hold. Its checkout embeds the age attestation, the affordability question, and the Fit Check. A checking or fixation signal means no capture tools are sold at all.
+As two tiers of one rung, the tools share that one public page, premium first, for a man who wants to keep his own record. A Struggler who wants a decision on his goes to the door instead. The page is never linked from the path or pitched in its touches, and it's never a fallback when a graduate declines the Hold. Its checkout embeds the age attestation, the affordability question, and the Fit Check. A checking or fixation signal means no capture tools are sold at all.
 
 The Self-Serve System's optional review is a Decision Assessment at $150–250, credited toward the Program, so judgment stays on the paid side of the line. In the steady state that reaches $50k, the paid rung brings in roughly $3k a month, about 15 sales at about $197: leverage, never the engine.
 
@@ -228,7 +228,7 @@ Seven offers and formats on this ladder were built for this business's jobs. Eac
 | Round Two | A maintenance block for graduates with measured momentum | Back buffer | Module 10 |
 | The Hold | A measurement subscription that opens into the alumni room | Back buffer | Module 10 |
 | Program Async | The Program without the live call, a real tier under the 20–24 ceiling | Flagship tier | Module 13 |
-| The Training-Partner Seat | Pair enrollment: he brings his training partner into the same start | Flagship, as a private referral | Module 10 |
+| The Training-Partner Seat | Pair enrollment: two adults in one start, each through his own door, with no pair discount | Flagship, as a private referral | Module 10 |
 | The paid group decision session | "Cohort walkthrough and Q&A; the offer and price are inside" | Front buffer, optional | Module 20 |
 
 ### Some offers never earn a rung
@@ -377,6 +377,6 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | **One Flagship, Two Buffers, One Net** | Place any new offer as a tier, a rung, or a no |
 | **The Rung Activation Schedule** | Open a rung only when its upstream can feed it and your week can price its minutes |
 
-**Leans on:** the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · the Week-Zero Baseline (Module 17).
+**Leans on:** the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · the Week-Zero Baseline (Module 17).
 
 **Do this month:** write a job card per rung and retire any offer without a slot; write the Starter Path and its handover versions; put every paid rung on a public page, premium first.

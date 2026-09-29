@@ -69,7 +69,7 @@ Range, for example, rests on the Outcome Map, the brand's straight answer on wha
 | Vehicle | The decision a reader makes, which lever to change and when to stop, that his log can't make alone | A sample weekly review |
 | Guide | Signals too costly to fake: published refusals, "don't buy" when it's true, a dated public log | The Verify Page, where skeptics check what you claim, charge, and refuse |
 | Self | Mastery on his own record, then a man like him with a range. He believes what he produced | A free week of logging before his call; a first win inside his first fortnight |
-| Now | His stake, said back plainly. A real date gives his decision a day to land on | The stake question on the call; the next monthly start |
+| Now | His stake, said back plainly. A real date gives his decision a day to land on | The Implication Question, where he names what waiting costs; the next monthly start |
 | Hold | His week-12 record, set against the timeline he accepted before paying | The week-12 re-assessment, the end-of-program verdict |
 | Share | A private ask with something rigorous inside. Privacy removes the cost | A private referral ask; a guide worth forwarding |
 
@@ -83,11 +83,11 @@ At the decision, each link rests on the ones before it. Until his stall has a ca
 
 The order he meets them in is different. His search usually lands on Range, the bone question, which is why the Honest Answer leads your channel and your Canon. The order also bends for a burned buyer, one who already paid for a promise of structural change. He can't hear Cause or Range from a voice he hasn't checked, so Guide goes first, on his clock, through samples he can verify.
 
-Some no's mark a link you never work on. "I can't afford it" ends money talk: he gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that stops every sales send for 60–90 days, then asks his permission again. Distress, fixation, or checking many times a day ends the sale for a referral conversation. A signal on the Fit Check, the plain-language check before any paid step, pauses it, and a minor ends it. The chain serves the screened, good-fit buyer who can pay, and stop rules sit above it.
+Some no's mark a link you never work on. "I can't afford it" ends money talk: he gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that holds every marketing send for 60–90 days, then asks his permission again. Distress, fixation, or checking many times a day ends the sale for a referral conversation. A signal on the Fit Check, the plain-language check before any paid step, pauses it, and a minor ends it. The chain serves the screened, good-fit buyer who can pay, and stop rules sit above it.
 
 ### The chain runs past the sale
 
-The Hold link, the belief that buys continuity, says what he built is worth protecting until it holds on its own. It covers Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. Habits take from days to most of a year to run without reminders, so at week 12 some of his still need them. The case for continuing is the Renewal Case, made from his record and only at a measured peak, a measurement moment that shows progress (Module 22). When his record says he doesn't need more, telling him so repairs Guide.
+The Hold link, the belief that buys continuity, says what he built is worth protecting until it holds on its own. It covers Round Two, the lighter maintenance block, and the Hold, the measurement subscription for graduates. Habits take from days to most of a year to run without reminders, so at week 12 some of his still need them. The case for continuing is the Renewal Case, made from his record and only at a measured peak, a reading with his adherence and one marker at threshold (Module 22). When his record says he doesn't need more, telling him so repairs Guide.
 
 The Share link, the belief that makes a referral feel rigorous, says recommending you makes him look careful rather than insecure. Buying help with your face can read as insecurity, so few men here will recommend it in public. The ask comes once, privately, at a measured peak, with something inside it that makes the sender look rigorous, and never at a plateau, a flat read, or an exit.
 
@@ -110,11 +110,11 @@ A buyer's conclusion arrives in the category's vocabulary, "I need to think" or 
 | Vehicle | "I could just…": "I can do this myself with free videos and a spreadsheet." | "If you kept going on your own from here, what would you do differently?" |
 | Guide | Other sellers: "How do I know you're not one more channel selling a jawline?" | "What would you need to see from me to trust how this works?" |
 | Self | Restarts: "I always quit after a few weeks." | "What happened the last time you started something like this?" |
-| Now | Time words: "I'll start after the busy season." | "If the next year looks like the last one, what does that cost you?" |
+| Now | Time words: "I'll start after the busy season." | "If the next 12 months look like the last [eight], what does that cost you?" |
 | Hold | Finish-line talk: "I've done my 12 weeks. I'll keep it going myself." | "Without review, what do you expect your record to show in three months?" |
 | Share | Keeping it quiet: "I'm not telling anyone I did this." | "If a friend asked what you've been doing, what would you tell him?" |
 
-The Hold and Share checks belong at a measured peak, never before. This niche's deciding objections, each filed by link with its answer, make up the objection map (Module 19).
+The Hold and Share checks belong at a measured peak, never before. The Now check is the Implication Question, run with its silence and its say-back, and this niche's deciding objections, each filed by link with its answer, make up the objection map (Module 19).
 
 ### One question confirms or clears a suspicion
 
@@ -131,7 +131,7 @@ Suspect a link from the signs, check it with its question, and clear it if the a
 >
 > **Adrian:** "No, the timing's fine. I just don't see what I'd be paying for."
 
-> **You:** "You'd build a better tracker than mine. You've also had [six] months of notes on your phone, and they haven't told you which lever to change, because a record doesn't read itself. What you'd pay for is someone reading yours against a baseline on fixed days, and a written read at week 6 that's allowed to say stop."
+> **You:** "You'd build a better tracker than mine. You've also had [six] months of notes on your phone, and they haven't told you which lever to change. A record doesn't read itself; review turns it into a decision. What you'd pay for is someone reading yours against a baseline on fixed days, and a written read at week 6 that's allowed to say stop."
 
 Notice the read. "I need to think" sounded like Now, but his earlier sign pointed at Vehicle. The Vehicle question confirmed it, a second question cleared Now, and only then came the repair, from his own evidence: months of notes that never became a decision. If he pushes back on the same doubt, reflect it, ask permission, and hand him the standard:
 
@@ -144,11 +144,11 @@ What you never say is that nobody sticks with this on their own, which answers a
 
 ### Two limits come before any check
 
-A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date. Distress ends the work on links entirely: "everything is ruined" language, fixation, or checking many times a day means a referral conversation and the pause route. So do money he's said he can't spare, a fit-check signal, and a minor. The card then reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
+A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date. Every stop rule ends the work on links entirely. Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. Whatever the stop, the card reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
 
 **When the signals disagree.** Say Sam *(composite, Ambivalent)*, 22, an apprentice electrician who keeps deferring, says he'll start "after the busy season", a Now sign. Earlier he mentioned restarting [his routine] [three] times this year and dropping it by week [3] each time, a Self sign. Repair the earlier link first, and when his words and his record disagree, trust the record, because a date laid on a broken Self link buys a start and a week-3 exit. So check Self first: ask what happened the last three times.
 
-When he says he could never tell whether any of them worked, say the true thing: "You didn't quit three times because you're weak. You quit because nothing showed you it was working." Then date his decision a week out and send the free week of logging, which you read back at the check-in: [six] of [seven] days. Then turn to Now. A busy season that truly leaves no [minutes a day] dates his decision to the first start after it; otherwise ask what another season of guessing costs him, say it back in his words, and ask him to join the next monthly start.
+When he says he could never tell whether any of them worked, say the true thing: "You didn't quit three times because you're weak. You quit because nothing showed you it was working." Then date his decision a week out and send the free week of logging, which you read back at the check-in: [six] of [seven] days. Then turn to Now. A busy season that truly leaves no [minutes a day] dates his decision to the first start after it; otherwise ask the Implication Question, say his answer back in his words, and ask him to join the next monthly start.
 
 ## 4. Fantasy to Expectation
 
@@ -198,7 +198,7 @@ When a buyer asks whether it will work, he's asking two things. One is self-effi
 |---|---|
 | Mastery first: a free week of logging before his call, then a win he can verify in his first fortnight | The changeable column, said plainly and with conviction |
 | Men like him: someone his age, with his record and its range | Debated levers at their tier: "people report it; it's unproven" |
-| Praise that follows his record: "[21] of [21] days logged" | Clarity instead of change: "by week 6 your record shows what's moving" |
+| Praise that follows his record: "[21] of [21] days logged" | Clarity instead of change: "By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you." |
 
 Mastery, watching his own effort register on a record he produced, is the strongest source of that belief, and seeing a man like him do it comes next. Encouragement without a record does little. Keep early wins real and small, because belief pushed past what his week can carry tends to end in overcommitment, then a crash. The Outcome Map caps the right column, so the method's promise is clarity, which you control.
 
@@ -206,9 +206,9 @@ Mastery, watching his own effort register on a record he produced, is the strong
 
 Bounded agency says genes set the range of what shows, guessing wastes it, and measurement shows what's moving. "What shows" means the changeable column, never bone, and measurement never reads a ceiling off his face. It concedes the true part of fatalism and turns the rest into an accusation against guessing. That fatalism is partly learned, since effort that never registered teaches a man nothing he does counts, and a log he kept shifts it more than any argument about genes.
 
-### Effort vs direction: most stalls are direction problems
+### Effort vs direction: most stalls you see are direction problems
 
-The man at your door has already proven effort, because months of something most days is not how laziness looks. What he lacked was direction: which levers, in what order, and how he'd know. That's effort vs direction, the read that most stalls are direction problems, and it's why "you weren't consistent", the category's favorite excuse, is the wrong default. When his record shows the effort isn't there, say so as a fact about the log. Otherwise say the true thing with force: "You've put in [eight] months of real work, and nobody gave you a way to see what it was doing."
+The man at your door has already proven effort, because months of something most days is not how laziness looks. What he lacked was direction: which levers, in what order, and how he'd know. That's effort vs direction, the read that most stalls you see are direction problems and that measuring is how he'd know which verdict is his, and it's why "you weren't consistent", the category's favorite excuse, is the wrong default. When his record shows the effort isn't there, say so as a fact about the log. Otherwise say the true thing with force: "You've put in [eight] months of real work, and nobody gave you a way to see what it was doing."
 
 ### Each verdict has its own standard of evidence
 
@@ -217,14 +217,14 @@ At week 6 the verdict question comes first: given his adherence, is the lever mo
 | Verdict | The standard it must meet | What follows |
 |---|---|---|
 | Unmeasured | You can name the gap in measurement: no baseline, captures under shifting conditions, or a marker read two ways | Fix the measurement, then judge the lever on the next clean readings |
-| Misdirected | A named lever that doesn't fit his goal or baseline, a documented correction, and early movement on the corrected lever at the next reading | One lever changed per read; if the miss was your review's, the weeks it cost are free |
+| Misdirected | A named lever that doesn't fit his goal or baseline, a documented correction, and early movement on the corrected lever at the next reading | One lever changed per read |
 | The lever doesn't move for him | The right lever, done at or above his adherence threshold, cleanly measured, and no marker at its threshold | Say it; at week 12 the non-response clause pays |
 
 Those are **Stall Verdicts**: a stall is unmeasured, misdirected, or "the lever doesn't move for this person". The plateau work around them, from plateaus announced in his terms to a re-plan within 48 hours, is the Plateau Plan, and the stop, refund, and referral after the third verdict is the Honest Exit (Module 21).
 
 ### Misdirected has to earn its label
 
-The hard call is between the second verdict and the third, and the temptation runs one way. Calling a flat record "misdirected" sells more weeks, and doing it with a new lever at every read is the category's new tip every few weeks, run on a spreadsheet. So the label needs its whole standard: a lever named before you look at the result, a correction in writing, and early movement at the next reading. Without all three, "the lever doesn't move for this person" stands. One lever changes per read, and week 12 is never pushed back for another try.
+The hard call is between the second verdict and the third, and the temptation runs one way. Calling a flat record "misdirected" sells more weeks, and doing it with a new lever at every read is the category's new tip every few weeks, run on a spreadsheet. So the label needs its whole standard: a lever named before you look at the result, a correction in writing, and early movement at the next reading. Without all three, "the lever doesn't move for this person" stands, and week 12 is never pushed back for another try.
 
 When the miss was your own review's, a signal you didn't catch or a plan step you set wrong, the weeks it cost come back as free corrective weeks, capped at 6 (Module 7). Before he buys, months with nothing measured get the first verdict, never the third, since an unmeasured record can't show that a lever doesn't move. "Don't buy" comes from Range, when what he wants sits in the never-claimed column, or from a measured record that already shows the lever flat.
 
@@ -238,7 +238,7 @@ Each correction fades, so the Canon works by sustained exposure: a few calibrate
 
 ### Sustained exposure holds what single corrections can't
 
-Picture the buyer who never comments. He watches for months and checks your page twice, while the category's content reaches him daily. A single correction fades, even after a repeat or two, so what holds him is exposure that doesn't stop. One large field experiment sent short corrections every fortnight for six months, and the corrected beliefs stuck, most of all among people who actually read them. It's one study, but its shape is the Canon's: short, regular, and for months.
+Picture the buyer who never comments. He watches for months and checks your page twice, while the category's content reaches him daily, so what holds him is exposure that doesn't stop. One large field experiment sent short corrections every fortnight for six months, and the corrected beliefs stuck, most of all among people who actually read them. It's one study, but its shape is the Canon's: short, regular, and for months.
 
 ### The Canon is short and said in fixed words
 
@@ -269,7 +269,7 @@ When a myth resurfaces, like a viral jaw claim or a new device, move the claim t
 
 ## Worked Example: Dan, Link by Link from First Video to Renewal
 
-Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about eight months into [his routine] with nothing measured, the stalled adult this business is built around. Here's his path from the first video to his renewal, read link by link.
+Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about eight months into [his routine] with nothing measured, the stalled adult this business is built around.
 
 **First video: Range, then Cause.** One night after a team photo at work, he searches whether an adult can still change his jaw and finds your Honest Answer. He watches it to the end, then a second video that tells a stall like his back to him: months of effort, photos under whatever light the bathroom had, a new tip every few weeks. He comments, "This is literally me." Range held first because his search landed there, and Cause followed, because the stall was missing measurement rather than missing him. You answered in public and linked your door, which starts with a self-assessment. Left alone: any pitch in the reply.
 
@@ -277,15 +277,17 @@ Dan *(composite, Struggler)*, 24, works full-time in logistics and has put about
 
 **The call: Guide and Self.** He asks how he'd know you're not one more channel selling a jawline. Instead of arguing, you walk him through the Verify Page and your dated log, which counts the buyers you've told not to buy. When he says he always quits after a few weeks, you ask what happened last time: he couldn't tell whether it was doing anything. His logged week answers that, [6] of [7] days with no one watching.
 
-**The call: Now, and the decision.** Asked what another year like the last would cost him, he names it: another year of ducking the team photo, money on whatever the next video recommends, and still not knowing. He isn't insecurity-led, so you say it back in his words, forward money included: "Then waiting costs you another year of ducking that photo and paying for things you can't check."
+**The call: Now, and the decision.** Asked the Implication Question, he names what another year like the last would cost: another year of ducking the team photo, money on whatever the next video recommends, and still not knowing. Nothing he has said puts him on the Dignity Route, so you say it back in his words, forward money included: "Then waiting costs you another year of ducking that photo and paying for things you can't check."
 
 You show the real tiers, premium first, recommend the Program, your 12-week flagship, from the next monthly start, and state its price once. He answers yes to "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?", the Fit Check finds no signal, and day one is booked.
 
-**Week 4: where the chain nearly broke.** His check-in asks whether to switch, because a stranger online claims a jawline in [30] days from [a different routine]. His logs are steady, so this isn't Self; the Honest Answer he watched weeks ago has faded, and Range and Vehicle are wobbling together. You name the frustration, leave the stranger out of it, and answer in the Canon's words: "It's maddening to see that and wonder if you picked wrong. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Behavior gets measured every week; appearance gets captured rarely, the same way every time."
+**Week 4: where the chain nearly broke.** His check-in asks whether to switch, because a stranger online claims a jawline in [30] days from [a different routine]. His logs are steady, so this isn't Self; the Honest Answer he watched weeks ago has faded, and Range and Vehicle are wobbling together. You name the frustration, leave the stranger out of it, and answer in the Canon's words:
 
-That's the right evidence for the link that broke: two Canon claims he has heard before, and his week-6 date. A pep talk would have aimed at Self, which held, and his next week logs [6] of [7] days.
+> "It's maddening to see that and wonder if you picked wrong. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Behavior gets measured every week; appearance gets captured rarely, the same way every time."
 
-**Week 12: Hold.** At week 6 the verdict question got a yes: at [~85]% of days, [two] of his three markers were moving. Now he has measured momentum, adherence at or above his threshold with one marker still improving across its last two readings, and he says he'll keep it going himself. You make the Renewal Case from his record: one marker is still climbing, and two habits still need reminders. You show Round Two at [~$0.8–1.2k] beside the Hold, recommend Round Two, and he answers yes to the same affordability question, word for word, before paying.
+That's the right evidence for the link that broke: two Canon claims he has heard before. A pep talk would have aimed at Self, which held, and his next week logs [6] of [7] days.
+
+**Week 12: Hold.** At week 6 the verdict question got a yes: at [~85]% of days, [two] of his three markers were moving. Now [one] has reached its threshold, a measured peak, and [another] is still improving across its last two readings, which with his adherence gives him measured momentum. He says he'll keep it going himself. You make the Renewal Case from his record: one marker is still climbing, and two habits still need reminders. You show Round Two at [~$0.8–1.2k] beside the Hold and recommend Round Two. He answers yes to the same affordability question, word for word, and the Fit Check finds no signal before he pays.
 
 **Week 12: Share.** At that same peak you make one private ask: if he knows anyone still guessing, here's [a one-page guide to matched captures] to pass on, with no need to say he did the program. He sends it to one friend.
 
@@ -339,9 +341,9 @@ Keep one row per claim, checked in your quarterly review. Two rows, filled in:
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, and so does knowledge: you don't yet know which links break in your audience. Repair links live on calls and fill a link card after every no that isn't a stop rule. After about 30 held conversations, the tally shows where your content is thin. The trap is building content around the link you enjoy arguing, usually Range, instead of the one that breaks most.
+**Early.** Reach binds, and so does knowledge: you don't yet know which links break in your audience. Repair links live on calls, and after about 30 held conversations your link tally shows where your content is thin. The trap is building content around the link you enjoy arguing, usually Range, instead of the one that breaks most.
 
-**Growing.** Conversion binds, so links have to be repaired before the call instead of on it. Tag every asset with its primary link and move each repair earlier: the result page, the welcome emails, the offer page. The trap is tagging everything Range because the Honest Answer performs, while Self keeps breaking in week 3.
+**Growing.** Conversion binds, so links have to be repaired before the call instead of on it: move each repair earlier, to the result page, the welcome emails, and the offer page. The trap is tagging everything Range because the Honest Answer performs, while Self keeps breaking in week 3.
 
 **Scaling.** Care minutes bind, so most repair runs without you: the Canon at volume, templated replies, and enrollment without a call. Review the Canon's rotation and the link tally every quarter. The trap is automating a repair that needs you, like the third verdict or a Self repair at a plateau.
 
@@ -386,6 +388,6 @@ Keep one row per claim, checked in your quarterly review. Two rows, filled in:
 | **Stall Verdicts** | Give every stall a verdict that meets its standard |
 | **The Canon** | Keep 5–7 calibrated claims in fixed words on a schedule |
 
-**Leans on:** the Outcome Map and Honest Answer (Module 3) · the Destination Ladder (Module 2) · the pause route (Module 5) · corrective weeks (Module 7) · the Dignity Route (Module 15) · the Stake-to-Step Ratio and belief sentence (Module 18) · the objection map (Module 19) · the Plateau Plan and Honest Exit (Module 21) · the Renewal Case (Module 22) · the Canon Lane (Module 26).
+**Leans on:** the Outcome Map and Honest Answer (Module 3) · the Destination Ladder (Module 2) · the pause route (Module 5) · corrective weeks (Module 7) · the Dignity Route (Module 15) · the Stake-to-Step Ratio and belief sentence (Module 18) · the Implication Question and objection map (Module 19) · the Plateau Plan and Honest Exit (Module 21) · the Renewal Case and measured peak (Module 22) · the Canon Lane (Module 26).
 
 **Do this month:** fill a link card for every no that isn't a stop rule; write your Canon and its rotation; give each destination line on your page its obstacle, plan, and perspective line.

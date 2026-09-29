@@ -88,7 +88,7 @@ The sale itself is evidence: disclosed early, it leaves him nothing to uncover, 
 
 ### Say what you sell before he has to ask
 
-In this category the reveal is itself a grift tell. The standard bait is a free "face analysis" that ends in a pitch, or a DM that turns friendly before an offer appears. A price he uncovers late in a call reads like the pattern he came to leave. The only disclosure that helps is the plain kind, said once, early, on every surface. That's Sell in the Open: announce structure, stake, and price early.
+In this category the reveal is itself a grift tell. The standard bait is a free "face analysis" that ends in a pitch. A price he uncovers late in a call reads like the pattern he came to leave. The only disclosure that helps is the plain kind, said once, early, on every surface. That's Sell in the Open: announce structure, stake, and price early.
 
 **Say what you sell, what you earn from it, and what it costs before he has to ask.**
 
@@ -101,7 +101,7 @@ Your stake is the part operators skip. "I earn money when you join, which is why
 | The first minutes of a call | The structure, your stake, and the price range | A price revealed after most of an hour of rapport |
 | A DM asking "how much?" | The public price range and one link to your door | The DM closer's rapport-then-offer pattern |
 
-Openness also has to hold over time, because this buyer scrolls back. Old videos should match today's page, or the gap should be a Price Step, a scheduled rise you announced ahead. Your answer to the bone question should read the same in your first long-form piece and your fortieth. Claims that hold still get tested less hard each month. The signs you're selling in the dark are "how much?" topping your pitch comments, calls going quiet at the price, and refund requests saying "I didn't realize it was a program."
+Openness also has to hold over time, because this buyer scrolls back. Old videos should match today's page, so prices sit only where you can edit them, like the end card and the description. Your answer to the bone question should read the same in your first long-form piece and your fortieth. Claims that hold still get tested less hard each month. The signs you're selling in the dark are "how much?" topping your pitch comments, calls going quiet at the price, and refund requests saying "I didn't realize it was a program."
 
 ### Presence carries what pedigree only claims
 
@@ -129,7 +129,7 @@ The rules make it costly. They rule out thumbnails of your profile or jaw, befor
 
 ### Answer the attack with the system, once
 
-Appearance attacks come in two forms, "bro has no jaw and he's teaching this" and the friendlier "look at him, it obviously works". Both get the same reply, once, and it can cut at the practice of selling with a face while it answers the man:
+Appearance attacks come in two forms, "bro has no jaw and he's teaching this" and the friendlier "look at him, it obviously works". Both get the same reply, once:
 
 > **You:** "Fair challenge for anyone selling in this space. My face isn't evidence either way: one face, no baseline, genes I didn't pick. A seller's own jaw is the cheapest ad in this category, which is why I don't use mine. What I publish instead is a dated log, on a schedule I set before I had clients: [link]."
 
@@ -137,11 +137,11 @@ The reply concedes the fair half, moves the question from the face to the record
 
 Sometimes the reply draws a grift claim, like "just mew harder and you'd have a jaw". Answer it at its evidence tier, meaning how well the research supports it, because a claim left standing under your video reads as one you accept:
 
-> **You:** "There's no good evidence that habits change the shape of an adult's jaw, and a before/after from a new angle proves nothing. What changes and can be measured is your habits, your body composition, and how you're photographed."
+> **You:** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. A before/after from a new angle proves nothing either way."
 
 **When the signals disagree.** A short of yours takes off, [~400k] views in [three] days, and the top comments are about your face. There's mockery, "he looks fine, so it works", "just mew harder", honest questions, and a handful that read like under-18s. Views say lean in with a response video and a reply to everyone. Eligible-adult yield, the eligible leads each unit of reach produces, says otherwise, because the category's most engaged audience is mostly under 18 in the samples that exist.
 
-Go by the buyers. Pin one reply carrying the statement's first sentence, the log link, and an answer to the best honest question. Hide only what your comment policy names, as the Comment Courtroom's rules require (Module 23). A minor's growth question gets one public line: an orthodontist is the right person for questions about a growing face.
+Go by the buyers. Run the Comment Courtroom, your comment section on published rules (Module 23): pin the best honest question in place of your own comment, answer it beneath with the statement's first sentence and the log link, and hide only what your policy names. A minor's growth question gets one public line: an orthodontist is the right person for questions about a growing face.
 
 Make no video about your face, and judge the spike by eligible leads over the next [two weeks], never by views. If its subject earns more, send it through the Two-Win Rule, which counts a short-form framing only after it wins repeatedly and holds in long-form (Module 24).
 
@@ -178,10 +178,10 @@ The referral beat runs on its own rule, the Scope Boundary: "I can't help with t
 | Sleep or snoring signs | A doctor | A referral note goes out first, in writing, and payment waits for it |
 | Jaw pain | A dentist or doctor | The same, and jaw pain is never read as progress |
 | Bite concerns | A dentist or orthodontist | The same |
-| Distress or fixation | A doctor or mental-health professional, with crisis resources if it's acute | No sale; a referral conversation; reading-only content; the pause route, which stops every sales send for 60–90 days |
+| Distress or fixation | A doctor or mental-health professional, with crisis resources if it's acute | No sale; a referral conversation; reading-only content; the pause route, which holds every marketing send for 60–90 days |
 | Under 18 | An orthodontist, for questions about a growing face | It ends: public education only, anything collected deleted, anything paid refunded |
 
-Name the trigger and the professional, then stop, because what his snoring means is the doctor's question and a guess from you is a medical opinion. Coaching runs alongside a clinician's care, never instead of it, and nothing you sell goes ahead of the note.
+Name the trigger and the professional, then stop, because what his snoring means is the doctor's question and a guess from you is a medical opinion. Coaching runs alongside a clinician's care, never instead of it, and nothing you sell goes ahead of the note. For a client, a trigger ends delivery only when he chooses to stop and see someone, or when continuing would keep the trigger alive, as when your captures feed his checking (Module 21).
 
 ### A confident referral is a signal a grifter can't send
 
@@ -247,7 +247,7 @@ The Dignity Check asks whether he leaves more capable or more defective (Intro),
 |---|---|---|
 | Declined: he wants habit-driven change to bone | "That's genetics. Nothing you can do." | "Nobody can honestly sell you that, me included. Here's what can change, and how to measure it for free." |
 | Declined: a fixation signal | "You're not a fit for the program." | "The useful next step is someone who can help with how much time this takes. Here's who. The reading is yours either way." |
-| A budget buyer: "I can't afford it" | "Maybe when you're in a better spot", or any cheaper offer | "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." |
+| A budget buyer: "I can't afford it" | "Maybe when you're in a better spot", or any cheaper offer | "Understood, and thanks for saying it straight. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." |
 
 The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once. The pause route is set, and money talk ends. If he keeps the practice, he's still one of the adults who measure instead of guess (Module 17).
 
@@ -259,8 +259,8 @@ Cole (composite operator) starts from zero in [January]. By day [30] he has publ
 
 | # | Where | What he found | The read | The fix |
 |---|---|---|---|---|
-| 1 | Channel | "What are your qualifications?" asked [four] times, answered [three] ways, once not at all | Three answers read as improvising | One Qualifications Answer with the fixed fact sentence, pinned under every long-form piece |
-| 2 | Channel | "His jaw is proof it works", the top comment on a short, unanswered | Silence let the face-as-proof premise stand | The face statement pinned, and one reply linking the log |
+| 1 | Channel | "What are your qualifications?" asked [four] times, answered [three] ways, once not at all | Three answers read as improvising | One Qualifications Answer with the fixed fact sentence, pinned where it's the strongest challenge |
+| 2 | Channel | "His jaw is proof it works", the top comment on a short, unanswered | Silence let the face-as-proof premise stand | The face statement in his comment policy, and one reply pointing to it and the log |
 | 3 | Channel | His offer video gave the founding group's price but never said who it isn't for, and [six] comments asked if it builds bone | Men it can't help were reading it as for them | A "not for" line in every decision-stage pitch |
 | 4 | Page | "What we don't claim" listed [three] limits with no reasons | Bare noes read like the genetics shrug | Each limit gets its reason and what to do instead |
 | 5 | Page | "Personal review every week", with no word on how reviews are made | A line templating would one day make false | The review disclosure, on the page now |
@@ -305,11 +305,11 @@ If he pushes:
 
 Never say "Honestly, I know more about this than most orthodontists," because it claims a credential nobody can verify and swings at the people you refer to.
 
-Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit and let him pick his decision date. The affordability question runs word for word before any payment.
+Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit, the sample plan and sample weekly review, and let him pick his decision date. The affordability question runs word for word before any payment.
 
 ### The face statement
 
-Pin it under your first long-form piece, in your profile, and on the Verify Page. It's true on day one:
+Put it in the comment policy every pin links to, in your profile, and on the Verify Page. It's true on day one:
 
 > **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates as a labeled small sample, flat results included. Client photos stay private. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
 
@@ -336,7 +336,7 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** You have no graduates and no history, so trust rests on what you can show before the first sale. The default is the signals you can already afford: complete hygiene, the pre-commitment and its first entries, the pinned answer and face statement, and replies in your own words. The trap is borrowing authority to fill the gap, whether a quick certificate, a clinical word, or a friend's praise posted as a testimonial.
+**Early.** You have no graduates and no history, so trust rests on what you can show before the first sale. The default is the signals you can already afford: complete hygiene, the pre-commitment and its first entries, the Qualifications Answer and face statement, and replies in your own words. The trap is borrowing authority to fill the gap, whether a quick certificate, a clinical word, or a friend's praise posted as a testimonial.
 
 **Growing.** Conversion binds, and skeptics arrive having searched your name and read the log, so the counts carry the argument. Publish the claim rate by layer and the Fill History, each start's seat cap and fill with thin starts included, on schedule. The trap is letting the unflattering lines go quiet while the flattering ones keep their dates.
 
@@ -379,6 +379,6 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 | **The Plain-Language Rule** | Swap the clinic's words for action and data words |
 | **The Dignity Route** | Keep force off his worth while the recommendation holds |
 
-**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · the Comment Courtroom (Module 23) · the Two-Win Rule (Module 24) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
+**Leans on:** the Destination Ladder (Module 2) · the Dated Record (Module 3) · the Fit Check (Module 5) · the Layered Guarantee (Module 7) · the Belief Chain (Module 14) · the Claim Ladder (Module 16) · Adults Who Measure (Module 17) · stops during delivery (Module 21) · the Comment Courtroom (Module 23) · the Two-Win Rule (Module 24) · the Verify Page (Module 27) · the House Standard and the Dignity Check (Intro).
 
-**Do this month:** pin the Qualifications Answer and face statement wherever skeptics look; log declines, claims, and turnaround as they happen; run the vocabulary search and trust audit at month's end.
+**Do this month:** put the face statement in your comment policy, profile, and Verify Page, and settle one wording of the Qualifications Answer; log declines, claims, and turnaround as they happen; run the vocabulary search and trust audit at month's end.

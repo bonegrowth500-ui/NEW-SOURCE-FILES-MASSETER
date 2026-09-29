@@ -13,7 +13,7 @@ Your own site has four jobs: routing buyers, letting them check you, showing you
 
 ### Rented ground can't run your checks
 
-A platform rents you reach and keeps the rules. It decides what counts as a view, where a link may point, which ads run, and whose account stays up. In this category the rules keep tightening. Platforms hold back appearance-comparison videos from teens, limit appearance and health ads to adults, and review the pages ads send people to. A careful brand can live with that, but the ground still belongs to someone else, and it can shift under you in a week.
+A platform rents you reach and keeps the rules. It decides what counts as a view, where a link may point, which ads run, and whose account stays up. In this category the rules keep tightening. Platforms hold back appearance-comparison videos from teens and limit appearance and health ads to adults. A careful brand can live with that, but the ground still belongs to someone else, and it can shift under you in a week.
 
 Your checks need ground of their own. The door asks his age before it keeps anything, and asks about fit and money before any pay button, an order no rented form lets you set. What he tells you about his face belongs in your records alone. And a skeptic needs one place where every claim, price, and term sits side by side. No feed gives him that, since a feed shows one piece at a time.
 
@@ -34,7 +34,7 @@ One home means one domain in the brand's name, with every profile, description, 
 
 ### Judge it by what verifying buyers do next
 
-Traffic flatters a hub, because a page can fill with visits from people who were never going to buy. Judge it by the door's counts instead: eligible leads, meaning adults who passed the age fork, by source label, the route each came through. Then read held conversations and enrollments. Ask the men who enroll what they checked before paying, since the page a buyer reads last rarely looks busy. If most name that page or your log, the hub works. If none do, the page is hard to find or not worth finding, and a search of your own name tells you which.
+Traffic flatters a hub, because a page can fill with visits from people who were never going to buy. Judge it by the door's counts instead: eligible leads, meaning adults who passed the age fork, by source label, the channel each came through. Then read held conversations and enrollments. Ask the men who enroll what they checked before paying, since the page a buyer reads last rarely looks busy. If most name that page or your log, the hub works. If none do, the page is hard to find or not worth finding, and a search of your own name tells you which.
 
 ## 2. The Verify Page and the Evaluation Query
 
@@ -70,7 +70,7 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **What we don't claim.** Open with Canon claim 1, the first of the few core claims you repeat in fixed words, quoted exactly, since strangers and summaries will quote you. Then give each item in the never-claimed column of the Outcome Map, your four-column answer to the bone question, with its reason and what to do instead, because bare noes read like the genetics shrug.
 
-**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage, his Buyer State (the situation he arrives in), his route, and a pause on every marketing send and checkout for 60–90 days. None records a fit or insecurity answer, and he can check that.
+**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage; his Buyer State, the situation he arrives in; his route; and a pause on every marketing send and checkout for 60–90 days. None records a fit or insecurity answer, and he can check that.
 
 **Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, word for word from your terms (Module 7). The non-response clause pays cash only if he logged at least [80%] of days and no marker reached its threshold by week 12, and a man below [80%] should learn that before paying.
 
@@ -106,7 +106,7 @@ Drift here runs one way, toward the bone claim, because the strongest-sounding l
 
 **The page is part of the post: every claim from one library, every page in habit and process words, and no health framing wherever an ad or a tracker reads.**
 
-That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library does its work. It's one document holding every public claim in its exact words. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, and where it may travel. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
+That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library does its work. It's one document holding every public claim in its exact words. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, and where it may travel. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the card of at most ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
 
 On pages, habit and process words describe what he does and what you deliver: logs, weekly review, captures to a standard, a verdict from his record. One sentence can sit on every page and description: "[Brand] coaches habits and presentation, reviews your record every week, and gives no medical or dental opinion."
 
@@ -147,11 +147,11 @@ That's the **Proof Portability Gradient**, the map of where each kind of proof m
 
 ### Every piece gets its row before it ships
 
-Run the gradient at the Pre-Publish Card's proof line. Count each extracted clip as a new claim: put its caveat back on screen or drop the clip, and never cut a pair into one. When you can't tell where a piece of proof belongs, move it down a row. The row below costs some reach, while the row above can cost you the account.
+Run the gradient at the Pre-Publish Card's proof line. Pass each extracted clip through the Clip Context Check, which counts it as a new claim: put its caveat back on screen or drop the clip, and never cut a pair into one. When you can't tell where a piece of proof belongs, move it down a row. The row below costs some reach, while the row above can cost you the account.
 
 Run it on one piece. Dan *(composite, Struggler)* reaches a measured peak at week 12, his adherence and a marker both at threshold. After his verdict he consents to a Case: his pair for the site library, his words and numbers for short-form. The Case runs in full in long-form, with markers, thresholds, dated weeks 0 and 12, [what else changed], and his place among [N] graduates. The short opens on his situation in words, "[24, logistics, eight months of guessing]", and keeps "[n] of [N] graduates reached a marker threshold · observed, not caused" on screen, with no capture anywhere.
 
-His pair stays in the library beside its conditions log. The ad runs a different piece, your walkthrough of a sample weekly review, because a bought piece carries no outcome proof.
+His pair stays in the library beside its conditions log. The ad runs a different piece, your walkthrough of a sample weekly review.
 
 ## 5. The Adult Reach Buy and Ad Gates
 
@@ -197,7 +197,7 @@ The buy pushes pieces, never forms. Pay for views of the proven piece, and let i
 
 ### Paid never buys with shame or sensitive signals
 
-Bought viewers stand on the Stranger rung of your Warmth Ladder, the rule for which asset may ask for what. That rung gets the door and no price, so an ad asks only for the self-assessment. It never uses insecurity hooks: no question about a feature, no hint that he looks worse than he should, no idealized jaw, no timeframe. Large platforms ban most of this in appearance and health ads, and your standard runs stricter. What runs is you on camera with a Canon claim or a sample weekly review, since a bought piece carries no outcome proof.
+Bought viewers stand on the Stranger rung of your Warmth Ladder, the rule that you never ask for a rung the buyer isn't standing on. That rung gets the door and no price, so an ad asks only for the self-assessment. It never uses insecurity hooks: no question about a feature, no hint that he looks worse than he should, no idealized jaw, no timeframe. Large platforms ban most of this in appearance and health ads, and your standard runs stricter. What runs is you on camera with a Canon claim or a sample weekly review, since a bought piece carries no outcome proof.
 
 Nor does paid optimize on sensitive signals. No door answer, fit or health-adjacent, becomes an event, an audience, or a lookalike. The buy uses no interests, nothing bought follows a man from your door, and your fork still asks every bought visitor his age.
 
@@ -270,7 +270,7 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 > **Next start: [date] · last day to join: [date].** [Seat status, if informative] · [Next Price Step: price, date, what it adds]
 >
-> **Who we are, and who we turn away.** [Brand]: [a written plan and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. No clinical qualification, medical opinions, face ratings, or affiliate income. Not a legal adult where you live? This isn't for you; an orthodontist answers growth questions. Jaw pain, bite problems, or loud snoring: a dentist or doctor first. Appearance worries most days: [support link] and an offer to talk, never a sale. No credit. Before any payment, a few plain questions; some answers mean we'll talk first.
+> **Who we are, and who we turn away.** [Brand]: [a written plan and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. No clinical qualification, medical opinions, face ratings, or affiliate income. Not a legal adult where you live? This isn't for you; an orthodontist answers growth questions. Jaw pain, bite problems, or loud snoring: a dentist or doctor first. Appearance worries most days: [support link] and an offer to talk, never a sale. Before any payment, a few plain questions; some answers mean we'll talk first.
 >
 > **What we don't claim.** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." Nor, for the same reason, that habits even out asymmetry, replace dental or medical care, or give everyone one result. A before/after taken from a new distance is a photo of the camera moving, and "it's all genetics" is right about bone, wrong about the rest. Judge anyone, us included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? [Latest teardown]
 >

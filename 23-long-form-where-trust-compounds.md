@@ -35,15 +35,15 @@ Those are the **Nurture Jobs**: the five jobs every coaching business must get d
 
 **Five jobs, one owner each, one door.**
 
-The paid rooms own identity rehearsal because they keep the standard of Adults Who Measure, the group of adults who measure instead of guess, where membership is the practice itself. The free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now (Module 17). Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
+The paid rooms own identity rehearsal because they keep the standard of Adults Who Measure, the group of adults who measure instead of guess, where membership is the practice itself (Module 17). The free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now. Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
 
 ### Reid gave three jobs to nobody
 
-Reid *(composite operator)* posts on four platforms at month [5] and can't say why his views don't turn into calls, so he writes down each job's owner. Exposure has one, loosely: shorts most days, long-form only in weeks with a free evening. Proof has none, since his dated log sits in a document nothing links to.
+Reid *(composite operator)* posts on four platforms at month [4] and can't say why his views don't turn into calls, so he writes down each job's owner. Exposure has one, loosely: shorts most days, long-form only in weeks with a free evening. Proof has none, since his dated log sits in a document nothing links to.
 
 Identity has none, since no booking comes with the free log. His archive is his inbox, where he typed the same answer about braces [a dozen] times last month. His warm pool is [~40] addresses from a single bio link.
 
-He drops his two thinnest platforms under the Platform Count Rule: run only as many platforms as your editing budget serves (Module 25). The freed hours give every job an owner: long-form every other week, the dated log linked in each description, the free log with every booking, an archive page of his [twelve] most-typed answers, and a door link in every pin. In [two] months his list grows toward [~150] adults, and his held conversations move from [2] a week toward [3–4], inside what Band B, the steady planning band, allows.
+He drops his two thinnest platforms under the Platform Count Rule: run only as many platforms as your editing budget serves (Module 25). The freed hours give every job an owner: long-form every other week, the dated log linked in each description, the free log with every booking, an archive page of his [twelve] most-typed answers, and a door link in every pin. In [two] months his list grows toward [~150] adults, and his held conversations move from [1] a week toward [2], inside what Bands A and B, the bands to plan on, allow.
 
 Name every job's owner before your second long-form piece, since a page with three answers is already an archive. Read each job's number at the quarterly Operator Review, your standing review of pipeline, profit, and capacity. Give an ownerless job its owner before you add a platform or format.
 
@@ -57,7 +57,7 @@ Every surface does one of three kinds of work, and the kind tells you where its 
 | Trust engines | Long-form, the proof library, the archive, the Verify Page where skeptics check you | Stranger by search, then Returning | Build belief; from the Returning rung, name the offer and price |
 | Relationship surfaces | Email, the result page his self-assessment returns, verified DMs, calls; after purchase, the paid rooms | Assessed and Deciding | Carry one recommendation to a decision |
 
-A surface isn't a stage for views. It's a place where one kind of work gets done, and all three kinds route to the same door, which asks his age first. Tag each long-form piece by the coldest viewer it's built for, and let the tag set its price line. A piece built for search, like "Is it too late at 27?", asks for the door and carries no price. A Returning piece carries a short pitch segment, with its price on the end card, the pin, and the description.
+A surface isn't a stage for views. It's a place where one kind of work gets done, and all three kinds route to the same door, which asks his age first. Tag each long-form piece by the coldest viewer it's built for, and let the tag set its price line. A piece built for search, like "Is it too late at 27?", asks for the door and carries no price. A Returning piece carries a short pitch segment and its price.
 
 ## 2. Why Long-Form Compounds
 
@@ -118,7 +118,7 @@ Three packaging choices lower the minors' share without touching the method or a
 
 **Every title picks an audience, so pick adults.**
 
-No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. Among your videos, a matched pair appears only inside a long-form piece, with its Context Stack said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
+No thumbnail ever uses your own profile or jaw as an aspirational before/after, and no title or thumbnail carries anyone's before/after. A matched pair appears only in your site's library or inside a long-form piece, with its Context Stack said beside it. A thumbnail or clip travels to strangers without the context that makes a pair honest.
 
 The dial lowers the minors' share at every stage and never aims at an adult age band. Read it at your door's age fork, and guard the other side with the 18–24 share of adult completions, read in aggregate from the door's age-band item. If a package pushes that share down, pull it back, because nothing may push out adults inside your 19–32 core. At Scaling the dial does the same job. Any change in your adult mix comes from the Buyer-Mix Shift's state lever and its page for Optimizers, buyers with more money than time, read as an observed mix (Module 13).
 
@@ -167,7 +167,7 @@ His beliefs have an order: the links of the Belief Chain, the beliefs a purchase
 
 ### Five pieces carry one link each
 
-The Start Here Series is a five-piece progression of decision-stage topics that ends at the door, with the Honest Answer first. The Honest Answer is one dedicated asset, delivered wherever the category's search terms bring people in, and the first claim in your Canon (Module 3). The Canon is the short set of calibrated claims you repeat in fixed words on every surface, so each piece quotes its claims word for word (Module 14):
+The Start Here Series is a five-piece progression of decision-stage topics that ends at the offer page and the door, with the Honest Answer first. The Honest Answer is one dedicated asset, delivered wherever the category's search terms bring people in, and the first claim in your Canon (Module 3). The Canon is the short set of calibrated claims you repeat in fixed words on every surface, so each piece quotes its claims word for word (Module 14):
 
 | # | The piece | Link | Rung | Canon claim it quotes | Its ask, then ranked secondary |
 |---|---|---|---|---|---|
@@ -217,9 +217,9 @@ None of it is about looking better. No filter, beauty mode, retouch, or AI edit 
 
 ### Batch every two weeks, and hand out production first
 
-Film in one batch every two weeks: one piece while you're Early, one or two once you're Growing. A batch day holds lens, distance, and light identical, so no two videos hand viewers an accidental before/after of your own face. It also stops a heavy client week from eating a piece. Plan about 4–6 of your hours per piece with an editor, fewer as scripting and batching settle.
+Film in one batch every two weeks. A batch day holds lens, distance, and light identical, so no two videos hand viewers an accidental before/after of your own face. It also stops a heavy client week from eating a piece. Plan about 4–6 of your hours per piece with an editor, fewer as scripting and batching settle.
 
-Production is the first work to hand out, because it's the largest block of hours where your judgment isn't the product. Editing goes first, then clips, then thumbnails and design. A clip never carries a pair, since pairs live only in long-form and your site's library, with their Context Stack. Scripts, claims approval, and final sign-off stay with you, because every clip is a new claim in your name.
+Production is the first work to hand out, because it's the largest block of hours where your judgment isn't the product. Editing goes first, then clips, then thumbnails and design. Scripts, claims approval, and final sign-off stay with you, because every clip is a new claim in your name.
 
 ### Hook and retention stay simple
 
@@ -246,7 +246,7 @@ The **Comment Courtroom** is your comment section run on published rules: a comm
 | Praise of your face as proof, or an attack on it | A pointer to the face statement and your record; never a defense, never proof | You |
 | A request for method steps | A link to the free piece, never a prescription | You |
 | "Can't afford it" under a priced piece | A kind line with no price, offer, or date; never mined | You |
-| Distress, or "nothing will ever work for me" | Permission-First Replies (Module 25): a same-day line pointing to real help, and a question before any private message | You |
+| Distress, or "nothing will ever work for me" | Permission-First Replies (Module 25): a same-day line pointing to real help, and an open invitation to message you | You |
 | The strongest honest objection | Answered at its evidence tier and pinned in place of your comment | You |
 | "Where do I start?" | One templated door link | Routing help, or you |
 
@@ -260,9 +260,9 @@ The pin is where *Fight ideas, not people* runs at full strength. Under a Return
 
 Notice the move: you concede the fair half, quote Canon claim 1 word for word, state the price once, and aim the force at a practice, never a person. It repairs Range for every silent reader and sells directly in the same reply.
 
-> **Theo** *(composite, Burned Struggler)*: "Every channel says it's different. The last course I bought had a refund policy too."
+> **Sam** *(composite, Ambivalent)*: "Makes sense. Maybe after the busy season."
 >
-> **You:** "Then check before you trust me. The sample plan, a sample weekly review, the refund terms, and my dated log are all on the page: [link]. If they hold up, the self-assessment is your next step."
+> **You:** "Fair. The next start and its last day to join are always on the page, never in a comment. The self-assessment takes a few minutes and tells you what's worth doing before then: [link]."
 
 The line you never say is "Unlike those scammers, my clients get real results." It aims at people, claims an outcome with no context, and hands your critics their screenshot. In public, the reply answers the idea and routes to the door; the recommendation waits until he's through it.
 
@@ -292,21 +292,22 @@ Cole *(composite operator)* starts from zero in January with door v0, the first 
 |---|---|---|---|---|---|---|
 | 1 | "Can an adult change his jaw with habits?" | Exposure; archive | Range | Stranger | The door | "Adult" in the title; level face |
 | 3 | "Eight months in and nothing to show" | Exposure | Cause | Returning | The door; price on the end card | "[23] and stalled?" on the thumbnail |
-| 5 | "What measuring looks like, for adults" | Proof | Vehicle | Returning | The offer page, then the door | "Adults" in the title; an empty capture template |
-| 7 | "[Does mewing work?]" | Exposure | Range | Stranger | The door | Level face, but no adult context |
-| 9 | "How to check anyone selling this, me included" | Proof | Guide | Returning | The offer page, then the door | An adult decision; a Guide question |
-| 11 | "What happens after the self-assessment, and what it costs" | Warm pool | Vehicle | Returning | The offer page, then the door | An adult decision: what it costs |
-| 13 | "[Before you pay for a 60-day jaw plan]" | Exposure | Range | Stranger | The door | An adult decision; the claim, never the seller |
+| 7 | "What measuring looks like, for adults" | Proof | Vehicle | Returning | The offer page, then the door | "Adults" in the title; an empty capture template |
+| 9 | "[Does mewing work?]" | Exposure | Range | Stranger | The door | Level face, but no adult context |
+| 11 | "How to check anyone selling this, me included" | Proof | Guide | Returning | The offer page, then the door | An adult decision; a Guide question |
+| 13 | "What happens after the self-assessment, and what it costs" | Warm pool | Vehicle | Returning | The offer page, then the door | An adult decision: what it costs |
 
 **Week 1. The Honest Answer ships first.** He films it with the setup he'll keep: same lens and distance, soft window light in front, a clip-on microphone. His own comment is pinned with the door link, and his comment policy, face statement included, goes up the same day. A friend suggests a jaw close-up for the thumbnail. Cole keeps his level face and the question, because a jaw in the thumbnail would make his face the evidence.
 
-**Week 10. The view-winner, read at the fork.** Piece 7 draws [~3×] the engaged views of anything so far, mostly from suggested feeds, with click-through above his usual. Its audience-age report skews younger than anything he's made, and its few door starts answer under 18 about [60%] of the time, against his channel's [35%]. It yields [2] eligible leads, below his usual, while the Cause piece yielded [5] on [a third] of the views. It found fewer adults in total, so the card's first row applies. He retitles it "[Does mewing work for adults? What can change at 22, and what can't]", hides [six] rating requests, and makes no sequel.
+**Weeks 3–7. A slip and a price change.** By the end of week 3 his warm network and replies have given [4] held conversations, under 2 a week, so the Sprint's source check moves about 2 hours a week from long-form into short-form and replies. His week-5 piece ships in week 7, and the series keeps its order. That week the founding price ends as the page said, and [$1,650] takes over from the [March] start. The price lives only on end cards, pins, and descriptions, so one sitting changes all of them.
 
-**Week 11. The series, and the price's end.** Piece 11 carries his full pitch segment: the founding group, who it's for and who it isn't, what the 12 weeks hold, and the [9]-month range. No piece speaks the founding price, so it sits on the end card, the pin, and the description. When it ends as the page stated, [with the March start], he edits every pin, end card, and description in one sitting. Then he re-records the two-minute segment, which now speaks the opening price, [$1,600]. Pieces 1, 3, 5, 9, and 11 become his Start Here Series.
+**Week 11. The view-winner, read at the fork.** The week-9 piece draws [~3×] the engaged views of anything so far, mostly from suggested feeds, with click-through above his usual. Its audience-age report skews younger than anything he's made, and its few door starts answer under 18 about [60%] of the time, against his channel's [35%]. It yields [2] eligible leads, below his usual, while the Cause piece yielded [5] on [a third] of the views. It found fewer adults in total, so the card's first row applies. He retitles it "[Does mewing work for adults? What can change at 22, and what can't]", hides [six] rating requests, and makes no sequel.
 
-**The quarter's outcome.** In month 3 his long-form-and-search label accounts for [3] of his [10] held conversations, and he has [3] founding clients. That sits inside Band B's month-3 range of 4–14 held conversations and the 2–6 clients a founding phase usually has by then. The retitled piece 7 draws fewer views and [about twice] the adults per view, and his list holds [~60] eligible adults.
+**Week 13. The series closes on the price.** The last piece carries his full pitch segment: the founding group, who it's for and who it isn't, what the 12 weeks hold, the opening price, [$1,650], and the [9]-month range. He records it as a two-minute segment he can swap at each Price Step. The pieces from weeks 1, 3, 7, 11, and 13 become his Start Here Series.
 
-**What it shows.** The view-winner lost adults in total, so its package changed, where a breakout that finds more adults keeps its title. The price moved in one sitting and one short re-record, because it lived only where he could edit or swap it. The series cost no extra filming, because he planned each piece by rung from week 1.
+**The quarter's outcome.** In month 3 his long-form-and-search label accounts for [3] of his [12] held conversations, and he has [5] clients. That sits inside Band B's month-3 range of 4–14 held conversations and the 2–6 clients a founding phase usually has by then. The retitled week-9 piece draws fewer views and [about twice] the adults per view, and his list holds [~60] eligible adults.
+
+**What it shows.** The view-winner lost adults in total, so its package changed, where a breakout that finds more adults keeps its title. The price moved in one sitting, because it lived only where he could edit or swap it. The series survived a two-week slip with no extra filming, because he planned each piece by rung from week 1.
 
 ## Templates: The Topic Scoring Sheet and the Comment Policy
 
@@ -362,7 +363,7 @@ Run it on the export, before scheduling.
 
 **Early.** Reach binds and short-form carries it, so long-form's job is trust and search, and its limit is hours. The default is the Honest Answer first, then a piece every other week, on camera with an editor from the first. The trap is cutting your shorts from the pieces with the most views, when the ones worth cutting have the best eligible yield.
 
-**Growing.** Conversion binds, so long-form's weight moves to warm viewers: the series re-filmed, then the Offer Pieces, about 3 a month. The default is one modular price segment, re-cut at each Price Step. The trap is letting Returning pieces crowd out the search-built pieces that bring next quarter's returning viewers.
+**Growing.** Conversion binds, so long-form's weight moves to warm viewers. The default is one modular price segment, re-cut at each Price Step. The trap is letting Returning pieces crowd out the search-built pieces that bring next quarter's returning viewers.
 
 **Scaling.** Care minutes bind, and long-form runs 2–3 a month at a higher bar, with freelancers on derivatives. The default keeps the dial on the minors' share, with its 18–24 guard, while the adult mix is only observed. The trap is raising the bar into a slower cadence, since at that pace one skipped piece is a third to a half of the month's exposure.
 

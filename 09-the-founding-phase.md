@@ -41,7 +41,7 @@ He hides the pursuit. Asking for help with how he looks feels like admitting som
 
 ### Every held conversation carries one label
 
-Read the label from the tagged link he booked through, or from his answer to "Where did you find me?" on the booking form. Other touches go in a notes field, so a man who watched [three] shorts and then booked from a friend's forward is labeled warm network.
+Read the label from the link he booked through, or from his answer to "Where did you find me?" on the booking form. A buyer who enrolls without a call answers the same question on his checkout confirmation, so no-call clients carry a label too. It's a source label, never a tag: it counts routes in aggregate and never steers what he's sent. Other touches go in a notes field, so a man who watched [three] shorts and then booked from a friend's forward is labeled warm network.
 
 | Label | The route that produced the booking | What it costs | What to plan on |
 |---|---|---|---|
@@ -67,17 +67,17 @@ If someone replies "Are you saying I need this?", answer: "Not at all. It went t
 
 Replies under your pieces and Permission-First Replies, answering in public and asking before anything private, carry attention to the door with no public pitch (Module 25). A man whose age you can't tell gets the public answer and nothing private. Anyone who says he's under 18 gets the education lane, your public content plus an orthodontist referral. Here a commenter who has mentioned his warehouse shifts asks whether it's too late at 24:
 
-> **You:** "Straight answer: there's no good evidence that habits change an adult's bone, and I don't sell that. Some things are debated. Your habits, body composition, posture, grooming, and how you're photographed can change and be measured. Which are you working on?"
+> **You:** "Straight answer: there's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Which are you working on?"
 >
 > **Dan** *(composite, Struggler)*: "Posture and photos. Eight months in and I can't tell if any of it works."
 >
-> **You:** "That's usually a measurement problem more than an effort one. Mind if I DM you a free self-assessment that sorts out where you are? No is a fine answer."
+> **You:** "Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. Mind if I DM you a free self-assessment that sorts out where you are? No is a fine answer."
 
 A yes gets the door link and nothing else, since the door checks age and fit first. If he wants the answer right there, keep it public and point to [the Honest Answer]. Never offer "send me a side profile and I'll rate it", and let a no end it.
 
 ### Three numbers frame the weekly count
 
-The count sits beside three numbers with different jobs. The target, 3–6 held conversations a week, is what you aim for. The month-3 waypoint, roughly 3–18 a month across the bands, is what you plan on. The floor, about 15 held by week 12, is the line you can't stay under without changing sources.
+The count sits beside three numbers with different jobs. The target, 3–6 held conversations a week, is what you aim for. The month-3 waypoint, roughly 3–18 a month across the bands, is what you plan on. The minimum, about 15 held by week 12, is the line you can't stay under without changing sources.
 
 The Early week's 4.5 conversation hours hold 4–5 calls at about an hour each, so a sixth comes out of slack. Plan on 0–2 clients in month 1 and 2–6 by month 3, depending on your labels. First cash can slip past month 1 if every label runs slow. A plan that says so in advance is one you won't abandon in week 5.
 
@@ -95,7 +95,7 @@ In your founding months every conversation does two jobs, learning and deciding,
 
 Men in this category have met the free strategy call that turns into a pitch halfway through. Some have met its mirror image, a "research interview" that ends in a checkout link. Either confirms what a burned buyer already believes, so the founding call states both jobs before he picks a slot. You're building the program with its first clients and will ask how he has gone about this, then see whether it fits him. It ends in one recommendation: the founding group, a founding Private seat, "don't buy", a referral, or the Starter Path, your free sequenced path for anyone who shouldn't buy now.
 
-The same page shows your public price range and asks the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" A no books nothing. He gets the free Starter Path, and the pause route is set, the tag that stops sales sends for 60–90 days.
+The same page shows your public price range and asks the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" A no books nothing. He gets the free Starter Path, and the pause route is set, the tag that holds every marketing send for 60–90 days.
 
 That's the **Dual-Purpose Conversation**: a disclosed fit-and-research call of about 45 minutes, with its purpose, the price, and one recommendation stated before he books. With prep and the written recap it costs about an hour.
 
@@ -109,9 +109,9 @@ What's out is anything that turns the research into a warm-up for the pitch. Tha
 
 ### It ends in one recommendation and an ask
 
-The fit half runs the close you'd run on any call: say his stall and goal back, recommend one thing, state the price once, ask, and resolve each real objection. That's Close by Contract, the close that agrees its structure first (Module 19). It ends at a yes with day one booked, a no, or his Decision Date. That's the day he agrees to decide by, set before the next start's last day to join. A good-fit adult who helps you learn for 45 minutes and leaves without a recommendation and a price has been failed.
+The fit half runs the close you'd run on any call: say his stall and goal back, recommend one thing, state the price once, ask, and resolve each real objection. That's Close by Contract, the close that agrees its structure first (Module 19). It ends at a yes with day one booked, a no, or his Decision Date. That's the day he agrees to decide by, on or before the next start's last day to join. A good-fit adult who helps you learn for 45 minutes and leaves without a recommendation and a price has been failed.
 
-The disclosure buys one extra question. After a clear no, you may ask once what made it a no, because you said the call was also research. Write the answer down without arguing. There's no such question after distress, or after a pause called by the Fit Check, your plain-language check for signs that buying could hurt him. And "I can't afford it" ends money talk: the Starter Path once, and the pause route.
+The disclosure buys one extra question. After a clear no, you may ask once what made it a no, because you said the call was also research. Write the answer down without arguing. There's no such question after distress, or after a pause called by the Fit Check, your plain-language check for signs that buying could hurt him. And "I can't afford it" ends money talk: the Starter Path once, and the pause route. Those last three are protective stops, and each leaves only "stopped: stop rule" in your notes, never his words.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
@@ -153,13 +153,13 @@ It ends at whichever comes first: its seats filling, or the start where the firs
 
 The Optimizer, the buyer with more money than time, can arrive in your first week: 25–35, well paid, and wary of being seen in a program. One or two founding Private seats at about $4–6k for 12 weeks give him a real tier from the first month. They sell on speed, privacy, and fixed deliverables, never on better results. In adjacent fields' trials, individual and group formats perform about the same at equal intensity. Every Private page says "we never read or score your face", because precision here means deliverables.
 
-Build the seat async-first, because the Early week gives Private about half an hour a week. Weekly calls would cost about 14–15 hours over 12 weeks. An async-first seat costs about 7–8, roughly 0.6 hours a week. It runs on [recorded reviews at weeks 0, 4, 8, and 12], [written replies within 24 hours], and [short calls at weeks 0, 6, and 12], and one such seat fills the line. Sell a second only when Seat Math shows another 0.6 hours a week that nothing else needs.
+Build the seat async-first, because the Early week gives Private about half an hour a week. An async-first seat takes about 7–8 hours over 12 weeks, roughly 0.6 a week, where weekly calls would take about 14–15, so one such seat fills the line. Sell a second only when Seat Math shows another 0.6 hours a week that nothing else needs.
 
 His way in is the priority tier, the faster paid assessment at about $350–600, credited to the seat, for a man who'd pay to skip a week's wait for a free slot. Private always needs a call. The seat exists for the buyer it fits, never to make the group look cheap, and it opens the Premium Lane, the Optimizer's path from the priority tier to Private (Module 13).
 
 ### Founding graduates are offered Round Two
 
-Founding graduates reach week 12 from about month 4, and each gets the offer his record supports. One with measured momentum is offered Round Two, the maintenance block at about $0.8–1.2k. Momentum means adherence at or above his threshold, with a marker still improving across its last two readings. One who moved and holds is told he doesn't need it, and hears about the Hold, the measurement subscription. One paid under the non-response clause, the cash refund when no marker moved despite his effort, hears no offer.
+Founding graduates reach week 12 from about month 4, and each gets the offer his record supports. One with measured momentum is offered Round Two, the maintenance block at about $0.8–1.2k. Measured momentum means adherence at or above his threshold and at least one marker still improving across its last two readings. One who moved and holds is told he doesn't need it, and hears about the Hold, the measurement subscription. One paid under the non-response clause, the partial cash refund when no marker reached its threshold despite his effort, hears no offer.
 
 His Path and Timeline Card, the one-page path and cost he saw before paying, already priced both. So both need prices before your first founding checkout. Your founding graduates are Round Two's first cohort, and the block is designed with the rest of the back end (Module 10).
 
@@ -182,7 +182,7 @@ The R&D Harvest is what founding clients must produce, each part frozen at versi
 | Process testimonials | Clients whose records show progress | Consented, asked at a measured peak after the exit decision | The count toward the proof milestone |
 | The Dated Record's log | Every conversation and client | An entry every month since month 1 | The part of the moat nobody can back-fill |
 
-The taxonomy files each pattern under one of the three Stall Verdicts, the honest reasons a stall happens. Research answers from men who didn't buy count too, stripped of names, since a stall is real without a purchase. The taxonomy stays yours. The paid self-serve tools you build after about 20 graduates carry logs and capture instructions, never its decision rules, because a rule applied without a reader of his record gives a confident wrong verdict. Each entry takes a few lines, with the method in your own files:
+The taxonomy files each pattern under one of the three Stall Verdicts, the honest reasons a stall happens. Research answers from men who didn't buy count too, stripped of names, since a stall is real without a purchase, unless a protective stop ended the call. The taxonomy stays yours. The paid self-serve tools you build after about 20 graduates carry logs and capture instructions, never its decision rules, because a rule applied without a reader of his record gives a confident wrong verdict. Each entry takes a few lines, with the method in your own files:
 
 ```
 Pattern: [name, in plain words] · Verdict: [unmeasured | misdirected | lever not moving]
@@ -194,7 +194,7 @@ Version the check-in and the Capture Standard from the founding weeks. Cut or re
 
 ### Process testimonials wait for the record
 
-Process testimonials, a client's account of the work itself, are your first proof, and their timing is fixed (Module 22). Never ask before his fit window, the full-refund period of 14–21 days, has closed. Never ask in the week-6 conversation where his exit right is open, the pro-rata refund for a client who did the work and wants to stop. A man deciding whether to leave can't give a free testimonial. The first ask comes at the first measured peak after his exit decision, from about week 7, and only if his record shows progress.
+Process testimonials, a client's account of the work itself, are your first proof, and their timing is fixed (Module 22). The ask never comes before his fit window, the full-refund period of 14–21 days, closes, or in the week-6 conversation about his exit right, the pro-rata refund for a client who did the work and wants to stop. It waits for his first measured peak after the exit decision, from about week 7: a review with his adherence and at least one marker at threshold, so no refund decision is open.
 
 Each one carries separate, revocable written consent and no incentive. It stays about the process: what the weekly review was like, and what he knows now. The proof milestone, the gate into your proof price band, needs 10 graduates who each gave one, plus your first outcome ranges with denominators. So the founding group starts the count that later lets your price rise.
 
@@ -204,11 +204,7 @@ Its first entries are founding facts: fit declines from the first conversation, 
 
 ## 6. The Month-3 Gate
 
-At week 12 you read two numbers in a fixed order, held conversations and then clients from them. A thin first quarter has two causes, and they need opposite fixes.
-
-### The gate reads your work, not your band
-
-Month 3 can't tell you which band you're in, since month 3 is decided by conversations and the bands separate only from month 6. What it can tell you is whether the conversations happened and whether they turned into clients, and each answer has its own fix.
+At week 12 you read two numbers in a fixed order, held conversations and then clients from them, and never your band, which month 3 can't show. A thin first quarter has two causes, and they need opposite fixes.
 
 ### Volume is read first
 
@@ -218,7 +214,7 @@ The first is sources: run the week-3 shift again, and give Permission-First Repl
 
 ### Conversion is read at 25 conversations
 
-Fewer than 3 clients from 25 or more held conversations means the conversations happen and the yeses don't. Fix the offer or the position before you build anything further, in a fixed order. First, replay the calls you recorded with consent against Close by Contract and your objection log, the running list of every no in his words. Then check where the no's point, starting with position: the Honest Answer and the Outcome Map, your public sort of what can change and what's never claimed. After that come the Path and Timeline Card (Module 6), and the price against the cash ceiling, about 1–1.25 months of the core buyer's take-home.
+Fewer than 3 clients from 25 or more held conversations means the conversations happen and the yeses don't. Fix the offer or the position before you build anything further, in a fixed order. First, replay the calls you recorded with consent against Close by Contract and your objection log, the running list of every clear no, by link and in his words. Then check where the no's point, starting with position: the Honest Answer and the Outcome Map, your public sort of what can change and what's never claimed. After that come the Path and Timeline Card (Module 6), and the price against the cash ceiling, about 1–1.25 months of the core buyer's take-home.
 
 | What the replays and the log show | It points at | The one change |
 |---|---|---|
@@ -226,7 +222,7 @@ Fewer than 3 clients from 25 or more held conversations means the conversations 
 | No's from men who wanted a promise about bone, or a rating | Position | The Honest Answer and the Outcome Map go on the booking page |
 | Surprise at the months, the check-ins, or the total cost | The Path and Timeline Card | The Card goes out with the booking confirmation |
 | Good-fit adults who call the price too high | Value, rarely price: it sits well under the ceiling | Hold the price; show the delivery and your own installments at cost |
-| "I can't afford it" | A stop rule, never an objection | The Starter Path once and the pause route; nothing to fix |
+| "I can't afford it", kept only as "stopped: stop rule" | A stop rule, never an objection | Nothing: those calls are never replayed or mined |
 
 Change one thing at a time, and let what buyers said lead. No rate is readable at month 3, because a ratio needs about 30 events and two windows before it can move you (Module 12). So judge a fix on the next [ten] calls' replays, never on their percentage.
 
@@ -259,7 +255,7 @@ Cole *(composite operator)* starts from zero in [January] with door v0, a foundi
 | 3 | [0] | [1] | [0] | [0] | [0] | [1] | [~$1.5k] |
 | 4–6 | [0] | [1] | [2] | [3] | [1] | [3] | [~$9k] |
 | 7–9 | [1] | [0] | [3] | [4] | [1] | [4] | [~$10.65k] |
-| 10–12 | [0] | [0] | [3] | [4] | [2] | [5] | [~$12.3k] |
+| 10–12 | [0] | [0] | [3] | [4] | [2] | [5] | [~$12.75k] |
 
 **Weeks 1–2. Every label opens.** He sends the warm-network message to [40] adults he knows, one at a time. Jordan *(composite, minor)*, 16, a teammate's younger brother, asks under a short for a rating of his side profile. He gets the public answer about growing faces, the orthodontist referral, and no message. The first client comes through a forward, takes the [January] start's late entry, and is labeled warm network.
 
@@ -271,11 +267,11 @@ Cole *(composite operator)* starts from zero in [January] with door v0, a foundi
 
 **Weeks 8–9. Two buyers, two routes to a date.** Sam *(composite, Ambivalent)*, 22, came through a Permission-First Reply. At the end of his Dual-Purpose Conversation he says "after the busy season", and Cole asks what changes then. "Nothing, really." So the [March] start at $[1,650] stays the recommendation, and Sam names what another season of guessing would cost him. He sets a Decision Date inside March's late-entry window.
 
-Maya *(composite, welcome, not targeted)*, 28, came through a short, finished the door, and asks by message whether she needs a call. The door has verified her, so Cole sends one recommendation, the [March] start, and a checkout that runs the age attestation, the affordability question, and the Fit Check before any pay button. She joins the next day.
+Maya *(composite, welcome, not targeted)*, 28, came through a short, finished the door, and asks by message whether she needs a call. The door has verified her, so Cole sends one recommendation, the [March] start, and a checkout that runs the age attestation, the affordability question, and the Fit Check before any pay button. She joins the next day, and her checkout confirmation's source question labels her short-form.
 
 **Week 10. A second Optimizer, and no spare minutes.** A second Optimizer books the priority tier and wants Private, but Adrian's seat fills the line and [two] week-6 reads land that fortnight. His plan shows both real options, the [April] group start and the Private seat Seat Math opens in [May]. It recommends the [May] seat, for the privacy he asked for, with a Decision Date of [April 24]. Sam joins on his own date that week.
 
-**Week 12. The gate.** [29] held conversations clear the volume leg, and [5] clients from [29] clear the conversion leg, so he keeps going. Month 3 alone held [12] conversations and [~$3.3k] in cash, inside what Band B plans for month 3. In week [10] the first client's review showed a marker at its threshold with his logging on target, his first measured peak after the exit decision, and Cole asked for a process testimonial with separate consent. The harvest holds [five] stall patterns, [two] from men who didn't buy.
+**Week 12. The gate.** [29] held conversations clear the volume leg, and [5] clients from [29] clear the conversion leg, so he keeps going. Month 3 alone held [12] conversations and [~$3.75k] in cash, inside what Band B plans for month 3. In week [10] the first client's review showed his adherence and a marker at threshold, his first measured peak after the exit decision, and Cole asked for a process testimonial with separate consent. The harvest holds [five] stall patterns, [two] from men who didn't buy.
 
 Clients by label: warm network [1] · replies [0] · Permission-First Replies [1] · short-form [2] · long-form and search [1].
 
@@ -330,7 +326,7 @@ Premium first, privacy before price. You fill the brackets.
 ```
 [Brand] · Founding clients
 In 12 weeks you'll know, from your own record, what's moving, what isn't, and
-what to do next. Much of how you come across was never about your face.
+what to do next. Most of how people read you was never about your jaw.
 
 For adults who can't tell whether their work on [posture habits, grooming,
 photos] is doing anything. Not for anyone under 18, anyone who wants a promise
@@ -397,7 +393,7 @@ Run it at each founding client's week 12, and monthly for your log.
 | Part | Setting |
 |---|---|
 | Labels | Warm network · replies · Permission-First Replies · short-form · long-form and search |
-| Numbers | Target 3–6 held a week · 0–2 clients in month 1, 2–6 by month 3 · floor ~15 held by week 12 |
+| Numbers | Target 3–6 held a week · 0–2 clients in month 1, 2–6 by month 3 · minimum ~15 held by week 12 |
 | Week-3 check | Warm network + replies under 2 held a week → ~2 h/week to short-form and Permission-First Replies |
 | Founding offers | Group ~$1.2–1.5k, stated end, never extended · Private 1–2 seats ~$4–6k, async-first · priority tier ~$350–600 |
 | Harvest | Taxonomy, check-in, Capture Standard, review template at version 1 · testimonials after the exit decision |

@@ -21,7 +21,7 @@ The stage habit costs more here than in most categories. The formats that gather
 
 ### The editing budget sets the count
 
-Every platform charges a native tax, the cost of making a piece belong there: its own first line, on-screen text, cover, and caption (Module 24). Your editing budget is what you can spend on that tax each week, in your hours and your editor's, once long-form is served. Stretch it and each extra platform gets copies with no native pass, while the hours come out of long-form first, because its cost arrives last. In this category a rushed pass also makes claims, like a clip cut from its caveat or "results in 90 days" in a late caption.
+Every platform charges the Native Tax, the cost of making a piece belong there: its own first line, on-screen text, cover, and caption (Module 24). Your editing budget is what you can spend on that tax each week, in your hours and your editor's, once long-form is served. Stretch it and each extra platform gets copies with no native pass, while the hours come out of long-form first, because its cost arrives last. In this category a rushed pass also makes claims, like a clip cut from its caveat or "results in 90 days" in a late caption.
 
 **Serve long-form first, then add a platform only while the editing budget still covers its native version.**
 
@@ -29,7 +29,7 @@ That's the **Platform Count Rule**: run only as many platforms as your editing b
 
 ### Reid adds two platforms and thins the one that mattered
 
-Reid (composite operator) is Early, in month [3], with long-form every other week and [five] native shorts a week for Shorts and Reels, each Reel carrying a keyword. Reach feels slow, so he adds a daily X post and [three] carousels a week on the same hours. Within [three] weeks the shorts shrink to [three] copies with no native pass, his X posts are mostly links, and his long-form slips a week. Followers climb, while eligible leads drift from [about 20] a month toward [about 12], because the pieces adults found him through thinned.
+Reid *(composite operator)* is Early, in month [3], with long-form every other week and [five] native shorts a week for Shorts and Reels, each Reel carrying a keyword. Reach feels slow, so he adds a daily X post and [three] carousels a week on the same hours. Within [three] weeks the shorts shrink to [three] copies with no native pass, his X posts are mostly links, and his long-form slips a week. Followers climb, while eligible leads drift from [about 20] a month toward [about 12], because the pieces adults found him through thinned.
 
 At his monthly review the read is a count. His short-form line covers one native batch cut two ways, and his replies line covers his DMs and replies, leaving nothing for carousels or daily posts. Both go in the De-Scoping Order's sequence, your fixed order of cuts for an overloaded week: X first, since testing arguments sits furthest from your door, then native Instagram, with routing kept (Module 11). By month [5] long-form is back on cadence and eligible leads are near [18–22] a month.
 
@@ -94,7 +94,7 @@ Beyond the reach Reels bring, Instagram's value happens in private, in sends and
 
 The man you most want rarely comments. He sends a Reel about month eight to a friend with "this is you", and writes to you late at night if he writes at all. So intent collects in the inbox, along with the highest share of minors in your business, since teens use Instagram heavily and "rate me" culture lives there. The router's jobs are to carry the adult to the door fast and to keep the boy from giving you anything to keep.
 
-On the Warmth Ladder, the rule that you never ask for a rung a buyer isn't standing on, a Reel sits on the Stranger rung and a keyword message is a stranger asking for the door. A follower in your broadcast channel stands on the Returning rung, and a message from an adult your door has verified sits on the Deciding rung (Module 18).
+On the Warmth Ladder, the rule that you never ask for a rung the buyer isn't standing on, a Reel sits on the Stranger rung and a keyword message is a stranger asking for the door. A follower in your broadcast channel stands on the Returning rung, and a message from an adult your door has verified sits on the Deciding rung (Module 18).
 
 ### A keyword by DM returns one link
 
@@ -124,7 +124,7 @@ That separates it from the category's keyword funnels, auto-replies that close w
 
 A carousel works as a decision tool men save and send, like six things to check before buying another device, captioned as the question an adult types. It shows no face and no before/after, since matched pairs live only in long-form and your site's library, and it ends with the keyword.
 
-Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the tag a stop rule sets that holds every marketing email for 60–90 days. So it carries only what your public profile already shows anyone, minus anything that sells: pieces without a pitch, entries from your public log, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
+Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the tag a stop rule sets that holds every marketing send for 60–90 days. So it carries only what your public profile already shows anyone, minus anything that sells: pieces without a pitch, entries from your public log, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
 
 Keep member replies, polls, and prompts off, though the platform offers all three, including prompts that collect photos. Replies would make a free community under another name, and a photo prompt is a queue of faces. Instagram Live and Collab posts stay out too, since live talk can't pass your claims approval or hold a stop rule, and a Collab sets another account's claims beside yours.
 
@@ -144,7 +144,7 @@ Every DM is read by you in a sized daily slot and answered from the template for
 
 ### The slot is sized from your replies line
 
-DMs are where minors disclose, distress arrives, and buyers ask about price, so they stay on your Keep-List, the work that never leaves your hands, and routing help never works the inbox. The Unpriced-Minute Rule, every per-person minute priced, batched, or templated, sets the shape (Module 11): templates by case, in a slot that takes its minutes first from the replies line. That's about an hour a week early, roughly 10 minutes a day, and about half an hour from Growing on, when the automatic link and templates carry more.
+DMs are where minors disclose, distress arrives, and buyers ask about price, so they stay on your Keep-List, the work that never leaves your hands, and routing help never works the inbox. The Unpriced-Minute Rule, every per-person minute priced, batched, or templated, sets the shape (Module 11): templates by case, in a slot that takes its minutes first from the replies line. It halves from Growing on, when the automatic link and templates carry more.
 
 When the slot runs past its share two weeks running, work the overrun in order: template the reply you keep typing, turn the question you answer most into a Reel or pinned post, then take X's minutes, the first cut. The slot shrinks last, because routing is never cut. Selling inside a thread, a verified adult's recommendation or a voice note of about 1–3 minutes recorded by you, belongs to your selling hours.
 
@@ -237,11 +237,11 @@ X's numbers are its tagged door completions and its argument outcomes: arguments
 
 ### The drop rule is set before the numbers arrive
 
-Keep each denominator fixed and named in the metric, the habit Denominator Discipline makes a rule, since platforms redefine what counts as a view (Module 12). Drops are decided at the monthly review, never inside an overloaded week, where step 2 only pauses a platform. Routing and your DM slot survive every cut, because routing costs minutes rather than editing, and it's where adults arrive.
+Keep each denominator fixed and named in the metric, the habit Denominator Discipline makes a rule, since platforms redefine what counts as a view (Module 12). Drops are decided at the monthly review, never inside an overloaded week, where step 2 only pauses a platform.
 
 ## Worked Example: Cole's Objection, from an X Thread to a Keyword Reel
 
-Cole (composite operator) is Growing in month [11], with the Program at $[2.4k], X running as a full lab, and his Reels routing through the Keyword Route. His objection log's last 30 held conversations show one doubt most: "Why pay when it's free on YouTube?" It's a Vehicle objection, a doubt that a paid program is the way to get there.
+Cole *(composite operator)* is Growing in month [11], with the Program at $[2.4k], X running as a full lab, and his Reels routing through the Keyword Route. His objection log's last 30 held conversations show one doubt most: "Why pay when it's free on YouTube?" It's a Vehicle objection, a doubt that a paid program is the way to get there.
 
 **Week 1. The claim, verbatim.** He posts the Canon's fourth claim word for word, "A record doesn't read itself; review turns it into a decision", beside the objection and his usual answer: free videos give you the method but can't read your record. [Forty] replies agree. Then a strength coach with a larger following objects that most people just need consistency, and paid review is a crutch.
 
@@ -320,7 +320,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 |---|---|---|
 | Claim and objection | Which answer survives | The claim verbatim · the strongest objection · your answer |
 | Steelman quote-post | Whether you understood the other side | A peer's argument · where he's right · where you'd push back · what would change your mind |
-| Practice teardown | A grift pattern, pointedly | One a quarter, plus one when a claim recurs in door answers; faces cropped |
+| Practice teardown | A grift pattern, pointedly | Your quarterly teardown's steelman and sharpest point · the claim cropped to its words, account and face out |
 
 ## Stage Notes
 
@@ -371,4 +371,4 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 
 **Leans on:** the Door and the education lane (Module 5) · the De-Scoping Order and the Unpriced-Minute Rule (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Qualifications Answer (Module 15) · the Warmth Ladder (Module 18) · the DM Handoff (Module 20) · the Age-Up Dial (Module 23) · the Native Tax and Reels craft (Module 24).
 
-**Do this month:** Fill the count worksheet from two logged weeks and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.
+**Do this month:** Check each platform's native pass against your design week's lines from two logged weeks, and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.

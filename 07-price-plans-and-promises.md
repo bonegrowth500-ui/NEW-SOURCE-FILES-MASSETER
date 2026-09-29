@@ -98,9 +98,9 @@ Plan steps of about 5–10% every second start. Before you announce one, check t
 
 Until 30 conversations have been held at the new price, the close rate can't be read, so filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call (Module 19).
 
-Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every recent start has filled. Under 30 held conversations the rate can't be read, so the only step is the founding price's stated end, and the next one waits for the count.
+Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every recent start has filled. Under 30 held conversations the rate can't size a step, so a step that filling starts carry alone takes the bottom of the range.
 
-A step can still outrun your credibility. If your close rate falls below its range for two 30-conversation windows after a step, the step stands and the next announcement waits. The work moves to proof and to the conversation, because walking a price back tells buyers the number was never real.
+A step can still outrun your credibility. When the close rate falls below range after one, the step still stands, because walking a price back tells buyers the number was never real, and the work moves to proof and to the conversation.
 
 An announced step is also one of his Decision Points, the real dates every assessed buyer meets within a few weeks (Module 8). So his written recap names today's price, the next one, and the start it applies to, once, as a plain fact. A buyer who drifts past a step he never heard about was failed by your silence. You let him treat waiting as free when you knew it wasn't.
 
@@ -137,7 +137,7 @@ So your plan earns nothing and ends before delivery does. Plans at Cost, the rul
 - Your own installments only, at most three, all due inside delivery. No lender and no buy-now-pay-later, because the affordability question rules out new credit.
 - A premium of 0–5%, covering processing and part of the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.95k] in full, or three payments of [$670], [$2.01k] in total."
 - Each installment at or below about a third of his monthly take-home.
-- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, the tag that stops sales and date sends for 60–90 days, so nothing he receives carries a price, an offer, or a date.
+- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, the tag that holds every marketing send for 60–90 days, so nothing he receives carries a price, an offer, or a date.
 - No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, triggers the signal pause: nothing paid that day, expectations in writing, 72 hours or more to cool off, and no plan (Module 5).
 - Cancel-forward: a client who stops under the guarantee's week-6 or week-12 terms owes nothing further, and anything he paid for undelivered weeks comes back.
 
@@ -171,7 +171,7 @@ That's the **Layered Guarantee**. Each layer states five things before he pays: 
 |---|---|---|---|---|
 | Statutory rights | His local law (UK and EU: ~14 days for online services, with early-start rules) | The law | As the law allows | At least that; never "no refunds" copy |
 | Fit window | Any time before baseline day, or up to 14–21 days after it | His word | A one-line message; any call optional and feedback-only | A full refund, installments cancelled, within 7 days |
-| Service guarantee | A review past its turnaround (e.g., 48–72 h); a milestone, Hold, or Private deliverable past its date; a correction your review should have caught | Timestamps, or his logs and plan history | None: you apply it | [A stated amount] off his next installment or in cash, his choice, within 7 days of the miss; corrective weeks free |
+| Service guarantee | A review past its turnaround (e.g., 48–72 h); a milestone, Hold, or Private deliverable past its date; a correction your review should have caught | Timestamps, or his logs and plan history | None: you apply it | [A stated amount] off his next installment or in cash, his choice, within 7 days of the miss; for a review error, the weeks it cost, up to 6, free after week 12 |
 | Week-6 exit right | His request from the week-6 read until 7 days after it's delivered, adherence at threshold | His log count | A written request | Payment for undelivered weeks (~half), within 7 days |
 | Week-12 non-response clause | No marker at its threshold at week 12, adherence at threshold | The marker sheet signed on baseline day | None: you raise it | [A fixed share inside 25–50%] of what he paid, in cash, within 7 days of the verdict; no Round Two offer |
 | Plan-usefulness refund | His word, within 14 days of receiving the plan, that his Decision Assessment's plan wasn't useful | His word | A written request | The fee, within 7 days |
@@ -182,11 +182,13 @@ Never on the list: his appearance, the one promise nobody can keep (the line on 
 
 The fit window counts from baseline day, the first day of delivery, because a buyer who paid weeks ahead can't judge fit before it begins. Close it just after his [second] weekly review, inside 14–21 days, so he judges on delivered review. A refund he has to talk his way through is a sales call, and a burned buyer knows that pattern.
 
-The service guarantee pays in money, never in store credit, which pays him nothing unless he buys again. It covers your judgment as well as your clock. When a correction comes from your own review error, a signal in his logs you missed or a plan step you set wrong, the corrective weeks come free, never as a paid block. Full-intensity Round Two is priced as a Program only when the misdirection came from outside your plan.
+The service guarantee pays in money, never in store credit, which pays him nothing unless he buys again. It covers your judgment as well as your clock. When a correction comes from your own review error, a signal in his logs you missed or a plan step you set wrong, the weeks it cost come free, up to 6, never as a paid block, and count in your published claims. They run after week 12, which never moves, with their own read at the end. Full-intensity Round Two is priced as a Program only when the misdirection came from outside your plan.
 
 The exit right sits at the week-6 read, the written mid-program review, because that's when some clients learn the rhythm doesn't fit their lives. A clean exit costs less than a dispute. The conversation is the Honest Exit, where you stop, refund, and refer (Module 21). The plan-usefulness refund backs the Decision Assessment, the paid written plan he can use without buying anything.
 
-Two stops fall outside the windows, and both are written down before he pays. When a refer-out trigger, such as jaw pain, sleep signs, distress, or fixation, ends delivery at any point, his undelivered weeks come back pro rata within 7 days, because a referral is never his failure to finish. When he stops by choice after the exit window, delivered weeks aren't refunded, his remaining installments cancel forward, and his undelivered weeks can move to a later start within 6 months.
+Three stops fall outside the windows, and all are written down before he pays. A refer-out trigger, such as jaw pain, sleep signs, distress, or fixation, ends delivery only when he chooses to stop and see someone, or when continuing would keep the trigger alive; otherwise his review can run alongside a clinician's care. When it does end delivery, at any point, his undelivered weeks come back pro rata within 7 days, because a referral is never his failure to finish.
+
+When he stops by choice after the exit window, delivered weeks aren't refunded, his remaining installments cancel forward, and his undelivered weeks can move to a later start within 6 months. When he asks to stop after the fit window but before week 6, his week-6 read comes forward, and the exit right's adherence condition is judged over the weeks delivered so far.
 
 The clause turns on markers, two or three changeable-column measures with thresholds set on baseline day (Module 6). They're never read from photos and never binary did-it items, which any client who did the work would pass. "Haven't moved" means no marker reached its threshold by the week-12 re-assessment, the end-of-program capture and verdict. One crossing it means the lever moves for him, so there's no refund. A client below the adherence threshold, the share of days logged printed before he pays, isn't covered. He gets an honest verdict, and the week-6 exit right was his route out.
 
@@ -194,15 +196,15 @@ Where to sit inside 25–50% is a real choice, and your reserve makes it. Pick t
 
 ### A client at the low end can still collect
 
-Dan *(composite, Struggler)* joins the [March] start, paid in full. In week [4] one review lands at [80] hours against a stated [72], and [a stated amount] goes back to his card that week. On baseline day you set two markers, [a body-composition measure] and [a posture-habit measure], under the [80%] adherence threshold he read before paying. By week 12 he has logged [74 of 84] days, and neither marker has reached its threshold. You raise the clause before he asks: the cash share within 7 days, the honest verdict, and no Round Two offer. He leaves with his money and with the knowing the program promised: which lever doesn't move for him, and what to stop buying.
+Theo *(composite, Burned Struggler)* joins the [March] start, paid in full. In week [4] one review lands at [80] hours against a stated [72], and [a stated amount] goes back to his card that week. On baseline day you set two markers, [a body-composition measure] and [a posture-habit measure], under the [80%] adherence threshold he read before paying. By week 12 he has logged [74 of 84] days, and neither marker has reached its threshold. You raise the clause before he asks: the cash share within 7 days, the honest verdict, and no Round Two offer. He leaves with his money and with the knowing the program promised: which lever doesn't move for him, and what to stop buying.
 
 Put every layer in plain words on the offer page and at checkout. Head it with a line you also say out loud in offer content, such as "[We guarantee the work we control, and we pay on time.]" Publish claim counts by layer as rolling totals, so a small start can't reveal who claimed. A policy page is a hygiene signal, required but cheap. A guarantee honored in public beside its counts is a costly one a grifter can't afford: Costly vs Hygiene Signals (Module 15).
 
-No consistency device, testimonial ask, or written reason is ever timed to his refund rights. The first testimonial ask waits past the fit window and past the week-6 exit conversation. It comes at the first measured peak after he has settled whether he's staying, from about week 7. His baseline-day reasons are never quoted back when he asks to leave.
+No consistency device, testimonial ask, or written reason is ever timed to his refund rights. The first testimonial ask waits past the fit window and past the week-6 exit conversation. It comes at the first measured peak, a reading with adherence and a marker at threshold, after he has settled whether he's staying, from about week 7. His baseline-day reasons are never quoted back when he asks to leave.
 
 ### A clause counts only if he can collect it
 
-Read every clause as Theo *(composite, Burned Struggler)* would. He bought a device and a course that both promised structural change, and he reads terms before prices. Here's a clause he'd meet on plenty of coaching pages:
+Read every clause as Theo would. He bought a device and a course that both promised structural change, and he reads terms before prices. Here's a clause he'd meet on plenty of coaching pages:
 
 > "Complete every check-in, and if you don't see results by week 12, we'll extend your coaching free until you do."
 
@@ -244,7 +246,7 @@ Cole starts in January with a door, a founding page, and his guarantee and plan 
 
 **Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
-**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route keeps every sales email and date announcement away from him, and any return is his own reply.
+**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route holds every marketing send for 60–90 days, and any return is his own reply.
 
 **Month 4. The first gated step.** By [April], [30] held conversations stand behind a close rate of [~27%], in the upper half of 15–35%, and his starts are filling. He announces [$1.8k] for [May], [five] weeks out, a step at the top of the range, naming [a second group-call time] as the addition.
 
@@ -299,8 +301,8 @@ It rides inside the start announcement and never gets a send of its own.
 >
 > 1. Your legal rights come first. Nothing below reduces them.
 > 2. Fit window. Cancel before your baseline day, or within [14–21] days from it, with a one-line message, and get a full refund within 7 days. Any call about it is optional; the refund never depends on it.
-> 3. Service guarantee. Every weekly review within [48] hours, your week-6 read and week-12 re-assessment on their dates, and Hold and Private deliverables as carded. Each miss takes [a stated amount] off your next payment or comes back in cash, your choice, within 7 days. A signal we missed in your logs, or a step we set wrong, gets its corrective weeks free.
-> 4. Week-6 exit right. If you've logged at least [80%] of days, ask any time from your week-6 read until 7 days after it's delivered, and what you paid for undelivered weeks comes back within 7 days. If we refer you out at any point, undelivered weeks come back within 7 days; if you stop by choice after that window, remaining payments cancel and undelivered weeks can move to a later start within 6 months.
+> 3. Service guarantee. Every weekly review within [48] hours, your week-6 read and week-12 re-assessment on their dates, and Hold and Private deliverables as carded. Each miss takes [a stated amount] off your next payment or comes back in cash, your choice, within 7 days. A signal we missed in your logs, or a step we set wrong, earns the weeks it cost, up to 6, free after week 12.
+> 4. Week-6 exit right. If you've logged at least [80%] of days, ask any time from your week-6 read until 7 days after it's delivered, and what you paid for undelivered weeks comes back within 7 days; ask earlier, and we bring the read forward. If a referral ends your program at any point, undelivered weeks come back within 7 days; if you stop by choice after that window, remaining payments cancel and undelivered weeks can move to a later start within 6 months.
 > 5. Week-12 non-response clause. If you've logged at least [80%] of days and none of your two or three markers, set on baseline day, has reached its threshold at week 12, [a fixed share inside 25–50%] of what you paid comes back in cash within 7 days of the verdict. We raise it, and we won't offer you Round Two.
 > 6. Decision Assessment. If your written plan wasn't useful, tell us within 14 days of receiving it, and the fee comes back within 7 days.
 > 7. What we never guarantee: how your face looks. No one can honestly promise that.
@@ -352,6 +354,6 @@ It rides inside the start announcement and never gets a send of its own.
 | **The Layered Guarantee** | Promise only what you control, one layer for each thing that can go wrong |
 | **The Collectability Test** | Check that a client who did the work could actually collect on each clause |
 
-**Leans on:** the founding price (Module 9) · Premium First, Price Once (Module 19) · Costly vs Hygiene Signals (Module 15) · Decision Points (Module 8) · markers (Module 6) · the Buyer-Mix Shift (Module 13).
+**Leans on:** the signal pause (Module 5) · markers (Module 6) · Decision Points (Module 8) · the founding price (Module 9) · the Buyer-Mix Shift (Module 13) · Costly vs Hygiene Signals (Module 15) · Premium First, Price Once (Module 19) · the Honest Exit (Module 21).
 
 **Do this month:** Fill in the price-setting worksheet, and if both conditions hold, put your next step in your next start announcement. Rewrite your guarantee as six layers and run the Collectability Test on each clause. Open your processor with small charges under your brand's name.

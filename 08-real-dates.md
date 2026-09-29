@@ -45,7 +45,7 @@ A real date drifts toward a launch unless you test it, because every instinct yo
 
 ### Every date pulls toward a launch
 
-Near a start, the pulls are always the same three: send more, add something for joining now, and let the door look like it's shutting. Each feels small. Together they turn a calendar into an event, and events are what this playbook leaves out. The drift costs more here, because this buyer met every one of those moves on the pages that sold his peers the device and the course.
+Near a start, the pulls are always the same three: send more, add something for joining now, and let the door look like it's shutting. Each feels small. Together they turn a calendar into an event, and events are what this playbook leaves out.
 
 What separates an offer attribute from a launch is what the date carries. It carries information when it tells him something true about the offer: when the next start is, how many seats it has, and what the price will be. It carries pressure when something changes only because the date is near: more messages, an extra that exists for a week, a door that shuts. So ask of any date whether waiting past it costs him exactly what your calendar says, and nothing else.
 
@@ -72,7 +72,7 @@ That's the **Launch Line**, the test that keeps a date an offer attribute. It do
 | A paid group decision session on its own fixed cadence, its fee credited | Passes | 3 and 4 |
 | A free live session timed to a start | Fails | 3 |
 
-A paid group decision session passes only when it runs like the rest of your calendar: a fixed cadence of its own, never timed to a start, no attendee-only price or bonus, and its fee credited the way the assessment's is. Named for what it is, "cohort walkthrough and Q&A; the offer and price are inside", it's a paid step like any other (Module 20).
+A paid group decision session passes only when it runs like the rest of your calendar: a fixed cadence of its own, dated clear of every start's join window, mentioned only inside each start's two sends, and no attendee-only price or bonus. Its fee is credited on the assessment's terms, stated once and away from any date. Named for what it is, "cohort walkthrough and Q&A; the offer and price are inside", it's a paid step like any other (Module 20).
 
 One item fails even when all five answers are yes: the countdown widget. A timer on a real date adds nothing the written date doesn't carry, except the look of every fake timer this buyer has learned to distrust, so it borrows their reputation and adds only pressure.
 
@@ -142,7 +142,7 @@ On the call, the point becomes his Decision Date, the personal date he agrees to
 
 The Price Steps are small scheduled rises that always happen while starts fill and close rates hold, each naming what was added and announced at least 30 days ahead (Module 7). When they land is the calendar's call. A step lands on a start, never between starts, so every quoted price belongs to a specific start. In Growing it lands every second start and rides inside the announcement for the start before it, clearing the 30-day minimum without a send of its own.
 
-Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
+Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. That rate is read over the 30 held conversations since the last step, once 30 exist. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
 
 ### Credit is held, never a deadline
 
@@ -161,7 +161,7 @@ The calendar is the same for everyone. How the point gets set follows his state,
 | Optimizer | The next start, or late entry into the one just begun | Speed is part of what he buys | A wait he didn't choose |
 | Ambivalent | The next start, then "what changes then?" | A vague answer keeps the next start; a concrete one dates his decision to the first start after it, with the Starter Path in between | "Later" without a date |
 | A signal on the Fit Check, the check before any payment | A start at least 72 hours out, if he can still enroll | In his written expectations, with no payment plan | Same-day payment; a date send while he's paused |
-| "I can't afford it" | None | The Starter Path, once; the pause route stops sales and date sends | Any date send for 60–90 days |
+| "I can't afford it" | None | The Starter Path, once; the pause route holds every marketing send | Any date send for 60–90 days |
 
 The Ambivalent row is the one judgment call. Overtime that eats the plan's minutes is a constraint, and selling past it sells a program he can't run, so his decision waits for the first start after it. "It'll feel less hectic" is a feeling, and the next start is its own clean page.
 
@@ -207,27 +207,27 @@ A real date works only if the people who can use it hear it, last day to join in
 
 **One announcement, one reminder, engaged segments only, never a paused lead.**
 
-Two sends are enough, and a third is pressure. The announcement gives him the date, seats, and price with four or five weeks to decide; the reminder gives him the week before the start. A third send carries no new information, and a message with nothing new in it is volume, which the Launch Line's third test rules out. Engaged segments protect your list as well as the buyer. Promotions to people who stopped opening are where complaints come from, and a complaint rate under 0.1%, never reaching 0.3%, keeps your email landing.
+Two sends are enough, and a third is pressure. The announcement gives him the date, seats, and price with four or five weeks to decide; the reminder gives him the week before the start. A third send carries no new information, and a message with nothing new in it is volume, which the Launch Line's third test rules out. Engaged segments, men who clicked or replied in about the last 60 days, protect your list as well as the buyer. Promotions to anyone else are where complaints come from, and a complaint rate under 0.1%, never reaching 0.3%, keeps your email landing.
 
-The timing is fixed in advance, so you never decide it under pressure: each start is announced on the day the previous start begins, and reminded once in the week before it. Every send and every page row carries two dates, the start and the last day to join. A reminder naming only the start implies a deadline your own late-entry window voids, and a deadline that doesn't hold is a step toward the line on fake scarcity. Each announcement also carries the latest Fill History line, and anyone who has enrolled is left out.
+The timing is fixed in advance, so you never decide it under pressure: each start is announced on the day the previous start begins, and reminded once in the week before it. Each date send takes the place of that week's letter, since mail to the whole list goes at most once a week. Every send and every page row carries two dates, the start and the last day to join. A reminder naming only the start implies a deadline your own late-entry window voids, and a deadline that doesn't hold is a step toward the line on fake scarcity. Each announcement also carries the latest Fill History line, and anyone who has enrolled is left out.
 
 Say the rule out loud in the reminder, with a line like "you get one announcement and one reminder per start, and this is the reminder." Anyone can copy that sentence. What a grifter can't copy is a year of keeping it, which your list has watched you do, because his model runs on the sends you gave up.
 
 ### Sequences state the next start and never count down to it
 
-Your sales sequences, the stage-matched emails a lead gets after the door, can name the next start and its last day to join as plain facts. They run on his clock, from the day he entered (Module 26). A lead who arrives three days before a start and one who arrives three weeks before get the same emails in the same order.
+Your sales sequences, the stage-matched emails a lead gets after the door, can name the next start and its last day to join as plain facts. They run on his clock, from the day he entered (Module 26). A lead who arrives three days before a start and one who arrives three weeks before get the same emails in the same order. Which start they name follows one default: a lead who arrives inside a running start's join window is named that start while [a week] of the window remains, and the next start otherwise.
 
-A sequence that speeds up, adds messages, or reorders itself as a start approaches is a lead-in sequence, and it fails the Launch Line however good its content. Content follows the same rule. State the next start at your normal cadence, and let your content plan decide which asset may carry which ask (Module 18), because a week of date-themed videos before a start is a ramp.
+A sequence that speeds up, adds messages, or reorders itself as a start approaches is a lead-in sequence, and it fails the Launch Line however good its content. Content runs stricter still: evergreen videos and pages never speak a date, and point instead to "the next start and its last day to join" on your offer page, which updates. Let your content plan decide which asset may carry which ask (Module 18), because a week of date-themed videos before a start is a ramp.
 
 ### Stop Rules bind the calendar
 
-The pause route writes Stop Rules, the conditions that end selling to a person, into your list. It's a content-free tag, set by a distress answer, "I can't afford it", or a Fit Check pause, that stops every sales sequence and date send for 60–90 days and records no reason (Module 5).
+The pause route writes Stop Rules, the conditions that end selling to a person, into your list. It's a content-free tag, set by a distress answer, "I can't afford it", or a Fit Check pause, that holds every marketing send, date sends included, for 60–90 days and records no reason (Module 5).
 
 Date sends are where this bites, because they feel harmless. An announcement to a man who said he can't afford it reopens money talk by email after he closed it. To a man who answered a distress item, it sells into distress, the thing Stop Rules exist to prevent. So every calendar send runs through the same suppression as every sequence. Promotional sends to paused leads are a guardrail you count after every start, with a target of zero.
 
-### Every surface carries the same two dates
+### Every dated surface carries the same two dates
 
-Your offer page always lists the next two starts, each with its date, last day to join, seats, and price; that's where "always buyable" lives. The result page, the first sales conversation your door holds, names the next real date, except on the distress branch, which carries no offer and no date. After the door has verified a buyer's age and fit, a direct message may carry one recommendation, the next start, and a checkout link. An unverified contact gets the door, and anyone the fork routes as a minor gets the education lane, public content and a referral, and never a date.
+Your offer page always lists the next two starts, each with its date, last day to join, seats, and price; that's where "always buyable" lives. The result page, the first sales conversation your door holds, names the next real date, except on the distress branch, which carries no offer and no date. The result email carries only his result and one next step. After the door has verified a buyer's age and fit, a direct message may carry one recommendation, the next start, and a checkout link. An unverified contact gets the door, and anyone the fork routes as a minor gets the education lane, public content and a referral, and never a date.
 
 ### A buyer's landmark decides which start
 
@@ -282,7 +282,7 @@ Fill the calendar six starts ahead, and change a row only when Seat Math changes
 
 > *Subject:* The [Month] start: [date], [n] seats
 >
-> The next [Program] start is Monday, [date], and you can join through [last day to join]. It has [n] seats, because that's how many people I can review properly each week. The price is $[X] for 12 weeks: a written review of your week within [turnaround], one live group call a week, a written read at week 6, and a full re-assessment at week 12.
+> The next [Program] start is Monday, [date], and you can join through [last day to join]. It has [n] seats, because that's how many new clients my review week can take each month. The price is $[X] for 12 weeks: a written review of your week within [turnaround], one live group call a week, a written read at week 6, and a full re-assessment at week 12.
 >
 > It's for adults who want to stop guessing and measure what's actually moving. It isn't for anyone looking for a promise about bone, because nobody can honestly make one.
 >
@@ -319,7 +319,7 @@ Answer from your own calendar, page, send log, and call notes before any date go
 
 **Early.** Reach binds, starts are small, and caps rarely fill, so the one status worth stating is your founding seats. The default is monthly entry from your first founding client, with the founding price, its dated end, and the number of seats on the page. The trap is holding buyers for a "first cohort" that starts once it's full: the date stops being real, and your first client waits on your fifth.
 
-**Growing.** Conversions bind, so more of each close leans on a date. The default is a step every second start, gated at send time, with the group call split by stage at about 12–15 clients. The trap is send creep: as tags and sequences multiply, one announcement and one reminder quietly become four sends to the same man.
+**Growing.** Conversions bind, so more of each close leans on a date. The default is a step every second start, gated at send time, with the group call split by stage at about 12–15 clients. The trap is send creep: as sequences multiply, one announcement and one reminder quietly become four sends to the same man.
 
 **Scaling.** Care minutes bind, caps fill, and seat status is informative most weeks. The default is status stated as a count, waitlists carried to the next start, and a standing waitlist answered with price and templated review. The trap is letting the waitlist become an offer of its own, with perks for joining it, which is a window extra under another name.
 
@@ -327,7 +327,7 @@ Answer from your own calendar, page, send log, and call notes before any date go
 
 - **Five yeses before a date goes public.** Monthly starts, Seat Math caps, and scheduled steps are *Use real dates* at its default, and the Launch Line, run on every send, sequence, and page, keeps each one an offer attribute.
 - **Counts, both dates, a public history.** Status is an exact count stated only when it could change his start, every send gives the last day to join, and every cap and fill is published at close, which keeps all three clear of the line on fake scarcity.
-- **The line on vulnerability, kept by the calendar.** The credit is stated once, in the written plan, and never sits beside a Decision Date; the pause route holds every date send for 60–90 days.
+- **The line on vulnerability, kept by the calendar.** The credit is stated once, in the written plan, and never sits beside a Decision Date; the pause route holds every marketing send, date sends included, for 60–90 days.
 - **A dated point for every assessed buyer.** *Use real dates* has a floor: a good-fit buyer who leaves with no start, no last day to join, and no Decision Date has been left to deferral.
 
 ## Quick Reference
@@ -356,7 +356,7 @@ Answer from your own calendar, page, send log, and call notes before any date go
 | Starts | Monthly, first working Monday; join through the end of week 2, stated everywhere |
 | Caps | This month's Seat Math; founding seats from founding Seat Math |
 | Steps | On a start, every second start in Growing, inside the announcement before it |
-| Credit | Stated once, in the written plan; never a deadline |
+| Credit | Stated once, in the written plan; never a deadline, never beside a date |
 
 **Framework cheat sheet**
 

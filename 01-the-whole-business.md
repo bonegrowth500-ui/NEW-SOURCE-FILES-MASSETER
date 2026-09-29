@@ -13,9 +13,9 @@ Everything else in this playbook is a lever: the door, the offers, the price, th
 
 ## 1. What You Actually Sell: The End of Guessing
 
-What you sell is the end of his guessing, and the promise at the center of it has to be one you control completely. Dan *(composite, Struggler)* is 24 and works full-time in logistics. He has spent about eight months on a routine he found online, checking the mirror and taking comparison photos in whatever light the bathroom had. What he types into your self-assessment, the short quiz every piece of your content routes to, is "sharper jaw". What he wants underneath is to be taken seriously at work, to stop negotiating angles in group photos, and to know instead of hope.
+What you sell is the end of his guessing, and the promise at the center of it has to be one you control completely. Dan *(composite, Struggler)* is 24 and works full-time in logistics. He has spent about eight months on a routine he found online, checking the mirror and taking comparison photos in whatever light the bathroom had. On your self-assessment, the short quiz every piece of your content routes to, he writes that he wants "a sharper jawline, less soft". A few questions uncover the destination underneath: to be taken seriously, to be at ease in photos, and to know instead of hope (Module 2).
 
-That's the destination. The vehicle is whatever he believes will carry him there, and this category has sold him vehicles that promise the destination straight through his face: devices, routines, a vocabulary that promised bone. Those promises fail twice. There's no good evidence that habits change an adult's bone, so they can't be kept, and every grifter already makes them, so a skeptic can't tell yours from theirs. Dan's eight months didn't stall for lack of effort; they stalled because nothing was measured, nobody gave him feedback, and nobody interpreted what he was seeing.
+The vehicle is whatever he believes will carry him there, and this category has sold him vehicles that promise the destination straight through his face: devices, routines, a vocabulary that promised bone. Those promises fail twice. There's no good evidence that habits change the shape of an adult's bone, so they can't be kept, and every grifter already makes them, so a skeptic can't tell yours from theirs. Dan's eight months didn't stall for lack of effort; they stalled because nothing was measured, nobody gave him feedback, and nobody interpreted what he was seeing.
 
 **A straight answer, a plan he can verify, weekly review: from his own record, he knows what's moving, what isn't, and what to do next.**
 
@@ -25,9 +25,9 @@ Every part of the promise is made of your inputs, so you can keep it for every c
 
 The promise runs through every rung of the ladder, one flagship with a buffer at each end and a free net beneath (Module 4). His self-assessment result names his stall, never measured. A free fit conversation, or a paid Decision Assessment, a written plan worth its fee even if he never buys, ends in one recommendation, which may be "don't buy". Inside the Program, your 12-week flagship, weekly review keeps him on the plan. The week-6 read says whether the lever is moving, and the week-12 re-assessment sets matched photos side by side.
 
-Then set his two possible years side by side. In one, he repeats the last eight months: a new routine, the same bathroom light, the mirror as judge. In the other, he reaches week 12 with [80 of 84] days logged and [three] captures, photos taken the same way each time, and he knows which habits held, what to stop buying, and what comes next. He walks into the next team photo knowing what he's working on and why. Some of what he wants will come from presentation and how he's photographed, and some from parts of his life no program touches, and his record is honest about which is which.
+Then set his two possible years side by side. In one, he repeats the last eight months: a new routine, the same bathroom light, the mirror as judge. In the other, he reaches week 12 with [80 of 84] days logged and [three] captures, photos taken the same way each time, and he knows which habits held, what to stop buying, and what comes next. Some of what he wants will come from presentation and how he's photographed, and some from parts of his life no program touches, and his record is honest about which is which.
 
-Use the promise as a filter on everything you build. An offer, asset, or deliverable earns its place when it leaves him knowing something from his own record that he didn't know before. Name his destination as plainly as he feels it, with the obstacle and the plan in the same breath. A destination sold without a plan is exactly the move he has learned to distrust.
+Use the promise as a filter on everything you build. An offer, asset, or deliverable earns its place when it leaves him knowing something from his own record that he didn't know before. Name his destination as plainly as he feels it, and never without the obstacle and the plan, because a destination sold without a plan is exactly the move he has learned to distrust.
 
 ## 2. The Five Scarcities
 
@@ -45,11 +45,11 @@ Five things run short in this business, and the category makes each one shorter 
 
 Those are the **Five Scarcities**, and minutes need the most care, because they bind twice. They're your selling time and your care time, drawn from the same week. A shortage shows up first as a calendar full of calls, and later as a cohort with no open seats.
 
-In this niche the core of both stays with you. Photos are seen only by you, and check-ins and fit-check answers never go to a freelancer. A capture taken in different light or at a different distance needs judgment before anyone can say what moved. Care minutes, the minutes of review, group call, and milestones each client takes per week, are the ones that set your ceiling.
+In this niche the core of both stays with you. Photos are seen only by you, and check-ins and fit-check answers never go to a freelancer. Care minutes, the minutes of review, group call, and milestones each client takes per week, are the ones that set your ceiling.
 
 Protect them with rhythm rather than availability. At equal intensity, group and guided formats do about as well as one-to-one. Scheduled contact that reaches out to him roughly halves dropout, while support he has to ask for adds little (Module 21).
 
-Efficacy needs a split. Raise his belief in himself hard with a win he can verify, such as a week of logging while he waits for his conversation. Raise his belief in the method only as far as your evidence goes, because overselling the method is how this category earned its refunds (Module 14).
+Efficacy needs the Efficacy Split, two beliefs raised to different heights. Raise his belief in himself hard with a win he can verify, such as a week of logging while he waits for his conversation. Raise his belief in the method only as far as your evidence goes, because overselling the method is how this category earned its refunds (Module 14).
 
 Run every new idea through the rule. A second platform relieves reach and spends minutes, so it's right only while minutes are spare. A paid Decision Assessment relieves selling minutes and spends some bookings and a little trust, so it waits until you have more calls than hours. A discount relieves nothing for long and spends trust at every position, which is why it never passes.
 
@@ -69,7 +69,7 @@ When reach binds, every spare hour goes to the two things that create conversati
 
 ### Then conversations bind
 
-Past the early months the constraint moves to conversations, and it binds in one of two ways. The calendar can saturate: somewhere past 6–8 held conversations a week you run out of selling hours, or the wrong fits for a selling hour fill them. In this niche they have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. The signs: show rates sliding from about 80% toward 60% as bookings wait longer, more than half your calls ending no-fit, and selling eating your content hours.
+Past the early months the constraint moves to conversations, and it binds in one of two ways. The calendar can saturate: somewhere past 6–8 held conversations a week you run out of selling hours, or the wrong fits for a selling hour fill them. In this niche they have a recognizable shape: the man who wants a promise about bone you won't make, the one who could only pay on credit, the one whose jaw pain or snoring means the right answer is a referral. The signs: show rates sliding from about 80% toward 60% as bookings wait longer, more than half your calls ending no-fit, and selling eating your content hours. Below that volume, the same show rates and no-fits point to your door's screening rather than a cap.
 
 Or the pipe can leak, with eligible leads arriving but too few becoming clients. The signs: fewer eligible leads reaching a held conversation than the 10–20% a fast reply should book, or held conversations closing below their range, 15–35% before proof and 25–45% with it, across two 30-conversation windows.
 
@@ -79,9 +79,9 @@ Now the right moves flip. For saturation, this is when the Call Cap, a weekly li
 
 The third position arrives when the Program is full. That's roughly 25–45 concurrent clients inside a 20–25-hour week, and more as review gets templated and the group call carries more of the load. Review is the product here: his weekly logs and check-ins, and at the measurement points his photos, taken the same way each time. It doesn't scale by itself, which is why minutes run out before leads do. The signs: a waiting list, review turnaround creeping toward its limit, and weeks that run past 25 hours unless you pause booking.
 
-From here, more leads and more calls only lengthen the waiting list. The levers that remain raise profit per operator hour, and price comes first. At capacity, a raise that costs you a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. Price has a limit of its own in the cash ceiling, about 1–1.25 months of the core buyer's take-home, roughly $2.8–3.5k for a buyer aged 20–24 (Module 7). Past it, profit has to come from a second tier rather than a higher price (Module 13).
+From here, more leads and more calls only lengthen the waiting list. The levers that remain raise profit per operator hour, and price comes first. At capacity, a raise that costs you a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. Price has a limit of its own in the cash ceiling, about 1–1.25 months of the core buyer's take-home, roughly $2.8–3.5k for a buyer aged 20–24 (Module 7). Past it, profit has to come from a second tier rather than a higher price (Module 13). Then review gets templated, from 12–20 minutes per client-week down to 6–10.
 
-Then comes the back end. The Hold, a low-touch measurement subscription for graduates, earns with very few minutes, and Round Two, a lighter maintenance block offered at the week-12 measurement to clients with measured momentum, fills a seat without a selling hour. Then review gets templated, from 12–20 minutes per client-week down to 6–10. Private seats, priced to fixed deliverables, stay open only where they earn at least what a Program seat earns per care hour. This is the good problem: it's where the $25–50k range lives, reached through price and leverage rather than more hours.
+The back end and Private answer to the Parity Rule: a seat must earn at least what a Program seat earns per care hour, or it sells only while minutes are spare (Module 13). The Hold, a low-touch measurement subscription for graduates, and Round Two, a lighter maintenance block offered at the week-12 measurement to clients with measured momentum, adherence on target and a marker still improving, each fill a seat without a selling hour. Both earn below that line, so each sells on its own monthly seat line while minutes are spare. Private seats, priced to fixed deliverables, open at Scaling only at parity. This is the good problem: it's where the $25–50k range lives, reached through price and leverage rather than more hours.
 
 ### What a misread costs
 
@@ -99,7 +99,7 @@ One move is wrong at every position: discounting to close. Buyers learn to wait,
 
 ### A slide-back is a bad month that repeats
 
-Cole's step into the proof band, the Program's $2.4–3.2k range once proof exists, lands at the start of his second year. Across the next 30 held conversations his close rate reads [~22%], down from [~33%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he changes nothing and reads the next 30: [~21%]. Two consecutive windows outside the range is the rule for calling it, and here it says the step handed the constraint back to conversations.
+Cole's step into the proof band, the Program's $2.4–3.2k range once proof exists, lands at the start of his second year. Across the next 30 held conversations his close rate reads [~22%], down from [~33%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
 
 He doesn't walk the price back, because a step that reverses teaches buyers to wait. He works the conversation side instead: the proof his calls now show, the fit questions in front of the booking button, a call-optional path for warm buyers. Two windows later he's back at [~28%], and the new price holds.
 
@@ -123,7 +123,7 @@ Each north star is the number that moves first when the right lever works. Early
 
 Deciding by one number still means watching a few. Each stage carries a short list, five numbers early and at most six later. Guardrails, such as refund and dispute counts and sends to paused leads, are watched at every stage; the list is Stage Metrics (Module 12). The $25k configuration reads as Scaling once eligible leads pass about 150; at 120–150 it sits on the edge, and the binding constraint decides.
 
-**When the signals disagree.** Say a few Optimizers, older buyers who pay for speed and privacy, bought early, and you're at [~$9–12k] a month with fewer than about 50 eligible leads. That's Growing on revenue and Early on volume, so go by the constraint. If your calendar has open slots and your inbox clears by lunch, reach binds, and a paid assessment would cost you the few conversations you have. If it's full of calls ending no-fit, conversations bind, and screening at your door comes before any new reach. Either way, keep the premium seats at the price their buyers chose and the Program inside the cash ceiling (Module 7).
+**When the signals disagree.** Say a few Optimizers, buyers with more money than time who pay for speed and privacy, bought early, and you're at [~$9–12k] a month with fewer than about 50 eligible leads. That's Growing on revenue and Early on volume, so go by the constraint. If your calendar has open slots and your inbox clears by lunch, reach binds, and a paid assessment would cost you the few conversations you have. If it's full of calls ending no-fit, conversations bind, and screening at your door comes before any new reach. Either way, keep the premium seats at the price their buyers chose and the Program inside the cash ceiling (Module 7).
 
 ## 5. The Demand Equation and the Reverse Funnel
 
@@ -143,7 +143,7 @@ That's the **Demand Equation**. Each term is a lever with a planning range, and 
 | Margin | Profit per dollar collected | 75–85% without paid reach; 65–80% with it. In the first months fixed costs dominate, so compute profit from costs | Freelancers; software; refunds; paid reach |
 | The cap | Concurrent clients your care hours allow | ~25–30 in Growing; ~40–45 in Scaling | Templated review; group-call load |
 
-Here is the equation catching a misread. Reid is eight months in when a short on a trending jawline myth takes off. His views run to [five times] his usual month and his follower count jumps, so he spends the next month making more of the same. The equation says what happened.
+Here is the equation catching a misread. Reid is eight months in when a short debunking a trending jawline myth takes off. His views run to [five times] his usual month and his follower count jumps, so he spends the next month making more of the same. The equation says what happened.
 
 His raw leads [roughly doubled], but the eligible share fell from [~55%] to [~30%], because most new viewers were under 18 and left at the age fork with public content only. Eligible leads moved from [45] to [50]. The few new adults booked free calls, more of them wanted a promise about bone, and his close rate slipped from [~25%] to [~22%], so enrollments held level. Lifetime value and margin didn't change, and the month's profit came in flat at [~$4k]. Reid did nothing wrong by publishing a piece that spread; he read the wrong number, then made more of the thing the equation doesn't count.
 
@@ -151,7 +151,7 @@ So each month, find the term furthest below its planning range and work on that 
 
 ### Eligible adults are the term views disguise
 
-Your count is eligible leads: adults who passed the age fork at your door. Ability to pay gets confirmed later, by the affordability question, whether he can pay from his own income or savings without new credit, asked before any paid step. To make yield countable, tag every link to your door by source: a video, a short, a reply route. Then divide the eligible leads carrying each tag by that source's engaged views, per 1,000. Packaging sets the age mix, so sources can differ widely, and yield by source tells you where the next hour of content should go.
+Your count is eligible leads: adults who passed the age fork at your door. Ability to pay gets confirmed later, by the affordability question, whether paying is comfortable from his own income or savings without new credit, asked before any paid step. To make yield countable, tag every link to your door by source: a video, a short, a reply route. Then divide the eligible leads carrying each tag by that source's engaged views, per 1,000. Packaging sets the age mix, so sources can differ widely, and yield by source tells you where the next hour of content should go.
 
 Two numbers follow from the equation and price every reach decision. Revenue per eligible lead is lifetime value times your eligible lead → enrollment rate: roughly $25–210, low at opening prices with weak conversion, high once proof and the back end are working. The maximum affordable cost per eligible lead is at most about a third of that, roughly $10–70. A third leaves the other two-thirds to cover delivery and keep your margin, with room for your real conversion to come in under the planning range before a bought lead loses money.
 
@@ -200,13 +200,13 @@ With about 9–10.5 care hours a week in the design, care minutes of about 18–
 
 At the ceiling the limit is real, so use it. Seat caps come from Seat Math, monthly caps set from your measured care minutes (Module 6), which makes a full start a fact you can state. Say it on the page and on the call in plain words, such as "[May] is full; [June] opens with [8] seats". Make the next start his decision point, and publish how each start filled once it closes (Module 8).
 
-A start that fills with a waiting list behind it is also your signal that the next Price Step, a small raise on a published schedule, can go ahead (Module 7). A limit a skeptic can check persuades him for the same reason a countdown timer repels him.
+A start that fills with a waiting list behind it also feeds the gate for the next Price Step, a small raise on a published schedule that lands while starts fill and close rates hold (Module 7). A limit a skeptic can check persuades him for the same reason a countdown timer repels him.
 
 ### What $25k takes
 
 In the middle case's steady state, reached in year 2 in Bands B–C, $25k takes about 8–9 Program enrollments a month at about $3.1k. That's the top of the proof band and right at the cash ceiling for a buyer aged 20–24, and it brings in about $26k. Round Two adds about $1.5k, the Hold about $1.2k, one Private seat a quarter about $1.7k while minutes are spare, and assessment fees from non-buyers about $1k. That's roughly $31.5k of revenue and $24.5–26.5k of profit in a week of about 20 hours.
 
-It needs roughly 120–285 eligible leads a month at a proven door's 3–7%, the top of Band B's month-9 range and inside Band C's. Its 8–9 enrollments sit right at the Growing ceiling, which is why the last stretch to $25k comes from price and the back end. The top of the range, $50k, needs a configuration of its own (Module 13).
+It needs roughly 120–285 eligible leads a month at a proven door's 3–7%, the top of Band B's month-9 range and inside Band C's. Its 8–9 enrollments sit right at the Growing ceiling, which is why the last stretch to $25k comes from price and the back end. The top of the range, $50k, is the good case, since the middle case settles near $28–35k in Bands B–D. It needs breakout reach, or Band B with paid reach that works, in years 2–3, and a configuration of its own (Module 13).
 
 ### The hybrid engine is the default, and the rest are layers
 
@@ -219,19 +219,19 @@ All of this runs on one engine, the offer mix that carries the business: the one
 | Membership-led (~$29–59 a month) | Never the engine; an optional add-on from Growing for verified adults, with moderation budgeted | ~530–1,080 members at 8–15% monthly churn to carry the target, and daily moderation of rating talk |
 | Digital-led (~$197 products) | A leverage layer after ~20 graduates | ~160 sales a month for $25k, and buyers who rarely finish leave little proof |
 
-**Default: the hybrid engine.** Judgment is what you sell, and a cohort with weekly review delivers it at about $800 per care hour at proof prices and $1,250–1,400 at the ceiling. Standalone one-to-one earns about $100–330 per delivery hour, and the evidence gives its extra hours no edge in results at the same weekly contact.
+**Default: the hybrid engine.** Judgment is what you sell, and a cohort with weekly review delivers it at about $800 per care hour at proof prices and $1,250–1,400 at the ceiling. Standalone one-to-one, at 45–75 minutes a client-week, earns about $100–330 per delivery hour and tops out near $5–20k a month of revenue in 12–14 delivery hours. The evidence gives its extra hours no edge in results at the same weekly contact.
 
-Keep the engine and add layers when their triggers arrive. The Self-Serve System, tools for do-it-yourself buyers, comes after about 20 graduates, and an open paid membership can come from Growing, with moderation budgeted. Private stays in at Scaling only under the Parity Rule: a premium seat sells only when it earns at least what a Program seat earns per care hour (Module 13).
+Keep the engine and add layers when their triggers arrive. The Self-Serve System, tools for do-it-yourself buyers, comes after about 20 graduates, and an open paid membership can come from Growing, with moderation budgeted. Private stays in at Scaling only under the Parity Rule.
 
 ## Worked Example: Cole's First Year, Read Four Times
 
 Cole starts from zero in January. He has a founding page, the standing offer page for his first clients, plus a self-assessment, the Honest Answer, and a long-form video every other week. His channel grows steadily rather than explosively, which puts him in Band B, the steady band: the kind of year you should plan on. Here is his year, read four times and then worked back once.
 
-**Month 2. The read: reach.** The signs are plain. He's holding [2] conversations a week against the 3–6 target, most door starts exit at the age fork or end in "not yet", and his inbox is empty by ten. His default move is the Founding Sprint: a disclosed message to [40] people in his warm network, a reply within hours to every adult who finishes his door, and [5] short-form pieces a week built on adult situations ("27 and still guessing"). He keeps the fit conversation free and leaves price, a second platform, and any paid assessment alone, because none of them creates a conversation. By month 3 he's holding [2–3] conversations a week and has [4] clients in his founding group.
+**Month 2. The read: reach.** He's holding [2] conversations a week against the 3–6 target, most door starts exit at the age fork or end in "not yet", and his inbox is empty by ten. So he keeps working the Founding Sprint, opened in weeks 1–2 with a disclosed message to [40] people in his warm network. He replies within hours to every adult door completion, and since his week-3 source check moved hours out of long-form, he batches [5] short-form pieces a week on adult situations ("27 and still guessing"). He keeps the fit conversation free and leaves price, a second platform, and any paid assessment alone, because none creates a conversation. By month 3 he's holding [2–3] conversations a week and has [4] clients in his founding group.
 
 **Month 5. The read: still reach, whatever the week feels like.** His week feels full: founding delivery, the group's first calls, content. The tempting read is that conversations bind and it's time to charge for calls. The signs disagree. He's holding [4] conversations a week, his show rate is near [80]%, and few calls end no-fit. Busy isn't binding. So he adds no friction to his door. He moves the non-selling admin into fixed windows (Module 11) and spends the recovered hours on a decision-stage series. Eligible leads climb toward the Band B month-6 range of roughly 40–80 a month.
 
-**Month 8. The read: conversations.** Now the signs cross their thresholds. He's holding [8] conversations a week and his show rate has slid to [58]%. [More than half] his calls end no-fit, mostly men who wanted a bone promise or could only pay on credit. He applies the Call Cap: free conversations stay open up to [6] a week for uncertain and high-intent buyers, and the overflow meets a paid, credited Decision Assessment. His self-assessment result now puts the Honest Answer and the Fit Check, a short plain-language screen before any paid step, in front of the booking button. His close rate climbs from [~20%] toward [~30%]. He leaves reach alone, because more leads would pour into a leaky door.
+**Month 8. The read: conversations.** Now the signs cross their thresholds. He's holding [9–10] conversations a week, selling is eating his content hours, and his show rate has slid to [58]%. [More than half] his calls end no-fit, mostly men who wanted a bone promise or could only pay on credit. He applies the Call Cap: free conversations stay open up to [6] a week for uncertain and high-intent buyers, and the overflow meets a paid, credited Decision Assessment. His self-assessment result now leads with the Honest Answer, ahead of the booking button. His close rate climbs from [~20%] toward [~30%]. He leaves reach alone, because more leads would pour into a leaky door.
 
 **Month 11. The read: care minutes, arriving.** He has [22] concurrent clients, each review takes [15] minutes, and on heavy weeks his turnaround drifts toward its limit. At Growing care minutes his ceiling is roughly 25–30 clients, so the constraint isn't binding yet, but it's coming. He has reviewed enough clients to know what a good review says, so he starts templating. His Price Steps have run on schedule since the founding group. With the proof milestone met, the graduate count that gates the proof band (Module 7), he announces the step into it [30+] days out.
 
@@ -246,7 +246,7 @@ Answer from your own records for the last four weeks, starting at the top. A lat
 1. Is there a waiting list for your next start? → Care minutes.
 2. Did review turnaround miss its stated window in any week? → Care minutes.
 3. Did you pause booking two weeks running to keep weeks under 25 hours, the last step of the De-Scoping Order, your fixed list of what gets cut first (Module 11)? → Care minutes.
-4. Did most weeks hold more than about 6–8 conversations? → Conversations: the calendar is saturated, and the Call Cap applies. If show rates slid toward 60% or more than half ended no-fit at lower volume, the door's screening needs the work instead.
+4. Did most weeks hold more than about 6–8 conversations, with selling eating your content hours? → Conversations: the calendar is saturated, and the Call Cap applies. If show rates slid toward 60% or more than half ended no-fit at lower volume, the door's screening needs the work instead.
 5. Did fewer than 10% of eligible leads reach a held conversation, or did your close rate sit below its range (15–35% before proof, 25–45% with it) for two 30-conversation windows? → Conversations: the pipe leaks.
 6. Are seats open while your eligible leads sit below your band's waypoint? → Reach.
 
@@ -287,7 +287,7 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 
 - **The promise you control.** The End of Guessing is guaranteeable because it's made of your inputs: the plan, weekly review, the week-6 read, the week-12 re-assessment. Name his destination vividly (*Name the destination boldly*), but never promise his face (the line on structural claims).
 - **Pressure when conversations bind.** A full calendar tempts a second ask after a clear no, a discount, a moving deadline. The Call Cap and real dates carry the load instead, and a clear no ends it (*Close*).
-- **Scarcity only when it's real.** At the ceiling, state a full start as fact: "[May] is full; [June] opens with [8] seats". Countdown timers and invented seat counts stay out (*Use real dates*).
+- **Scarcity only when it's real.** At the ceiling, state a full start as fact and name the next start's seats. Countdown timers and invented seat counts stay out (*Use real dates*).
 - **Bands are for planning.** Set dates and seat caps from measured minutes and Band A–B volume, so no date moves and no count is invented (the line on fake scarcity). Never publish a band or the $25k configuration as a result (the line on fabricated proof).
 
 ## Quick Reference
@@ -328,6 +328,6 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 | **The Reverse Funnel** | Work back from profit to the leads and reach it needs |
 | **Reach Bands** | Plan on the band you'll probably have; check it at months 3, 6, and 9 |
 
-**Leans on:** the House Standard and the Spine (Intro) · the ladder (Module 4) · the Call Cap (Module 5) · the Price Steps (Module 7) · Stage Metrics and the Operator Review (Module 12) · the Parity Rule and the $50k path (Module 13).
+**Leans on:** the House Standard and the Spine (Intro) · the Destination Ladder (Module 2) · the Honest Answer (Module 3) · the ladder (Module 4) · the Call Cap (Module 5) · the Price Steps (Module 7) · the Founding Sprint (Module 9) · Stage Metrics and the Operator Review (Module 12) · the Parity Rule and the $50k path (Module 13).
 
-**Do this month:** place yourself on the Stage Map from your trailing quarter; run the Monthly Constraint Read and pick one lever; fill in the Reverse Funnel worksheet; check it against your band.
+**Do this month:** place yourself on the Stage Map from your trailing quarter; run the Monthly Constraint Read and pick one lever; fill in the Reverse Funnel worksheet and set it beside your band.

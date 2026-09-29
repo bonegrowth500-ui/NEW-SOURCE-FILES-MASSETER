@@ -17,7 +17,7 @@ In your first four months, short-form is the main way strangers find you. Its fe
 
 Your buyer hides the pursuit. He rarely comments or tells a friend, and when he searches, he types the category's words, which the youngest viewers type too. A new channel can't rank for those yet, so long-form reaches him slowly at first. Short-form doesn't wait for his search. Each piece goes first to a small group of strangers and widens when they stay, so a short about a 27-year-old's stall can find the man living it in week one.
 
-Reach binds first, and month 3 is decided by conversations and the routes that produce them. So short-form is one of the labeled sources in the Founding Sprint, your first conversations without an audience, each booking tagged with its route (Module 9). The early design week gives it about 3.5 hours for 4–7 native pieces a week, its largest content line.
+Reach binds first, and month 3 is decided by conversations and the routes that produce them. So short-form is one of the labeled sources in the Founding Sprint, your first conversations without an audience, each held conversation labeled by its booking source (Module 9). The early design week gives it about 3.5 hours for 4–7 native pieces a week, its largest content line.
 
 ### The door is the scoreboard
 
@@ -37,7 +37,7 @@ The second habit is routing. Every profile's link goes to your self-assessment, 
 
 **Default: Shorts first, Reels second.** Shorts feed your long-form channel, on the platform that reaches more US adults than any other and nearly all of those aged 18–29. Reels feed your Instagram router, on a platform that reaches about half of US adults, where men who won't comment in public send a keyword in private. TikTok reaches a little over a third of US adults and feeds neither owned asset, so the adults it sends are its whole output. That's why it joins only on the match in the table, the one comparison every platform shares.
 
-A trial is an experiment. It runs on slack under 25 hours, for [8–12] weeks or about 30 door completions, whichever comes first, and it's the first thing cut when a week runs long. The whole set answers to the Platform Count Rule: run only as many platforms as your editing budget serves, and drop one before long-form slips (Module 25). If the budget can't serve both, Reels go before Shorts, and keyword replies keep routing the Reels already up.
+A trial is an experiment. It runs on slack under 25 hours, for [8–12] weeks or about 30 door completions, whichever comes first, and it's the first thing cut when a week runs long. The whole set answers to the Platform Count Rule: run only as many platforms as your editing budget serves, and drop one before long-form slips (Module 25). If the budget can't serve both, Reels go before Shorts.
 
 **Shorts feed long-form, Reels feed the router, and TikTok earns its place on yield.**
 
@@ -72,7 +72,7 @@ A long-form piece carries two jobs, and the Two-Job Scorecard judges it on reach
 | Proof | Shows your standard working: how you capture, your dated log, a sample review, a consented clip | Profile visits, follows, and taps into long-form per 1,000 | The long-form piece behind it, or the door |
 | Offer | Tells a warm viewer the destination, the plan, the price, and where to go | Offer-page visits | The offer page, on surfaces followers see first |
 
-Reach, lead, and proof pieces sit on the Stranger rung of the Warmth Ladder, the rule that matches each asset's ask to its viewer's warmth. So they ask only for the next piece, a follow, or the door. The offer job belongs to viewers who have come back, so it waits for surfaces that reach followers first, like Stories once you run native Instagram, and your offer page. A feed tests every piece on strangers first, many of them minors, so no price runs there. Even on follower surfaces, a follow counts as coming back only when adult-framed pieces earned it.
+Reach, lead, and proof pieces sit on the Stranger rung of the Warmth Ladder, the rule that you never ask for a rung the buyer isn't standing on. So they ask only for the next piece, a follow, or the door. The offer job belongs to viewers who have come back, so it waits for surfaces that reach followers first, like Stories once you run native Instagram, and your offer page. A feed tests every piece on strangers first, many of them minors, so no price runs there. Even on follower surfaces, a follow counts as coming back only when adult-framed pieces earned it.
 
 **One job per short, one number per job.**
 
@@ -162,7 +162,7 @@ Short-form rides the long-form batch and editor you already have, so one filming
 | A teardown's steelman and its sharp point, together | A debated point whose caveat won't fit its sentence |
 | A destination line with its perspective line | Anything a commenter under 18 wrote |
 
-A clip is a claim in your name, so every cut comes back to you, and the clip brief in this module's templates gives your editor what he needs. When your week can't pay a platform's tax, the Platform Count Rule drops the platform before long-form pays it.
+Every cut comes back to you, and the clip brief in this module's templates gives your editor what he needs. When your week can't pay a platform's tax, the Platform Count Rule drops the platform before long-form pays it.
 
 **One master per point, a light pass per platform, your approval on every cut.**
 
@@ -208,11 +208,11 @@ A short suits *Fight ideas, not people* at its pointed strength, since one defen
 
 > **You:** "There's a jaw-device ad going around, and I won't show it. The man in it may well have worked hard, and wanting it is fair. Now watch the light on my volunteer. Overhead, it carves shadows along the jaw; in front, it fills them in. Look at that ad again, and you're comparing two lamps. Before you buy a device, ask for dated photos taken the same way, and hold my Capture Standard to the same test."
 
-Notice the move: the steelman in one line, one sharp point at the practice, then a check he can run on anyone, you included. It repairs Guide, because he learns the test your own proof must pass: the Honest-Evidence Test, the tells of manufactured proof taught so buyers can judge anyone (Module 16). The same edge fits rating culture, tip farms, and the "it's all genetics" shrug, in the hook patterns below.
+Notice the move: the steelman in one line, one sharp point at the practice, then a check he can run on anyone, you included. It repairs Guide, because he learns the test your own proof must pass: the Honest-Evidence Test, the tells of manufactured proof taught so buyers can judge anyone (Module 16). The same edge fits rating culture, tip farms, and the "it's all genetics" shrug, each with a hook pattern in the templates.
 
-> **Theo** *(composite, Burned Struggler)*: "So you're the one honest guy. Convenient."
+> **Dan** *(composite, Struggler)*: "My own before-and-after looked real, though. Same bathroom, a month apart."
 >
-> **You:** "Don't take my word for it. My Capture Standard and my dated log are public, so check them first. If they hold up, the free self-assessment in my profile is the next step."
+> **You:** "Same bathroom isn't the same light, so two phone photos can't tell either of us what changed. Behavior gets measured every week; appearance gets captured rarely, the same way every time. The free self-assessment in my profile starts there."
 
 The line you never say is "Look at that guy's jaw, it's obviously fake," which comments on the features of a man who never consented. Keep the edge on the lamp.
 
@@ -220,7 +220,7 @@ The line you never say is "Look at that guy's jaw, it's obviously fake," which c
 
 Consented client clips put a checkable result in a real man's words, and *Name the destination boldly* licenses them in organic short-form. Keeping them off it under-sells the men who earned them. They follow the Proof Portability Gradient, which sets where each kind of proof may travel: contextualized clips in organic short-form with range and denominator on screen, and no outcome proof in ads (Module 27).
 
-None exists in month 1. Consent comes after the fit window, his full refund in the first 14–21 days, and only at a measured peak, a reading where his adherence and at least one marker have reached their thresholds. Process testimonials arrive from about week 7 of your first client. Outcome clips wait for the proof milestone, 10 or more graduates with consented process testimonials, under a small-sample label.
+None exists in month 1. Consent comes after the fit window, his full refund in the first 14–21 days, and only at a measured peak, a reading where his adherence and at least one marker have reached their thresholds, so no refund decision is open. Process testimonials arrive from about week 7 of your first client. Outcome clips wait for the proof milestone, 10 or more graduates with consented process testimonials, under a small-sample label.
 
 Before/after pairs never appear in a short. They stay in long-form and your site library, where the whole Context Stack, the six items that make a result checkable, fits. A short carries his words, markers, context, and counts, with a first frame that shows a situation, never a face:
 
@@ -259,7 +259,7 @@ Keep the Honest Answer up and every link pointing at it, and let two-win framing
 
 ### The hours follow compounding
 
-Once long-form draws its own search and suggested traffic, an hour there buys more adults than an hour of shorts. Plan on 2–5 raw leads per 1,000 engaged long-form views against roughly 0.1–1 for short-form, and long-form carries a clickable path and your pitch. So Growing's design week moves short-form to about 1.25 hours, and Scaling's to about half an hour of approvals. Keep the Early line while eligible leads run under about 50 a month, whatever revenue says.
+Once long-form draws its own search and suggested traffic, an hour there buys more adults than an hour of shorts, since its views yield far more leads and carry a clickable path and your pitch. So Growing's design week moves short-form to about 1.25 hours, and Scaling's to about half an hour of approvals. Keep the Early line while eligible leads run under about 50 a month, whatever revenue says.
 
 ### Overload cuts come in a fixed order
 
@@ -277,11 +277,11 @@ Cole *(composite operator)* starts in [January] with door v0, the first working 
 
 **Week 2. First wins.** On similar views, A beats C [19] keyword messages to [11], at the floor and past his fixed margin. On Shorts, B beats D [23] taps into long-form to [11]. Both framings' adult shares at the fork hold near his running [~60%].
 
-**Week 3. The source check fires.** Warm network and replies have given [4] held conversations in three weeks, under 2 a week. He moves about 2 hours a week into short-form batches and Permission-First Replies, and his week-4 long-form piece slips to week [7]. That same week A beats B [21] messages to [10] for its second win, and waits in the queue with no piece to be tested in.
+**Week 3. The source check fires.** Warm network and replies have given [4] held conversations in three weeks, under 2 a week. He moves about 2 hours a week into short-form batches and Permission-First Replies, and his week-5 long-form piece slips to week [7]. That same week A beats B [21] messages to [10] for its second win, and waits in the queue with no piece to be tested in.
 
 **Week 4. The queue fills.** At [seven] pieces a week, B beats C [22] taps to [12] for its second win and joins the queue. C, with two losses, leaves the lab.
 
-**Week 7. The confirmation.** The delayed piece carries A's framing, "[27 and still guessing: what an adult can still change]", against his default, "[What an adult can actually change]". [Nine] days later the title test calls A a clear winner on watch time, and A becomes his packaging default. B is next in the queue.
+**Week 7. The confirmation.** The delayed piece carries A's framing, "[27 and still guessing? What measuring looks like]", against his default, "[What measuring looks like, for adults]". [Nine] days later the title test calls A a clear winner on watch time, and A becomes his packaging default. B is next in the queue.
 
 **The yield.** Shorts draw [~40–50k] engaged views, and Reels [~20–30k] on Instagram's own count. Together they send [15–20] door completions, [8–12] of them eligible adults, at a similar cost per editing hour on both platforms. Across all five labels he holds [6–9] conversations, [1–2] of them from short-form. [Two] founding clients join, inside the 15–35% planning range before proof.
 

@@ -80,9 +80,9 @@ When you can't tell which it was, count it as yours. The service guarantee, your
 
 ### It's offered at a measured peak, after every check
 
-Round Two is offered at a measured peak, a measurement moment that shows progress on his record, between the week-10 review and the week-12 re-assessment. How the offer is argued, from his record against the timeline he accepted before paying, is the Renewal Case (Module 22). Nothing is offered at a plateau, a flat read, or an exit.
+Round Two is offered at a measured peak between the week-10 review and the week-12 re-assessment: a measurement moment with his adherence and at least one marker at threshold, so no refund decision is open. How the offer is argued, from his record against the timeline he accepted before paying, is the Renewal Case (Module 22). Nothing is offered at a plateau, a flat read, or an exit.
 
-Before any payment, the checkout runs what every paid step runs. First comes the affordability question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Then the Fit Check's second tier asks the plain questions that pause a sale when a signal shows. A no ends money talk and sets the pause route, a tag that stops sales messages for 60–90 days. He keeps the free next step graduation already gave him: his record and a quarterly date of his own. From 30 graduates, publish the share told "you don't need Round Two" beside the share offered it, because that line is what makes the offer credible.
+Before any payment, the checkout runs what every paid step runs. First comes the affordability question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Then the Fit Check's second tier asks the plain questions that pause a sale when a signal shows. A no ends money talk and sets the pause route, a tag that holds every marketing send for 60–90 days. He keeps the free next step graduation already gave him: his record and a quarterly date of his own. From 30 graduates, publish the share told "you don't need Round Two" beside the share offered it, because that line is what makes the offer credible.
 
 **When the signals disagree.** Say Adrian *(composite, Optimizer)*, 31, asks for Round Two before you've offered anything. He can pay without a second thought, his week-12 captures look sharper to him, and he wants the precision of more reviewed weeks. His adherence clears his threshold and [his posture-habit marker] sits at threshold, but no marker improved across its last two readings: moved and holding, with no measured momentum. Three signals say yes, and the one written before money was on the table says no, so the sheet decides. Captures are observations under conditions, and ability to pay is a condition of every paid step, never a qualification for this one.
 
@@ -96,7 +96,7 @@ The Hold sells one answer, whether what moved has held. It earns its monthly pri
 
 The question every graduate carries out the door, did it hold?, can't be answered by a mirror. Change here is slow and confounded. Weight swings, a haircut, a tan, and for men in their early 20s the last of their growth all redraw a face in a photo. Matched captures on a calendar are what separate what held from what the light did. The Hold gives him that calendar in place of the daily mirror check.
 
-Until about 30 alumni are in it, the Hold is a measurement subscription with two paid deliverables. One is a re-capture to your Capture Standard every quarter, on a date set at graduation. The other is one written review a quarter, inside a stated turnaround: what held, what slid, and the one adjustment worth making. He sends [one week of logs a month] for that review to read, because behavior is measured often and appearance rarely. Members also stay on the Canon Lane, the free email lane that repeats your core claims to every subscriber (Module 26), listed on the card as free.
+Until about 30 alumni are in it, the Hold is a measurement subscription with two paid deliverables. One is a re-capture to your Capture Standard every quarter, on a date set at graduation. The other is one written review a quarter, inside a stated turnaround: what held, what slid, and the one adjustment worth making. He sends [one week of logs a month] for that review to read, because behavior is measured often and appearance rarely. Members also stay on the Canon Lane, the free email lane that repeats your core claims to every subscriber outside a pause (Module 26), listed on the card as free.
 
 Once about 30 alumni are in, the alumni room opens, the Hold's paid room with a prompt each week and fixed rules. Existing members get it at their current rate, and joining it is their choice. Before that point, a room of [five] members reads as a failed product, and its moderation would come out of review minutes.
 
@@ -125,7 +125,7 @@ People tend to overestimate how often they'll use a membership they pay for. So 
 
 ### Terms make it safe to buy
 
-The Hold's deliverables card is one page stating what a member gets, when, and from whom. It carries the billing terms: a reminder before each charge, a one-click exit, and a failed card that pauses without fees until he updates it himself. The service guarantee covers every Hold deliverable, and when a week runs long, new members wait rather than a review slipping. His statutory rights come before all of it.
+The Hold's deliverables card is one page stating what a member gets, when, and from whom, with its billing terms: a reminder before each charge and a one-click exit. The service guarantee covers every Hold deliverable, and when a week runs long, new members wait rather than a review slipping.
 
 The Hold is offered at graduation to a man whose record moved and at Round Two's week-12 re-capture, never after the clause, a flat read, or an exit. A member who hasn't had Round Two can hear about it at a quarterly re-capture that passes the momentum test. The same affordability question and Fit Check run before the first charge. A checking or fixation signal means no Hold, because its core is a capture, and that man gets a referral and reading-only content instead. A subscription a skeptic can leave in one click asks him to trust nothing he can't undo, and that's what lets you sell it plainly.
 
@@ -155,7 +155,7 @@ As an engine, a membership needs about 530–1,080 members at $29–59 with 8–
 
 ### Room rules have consequences, and distress comes first
 
-The room's members are adults who measure instead of guess, and the rules keep standing tied to that practice. Handles are the default, and cameras are optional. No face is posted, compared, or rated, his own included, and nobody gives medical, dental, or structural advice. Alumni status is earned at graduation, and any board follows Quiet Commitments, where commitments go to the reviewer and sharing stays opt-in inside a closed group (Module 17). A board ranks re-captures kept on their dates and logs sent, never posting volume, and never looks.
+The room's members are adults who measure instead of guess, and the rules keep standing tied to that practice. Handles are the default, and cameras are optional. No face is posted, compared, or rated, his own included, and nobody gives medical, dental, or structural advice. Alumni status is a dated fact of graduation, and any board follows Quiet Commitments, where commitments go to the reviewer and sharing stays opt-in inside a closed group (Module 17). A board ranks only timestamps, logs sent and re-captures kept on their dates, never self-reported days, posting volume, or looks. It opens to a member only after his fit window, freezes while his exit window is open, and never mentions who left.
 
 Distress comes before every other rule. A post that reads as distress is hidden from the room at once, and the member is pointed to [the help line] straight away for anything that can't wait. You reply to him personally the same day, and a referral trigger, such as jaw pain, bite concerns, snoring, or fixation, becomes a referral conversation.
 
@@ -183,7 +183,7 @@ His return starts with his record, before any offer. He books a fit conversation
 
 If the lever that moved for him slid with the habits, it's the Program again, at the next monthly start and the published price, since a returning seat is a new seat. His first record becomes his week zero, and every paid step runs the same two checks. A graduate who left through the non-response clause is never re-sold the same plan; a new goal starts at the door like any buyer's.
 
-The Self-Serve System, the paid kit for keeping your own record without review, is never pitched to a graduate as his route back (Module 4). Graduation already gave him its core: his record, the Capture Standard he used for 12 weeks, and a quarterly date. The door he comes back through is the one he left by, with his record read first.
+The Self-Serve System, the paid kit for keeping your own record without review, is never pitched to a graduate as his route back (Module 4). Graduation already gave him its core: his record, the Capture Standard he used for 12 weeks, and a quarterly date.
 
 ## 6. What the Back End Costs in Minutes
 
@@ -214,7 +214,7 @@ The Hold is further off. At $25k its line works out to roughly 15 minutes a revi
 
 Reid shows what skipping the budget costs. He writes each quarterly review from scratch, in about [25] minutes, at [$39] a month. A member's [$117] a quarter buys about [10] minutes at his Program's [$700] per care hour, so every review he writes takes time from a Program seat. The review compares matched captures and three monthly log weeks, the part of this business only you can do. So template the writing, and never the reading.
 
-When minutes tighten, Hold deliverables stay whole and the cap on new members drops instead. The card states your time per member. A member's questions about his record go into his next quarterly review, since an unpriced minute in the room comes out of a Program review. Budgeted in minutes, the back end grows with your alumni while your week stays the size you designed.
+The card states your time per member, and a member's questions about his record go into his next quarterly review, since an unpriced minute in the room comes out of a Program review. Budgeted in minutes, the back end grows with your alumni while your week stays the size you designed.
 
 ## Worked Example: Cole's [September] Start, Followed for a Year
 
@@ -222,11 +222,11 @@ Cole (composite operator) is Growing, with about [24] concurrent clients across 
 
 **Week 6. An exit, and a miss owned.** [One] client's new job arrives early. He has done the work and asks to stop, so the exit right, the pro-rata refund for a client who did the work, pays about half his price. There's no re-pitch and no offer. [Another]'s week-6 read finds a signal in his logs from week [2]: [his habit block drifting to late evenings]. Cole's reviews missed it for [four] weeks. The read says so in writing, adjusts one lever, and books [four] corrective weeks after week 12 at no charge, logged in his claim rate.
 
-**Week 12. Nine graduates, nine records.** [Five] pass the momentum test on records that moved. Before any offer to any graduate, Cole asks the question word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Then he runs the Fit Check's plain questions. Dan and [one other] take Round Two. [One] takes the Hold, and [one] declines both and keeps a quarterly date of his own. [One] answers the checking question "many times a day", so nothing is sold to him, and Cole opens a referral conversation.
+**Week 12. Nine graduates, nine records.** [Five] pass the momentum test on records that moved. Before any graduate pays, Cole asks the question word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Then he runs the Fit Check's plain questions. Dan and [one other] take Round Two. [One] takes the Hold, and [one] declines both and keeps a quarterly date of his own. [One] answers the checking question "many times a day", so nothing is sold to him, and Cole opens a referral conversation.
 
 [Two] moved and are holding, including the client with corrective weeks. Both hear plainly that they don't need Round Two, and both take the Hold, [one] at the end of his corrective weeks. [One] met his adherence threshold with no marker at threshold, so the clause pays its fixed share, with a referral where one fits and no offer. [One] finished below his threshold with no marker at threshold, so he gets an honest read and no offer.
 
-**Months 4–6. The Hold as a subscription.** Every charge follows a reminder. The first two quarterly reviews take Cole about [22] minutes each, while a member's [$147] a quarter buys about [14] minutes at [$630] an hour, so the Hold is running below parity. He templates the writing, and every later review takes about [11] minutes. At Round Two's week 6, Dan's [body-composition measure] reaches its threshold, a measured peak. By its week 12 neither marker is still improving, so there's no second block. Dan joins the Hold after the same two checks, and the other Round Two client leaves with his own quarterly date.
+**Months 4–6. The Hold as a subscription.** Every charge follows a reminder. The first two quarterly reviews take Cole about [22] minutes each, while a member's [$147] a quarter buys about [14] minutes at [$630] an hour, so the Hold is running below parity. He templates the writing, and every later review takes about [11] minutes. At Round Two's week 6, Dan's [body-composition measure] reaches its threshold. By its week 12 neither marker is still improving, so there's no second block. Dan joins the Hold after the same two checks, and the other Round Two client leaves with his own quarterly date.
 
 **Months 7–12. Churn that means success.** In month [10], one member cancels in one click after his reminder. His two quarterly re-captures had shown it holding, which was the answer he came for. Cole leaves three things alone: a room for [three] members, a win-back email to the graduates who declined, and Round Two for the two whose sheets said holding.
 
@@ -270,7 +270,7 @@ Refunds of about [$2,000] come out in margin, where the Demand Equation counts t
 >
 > **What you pay for.** A quarterly re-capture to our Capture Standard, on a date set at graduation, and one written review from [name] within [72] hours of it: what held, what slid, one adjustment. The review reads the [one week of logs] you send each month. At about 30 members the alumni room opens, with a weekly prompt, and joining it is your choice.
 >
-> **Free to every subscriber.** The Canon Lane, [one] email a [month].
+> **Free to every subscriber outside a pause.** The Canon Lane, [one] email a [month].
 >
 > **My time per member.** One written review a quarter. In the room I read in [two] fixed passes a week, and questions about your record go into your next review.
 >
@@ -293,7 +293,7 @@ Posted at the top of the alumni room and any peer space, and agreed at joining.
 1. **Adults only.** Every member is verified at joining. Anyone found to be under 18 is removed, refunded, and pointed to our public content, and his data is deleted.
 2. **Handles by default, cameras optional.** Your name and your face stay yours.
 3. **No faces.** No photos of faces, yours or anyone's, and no comparisons or ratings. Captures go to your reviewer only.
-4. **Standing comes from practice.** Opt-in boards rank re-captures kept and logs sent, never looks or post counts.
+4. **Standing comes from practice.** Opt-in boards rank only timestamps, logs sent and re-captures kept on their dates, never looks, post counts, or days you report. They open to you after your fit window, freeze while your exit window is open, and never mention who left.
 5. **If it can't wait.** Call [help line] now. A post that reads as distress is hidden at once, and [name] replies to you personally [the same day]. For jaw pain, bite concerns, or snoring, message [name] privately.
 6. **No advice, and nothing sold.** No medical, dental, or structural advice. No member promotes products, devices, or services, and we make no offers here.
 7. **Argue with ideas, never people.** Challenge any claim, ours included. Nobody's face, body, or worth is fair game, here or anywhere.
@@ -314,7 +314,7 @@ Posted at the top of the alumni room and any peer space, and agreed at joining.
 
 - **Round Two on a test, with the honest no.** The card prints the momentum test, the price, and the full-intensity and corrective-week terms, and a graduate who fails the test hears that he doesn't need it (*Present the price*). Nothing is offered at a plateau, a flat read, or an exit (the line on vulnerability).
 - **No hidden default in the Hold.** Two itemized deliverables, the free lane shown as free, opt-in at the review, a reminder before every charge, and a one-click exit (*Present the price*) mean a member reading his statement in month five still says it served him (the Informed-Client ceiling).
-- **Standing from the record, safety first.** Alumni status is earned at graduation, boards rank re-captures and logs, no face is posted, and a distress post is hidden while help comes first (*Build identity on evidence*; the line on shame).
+- **Standing from the record, safety first.** Alumni status is a dated fact of graduation, boards rank timestamps and freeze while an exit window is open, no face is posted, and a distress post is hidden while help comes first (*Build identity on evidence*; the line on shame).
 - **One door per partner.** Each partner answers every check himself, and no minor is ever seated (the line on vulnerability).
 
 ## Quick Reference
@@ -323,7 +323,7 @@ Posted at the top of the alumni room and any peer space, and agreed at joining.
 
 **Takeaways**
 - Lifetime value is the Program, Round Two and Hold months per graduate, and premium, each with its care minutes; partners and referrals are new clients.
-- Round Two sells once, on measured momentum: adherence at threshold and a marker improving across its last two readings. Full intensity is its own path.
+- Round Two sells once, on measured momentum: adherence at or above threshold and at least one marker still improving across its last two readings. Full intensity is its own path.
 - The Hold measures until about 30 alumni are in it: opt-in, two itemized deliverables, a reminder before each charge, a one-click exit.
 - A back-end seat may cost what it earns ÷ your Program's revenue per care hour; below parity, it sells only while minutes are spare.
 

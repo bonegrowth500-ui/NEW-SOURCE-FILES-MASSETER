@@ -13,7 +13,7 @@ Every step felt like reading the data, and none was. Four calls can't tell a pri
 
 At each stage, a handful of numbers tells you whether the business is working. Nearly everything else you could track follows from them or counts people who can't buy. This category offers more numbers than most, and the loudest point the wrong way. Views, followers, and likes climb fastest on rating and comparison content, which pulls the youngest viewers. Raw leads include every door start that ends at the age fork, your door's legal-adult question. None of these is a term in the equation that makes profit.
 
-Each stage needs its north star, the few numbers that move first when the right lever works, and one that shows whether delivery holds. The binding constraint picks them. Early, reach and then conversations bind, so the list counts conversations and the cash they become. Growing, conversion binds, so it adds the rates that show where eligible leads, adults who passed your age fork, get lost. Scaling, care minutes bind, the review, call, and milestone minutes each client takes a week, so the list turns to profit per hour and the waiting list. Beside every list sit the guardrails, numbers you watch at every stage and never push.
+Each stage needs its north star, the few numbers that move first when the right lever works, and one that shows whether delivery holds. The binding constraint picks them. Early, reach and then conversations bind, so the list counts conversations and the cash they become. Growing, conversion binds, so it adds the rates that show where eligible leads, adults past your age fork who could pay without new credit, get lost. Scaling, care minutes bind, the review, call, and milestone minutes each client takes a week, so the list turns to profit per hour and the waiting list. Beside every list sit the guardrails, numbers you watch at every stage and never push.
 
 **Five numbers early, at most six at any stage, and guardrails always.**
 
@@ -36,17 +36,17 @@ A guardrail earns its place by showing when a number was moved by a shortcut. Gu
 | Guardrail | Counted as, with its line |
 |---|---|
 | Refunds and disputes | Rolling count; ~2–8% of revenue; disputes ≤1 per rolling 90 days early |
-| Complaints | Per delivered email: under 0.1%, and never 0.3% or more |
+| Complaints | Per delivered email over a rolling month: under 0.1%, and never 0.3% or more |
 | Fit-check signals and declines | Signals and declines, in aggregate; ~5–20% of paid-step applicants signal |
 | Refunds and exits among signal-flagged enrollees | Each case read, and the count set beside everyone else's |
-| Promotional sends to paused leads | Counted after every start; target zero |
+| Promotional sends to paused leads | Any marketing send, counted weekly; target zero |
 | Affordability "no" share | Share of paid-step applicants |
-| Non-responder share | Graduates at or above adherence whose markers didn't move; published at 30+ |
+| Non-responder share | Graduates at or above adherence with no marker at its threshold; published at 30+ |
 | Review turnaround kept | Share of reviews inside your stated point |
 
-The affordability "no" share counts paid-step applicants who answer no to the affordability question: can he pay from his own income or savings, without new credit? It should hold steady as price steps up, so a climb after a step says the price has reached past the man it was built for.
+The affordability "no" share should hold steady as price steps up, so a climb after a step says the price has reached past the man it was built for. It counts paid-step applicants who answer no to the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-The zero protects the pause route, the tag that stops sales and date sends for 60–90 days after "I can't afford it", a distress answer, or a fit-check pause (Module 5). One send that slips through reopens a conversation he closed, and at solo volume a single one is a breach, never a rate.
+The zero protects the pause route, the tag that holds every marketing send for 60–90 days after "I can't afford it", a distress answer, or a fit-check pause (Module 5). One send that slips through reopens a conversation he closed, and at solo volume a single one is a breach, never a rate.
 
 ### A number you chase stops measuring
 
@@ -90,7 +90,7 @@ A signal is strong when it names a mechanism in buyers' own words, or repeats ac
 
 Lines are counted in ones. A page that reads as a structural promise gets fixed the day you learn of it, with no window to wait for. The 30-event rule protects your reading of rates, never a promise you shouldn't have made.
 
-The rule reaches price through the gate on each Price Step, the small raise on a published schedule (Module 7). The gate reads the close rate over 30 held conversations, all held since the last step landed. So a thin fortnight can't cancel a step the gate calls for, and a hot week can't add one it doesn't. Where a window takes longer than two starts, the next step waits for it. At low call volume, steps come further apart, and each is read on its own evidence.
+The rule reaches price through the gate on each Price Step, the small raise on a published schedule (Module 7). The gate reads the close rate over 30 held conversations, all held since the last step landed. So a thin fortnight can't cancel a step the gate calls for, and a hot week can't add one it doesn't. Until those 30 exist, filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call.
 
 The same rule sets what you publish. The non-responder share and the share told they don't need Round Two wait for 30 graduates. The recommendation mix waits for 30 Decision Assessments, the paid written plans that end in one recommendation. The deliberate exception is your first outcome ranges. They go up at the proof milestone, 10 or more graduates with consented process testimonials, labeled as a small sample so a buyer can weigh them for what they are.
 
@@ -104,13 +104,13 @@ A rate can move because the business moved, or because what it's counted per mov
 | Close rate | Held conversation | Booked call | No-shows move bookings with your calendar, not your call |
 | Lead yield | 1,000 engaged views, by source | Followers | The one borrowed count: date a break when a platform redefines it |
 | Email results | Delivered | Opened | Mail apps inflate and hide opens |
-| Round Two take | Graduate | Client offered it | Offered only on measured momentum, so per offer flatters |
+| Round Two take | Graduate | Client offered it | Offered only on measured momentum, adherence met and a marker still improving, so per offer flatters |
 | Profit per hour | Every operator hour, content and selling included | Delivery hours | Selling and content hours are where profit per hour leaks |
 | Outcome ranges | Every graduate | Clients who agreed to share | The willing few flatter any range |
 
 That habit is **Denominator Discipline**, written into each metric's name so a change in what's counted can't slip past you. The conversion you steer by has one name, eligible lead → enrollment, counted per eligible-lead cohort, because only your door decides who counts as eligible.
 
-In [November], Cole's form tool updates and starts counting every door start as a lead, including the under-18 exits it never stores. Its lead → booked rate drops from [~15%] to [~7%] overnight. His own sheet counts eligible leads by the age-fork tag: [~26] that week and [4] held conversations, about [15%], unchanged. The tool's denominator moved and the business didn't, and read off the tool, the drop would have sent him to rewrite a working result page. He dates the break, starts a fresh window, and never splices the two series, because a spliced line manufactures a trend out of a definition.
+In [November], Cole's form tool updates and starts counting every door start as a lead, including the under-18 exits it never stores. Its lead → booked rate drops from [~15%] to [~7%] overnight. His own sheet counts only the adults his door stores past the age fork: [~26] that week and [4] held conversations, about [15%], unchanged. The tool's denominator moved and the business didn't, and read off the tool, the drop would have sent him to rewrite a working result page. He dates the break, starts a fresh window, and never splices the two series, because a spliced line manufactures a trend out of a definition.
 
 ## 3. The Operator Review
 
@@ -128,7 +128,7 @@ That's the **Operator Review**. Its time sits in the admin line of the Design We
 
 ### Content hours are checked first
 
-The weekly review opens with the Protected Content Minimum, the hours client work may never eat: about 8.5 a week early, and never under 5 at any stage. Leads here trail content by weeks, because a long-form piece keeps routing adults to your door long after it's published, and the piece you skipped never starts. So a week that ate the camera time is invisible now and shows up as a thin month later. If client work keeps eating those hours, the seat cap is the question, and your Design Week's fixed order of cuts answers it.
+The weekly review opens with the Protected Content Minimum, the hours client work may never eat: about 8.5 a week early, and never under 5 at any stage, because a week that ate the camera time shows up only as a thin month later. If client work keeps eating those hours, the seat cap is the question, and your Design Week's fixed order of cuts answers it.
 
 ### A decision is any change that touches a joint
 
@@ -151,7 +151,7 @@ Buyers reach enrollment by three routes, and each is traced on its own. One is t
 | Assessment: eligible lead → Decision Assessment | 2–7% | The fee, plus 25–45% of lifetime value | The overflow offer · Module 5 |
 | Assessment: Decision Assessment → program | 25–45% | Lifetime value | The written plan · Module 5 |
 | No call: warm offer-page visitor → enrollment | ~1–3% | Lifetime value | Selling without the call · Module 20 |
-| Back end: graduate → Round Two | ~10–26% | Round Two's price, ~$0.8–1.2k | The renewal ask at the measured peak · Module 22 |
+| Back end: graduate → Round Two | ~10–26% | Round Two's price, ~$0.8–1.2k | The renewal ask at a measured peak, adherence met and a marker at threshold · Module 22 |
 | Back end: graduate → the Hold | 20–40% | Its monthly price × the months members stay | The Hold's deliverables · Module 10 |
 
 Price every gap the same way: the middle of the joint's planning range minus your rate, times the volume that reached the joint this month, times what each one through is worth. A back-end gap comes out as lost lifetime value per graduate, which you multiply by this month's graduates. Hold churn, typically 4–8% a month, is priced the same way, in months lost.
@@ -166,7 +166,7 @@ The call's joint leaks both ways. A close rate below its range can mean calls fu
 
 ### A flooded joint isn't a leaking one
 
-A joint can also fail the other way, by flooding. The Call Cap's signs arrive together: most weeks above about 6–8 held conversations, shows sliding toward about 60%, more than half ending no-fit, and selling eating your content hours. Then the fix is to cap free conversations and send the overflow to the Decision Assessment (Module 5). Tightening the door would plug a joint that's working. A flood can also hide a leak upstream. A full calendar makes reach look fine while half of it is men who needed a different answer than a call.
+A joint can also fail the other way, by flooding. The Call Cap fires on volume: most weeks above about 6–8 held conversations, with selling eating your content hours. Then the fix is to cap free conversations and send the overflow to the Decision Assessment (Module 5), since tightening the door would plug a joint that's working. At lower volume, shows sliding toward about 60% or more than half ending no-fit call for the door's screening instead. A flood can also hide a leak upstream: a full calendar makes reach look fine while half of it is men who needed a different answer than a call.
 
 Most leaks here sit early in the chain and look like manners. Dan *(composite, Struggler)* finishes your self-assessment at [11 pm] after a shift, the day after a team photo he didn't like. A reply within hours meets him while he still wants a decision; a reply [three] days later meets a man back in his routine. So check speed to lead first whenever eligible leads grow faster than your habits: a personal reply within hours, and a booking inside 24–48 hours.
 
@@ -184,14 +184,14 @@ Those six parts make a trigger checkable, including by you on a bad week. Scalin
 
 | Move | Fires when | Window | The check that can hold it | Owner |
 |---|---|---|---|---|
-| The Call Cap and the paid overflow | Its bind signs arrive together | Four weeks, at the monthly review | Profit per operator hour per 100 eligible leads, over ≥30 events at each setting | Module 5 |
+| The Call Cap and the paid overflow | Most weeks above ~6–8 held, with selling eating the content minimum | Four weeks, at the monthly review | Profit per operator hour per 100 eligible leads, over ≥30 events at each setting | Module 5 |
 | Switching on a rung | Its upstream count: the first graduation (Round Two, the Hold); ~20 graduates (paid tools); ~30 alumni (the alumni room); the Program past ~$3.2k (Program Async) | The count, read quarterly | Your week can price the rung's minutes | Module 4 |
 | The next Price Step | Starts filling, and the close rate inside its range | 30 held conversations since the last step | One window below range holds the next announcement; two send the work to the call | Module 7 |
 | Templating review | ~20 clients reviewed, and turnaround creeping toward its stated point | Four weeks of turnaround | How reviews are made, published first; turnaround and the non-responder share hold | Module 13 |
 | Private | Founding seats while minutes are spare; at Scaling, price per operator hour at or above the cohort's ~$1,250–1,400 per care hour | Monthly, with the seat caps | Review turnaround kept | Module 13 |
 | Routing help, task-billed moderation and door links | Growing, with moderation and door-link replies overrunning the replies line of your design week | Most weeks of a quarter | One escalation slip pulls it back until the brief is fixed | Module 11 |
-| Paid adult reach | The Month-3 Gate's volume leg, fewer than ~15 held conversations by week 12, with pages that pass the claims rules: a test at ~$300–1,000 a month from months 3–4. Otherwise only after the Ad Gates (compliant pages, organic proof, an offer that converts without ads) | 30 eligible leads bought, against a holdout | Cost per eligible lead at or under your affordable maximum (~$10–70) | Module 27 |
-| Adding or dropping a platform | Add: reach binds and the editing budget can serve it. Drop: before long-form degrades, or at the second cut of a week past 25 h | 30 eligible leads from its source tag | Eligible-adult yield by source | Module 25 |
+| Paid adult reach | The Month-3 Gate's volume leg, fewer than ~15 held conversations by week 12, with pages that pass the claims rules: a test at ~$300–1,000 a month from months 3–4. Otherwise only after the Ad Gates (compliant pages, organic proof, an offer that converts without ads) | About 30 eligible leads bought, against a holdout with washout weeks | Cost per eligible lead at or under your affordable maximum (~$10–70) | Module 27 |
+| Adding or dropping a platform | Add: reach binds and the editing budget can serve it. Drop: before long-form degrades, or at the second cut of a week past 25 h | 30 eligible leads from its source label | Eligible-adult yield by source | Module 25 |
 | Crossing the cash ceiling | All four: the Program at about $3.2k after the proof milestone; starts full with names waiting; the close rate inside 25–45%; the last ~30 enrollments mostly 25 or older | A 30-event window for each | The affordability "no" share per tier, two consecutive windows outside its prior band | Module 13 |
 
 ### Triggers are read at their review
@@ -249,14 +249,14 @@ The trace prices it. Two joints sit below their ranges. Eligible lead → held c
 
 **Decision one, the month's: fix speed to lead.** He answers door completions in [two] batches a day. He also opens conversation slots in all [three] of his weekly live windows, so the first open slot sits within [three] days. The Call Cap he set at [6] a week in month 8 isn't binding at about [2] a week, so nothing else at the door changes. The fix is read on the next two 30-lead windows, and that joint is locked until they close.
 
-**Decision two, the quarter's: switch on routing help.** For [most weeks] of the quarter, moderation and door-link replies ran [about 2 hours] a week, against a replies line of about 1 hour at Growing. A task-billed helper now moderates against his published policy and sends one templated door link, and anything touching a minor, distress, a purchase question, or client content comes to him. Routed leads carry their own tag, so the reply fix is read without them.
+**Decision two, the quarter's: switch on routing help.** For [most weeks] of the quarter, moderation and door-link replies ran [about 2 hours] a week, against a replies line of about 1 hour at Growing. A task-billed helper now moderates against his published policy and sends one templated door link, and anything touching a minor, distress, a purchase question, or client content comes to him. Routed leads carry their own source label, so the reply fix is read without them.
 
-**The step that ran by rule.** His step from [$2.2k] to [$2.4k], announced in [November], lands at the [January] start. The holiday fortnight held [2] conversations and no enrollments, and postponing feels prudent, but announced steps land, and [2] conversations are [2] events. The step reads on the close rate, a different joint, and the next waits for 30 held conversations since January, about [three] months at his volume.
+**The step that ran by rule.** His step from [$2.2k] to [$2.4k], announced in [November], lands at the [January] start. The holiday fortnight held [2] conversations and no enrollments, and postponing feels prudent, but announced steps land, and [2] conversations are [2] events. The step reads on the close rate, a different joint. Until 30 conversations stand since January, about [three] months at his volume, filling starts carry the next step alone.
 
 **Left alone, on purpose.**
 - Round Two's price, after [1] of [14] took it: the worst proportion, the smallest dollars, and fewer than 30 graduates behind it.
 - A postponed step, which would teach every buyer who plans around his dates that they move.
-- Native TikTok, after a short answering ["is it too late at 27?"] ran to [four times] his usual views: its door tags showed an eligible share of [~25%], and TikTok waits until its own yield proves out.
+- Native TikTok, after a short answering ["is it too late at 27?"] ran to [four times] his usual views: its door counts showed an eligible share of [~25%], and TikTok waits until its own yield proves out.
 
 **What it shows.** Revenue held while revenue per eligible lead slid. Only the trace, priced in dollars, put the leak at the reply rather than at Round Two, where proportions pointed. Each change has its own joint and window. Two windows later, eligible lead → held conversation reads [~14%] and [~15%], and revenue per eligible lead is back near [~$155] before the step adds its [~9%].
 
@@ -268,7 +268,7 @@ One sheet, filled in by hand at the weekly review. Counts go in weekly; a rate g
 
 | Number | Stage | Denominator | Read | Planning range |
 |---|---|---|---|---|
-| Eligible leads | Early, Growing | Count, by source tag | Weekly | Your reach band's plan for the month; ~50–150 in Growing |
+| Eligible leads | Early, Growing | Count, by source label | Weekly | Your reach band's plan for the month; ~50–150 in Growing |
 | Held conversations | Early | Count | Weekly | 3–6 a week |
 | Enrollments (Early: plus cash) | All | Count | Monthly | Up to ~8–10 at the Growing ceiling; ~12–15 at Scaling |
 | Pieces published | Early | Count | Weekly | Long-form every other week; 4–7 native short-form |
@@ -288,7 +288,7 @@ Under every stage's rows go the eight guardrails, weekly, with their lines writt
 
 **Weekly.**
 1. Did content hours fall below your minimum (about 8.5 early, never under 5)? → Put the block back this week.
-2. Did any guardrail breach: a dispute, complaints at 0.1% or more, a send to a paused lead? → Repair it today; it isn't the review's decision.
+2. Did any guardrail breach: a dispute, complaints at 0.1% or more over the rolling month, a send to a paused lead? → Repair it today; it isn't the review's decision.
 3. Did any review miss its stated turnaround? → Credit it within 7 days.
 4. Did any adult door completion wait past its reply batch? → Move the batch.
 5. Are this week's counts written in? → If not, next month's rates are guesses.
@@ -296,7 +296,7 @@ Under every stage's rows go the eight guardrails, weekly, with their lines writt
 **Monthly.**
 1. Which position does the Monthly Constraint Read name?
 2. Has any rate sat outside its range for two consecutive full windows? → Change course at that joint, if it's unlocked.
-3. Is a step due, with starts filling and the 30 held conversations since the last step inside range? → Announce it 30 or more days out; it's the month's decision.
+3. Is a step due, with starts filling and, once 30 held conversations stand since the last step, the close rate inside range? → Announce it 30 or more days out; it's the month's decision.
 4. Did any week-6 or week-12 verdict show no marker moving despite adherence? → Open the file.
 5. Which one change, at which unlocked joint, with which two moves left alone?
 
@@ -315,8 +315,8 @@ Turn each row of the trigger table into a card in a calm month, and read each ca
 
 | Field | Example: the Call Cap |
 |---|---|
-| Signal | Held conversations a week; show rate; no-fit share; content hours |
-| Threshold | Most weeks above ~6–8 held; shows toward ~60%; over half no-fit; content under its minimum, all together |
+| Signal | Held conversations a week; content hours |
+| Threshold | Most weeks above ~6–8 held, with content under its minimum; show or no-fit trouble at lower volume goes to screening instead |
 | Window | The last four weeks, read at the monthly review |
 | Move | Cap free conversations; send the overflow to the paid Decision Assessment |
 | Owner | Module 5 |

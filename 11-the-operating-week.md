@@ -58,7 +58,7 @@ Milestones cost about 0.75–1.25 hours per enrollment beyond weekly review: the
 
 Private gets a line only while a seat earns its place: a founding seat while minutes are spare, and about one seat at $25k. At $50k it has none until a seat passes the Parity Rule by earning at least what a seat in your 12-week Program earns per hour of care (Module 13). One or two async-first seats at parity add about 0.6 hours a week each, taking that week from about 20.5 hours to 21–22. The build line is where leverage gets made: the first working version of your door and the check-in form early, then the templates that make Scaling lighter. It's protected because every later week is only as light as what it built.
 
-Slack is the fifth line, and it has no row. Your range is 20–25 hours, and the design sits near the bottom on purpose: about 5 hours of slack early and at $25k, about 4.5 at $50k, and about 3 in Growing. It absorbs what the Measurement Calendar, your fixed dates for captures, makes lumpy: baseline days at the start of a cohort and re-assessments at its end, plus a dispute, a sick week, or a piece that lands. Growing's gap is the thinnest because selling and untemplated review peak there together, while the leverage that lightens Scaling is still on the build line.
+Slack is the fifth line, and it has no row. Your range is 20–25 hours, and the design sits near the bottom on purpose, leaving the slack the table's last column shows. It absorbs what the Measurement Calendar, your fixed dates for captures, makes lumpy: baseline days at the start of a cohort and re-assessments at its end, plus a dispute, a sick week, or a piece that lands. Growing's gap is the thinnest because selling and untemplated review peak there together, while the leverage that lightens Scaling is still on the build line.
 
 ### Cole's founding week holds its lines
 
@@ -158,7 +158,7 @@ From Growing, public comments outgrow your reply line, and the Keep-List still h
 - It moderates public comments against your published comment policy. Face-rating requests ("rate me") get hidden under that policy, with no reply.
 - It sends one templated door link to anyone asking where to start.
 - Anything revealing distress, a minor, a purchase question, or client content goes to you at once, and it never answers any of them.
-- It never sees check-ins or fit-check answers, and it never works DMs or email replies.
+- It never sees check-ins or fit-check answers, and it never works DMs, email, or any reply to a client.
 
 Each limit follows a line. A comment that reveals a minor needs the education lane, a public answer and an orthodontist referral with nothing collected, and only you give it. Distress needs a referral conversation the day it appears, so "at once" means when the helper sees it, never at the end of a batch. Purchase questions need the checks every paid step runs, and DMs and email stay yours because minors disclose, distress arrives, and buyers ask about price there.
 
@@ -218,7 +218,7 @@ What the client experiences belongs to delivery: captures seen only by you, pseu
 | Consent records | You | As long as what he agreed to is in use |
 | Payment records | You and your processor | As the law requires |
 
-The consent log holds every yes with its scope and date: an opted-in tool on his check-ins, a capture or testimonial in marketing, his record in a consented dataset. Each is separate and revocable, and you check the log before anything publishes. A deletion request is closed in every place on the map, then confirmed to him in writing. Health-adjacent answers stay out of pixels, event names, and URLs, where an ad platform would read them.
+The consent log holds every yes with its scope and date: an opted-in tool on his check-ins, a capture or testimonial in marketing, his record in a consented dataset. Each is separate and revocable, and you check the log before anything publishes. A deletion request is closed in every place on the map, then confirmed to him in writing. No hub page carries an ad pixel, and health-adjacent answers stay out of event names and URLs, where an ad platform would read them.
 
 ### A minor found late is deleted the same day
 
@@ -251,7 +251,7 @@ Reid is Growing in month [19], six weeks after the [31]-hour week that opened th
 
 **Week 1. The log.** He logs a fortnight by line against the Growing column. Five lines carry the overrun: replies and DMs at [4.5] hours against 1.0, review at [6] against 3.75, short-form with X and Instagram posts at [3] against 1.25, conversations at [4.5] against 3.0, and no-shows and follow-up at [1] against 0.5. Long-form sits at [1] against 3.5. His build line holds its 1.25 hours, but for [five] weeks they've gone to [a website redesign]. His content lines still total [9.5] hours, so the total looks healthy while the trust engine starves.
 
-**The read.** Now he connects the two weeks: his leads fell a month after his long-form did. The overrun is mostly unpriced minutes: [a dozen] face-read DMs a week answered one at a time, [four] fit conversations a week running past [an hour] because nothing ended them, [two] no-shows each rebooked twice, and client questions answered the moment they arrived. Each habit felt like good service, which is why none of them looked like the problem. The fix is design, so his price stays out of it.
+**The read.** Now he connects the two weeks: his leads fell a month after his long-form did. The overrun is mostly unpriced minutes: [a dozen] face-read requests a week, each declined in a long personal DM, [four] fit conversations a week running past [an hour] because nothing ended them, [two] no-shows each rebooked twice, and client questions answered the moment they arrived. Each habit felt like good service, which is why none of them looked like the problem. The fix is design, so his price stays out of it.
 
 **Week 2. Cut in order.** Step 1 finds nothing to cut, because the redesign sat on the protected line, which the order never touches. So the line keeps its 1.25 hours and swaps the redesign for the Build Queue's first item, templated review, since [60-plus] reviewed clients have taught him what a good review says. Step 2 drops X, then his Instagram posts, and keeps the Keyword Route. Step 3 brings short-form back to its 1.25 hours of clips and a few native pieces.
 

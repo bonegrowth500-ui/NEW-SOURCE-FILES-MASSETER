@@ -142,8 +142,11 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | I | 01–03 | a69397451ac2b294c | reading | — | — |
 | II | 04–08 | ae99d68d8580404c2 | reading | — | — |
 | III | 09–13 | addd2084fdea6cac5 | reading | — | — |
-| IV | 14–17 | a33211842cf29b5bb | reading | — | — |
+| IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | rebuilding | — |
 | V | 18–22 | abf82a230c415badb | reading | — | — |
 | VI | 23–27 | a90ab35f1cbff6822 | reading | — | — |
 
 Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
+
+## Step 4 decisions and routing
+- 4.1 IV: FRAMEWORKS pause-route gloss → 'holds every marketing send for 60–90 days, then asks permission again'. 23's comment policy to quote 15's face-statement first sentence verbatim (sent to Part VI). Early Fast Path: Transitions move to the first client's week 7 or later (5.1).

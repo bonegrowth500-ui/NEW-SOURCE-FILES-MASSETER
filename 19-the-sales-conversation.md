@@ -106,7 +106,7 @@ Then comes the question he'll hear before every payment you take. Once he has na
 
 > **You:** "I ask everyone this before any payment. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-It follows the tiers because by then he has seen every real option, so a no can't be met with a cheaper one. A yes lets the checkout run the Fit Check, the plain-language check for signs that buying could hurt him (Module 5), before any pay button. A no ends money talk: the Starter Path once, tool-free, and the pause route, the tag that stops sales and date sends for 60–90 days before asking his permission again. There's no plan, no lower tier, and no Program Async, the tier without the live call. What he says aloud sets the same tag a checkout answer would.
+It follows the tiers because by then he has seen every real option, so a no can't be met with a cheaper one. A yes lets the checkout run the Fit Check, the plain-language check for signs that buying could hurt him (Module 5), before any pay button. A no ends money talk: the Starter Path once, tool-free, and the pause route, the content-free tag that holds every marketing send and blocks checkout for 60–90 days before asking his permission again. There's no plan, no lower tier, and no Program Async, the tier without the live call. What he says aloud sets the same tag a checkout answer would.
 
 ### A plan is its own paid step
 
@@ -213,7 +213,7 @@ A clear no ends the ask. A protective stop ends the sale to protect him: money h
 |---|---|---|
 | A clear no | "Understood. That's a clear no, and I won't ask again today. Your recap still comes within 24 hours." | A recap with no price, date, or ask; his link may be logged |
 | "I can't afford it", or a no to the question | "Understood, and thanks for saying it straight. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." | The pause route |
-| A fit-check signal, such as a booked procedure or a run of recent purchases | "Thanks for telling me. That's something we talk through before any payment, so nothing gets paid today. I'll put in writing what the program can and can't do for you, and we'll talk again in three days or more." | The signal pause and pause route; he can still enroll after 72 hours, with no plan |
+| A fit-check signal, such as a booked procedure or a run of recent purchases | "Thanks for telling me. That's something we talk through before any payment, so nothing gets paid today. I'll put in writing what the program can and can't do for you, and we'll talk again in three days or more." | The signal pause and pause route; if he enrolls, it's through a single-use link with no plan, opening after 72 hours |
 | Distress, fixation, or checking many times a day | "I'm going to stop talking about the program, because what you've just told me matters more. That one's not mine, so let's talk about who to see and what to tell them." | A referral conversation and note, crisis resources if acute, reading-only content, the pause route |
 | He's a minor | "Thanks for telling me. I work only with adults, so I'm ending the call here and deleting what you've shared, and anything you paid comes back. For questions about a face that's still growing, an orthodontist is the right person." | Everything deleted; nothing kept |
 
@@ -231,7 +231,7 @@ When he needs time, he leaves with the Decision Date, his personal date to decid
 
 ### Follow-up is fixed in advance
 
-The Follow-Up Rule sets everything after the call: a written recap within 24 hours, one check-in on his Decision Date, and one close-the-loop message, then regular email only, and nothing while the pause route holds. Fixed in advance, follow-up can't slide into chasing. After a protective stop he gets the Starter Path, the referral note, or the signal pause's written expectations, once, and a paused buyer can still enroll after 72 hours.
+The Follow-Up Rule sets everything after the call: a written recap within 24 hours, one check-in on his Decision Date, and one close-the-loop message, then regular email only, and nothing while the pause route holds. Fixed in advance, follow-up can't slide into chasing. After a protective stop he gets the Starter Path, the referral note, or the signal pause's written expectations, once.
 
 ### The close improves on a loop you can check
 
@@ -239,7 +239,7 @@ Record every call he consents to, and score one recording a week against the cal
 
 ## Worked Example: Dan, From Contract to Day One
 
-Cole (composite operator) is in Growing, month [14]: proof milestone met, the Program at $[2,400] in full or three payments of $[820], and one Private seat open while minutes are spare. The [March 2] start's last day to join is [March 13]. Dan booked from his result page after a yes to the affordability question beside the price range.
+Cole *(composite operator)* is in Growing, month [14]: proof milestone met, the Program at $[2,400] in full or three payments of $[820], and one Private seat open while minutes are spare. The [March 2] start's last day to join is [March 13]. Dan booked from his result page after a yes to the affordability question beside the price range.
 
 **Minutes 0–12. The read: a Struggler on the standard route.** Dan agrees to the contract and the recording. Excavation turns up about eight months of [his routine], bathroom photos every few weeks, and [about $300] on [an app and a chewing gadget] never sold as bone change. His conclusion is "maybe it's just genetics". He describes his situation, never his worth, so the standard route runs, led by Cause and Self. The ladder climbs from "a sharper jaw" to "I'd get picked to present to the regional team". Left alone: the Program, his face, and the [$300], which stays in the notes.
 
@@ -436,7 +436,7 @@ Score one consented recording a week, and your last 30 held conversations monthl
 
 **Early.** Conversations bind, and every call is also research, so the founding call runs about 45 minutes and discloses both jobs before he books (Module 9). Run the full arc and score weekly, because your first 30 held conversations teach your close faster than any script. The trap is protecting the research by skipping the ask, which leaves a good-fit adult without a recommendation or a price.
 
-**Growing.** Selling hours bind. Free calls go to uncertain and high-intent buyers under the Call Cap, the weekly limit on free conversations, and the overflow gets a Decision Assessment, your paid, credited written plan, which leads its own call. The trap is letting the credit into the close or the recap, where money he already paid becomes a deadline; it's stated once, in his written plan.
+**Growing.** Selling hours bind. Free calls go to uncertain buyers and those near a high-ticket decision under the Call Cap, the weekly limit on free conversations, and the overflow gets a Decision Assessment, your paid, credited written plan, which leads its own call. The trap is letting the credit into the close or the recap, where money he already paid becomes a deadline; it's stated once, in his written plan.
 
 **Scaling.** Care minutes bind and 50–70% of enrollments come without a call, so live calls go to Private and high-uncertainty buyers (Module 20). The trap is carrying the arc's words onto async surfaces without its stop lines.
 
