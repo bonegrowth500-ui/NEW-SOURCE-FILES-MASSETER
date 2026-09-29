@@ -87,7 +87,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 
 | | Name | Definition | Status | Owner | Also in |
 |---|---|---|---|---|---|
-| ★ | **The Founding Sprint** | First conversations without an audience: every held conversation labeled by its booking source (disclosed warm network, replies, Permission-First Replies, native short-form, long-form and search), with the founding page and speed to lead serving all of them; 3–6 held conversations a week; a week-3 source check | new | 09 | 24, 25, 28 |
+| ★ | **The Founding Sprint** | First conversations without an audience: every held conversation labeled by its booking source (disclosed warm network, replies, Permission-First Replies, native short-form, long-form and search) and every no-call enrollment by the source question at its checkout confirmation, with the founding page and speed to lead serving all of them; 3–6 held conversations a week; a week-3 source check | new | 09 | 24, 25, 28 |
 | ◆ | **The Dual-Purpose Conversation** | A disclosed fit-and-research conversation, with purpose, price, and "one recommendation" stated up front | new | 09 | 19 |
 | ◆ | **The Month-3 Gate** | Volume leg: fewer than ~15 held conversations by week 12 means fix sources. Conversion leg: fewer than 3 clients from 25+ means fix the offer or position | new | 09 | 12, 28 |
 | ★ | **The LTV Stack** | Lifetime value = Program + Round Two (per graduate) + Hold months + premium, with care minutes counted against each | new | 10 | 01, 13 |
@@ -102,7 +102,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ◆ | **The Leak Trace** | Trace the path from reach to renewal stage by stage, name each transition's owner, and fix the single biggest drop | extended | 12 | 18, 20 |
 | ★ | **The Parity Rule** | A premium or back-end seat must earn at least what a flagship seat earns per care hour, or it's sold only while minutes are spare | new | 13 | 07, 10 |
 | ◆ | **The Premium Lane** | The Optimizer's path: the priority tier from month 0, founding Private seats while minutes are spare, Private at parity at Scaling | new | 13 | 05, 09, 19 |
-| ◆ | **The Buyer-Mix Shift** | As price nears the ceiling, keep a real tier under it and shift the buyer mix by state and age through packaging, never by income targeting | new | 13 | 02, 23 |
+| ◆ | **The Buyer-Mix Shift** | As price nears the ceiling, keep a real tier under it, shift the buyer mix by state through packaging, lower the minors' share, and read the adult age mix as observed, never by income targeting | new | 13 | 02, 23 |
 
 ### Part IV — The Psychology of Belief
 
@@ -259,7 +259,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the result page · threshold continuity · the paid group decision session | The first sales conversation · the decision moment feels like the same mind · "cohort walkthrough and Q&A; the offer and price are inside" | 20 |
 | the Alliance Check · Never Miss Twice | Does he feel heard, and does the work fit his goal? · reward the comeback, not the streak | 21 |
 | measured peak | A measurement moment where adherence is at or above his threshold and at least one marker has reached its threshold, so no refund decision is open; every Measured-Peak Ask waits for one | 22 |
-| identity-safe shareables · alumni status | Referral objects that make the sharer look rigorous · earned at graduation | 22 |
+| identity-safe shareables · alumni status | Referral objects that make the sharer look rigorous · a dated fact in his record: he reached week 12 | 22 |
 | the Start Here Series · the Production Bar · half-life budgeting | A five-piece progression, the Honest Answer first, ending at the offer page and the door · the production standard never to publish below · hours follow half-life × path clickability | 23 |
 | the one-defensible-point rule | One true point per short piece that needs no caveat | 24 |
 | one-way broadcast | Broadcast channels announce; they never argue, close, or collect data | 25 |

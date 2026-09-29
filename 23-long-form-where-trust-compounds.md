@@ -243,7 +243,7 @@ The **Comment Courtroom** is your comment section run on published rules: a comm
 |---|---|---|
 | A rating or face-analysis request, personal details, or harassment | Hidden, with no reply; anything identifying a minor also goes to you | Routing help from Growing; you before |
 | A minor's question about his growth | One public line: an orthodontist is the right person for questions about a growing face; nothing collected | You |
-| Praise of your face as proof, or an attack on it | A pointer to the face statement and your record; never a defense, never proof | You |
+| Praise of your face as proof, or an attack on it | The face statement's first sentence, word for word, and a link to your record; never a defense, never proof | You |
 | A request for method steps | A link to the free piece, never a prescription | You |
 | "Can't afford it" under a priced piece | A kind line with no price, offer, or date; never mined | You |
 | Distress, or "nothing will ever work for me" | Permission-First Replies (Module 25): a same-day line pointing to real help, and an open invitation to message you | You |
@@ -299,7 +299,7 @@ Cole *(composite operator)* starts from zero in January with door v0, the first 
 
 **Week 1. The Honest Answer ships first.** He films it with the setup he'll keep: same lens and distance, soft window light in front, a clip-on microphone. His own comment is pinned with the door link, and his comment policy, face statement included, goes up the same day. A friend suggests a jaw close-up for the thumbnail. Cole keeps his level face and the question, because a jaw in the thumbnail would make his face the evidence.
 
-**Weeks 3–7. A slip and a price change.** By the end of week 3 his warm network and replies have given [4] held conversations, under 2 a week, so the Sprint's source check moves about 2 hours a week from long-form into short-form and replies. His week-5 piece ships in week 7, and the series keeps its order. That week the founding price ends as the page said, and [$1,650] takes over from the [March] start. The price lives only on end cards, pins, and descriptions, so one sitting changes all of them.
+**Weeks 3–7. A slip and a price change.** By week 3 his warm network and replies have given [4] held conversations, under 2 a week, so the Sprint's source check moves about 2 hours a week from long-form into short-form and replies. His week-5 piece ships in week 7, and the series keeps its order. That week the founding price ends as the page said, and [$1,650] takes over from the [March] start. The price lives only on end cards, pins, and descriptions, so one sitting changes all of them.
 
 **Week 11. The view-winner, read at the fork.** The week-9 piece draws [~3×] the engaged views of anything so far, mostly from suggested feeds, with click-through above his usual. Its audience-age report skews younger than anything he's made, and its few door starts answer under 18 about [60%] of the time, against his channel's [35%]. It yields [2] eligible leads, below his usual, while the Cause piece yielded [5] on [a third] of the views. It found fewer adults in total, so the card's first row applies. He retitles it "[Does mewing work for adults? What can change at 22, and what can't]", hides [six] rating requests, and makes no sequel.
 
@@ -329,7 +329,7 @@ Demand means what adults said to you, in door answers, on calls, and in comments
 
 Post it on your channel page, link it from every pinned comment, and give routing help the same words:
 
-> **Comments here.** Disagree with anything I say, as hard as you like. Honest disagreement stays up, and I pin the strongest challenge with my answer. Three things get hidden without a reply: requests to rate, analyze, or compare anyone's face, mine included; personal details about anyone, including anything that identifies someone under 18; and harassment. My face isn't evidence for what I teach, in either direction; the dated record is: [link]. If you're under 18, an orthodontist is the right person for questions about a growing face. Questions about the program get the page, where the price is: [link]. You'll never have to comment a keyword to get a link. If something about your face is weighing on you more than a video should, please talk to a doctor or someone you trust.
+> **Comments here.** Disagree with anything I say, as hard as you like. Honest disagreement stays up, and I pin the strongest challenge with my answer. Three things get hidden without a reply: requests to rate, analyze, or compare anyone's face, mine included; personal details about anyone, including anything that identifies someone under 18; and harassment. My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. The full statement and the dated record: [link]. If you're under 18, an orthodontist is the right person for questions about a growing face. Questions about the program get the page, where the price is: [link]. You'll never have to comment a keyword to get a link. If something about your face is weighing on you more than a video should, please talk to a doctor or someone you trust.
 
 ## Checklists: Packaging for Adults and the Production Bar
 

@@ -45,7 +45,7 @@ Content (short-form · long-form · Instagram · X · email)
         ▼
 SELF-ASSESSMENT on the owned site ── age fork ──► under 18: education lane (public content + referral; no data kept)
         │  adult
-        ├── 1–2 unscored distress items ──► resources + opt-in human conversation + PAUSE ROUTE (no sales sends)
+        ├── 1–2 unscored distress items ──► resources + opt-in human conversation + PAUSE ROUTE (no marketing sends; checkout blocked)
         ▼
 Result page + result email (frequency and one-click exit stated)
         │  SPEED TO LEAD: personal reply within hours → booked within 24–48 h → reminded → held

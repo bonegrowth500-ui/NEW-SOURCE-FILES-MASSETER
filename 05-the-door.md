@@ -49,7 +49,7 @@ After the fork come [8–10] plain questions: his age band, his goal in his word
 
 Three items sit just before the email field, so nothing can start ahead of them. Two are the first tier of the **Fit Check**, a plain-language check for signals that buying could hurt him. One asks whether how he feels about his appearance is making everyday life hard, and one asks how often he checks mirrors or photos because of it. Neither is scored, and "sometimes" routes normally.
 
-An endorsed answer, "yes, most days" or "many times a day", shows him where to find help and offers a referral conversation with you, with no booking button and no sale. It also sets the pause route, a content-free tag that holds every marketing send for 60–90 days. The third item asks about jaw pain, bite problems, or loud snoring. A yes puts a referral to a dentist or doctor at the top of his result, because those signs belong to a clinician.
+An endorsed answer, "yes, most days" or "many times a day", shows him where to find help and offers a referral conversation with you, with no booking button and no sale. It also sets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. The third item asks about jaw pain, bite problems, or loud snoring. A yes puts a referral to a dentist or doctor at the top of his result, because those signs belong to a clinician.
 
 ### The result routes him
 
@@ -61,7 +61,7 @@ The result email holds that result and one next step, with how often you'll writ
 
 Speed to lead is a four-step sequence: a personal reply within hours, a booking within 24–48 hours, a reminder, and a held conversation. In other markets' data, contact within the hour far outperforms later contact, and show rates fall the longer a booking waits. With both in place, plan on 10–20% of eligible leads reaching a held conversation.
 
-Men in this category have been sold to by bots, auto-DMs, and scripted closers, so a reply from the person they watched, naming one thing from their answers, is the first evidence that the brand is what it said. Early on it costs about an hour a week. When replies run past that line in your design week for two weeks running, move the first reply to a template you approve, built around one line you write for him and never AI speaking as you, and automate booking and reminders.
+Men in this category have been sold to by bots, auto-DMs, and scripted closers, so a reply from the person they watched, naming one thing from their answers, is the first evidence that the brand is what it said. Early on it costs about an hour a week. When replies run past that design-week line for two weeks running, move the first reply to a template you approve, built around one line you write for him, never AI speaking as you, and automate booking and reminders.
 
 He books first and logs while he waits, since a task placed before the booking lands just as his interest peaks. Once he has a slot, he gets a free 7-day behavior log: Let Him Succeed Before He Pays, mastery before money, and the log becomes his Week-Zero Baseline, the first week of his record, if he enrolls (Module 17). The log is behavior only. Capture instructions come later, with his recap or plan, so no capture tool reaches him before a conversation or the Fit Check can catch a checking loop.
 
@@ -141,7 +141,7 @@ At a checkout it comes before any payment option, so a no never meets a plan off
 
 ### The pause route binds your automation
 
-The pause route holds every marketing send for 60–90 days and hides his pay button. That covers sales sequences, date sends, checkout links, unfinished-checkout notes, the Canon Lane, your monthly email of core claims, and the weekly letter; only mail he asked for goes. Three things set it: an endorsed distress or checking item, a "can't afford" at a call, checkout, or plan step, and a fit-check pause. It records no reason, because a stored reason gets used. An email tool that knows who "can't afford" will one day meet a campaign for payment plans.
+The pause route holds every marketing send and blocks checkout for 60–90 days. The hold covers sales sequences, date sends, checkout links, unfinished-checkout notes, the Canon Lane, your monthly email of core claims, and the weekly letter; only mail he asked for goes. Three things set it: an endorsed distress or checking item, a "can't afford" at a call, checkout, or plan step, and a fit-check pause. It records no reason, because a stored reason gets used. An email tool that knows who "can't afford" will one day meet a campaign for payment plans.
 
 When the pause ends, one re-permission ask names what a yes brings back, start announcements included, with no price, offer, or date. His yes, or writing to you first, is his own re-entry, the same questions run again, and silence or a no ends marketing mail. Every automation you add later has to read the tag, so check monthly that promotional sends to paused leads stand at zero. Reid's Thursday near-miss is what a missing check looks like.
 
@@ -274,7 +274,7 @@ Cole gives no view on the procedure, since that's a surgeon's question. His writ
 5. "What are you measuring now?" Nothing / Photos sometimes / A log → The provisional read.
 6. "What made you look for help now?" → His trigger.
 7. "When could you start?" This month / Next month / Later, and when? → His stage.
-8. "How would you like to decide?" Talk it through / Wary after a past purchase / Ready to start / Rather have it in writing → His route, and his claim on a free slot.
+8. "How would you like to decide?" Talk it through / Wary after a past purchase / Ready to start / Rather have it in writing → His route: once the cap binds, the first two keep a free slot and the last two go written.
 9. "Is how you feel about your appearance making everyday life hard?" No / Sometimes / Yes, most days → "Yes, most days": help, an offer to talk, the pause route. "Sometimes" routes on, with the result page's dignity branch, computed as the page loads and never stored.
 10. "How often do you check mirrors or photos because of it?" Rarely / Sometimes / Many times a day → "Many times a day": the same route. "Sometimes" gets the dignity branch, unstored.
 11. "Any jaw pain, bite problems, or loud snoring?" No / Yes → Yes: a referral first.
@@ -322,7 +322,7 @@ Signals are "many times a day", "often" on 2 or 3, a booked consultation, and "[
 Answer from your records for your last 30 eligible leads.
 
 1. Did every adult completion get a personal reply within hours, or by next morning for late-night ones? → No: block two reply windows a day ahead of content work.
-2. Did most bookings land within 24–48 hours of the reply? → No: offer two or three slots inside that window, not a calendar two weeks deep.
+2. Did most bookings land within 24–48 hours of the reply? → No: offer two or three slots inside that window.
 3. Did 10–20% of those leads reach a held conversation? → Below: fix items 1 and 2 before the pages.
 4. Did anyone have to log or fill in a form before booking? → Yes: move it after the booking.
 5. Did every booking get a reminder, and every no-show the same single rule? → No: fix the automation before adding slots.

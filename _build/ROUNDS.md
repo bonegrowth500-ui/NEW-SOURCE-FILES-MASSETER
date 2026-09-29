@@ -141,7 +141,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 |---|---|---|---|---|---|
 | I | 01–03 | a69397451ac2b294c | reading | — | — |
 | II | 04–08 | ae99d68d8580404c2 | reading | — | — |
-| III | 09–13 | addd2084fdea6cac5 | reading | — | — |
+| III | 09–13 | addd2084fdea6cac5 | ✅ (62 fixes; 38,109→38,252 w) | rebuilding | — |
 | IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | rebuilding | — |
 | V | 18–22 | abf82a230c415badb | ✅ (42 fixes; 37,722→37,963 w) | rebuilding | — |
 | VI | 23–27 | a90ab35f1cbff6822 | reading | — | — |
@@ -151,3 +151,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 ## Step 4 decisions and routing
 - 4.1 IV: FRAMEWORKS pause-route gloss → 'holds every marketing send for 60–90 days, then asks permission again'. 23's comment policy to quote 15's face-statement first sentence verbatim (sent to Part VI). Early Fast Path: Transitions move to the first client's week 7 or later (5.1).
 - 4.1 V: 08 seat reason → 18's wording; 02/05 pause glosses → the canonical gloss (FRAMEWORKS now: 'holds every marketing send and blocks checkout for 60–90 days, then asks permission once'); 05 routing → R3-35; FRAMEWORKS protective stop adds 'a minor's leaves nothing'. Composite continuity ruling added to DRAFTING (sketches fixed; events per module unless explicitly continued; Intro states it). 20 → 21 → 22 now follow one April start.
+- 4.1 III: 01 month-8 read → Call Cap fires on volume (cap stays [6]; sent to Part I). Bible: DRAFTING parity ruling corrected ($25k both below; $50k Round Two above, Hold just below until ~$72–80); BUSINESS door diagram pause = no marketing sends, checkout blocked; FRAMEWORKS alumni status = dated record fact; Buyer-Mix Shift = state lever + minors' share, adult age mix observed; Founding Sprint adds no-call source question; LEDGER B derived: $3.1k Program ≈ $900–1,190 per care hour.

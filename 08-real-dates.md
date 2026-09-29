@@ -221,7 +221,7 @@ A sequence that speeds up, adds messages, or reorders itself as a start approach
 
 ### Stop Rules bind the calendar
 
-The pause route writes Stop Rules, the conditions that end selling to a person, into your list. It's a content-free tag, set by a distress answer, "I can't afford it", or a Fit Check pause, that holds every marketing send, date sends included, for 60–90 days and records no reason (Module 5).
+The pause route writes Stop Rules, the conditions that end selling to a person, into your list. It's a content-free tag, set by a distress answer, "I can't afford it", or a Fit Check pause, that holds every marketing send, date sends included, and blocks checkout for 60–90 days, then asks permission once. It records no reason (Module 5).
 
 Date sends are where this bites, because they feel harmless. An announcement to a man who said he can't afford it reopens money talk by email after he closed it. To a man who answered a distress item, it sells into distress, the thing Stop Rules exist to prevent. So every calendar send runs through the same suppression as every sequence. Promotional sends to paused leads are a guardrail you count after every start, with a target of zero.
 

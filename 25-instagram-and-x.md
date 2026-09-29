@@ -124,7 +124,7 @@ That separates it from the category's keyword funnels, auto-replies that close w
 
 A carousel works as a decision tool men save and send, like six things to check before buying another device, captioned as the question an adult types. It shows no face and no before/after, since matched pairs live only in long-form and your site's library, and it ends with the keyword.
 
-Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the tag a stop rule sets that holds every marketing send for 60–90 days. So it carries only what your public profile already shows anyone, minus anything that sells: pieces without a pitch, entries from your public log, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
+Run a broadcast channel as one-way broadcast: it announces, and never argues, closes, or collects data. It's a send you can't filter, reaching men on the pause route, the content-free tag a stop rule sets that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. So it carries only what your public profile already shows anyone, minus anything that sells: pieces without a pitch, entries from your public log, Canon claims quoted verbatim, and the door link. Offers, prices, dates, and checkout links go by your offer page, long-form, and unpaused email.
 
 Keep member replies, polls, and prompts off, though the platform offers all three, including prompts that collect photos. Replies would make a free community under another name, and a photo prompt is a queue of faces. Instagram Live and Collab posts stay out too, since live talk can't pass your claims approval or hold a stop rule, and a Collab sets another account's claims beside yours.
 
@@ -213,7 +213,7 @@ The limits are about people. Quote-post an argument made in public by someone ar
 
 **When the signals disagree.** A large account quote-posts your Honest Answer, your standing answer to the bone question, with "coach admits nothing works lol", and by evening [several hundred] replies have piled on, some rating your face. Reach says ride it: reply to everyone, quote him back, post a thread while the eyes are there. The lab says a joke isn't an objection. Your door says [five] completions tagged X, [one] of them eligible.
 
-Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. Hide the replies under your own posts that rate faces, yours included, and meet appearance attacks with your face statement's first line: your face is evidence neither way. A real counter-argument in the noise gets its own thread and a line in the log.
+Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. Hide the replies under your own posts that rate faces, yours included. Meet appearance attacks with your face statement's first sentence, word for word: "My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't." A real counter-argument in the noise gets its own thread and a line in the log.
 
 ## 6. Measuring Each Platform
 

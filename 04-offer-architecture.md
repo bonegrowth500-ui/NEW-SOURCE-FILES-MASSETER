@@ -195,7 +195,7 @@ The path goes out once, in the written recap within 24 hours, in the version his
 | A referral trigger: sleep or snoring signs, jaw pain, a bite concern | The referral first, in writing (Module 15); reading-only until he's been seen, since no reviewer watches the trigger | Never named | His reply once he's been seen |
 | A Fit Check pause | Reading-only, with no captures or logs; for checking or fixation, the referral first and nothing about measuring | Never named | His own permission after the pause |
 
-After "I can't afford it", the pause route governs every automated touch: a content-free tag that holds every marketing send, the weekly letter included, for 60–90 days, then asks once whether he'd like to hear from you again, with no price, offer, or date. Only the path's check-ins still go, because taking the path asked for them. That keeps the stop rule true inside your email tool, where it's easiest to break.
+After "I can't afford it", the pause route governs every automated touch: a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once, with no price, offer, or date. Only the path's check-ins still go, because taking the path asked for them. That keeps the stop rule true inside your email tool, where it's easiest to break.
 
 When he does come back, his Starter logs become his Week-Zero Baseline, the pre-purchase record that counts as week zero of his program (Module 17). His first review starts from eight weeks of his own record instead of none. A credit from a Decision Assessment that recommended the path waits until he enrolls, for up to about 12 months. It's stated once in the plan, never in the path's touches or as a deadline.
 

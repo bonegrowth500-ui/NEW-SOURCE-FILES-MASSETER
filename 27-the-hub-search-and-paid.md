@@ -70,7 +70,7 @@ That's the **Verify Page**, the one page where a skeptic checks what you claim, 
 
 **What we don't claim.** Open with Canon claim 1, the first of the few core claims you repeat in fixed words, quoted exactly, since strangers and summaries will quote you. Then give each item in the never-claimed column of the Outcome Map, your four-column answer to the bone question, with its reason and what to do instead, because bare noes read like the genetics shrug.
 
-**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage; his Buyer State, the situation he arrives in; his route; and a pause on every marketing send and checkout for 60–90 days. None records a fit or insecurity answer, and he can check that.
+**Privacy.** He's about to hand you his face, so the page says what you keep, who sees his photos, how long each record lasts, and how deletion works. It names your four labels: his stage; his Buyer State, the situation he arrives in; his route; and a pause that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. None records a fit or insecurity answer, and he can check that.
 
 **Guarantee terms.** Publish every layer of the Layered Guarantee, one for each thing that can go wrong, word for word from your terms (Module 7). The non-response clause pays cash only if he logged at least [80%] of days and no marker reached its threshold by week 12, and a man below [80%] should learn that before paying.
 
@@ -82,7 +82,7 @@ Every section can be true in month 1, since the kit's samples are labeled compos
 
 ### He searches your name before he pays
 
-The last search follows a pattern. Before paying, a skeptic runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen: "[Brand] legit", "[Brand] reviews", "[First name] scam". Search can only show him one of you if you are one. So use "First name | Brand" on every profile, spelled one way, with the same descriptor and a link to the Verify Page. That's Name | Brand applied to search, the brand owning the method and the Dated Record while your face carries trust (Module 3).
+The last search follows a pattern. Before paying, a skeptic runs the Evaluation Query, the search on your name that decides whether he trusts what he's seen: "[Brand] legit", "[Brand] reviews", "[First name] scam". Search can only show him one of you if you are one. So use "First name | Brand" on every profile, spelled one way, with the same descriptor. That's Name | Brand applied to search, the brand owning the method and the Dated Record while your face carries trust (Module 3).
 
 A stranger's thread can pin the category's bone claim on you. The machine-written summary atop many searches will repeat it unless your own words sit beside it. Such summaries roughly halve the clicks on general questions, on moderate evidence, while a brand's own name loses less and, on thinner evidence, sometimes gains. So put Canon claim 1 and the page's sections on the page as text a summary can quote.
 

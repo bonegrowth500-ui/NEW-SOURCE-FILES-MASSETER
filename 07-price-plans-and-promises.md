@@ -137,7 +137,7 @@ So your plan earns nothing and ends before delivery does. Plans at Cost, the rul
 - Your own installments only, at most three, all due inside delivery. No lender and no buy-now-pay-later, because the affordability question rules out new credit.
 - A premium of 0–5%, covering processing and part of the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.95k] in full, or three payments of [$670], [$2.01k] in total."
 - Each installment at or below about a third of his monthly take-home.
-- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, the tag that holds every marketing send for 60–90 days, so nothing he receives carries a price, an offer, or a date.
+- The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once, so nothing he receives carries a price, an offer, or a date.
 - No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, triggers the signal pause: nothing paid that day, expectations in writing, 72 hours or more to cool off, and no plan (Module 5).
 - Cancel-forward: a client who stops under the guarantee's week-6 or week-12 terms owes nothing further, and anything he paid for undelivered weeks comes back.
 
@@ -246,7 +246,7 @@ Cole starts in January with a door, a founding page, and his guarantee and plan 
 
 **Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
-**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route holds every marketing send for 60–90 days, and any return is his own reply.
+**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route holds every marketing send and blocks checkout for 60–90 days, and any return is his own reply.
 
 **Month 4. The first gated step.** By [April], [30] held conversations stand behind a close rate of [~27%], in the upper half of 15–35%, and his starts are filling. He announces [$1.8k] for [May], [five] weeks out, a step at the top of the range, naming [a second group-call time] as the addition.
 

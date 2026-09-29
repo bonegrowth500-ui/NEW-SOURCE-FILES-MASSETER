@@ -122,7 +122,7 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
   - Program Async is Scaling-only.
   - $50k is the good case (LEDGER A3's middle case tops out around $28–35k in Bands B–D).
   - The $50k week is about 20.5 h without Private.
-  - The Hold and Round Two sit below parity at Scaling, so they sell while minutes are spare.
+  - At $25k the Hold and Round Two sit below parity, so they sell while minutes are spare; at $50k Round Two clears parity and the Hold sits just below until ~$72–80 a month (LEDGER B).
 - **Terms:** "eligible lead → enrollment" is the single conversion term. The stage thresholds are in LEDGER A2 (revised).
 - **Tags and privacy (round 4):**
   - No stored tag records fit, goal-sensitivity, or insecurity answers. The stored tags are stage, Buyer State, route, and the content-free pause tag.
