@@ -129,7 +129,7 @@ The pairing runs the other way as well. A yes without the no reads as a pitch, a
 
 ### The yes is written as a destination
 
-Write the yes as where he's going, and let the levers serve it. Here's the paragraph version, in the order all three lengths keep:
+Here's the paragraph version. All three lengths keep this order:
 
 > Can an adult change his jaw with habits? Most of the online proof is a closer phone, a higher light, or a few pounds lost. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin: people report visible change from oral-posture and chewing habits, but it's rarely measured and varies by person. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. Picture a year from now. You know what moved because you measured it, you stand in the middle of the group photo without thinking about your angle, and you walk into the meeting thinking about the meeting. What's in the way is months of effort with nothing measured, and the plan is measuring what moves. Most of how people read you was never about your jaw. To find out where you stand, take the self-assessment.
 
@@ -143,7 +143,7 @@ The paragraph follows Fantasy to Expectation: the desire named vividly, then the
 
 The last part is the one most operators never write: what you'll say about the clients it doesn't work for. Some will do the work and see their markers, the changeable-column measures agreed at baseline, stay flat. The null-result stance covers them: a result that didn't move is published beside the ones that did, never buried. He hears it first, in private, through the week-12 non-response clause: a partial cash refund, an honest verdict, and no offer of Round Two, the lighter maintenance block some graduates take. The public sees it once 30 clients have graduated, as the non-responder share in a dated log you can't quietly edit.
 
-A business built on a structural promise has to bury its non-responders, because each one disproves the promise. Yours can publish them, because what you sell never depended on the debated column: a verdict that stops wasted money and months, levers he controls, and measurements he owns. Said before any data exists, that answers his best question, "what if it doesn't work for me?", with a commitment he can check.
+A business built on a structural promise has to bury its non-responders, because each one disproves the promise. Yours can publish them, because what you sell never depended on the debated column. Said before any data exists, that answers his best question, "what if it doesn't work for me?", with a commitment he can check.
 
 ## 4. The Credible Middle
 
@@ -171,7 +171,7 @@ Steelman first, because part of it is true: distance, light, and a few pounds ca
 
 ### A dismissive clinician gets agreement on bone and the referral
 
-Your position should read to any clinician as correct about bone, careful about the middle, and honest that coaching replaces none of them. Test it under your Honest Answer, where a commenter who says he's an orthodontist writes, "Mewing is nonsense. Adults can't change their jaws. See a professional." It gathers [hundreds of] likes by evening, and every adult reading watches whether you fight a clinician. He's right about bone and wrong that nothing else changes, so agree, keep the yes, and name the referral:
+Your position should read to any clinician as right about bone and honest that coaching replaces none of them. Test it under your Honest Answer, where a commenter who says he's an orthodontist writes, "Mewing is nonsense. Adults can't change their jaws. See a professional." It gathers [hundreds of] likes by evening, and every adult reading watches whether you fight a clinician. He's right about bone and wrong that nothing else changes, so agree, keep the yes, and name the referral:
 
 > "Agreed on bone, and it's the first thing the video says: 'There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed.' Anything structural, like a bite concern, jaw pain, snoring, or a growing teenager, goes to someone like you. Clinicians are where I send people."
 
@@ -187,7 +187,7 @@ Every positioning line, title, and product description gets those two voices as 
 | "Habits won't change your jaw. See an orthodontist if it bothers you." | No | Yes | Out: true about bone, silent on the rest |
 | "Your bone won't change from habits. Here's what can, and how you'll measure it" | No | No | Keep |
 
-A line that passes is often the first in his search that didn't ask for faith, and an adult who's done being lied to acts on it.
+An adult who's done being lied to acts on a line that passes.
 
 ## 5. Name | Brand
 
@@ -264,7 +264,7 @@ A fixed sample size protects you from small numbers as well as temptation, becau
 
 ### A rival three years in still can't copy the start date
 
-Picture the rival who starts copying you in year 3. He can take your map, your terms, your Capture Standard, and your log's format in a week, yet his pre-commitment is dated years after yours and his first ranges rest on a thinner sample. Your record shows, in order, what you promised in month 1 and what happened every month after, including the months that disappointed. Around it sit two more things he can't shortcut: the library of consented client records and the search history attached to your brand's name.
+Picture the rival who starts copying you in year 3. He can take everything you publish in a week, yet his pre-commitment is dated years after yours and his first ranges rest on a thinner sample. Your record shows, in order, what you promised in month 1 and what happened every month after, including the months that disappointed. Around it sit two more things he can't shortcut: the library of consented client records and the search history attached to your brand's name.
 
 The record binds you usefully, too. A public, dated log makes any drift toward bigger claims visible to everyone who reads it, including the buyer deciding whether to trust you, so the moat and your own discipline turn out to be the same object.
 
@@ -372,8 +372,6 @@ Run it on every product, tier, and program name before it's printed anywhere.
 | Debated | Visible jaw or profile change from habits | At its tier; never promised |
 | Never claimed | Habit-driven change to bone; standing in for clinical care | As a refusal, with the reason |
 | During growth | Under-18 growth questions | Public education and an orthodontist referral |
-
-**The pairing rule.** Every honest no travels with an honest yes, and every yes carries its no.
 
 **Name | Brand rules.** The brand owns the method, Capture Standard, library, and record; your face carries trust, never evidence. Names use process words, imply no credential, and read "First name | Brand" everywhere.
 

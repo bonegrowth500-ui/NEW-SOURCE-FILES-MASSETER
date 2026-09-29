@@ -239,32 +239,32 @@ Expect New-Year intent, and hold the cap. January is the biggest landmark most p
 
 ## Worked Example: Cole's Six-Month Calendar
 
-Cole *(composite operator)* is in Growing, with [~16] clients running, the Program at [$1,850] in its opening price band, and monthly entry in place since his founding group. In the last week of September he sets the next six starts in one sitting.
+Cole *(composite operator)* is in Growing, with [~18] clients running, the Program at [$2,100] in its opening price band, and monthly entry in place since his founding group. In the last week of September he sets the next six starts in one sitting.
 
-**Late September. The calendar.** Starts sit on first working Mondays, which moved September's past the holiday. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The October announcement went out on the September start day, when the last closed start was August at [5] of [8], so it carried no November step. The candidates are January and March.
+**Late September. The calendar.** Starts sit on first working Mondays, which moved September's past the holiday. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The October announcement went out on the September start day, when August had closed at [8] of [8] with his close rate in range, so it carried the November step to [$2,200], the top of the opening band. September then closed thin, [4] of [8], but no step reads it. The candidates are January and March, and January would enter the proof band, so it also needs the proof milestone.
 
 | Start | Seats | Price | Step gate, read at send time |
 |---|---|---|---|
-| October | [8] | [$1,850] | No step due |
-| November | [8] | [$1,850] | August closed at [5] of [8]: no step |
-| December | [8] | [$1,850] | No step due |
-| January | [8] | [$1,950] | October's close, read on the November start day |
-| February | [8] | [$1,950] | No step due |
-| March | [8] | [$2,100] | December's close, read on the January start day |
+| October | [8] | [$2,100] | No step due |
+| November | [8] | [$2,200] | Announced on the September start day: August closed full |
+| December | [8] | [$2,200] | No step due |
+| January | [8] | [$2,400] | October's close, read on the November start day, plus the proof milestone |
+| February | [8] | [$2,400] | No step due |
+| March | [8] | [$2,600] | December's close, read on the January start day |
 
-**Mid-October. October closes full.** October fills [8] of [8] by the end of its late-entry window, and Cole's close rate sits in range. So the December announcement, sent on the November start day, carries the January step, which adds [48-hour] review turnaround, down from [72].
+**Mid-October. October closes full.** October fills [8] of [8] by the end of its late-entry window, Cole's close rate sits in range, and by the November start day his proof milestone is met. So the December announcement, sent that day, carries the January step into the proof band, which adds [a recorded walkthrough of the week-12 re-assessment].
 
-**Mid-November. Dan's decision point.** Dan *(composite, Struggler)* finishes a Decision Assessment, and the written plan recommends the Program and states the credit terms, once. He reaches for the biggest landmark in view: "January. New year, clean start." Cole states the month and the step once: December starts in under three weeks and is the last start at [$1,850], and January is [$1,950]. Then he asks what changes in January. "Nothing, really. It just feels like the start of something."
+**Mid-November. Dan's decision point.** Dan *(composite, Struggler)* finishes a Decision Assessment, and the written plan recommends the Program and states the credit terms, once. He reaches for the biggest landmark in view: "January. New year, clean start." Cole states the month and the step once: December starts in under three weeks and is the last start at [$2,200], and January is [$2,400]. Then he asks what changes in January. "Nothing, really. It just feels like the start of something."
 
 That's a feeling, so December stays the recommendation. Dan names what another month of [his current routine] without a baseline would cost: "Another month of wondering whether any of it's doing anything." Cole asks for the seat. Dan wants a week, agrees a Decision Date [a week out], well before December's last day to join, and gets a recap naming the date, the start, and the price. On that date he enrolls. Had he held to January after hearing it once, Cole would have dated January then and there.
 
 **Late November. One row, run test by test.** Building the December reminder, Cole runs the Launch Line. January is on the page with its dates, seats, and price: yes. December's date has sat on the calendar since September, its cap from Seat Math: yes. His email tool's template adds a countdown block and an extra send, failing the widget rule and the third test, so both go: yes. Nothing comes with December that won't come with January except the price, through an announced step: yes. "December is full" would name January: yes.
 
-**December and January. New-Year intent.** December closes full as well, so the February announcement, sent on the January start day, carries the March step, which adds [a recorded walkthrough of each week-6 read]. By [December 21] January stands at [7] of [8], one seat left against the [3] buyers who usually join in a start's last fortnight, so the count goes on the page and into the reminder. January fills, [2] buyers take February seats, and the cap stays at [8], because Seat Math hasn't changed.
+**December and January. New-Year intent.** December closes full as well, so the February announcement, sent on the January start day, carries the March step, which adds [48-hour] review turnaround, down from [72]. By [December 21] January stands at [7] of [8], one seat left against the [3] buyers who usually join in a start's last fortnight, so the count goes on the page and into the reminder. January fills, [2] buyers take February seats, and the cap stays at [8], because Seat Math hasn't changed.
 
 **February and March. A thin start, held.** February closes at [5] of [8], [2] of them carried from January, and its Fill History line says so. The March step lands as announced, because its gate was December's close. When the April announcement goes out on the March start day, February is the last closed start, so it carries no May step.
 
-**What the six months show.** Twelve promotional sends, none to a paused lead, and every assessed buyer left with a dated point and a Decision Date on or before it. January's rush and February's thin start ran on the same rule: the date held, the cap held, and the record says what happened. With [5–8] enrollments a start, cash ran at roughly [$9–17k] a month, inside what Band B, the steady-growth planning band, allows.
+**What the six months show.** Twelve promotional sends, none to a paused lead, and every assessed buyer left with a dated point and a Decision Date on or before it. January's rush and February's thin start ran on the same rule: the date held, the cap held, and the record says what happened. With [5–8] enrollments a start, cash ran at roughly [$11–19k] a month, inside what Band B, the steady-growth planning band, allows.
 
 ## Templates: The Start Calendar and the Two Date Sends
 
