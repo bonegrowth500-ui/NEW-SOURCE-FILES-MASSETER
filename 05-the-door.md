@@ -173,14 +173,14 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
 
 | Part | What it holds | Why he keeps it without buying |
 |---|---|---|
-| The verdict, with reasons | One of the three Stall Verdicts, unmeasured, misdirected, or "this lever doesn't move for you", argued from his record | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
+| The verdict, with reasons | One of the three Stall Verdicts, unmeasured, misdirected, or "this lever doesn't move for you", argued from his record, or a goal wholly in the never-claimed column | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
 | A measurement setup | What to log weekly, when to capture, what not to measure | Every month he spends alone from here becomes evidence |
 | What to stop spending on | Named purchases and habits that can't show him anything | Money and months back, the plainest return a non-buyer gets |
 | The levers that matter | His goal sorted into changeable, debated, never claimed, and referral | The category's noise cut to a short list he can act on |
 | One recommendation | A program, Private, the Starter Path, or "don't buy", with any price stated once | The decision he paid for, instead of a menu |
 | A re-check date | A dated moment to read his own record, and what to look at | A date of his own to judge from his record, whether or not he buys |
 
-The third verdict makes the other two believable, because a plan that always finds a fixable cause is a pitch with a fee attached. "Don't buy" is what the plan earns most often when his goal sits only in the never-claimed column, like the bone caller's. The honest plan says no program moves that goal, yours included, and still leaves him a stop list, a setup, and who to see. The stop list never names clinical care. The levers come from the Outcome Map, the brand's straight answer to the bone question by age and evidence tier (Module 3), so bone never appears as a lever. The full template:
+"Don't buy" is what the plan earns most often when his goal sits only in the never-claimed column, like the bone caller's. The honest plan says no program moves that goal, yours included, and still leaves him a stop list, a setup, and who to see. The stop list never names clinical care. The levers come from the Outcome Map, the brand's straight answer to the bone question by age and evidence tier (Module 3), so bone never appears as a lever. The full template:
 
 ```
 [Brand] · Decision Assessment · Written plan for [first name] · [date]
@@ -189,7 +189,7 @@ The third verdict makes the other two believable, because a plan that always fin
    Goal, in your words: "[his words]"
    Tried: [routine] for [months] · Bought: [items, never amounts]
    Constraints: [minutes a day] · [schedule] · [budget from your own income or savings]
-2. The verdict: [unmeasured | misdirected | this lever doesn't move for you]
+2. The verdict: [unmeasured | misdirected | this lever doesn't move for you | goal in the never-claimed column]
    Why, from your record: [reason] · [reason] · [reason]
 3. Your measurement setup (it runs without us)
    Weekly: log [habit block A] and [habit block B]; review on [day]
@@ -299,17 +299,17 @@ Signals are "many times a day", "often" on 2 or 3, a booked consultation, and "[
 
 > SAMPLE: a composite, not a real client.
 >
-> [Brand] · Decision Assessment · Written plan for [first name], [age] · [date]
+> [Brand] · Decision Assessment · Written plan for [first name], 26 · [date]
 >
 > What you told us: "the forward growth the [device] promised", and nothing else for now. Tried: the [device] for [months], and [a course].
 >
-> The verdict: unmeasured. Nothing you tried was logged or captured the same way twice, so nothing can show what moved.
+> The verdict: your goal sits in the never-claimed column. Habits don't change an adult's bone, and nothing you tried was logged the same way twice.
 >
 > Measurement setup, if you want one: log [habit block A] weekly; captures on your own phone, to the attached conditions, at [date] and six weeks later.
 >
 > Stop spending on: [device] refills, the course's next tier, anything promising structural change.
 >
-> Levers: changeable, how you're photographed and body composition; debated, visible jaw change from habits; not changed by habits, the bone. Worth seeing: an orthodontist or surgeon, if the shape matters enough to ask. We give no opinion on that.
+> Levers: changeable, how you're photographed and body composition; debated, visible jaw change from habits. Worth seeing: an orthodontist or surgeon, if the shape matters enough to ask. We give no opinion on that.
 >
 > One recommendation: don't buy. Nothing we sell moves the goal you wrote.
 >

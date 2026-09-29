@@ -161,7 +161,7 @@ The calendar is the same for everyone. How the point gets set follows his state,
 | Optimizer | The next start, or late entry into the one just begun | Speed is part of what he buys | A wait he didn't choose |
 | Ambivalent | The next start, then "what changes then?" | A vague answer keeps the next start; a concrete one dates his decision to the first start after it, with the Starter Path in between | "Later" without a date |
 | A signal on the Fit Check, the check before any payment | A start at least 72 hours out, if he can still enroll | In his written expectations, with no payment plan | Same-day payment; a date send while he's paused |
-| "I can't afford it" | None | The Starter Path, once; the pause route holds every marketing send | Any date send for 60–90 days |
+| "I can't afford it" | None | The Starter Path, once; the pause route holds every marketing send and blocks checkout | Any date send for 60–90 days |
 
 The Ambivalent row is the one judgment call. Overtime that eats the plan's minutes is a constraint, and selling past it sells a program he can't run, so his decision waits for the first start after it. "It'll feel less hectic" is a feeling, and the next start is its own clean page.
 
