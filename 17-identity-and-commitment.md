@@ -207,17 +207,36 @@ For a young man, paying a coach about his appearance can feel like a confession:
 
 **Lower the identity he fears, and make the one he's entering visible.**
 
-Privacy carries the first job: a pseudonymous, camera-optional cohort, photos seen only by you, and a billing name nobody will ask him about. The record carries the second, because he crosses with his first log in hand. Paying learners finish courses far more often than free ones, mostly because of who chooses to pay and partly because paying commits them. So the threshold sorts more than it transforms. Don't sell the payment as the change, and don't inflate the threshold with application theater or "we only accept a few" lines that aren't true.
+Privacy lowers the identity he fears, and the record makes the other one visible, because he crosses with his first log in hand. Paying learners finish courses far more often than free ones, mostly because of who chooses to pay and partly because paying commits them. So the threshold sorts more than it transforms. Don't sell the payment as the change, and don't inflate the threshold with application theater or "we only accept a few" lines that aren't true.
 
-Theo *(composite, Burned Struggler)*, 26, stands at a higher threshold than most, because the last one he crossed cost him [a device and a course] that promised structural change. His "I need to think" is due diligence. He gets the verification kit, the sample plan and sample weekly review, with one firm recommendation and a date he chooses. His log gives him something the last seller never did, a week of evidence he produced before paying anyone.
+### He tells you which crossing he's making
 
-The questions a buyer asks near the threshold tell you which crossing he's making. "Who sees my photos?", "What will the charge say?", and "Will anyone in the group know it's me?" are threshold questions, so answer them first and plainly, before anything about price. A man who mentions his log unprompted at checkout is crossing on his record. For the insecurity-led buyer the threshold is steepest, and the Dignity Route keeps his crossing from becoming a confession.
+The same purchase can be crossed four ways, and near the threshold his words show which. Each takes a different first move:
+
+| What he asks or says | The crossing | The default move |
+|---|---|---|
+| "Who sees my photos?", "What will the charge say?", "Will anyone in the group know it's me?" | Past the fear of being seen | Answer first and plainly, before anything about price |
+| He mentions his log unprompted | On his record | Name the practice, count first |
+| "I can't believe I'm paying someone about my face" | As a confession | The Dignity Route, with the log as his reason |
+| "I need to think", from a man who's bought before | Through due diligence | The verification kit, a sample plan and weekly review, and a date he picks |
+
+Run it on Adrian *(composite, Optimizer)*, 31, a consultant who'd rather nobody knew he was in a program. The day after his call he emails two questions: what the charge will say, and whether anyone at his firm could find him in the group. That's the first crossing, so answer first: "[a discreet name]" on his statement, a handle he chooses, and his camera off if he likes. His log sits at [six] of [seven] days, so the checkout names that too. Left alone: the price, which isn't his question, and any line about limited places, which would turn his caution into a test to pass.
+
+### The checkout and the recap put the crossing in words
+
+He usually crosses alone, days after the call, at a pay button, so the words there decide whether the step reads as a confession or a decision. Keep them to lines he met on the way, since a new claim beside the button reads as the category's classic switch. Beside the price and the path he's already read, a buyer with a log reads:
+
+> "Your record so far: [five] of [seven] days logged. That's the practice, and from [start date] [your name] reads it every week. Only [your name] sees your photos, the charge reads '[a discreet name]', and the group knows you by a handle you choose, camera optional."
+
+A no-call buyer's first line reads "Your record starts with your first seven logged days". After a call, his self-assessment's words come back once, in the recap's first lines, so the decision is argued from what he said:
+
+> "You said you want [his goal, in his words]. You've logged [two] of [two] days since we booked, which is the practice itself, and my one recommendation is below."
+
+On the Dignity Route the first line names knowing what's moving instead, and no moment he wrote as his goal comes back to him. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw.
 
 ### The self-assessment is his first commitment
 
-The self-assessment is also his first commitment, and two parts of it hold up. The minutes of effort sort people, and screening effects are among the sturdier findings in this area. His written words move him too, a little: stating a position shifts a person toward it, the part of the dissonance work that survived replication. What doesn't hold up is the idea that more effort makes him value the result more. That effect is weak, so extra questions buy lost completions and no extra commitment. Keep the door at its [8–10] questions, and let the two that ask for his own words, his goal and why now, carry the weight.
-
-His words then have one use. They come back to him as the summary in his recap, in his language, so the decision he makes is argued from what he said. On the Dignity Route that summary keeps the destination at knowing what's moving and leaves any missed moment he wrote about unsaid. His words stay out of every lever: after "I can't afford it" they don't reopen money, in an exit they go unquoted, and in marketing they appear only with separate consent he can withdraw.
+The self-assessment is also his first commitment, and two parts of it hold up. The minutes of effort sort people, and screening effects are among the sturdier findings in this area. His written words move him too, a little: stating a position shifts a person toward it, the part of the dissonance work that survived replication. What doesn't hold up is the idea that more effort makes him value the result more. That effect is weak, so extra questions buy lost completions and no extra commitment, and the weight sits on the answers in his own words, his goal and why now.
 
 A ladder of small yeses asks for agreement, and this one asks for work, each step leaving him something he keeps whether or not he takes the next: a result, a week of his record, a plan. Add effort only where it produces something he keeps.
 

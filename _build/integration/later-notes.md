@@ -8,7 +8,7 @@
   - the week-5 long-form piece slips to week 7;
   - the founding price ends in week 7, [$1,650] from March;
   - month 3 holds [12] conversations and [5] clients.
-- Cole's month 8 (01): the Call Cap fires on volume ([9–10] held a week, content hours slipping), and the cap is set at [6].
+- Cole's month 8 (01): a screening fix at [4–5] held a week (show rate and no-fit signs point to the door); no Call Cap yet (Band B can't reach its volume trigger by month 8); the cap waits until most weeks run above ~6–8 held.
 - Cole's warm messages go out in weeks 1–2 (09).
 
 ## For 5.1 (the Intro and the Early Fast Path)

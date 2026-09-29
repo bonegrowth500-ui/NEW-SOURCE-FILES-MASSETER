@@ -211,15 +211,23 @@ The Self-Serve System's optional review is a Decision Assessment at $150–250, 
 
 ## 6. Packaging the Method, and the New-Creations Index
 
-Package the path he'll walk and the deliverables he'll hold, because the method a buyer can't see is the first thing this category taught him to suspect. Names take one rule: every product name describes what happens, sits under your brand, promises nothing about bone, and is settled before your first group starts (Module 3). The rest of the packaging is the client journey itself, laid out as dated deliverables he can picture before he pays:
+Package what he'll receive and when, never what he'll learn, because in this category the curriculum is the grift's own format. The courses that let him down sold modules he couldn't judge until he'd paid, full of steps he could have found free, so a curriculum's price reads to him as a markup on free content. A journey of dated deliverables sells what free content can't hold, judgment applied to his record, and every step of it can be checked: the baseline happened on its day, the review arrived by Tuesday, the week-6 read exists in writing. A promise he can check is one you can be caught breaking, which is why a burned buyer believes it.
 
 **baseline day → weekly written review → the week-6 read → the week-12 re-assessment → graduation → Round Two, the Hold, or a clean finish.**
 
-Name each stage by what he'll hold: a baseline, a written read, matched captures side by side, a record he keeps. The method lives inside the review as your [weekly habit block] and [first adjustment], never as a hidden curriculum he pays to unlock. That answers "what am I buying?" with things he can check. It also passes the Hostile-Screenshot Test, the check that a line survives the category's harshest critic. The Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts it in front of him before any payment.
+Name each stage by what he'll hold: a baseline, a written read, matched captures side by side, a record he keeps. The method stays inside the review as your [weekly habit block] and [first adjustment], never a hidden curriculum he pays to unlock. The Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts the journey in front of him before any payment.
+
+### A name is a claim, made every time it's read
+
+Names take one rule: every product name describes what happens, sits under your brand, promises nothing about bone, and is settled before your first group starts (Module 3). A name appears on every page, receipt, and card statement with no caveat beside it, so a name that implies a new jaw repeats that claim more often than anything you film. Settle it early, because a product renamed after its first graduates looks, to a skeptic searching your name, like a seller outrunning his reviews.
+
+Three signs mark a name that fails: a body part, a verb of change such as reset, sharpen, or define, and a curriculum word such as phase, level, or unlock. The first two claim what habits can't do to an adult's bone, which the line on structural claims rules out. The third tells a burned buyer the useful part is locked behind a later payment.
+
+Run it on Cole's founding page. His first draft calls the Program [Brand] Jaw Reset, in stages named Foundation, Rebuild, and Transformation. The Hostile-Screenshot Test, the check that a line survives the category's harshest critic, fails it before the page goes live: a critic crops the name beside any before-and-after and captions it "twelve weeks to a new jaw", and the stages read as a course with the good part in phase three. His second draft reads [Brand] Program: 12 weeks of reviewed measurement, with stages named for what arrives, from baseline day to the week-12 re-assessment. The critic's crop now shows what's sold. Left alone: a tagline about his face, and any name for the method's steps, which stay in the review where no screenshot reaches them.
 
 ### Each new creation has one owner
 
-Seven offers and formats on this ladder were built for this business's jobs. Each is taught in full by its owner:
+Seven offers and formats on this ladder were built for this business's jobs, and each is taught in full by its owner:
 
 | New creation | What it is | Slot | Owner |
 |---|---|---|---|
@@ -256,16 +264,16 @@ Cole starts in January with about 20 hours a week and a channel that grows stead
 
 Left alone: the paid overflow, because reach binds and every conversation counts, and the back end, because nobody has graduated. [A dozen] commenters ask for "the routine as a PDF". He points them to the free videos where the steps already live, and a printable waits for the tools' trigger.
 
-**Month [4]. The read: the back buffer's trigger has fired.** [Four] founding clients reach week 12, and each record picks its own rung. [One] is still climbing, so he hears about Round Two at [~$0.8–1.2k]. [One] moved and holds, so he's told he doesn't need Round Two, and he takes the Hold at [$49] a month. [One] logged too little for his record to judge the lever, and [one] did the work while his markers stayed flat. Neither hears an offer, and the second gets the partial refund the guarantee promises for that case.
+**Month [6]. The read: the back buffer's trigger fired at the first graduation, in month [4].** By [June], [four] founding clients have reached week 12, and each record picks its own rung. [One] is still climbing, so he hears about Round Two at [~$0.8–1.2k]. [One] moved and holds, so he's told he doesn't need Round Two, and he takes the Hold at [$49] a month. [One] logged too little for his record to judge the lever, and [one] did the work while his markers stayed flat. Neither hears an offer, and the second gets the partial refund the guarantee promises for that case.
 
-**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.8k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it. A month later the Call Cap binds, and the paid overflow switches on.
+**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.95k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it. A month later the Call Cap binds, and the paid overflow switches on.
 
 **Month 9, September. The read: every rung has a job and a trigger behind it.**
 
 | Slot | Rung live, and its job | Price on his page | Switched on |
 |---|---|---|---|
 | Front buffer | The door's human step: a screened decision | Free · [$150–250] · [~$350–600] | Month 0; the paid overflow at month [8] |
-| Flagship | The Program, with one founding Private seat: judgment on his record, weekly | [~$1.8k] · [~$4–6k] | Month 0 |
+| Flagship | The Program, with one founding Private seat: judgment on his record, weekly | [~$2.1k] · [~$4–6k] | Month 0 |
 | Back buffer | Round Two: more reviewed weeks for a climbing record | [~$0.8–1.2k] | Month [4] |
 | Back buffer | The Hold, with [five] members: a quarterly check that it holds | [$49]/month | Month [4] |
 | Net | The Starter Path: a real path and a way back | Free | Month 0 |
