@@ -241,20 +241,19 @@ Seven offers and formats on this ladder were built for this business's jobs, and
 
 ### Some offers never earn a rung
 
-Some offers fail the test at every stage, and each has a reason you could give a buyer directly:
+Some offers fail the test at every stage, each for a reason you could give a buyer directly:
 
 | Never | Why |
 |---|---|
-| A free community, or a free live group for non-buyers | It spends live minutes on free attention and draws rating talk |
+| A free community, or a free live group for non-buyers | It spends live minutes on free attention and draws the rating talk and underage viewers your door keeps out |
 | Low-ticket products as a profit line | They compete with free information and leave little proof |
 | A second flagship beside the first | Two review rhythms and two recommendations where one did the job |
 | Decoy tiers | Every tier is real and bought by someone |
 | A face rating or "analysis" | It sells what apps give away, and you never score faces |
 | Affiliate income from devices, gum, supplements, or procedures | It sells him a result you can't vouch for, and a skeptic sees the conflict first |
 | Window-only bonuses or prices | A price that exists only this week is a launch |
-| Names that promise structural change | A name is a claim, made every time it's read |
 
-What's left is a short ladder a skeptic can read on one screen. It holds one thing to buy for the work, one step before it, two ways to keep measuring after it, and a free path for everyone else. A buyer who understands the whole ladder trusts the one recommendation you make from it.
+What's left is a ladder a skeptic can read on one screen: one thing to buy for the work, one step before it, two ways to keep measuring after it, and a free path for everyone else. A buyer who understands the whole ladder trusts the one recommendation you make from it.
 
 ## Worked Example: Cole's Ladder at Month 0 and Month 9
 
