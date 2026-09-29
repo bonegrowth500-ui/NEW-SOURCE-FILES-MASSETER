@@ -38,7 +38,7 @@ The survivors share three properties: he can check how the proof was made, what 
 
 **If he'd have to ask, it isn't proof yet.**
 
-Run it on Cole *(composite operator)* at month [5]. [Four] founding clients have consented to share delighted messages, and his draft proof page stacks all four at the top. The sign is already in his comments: "how many didn't write?" Each message passes the first question and fails the third. So the page leads with his dated log, check-in completion across all [9] clients and the [one] who left in the fit window, and the messages sit beneath it as process moments. Left alone: any result claim, since no range exists yet.
+Run it on Cole *(composite operator)* at month [5]. [Four] founding clients have consented to share delighted messages, and his draft proof page stacks all four at the top. The sign is already in his comments: "how many didn't write?" Each message passes the first question and fails the third. So the page leads with his dated log, check-in completion across all [9] clients and the [one] who took his full refund in the first weeks, and the messages sit beneath it as process moments. Left alone: any result claim, since no range exists yet.
 
 ## 2. The Claim Ladder and the Context Stack
 

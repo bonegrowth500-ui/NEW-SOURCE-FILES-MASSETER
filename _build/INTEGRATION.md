@@ -169,8 +169,41 @@ For each module, rebuild the weakest part (a deep section, the worked example, a
 Replace rather than add, and stay inside the band. Update the running summary. Audit clean.
 
 ## 4.3 — Reconciliation (issued after 4.2)
-Check, per module:
-- **Numbers:** every number against LEDGER, including rows added in rounds 3–6 and their exact wording.
-- **Frameworks:** every framework and term against FRAMEWORKS: name, gloss, owner, and the ★◆○ tier.
-- **Cross-references:** every "(Module N)" pointer names the module that owns or teaches the item; **Leans on:** lists are accurate; recaps agree with their owners.
-- Log and fix within the Part.
+Goal: numbers, frameworks, and cross-references between modules all agree. Run by one fresh reconciler per Part, with edits only in that Part's module files and summaries, plus the orchestrator's global checks.
+
+Load: this file's load list (DECISIONS R3 only), plus `_build/integration/later-notes.md` ("For 4.3") and Cole's canonical price path at the end of `_build/integration/4.1-partII.md`.
+
+For each module in your Part:
+1. **Numbers.** Run `python3 _build/tools/audit.py <file>`. Check every listed number, plus every bracketed composite figure, against LEDGER:
+   - the row, the range, and the status (EV, PL, or RULE);
+   - rows added in rounds 3–6 and Step 4.
+   Arithmetic must add up. Composite figures stay bracketed and inside LEDGER ranges. Cole's prices and months follow the canonical path. No single-point outcome numbers.
+2. **Frameworks and terms.** Every registered term must match FRAMEWORKS and the style sheet in name, gloss, owner, and tier:
+   - Capitals for ★ and ◆ names, as registered. "Stop Rules" when naming the set, "a stop rule" for one, and "stopped: stop rule" stays as record text.
+   - A gloss at first use in each module.
+   - No synonyms.
+   - Only the owner teaches an item; everyone else recaps in two sentences or fewer and points to it.
+   - Run `python3 _build/tools/reconcile.py caps` and judge each hit, since some lowercase uses are generic and correct.
+3. **Cross-references.**
+   - Every "(Module N)" pointer names the module that owns or teaches the item.
+   - Every module a body pointer names appears in **Leans on:**.
+   - Every recap agrees with its owner's current text; grep the owner.
+   - Every "(Intro)" pointer names something the Intro will hold.
+   - Run `python3 _build/tools/reconcile.py pointer leans` as a starting list; `pointer` gives false positives.
+4. **Summaries.** Update `_build/summaries/NN.md` to match, and clear open issues that are now resolved.
+
+Rules:
+- Every module stays inside 6,300–7,700 words. 18 (7,695) and 19 (7,692) must stay net-neutral.
+- 0 FAIL on the audit.
+- Log cross-Part problems; don't fix them.
+- Don't commit.
+
+Log (`_build/integration/4.3-partN.md`):
+```
+# 4.3 — Part N
+## Numbers fixed | Module | Where | Was → Now | LEDGER row |
+## Terms and frameworks fixed | Module | Where | Was → Now | Register |
+## Cross-references fixed | Module | Where | Was → Now | Why |
+## Cross-Part issues for the orchestrator
+## Word counts before → after
+```

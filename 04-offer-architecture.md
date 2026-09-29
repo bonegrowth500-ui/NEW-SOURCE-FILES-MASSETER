@@ -203,23 +203,23 @@ The Self-Serve System's optional review is a Decision Assessment at $150–250, 
 
 ## 6. Packaging the Method, and the New-Creations Index
 
-Package what he'll receive and when, never what he'll learn, because in this category the curriculum is the grift's own format. The courses that let him down sold modules he couldn't judge until he'd paid, full of steps he could have found free, so a curriculum's price reads to him as a markup on free content. A journey of dated deliverables sells what free content can't hold, judgment applied to his record, and every step of it can be checked: the baseline happened on its day, the review arrived by Tuesday, the week-6 read exists in writing. A promise he can check is one you can be caught breaking, which is why a burned buyer believes it.
+Package what he'll receive and when, never what he'll learn, because in this category the curriculum is the grift's own format. The courses that let him down sold modules he couldn't judge until he'd paid, so a curriculum's price reads to him as a markup on free content. A journey of dated deliverables sells what free content can't hold, judgment applied to his record, and every step of it can be checked: the baseline happened on its day, and the review arrived by Tuesday. A promise he can check is one you can be caught breaking, which is why a burned buyer believes it.
 
 **baseline day → weekly written review → the week-6 read → the week-12 re-assessment → graduation → Round Two, the Hold, or a clean finish.**
 
-Name each stage by what he'll hold: a baseline, a written read, matched captures side by side, a record he keeps. The method stays inside the review as your [weekly habit block] and [first adjustment], never a hidden curriculum he pays to unlock. The Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts the journey in front of him before any payment.
+The method stays inside the review as your [weekly habit block] and [first adjustment], and the Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts the journey in front of him before any payment.
 
 ### A name is a claim, made every time it's read
 
 Names take one rule: every product name describes what happens, sits under your brand, promises nothing about bone, and is settled before your first group starts (Module 3). A name appears on every page, receipt, and card statement with no caveat beside it, so a name that implies a new jaw repeats that claim more often than anything you film. Settle it early, because a product renamed after its first graduates looks, to a skeptic searching your name, like a seller outrunning his reviews.
 
-Three signs mark a name that fails: a body part, a verb of change such as reset, sharpen, or define, and a curriculum word such as phase, level, or unlock. The first two claim what habits can't do to an adult's bone, which the line on structural claims rules out. The third tells a burned buyer the useful part is locked behind a later payment.
+Three signs mark a name that fails: a body part, a verb of change such as reset or sharpen, and a curriculum word such as phase or unlock. The first two claim what habits can't do to an adult's bone, which the line on structural claims rules out. The third tells a burned buyer the useful part is locked behind a later payment.
 
-Run it on Cole's founding page. His first draft calls the Program [Brand] Jaw Reset, in stages named Foundation, Rebuild, and Transformation. The Hostile-Screenshot Test, the check that a line survives the category's harshest critic, fails it before the page goes live: a critic crops the name beside any before-and-after and captions it "twelve weeks to a new jaw", and the stages read as a course with the good part in phase three. His second draft reads [Brand] Program: 12 weeks of reviewed measurement, with stages named for what arrives, from baseline day to the week-12 re-assessment. The critic's crop now shows what's sold. Left alone: a tagline about his face, and any name for the method's steps, which stay in the review where no screenshot reaches them.
+Run it on Cole's founding page. His first draft calls the Program [Brand] Jaw Reset, in stages named Foundation, Rebuild, and Transformation. The Hostile-Screenshot Test, the check that a line survives the category's harshest critic, fails it before the page goes live. A critic crops the name beside any before-and-after and captions it "twelve weeks to a new jaw", and the stages read as a course with the good part in phase three. His second draft reads [Brand] Program: 12 weeks of reviewed measurement, with stages named for what arrives, from baseline day to the week-12 re-assessment. The critic's crop now shows what's sold. Left alone: a tagline about his face, and any name for the method's steps, which stay in the review where no screenshot reaches them.
 
 ### Each new creation has one owner
 
-Seven offers and formats on this ladder were built for this business's jobs, and each is taught in full by its owner:
+Seven offers on this ladder were built for this business's jobs. Each is taught in full by its owner:
 
 | New creation | What it is | Slot | Owner |
 |---|---|---|---|
@@ -245,7 +245,7 @@ Some offers fail the test at every stage, each for a reason you could give a buy
 | Affiliate income from devices, gum, supplements, or procedures | It sells him a result you can't vouch for, and a skeptic sees the conflict first |
 | Window-only bonuses or prices | A price that exists only this week is a launch |
 
-What's left is a ladder a skeptic can read on one screen: one thing to buy for the work, one step before it, two ways to keep measuring after it, and a free path for everyone else. A buyer who understands the whole ladder trusts the one recommendation you make from it.
+What's left is a ladder a skeptic can read on one screen. A buyer who understands all of it trusts the one recommendation you make from it.
 
 ## Worked Example: Cole's Ladder at Month 0 and Month 9
 

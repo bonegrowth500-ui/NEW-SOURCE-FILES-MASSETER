@@ -146,7 +146,50 @@ def check_pointer():
     return out
 
 
-CHECKS = {'canon': check_canon, 'stages': check_stages, 'cast': check_cast, 'qr': check_qr, 'pointer': check_pointer}
+def check_leans():
+    """Body "(Module N)" pointers whose module is missing from the Leans on line."""
+    out = []
+    for f in MODS:
+        name = os.path.basename(f)[:2]
+        body_ptrs, leans = set(), set()
+        for line in open(f, encoding='utf-8'):
+            nums = {int(n) for n in re.findall(r'\(Module (\d{1,2})\)', line)}
+            nums |= {int(n) for n in re.findall(r'Modules? (\d{1,2})(?:,| and| or|\))', line) if line.startswith('**Leans on:**')}
+            if line.startswith('**Leans on:**'):
+                leans |= {int(n) for n in re.findall(r'Module (\d{1,2})', line)}
+            else:
+                body_ptrs |= nums
+        body_ptrs.discard(int(name))
+        missing = sorted(body_ptrs - leans)
+        if missing:
+            out.append(f"{name}: body points to {', '.join('%02d' % m for m in missing)} but Leans on omits them")
+    return out
+
+
+def check_caps():
+    """Multi-word ★/◆ framework names written in lowercase in module prose."""
+    fw = open(os.path.join(ROOT, '_build', 'FRAMEWORKS.md'), encoding='utf-8').read()
+    names = re.findall(r'^\| (?:★|◆) \| \*\*([^*]+)\*\*', fw, flags=re.M)
+    cores = []
+    for n in names:
+        core = re.sub(r'^The ', '', n.strip())
+        if len(core.split()) >= 2 and core.lower() != core:
+            cores.append(core)
+    out = []
+    for f in MODS:
+        name = os.path.basename(f)[:2]
+        for i, line in enumerate(open(f, encoding='utf-8'), 1):
+            if line.startswith('*Stages:'):
+                continue
+            for core in cores:
+                low = core.lower()
+                for m in re.finditer(r'(?<![A-Za-z-])' + re.escape(low) + r'(?![A-Za-z-])', line):
+                    if line[m.start():m.end()] == low:
+                        out.append(f"{name} L{i}: '{low}' (registered as '{core}')")
+    return out
+
+
+CHECKS = {'canon': check_canon, 'stages': check_stages, 'cast': check_cast, 'qr': check_qr, 'pointer': check_pointer, 'leans': check_leans, 'caps': check_caps}
 
 if __name__ == '__main__':
     which = sys.argv[1:] or list(CHECKS)

@@ -125,7 +125,7 @@ Personal replies carry presence early, because these buyers have been answered f
 
 **Default:** templates for public repeats and routing help on public comments from Growing, while DMs, the pinned challenge, and every review stay yours. Move the first reply to a new lead onto a template you approve only after personal replies run past their hours two weeks running.
 
-Cole (composite operator) meets the signs at month [14]: replies past their hours for [two] weeks, [five] questions behind most comments, and his content minimum slipping. He reads it as volume, since the replies that decide trust are the ones about a man's own situation. So the five get templates cut from his best answers, routing help takes public moderation, and he keeps DMs, the pinned challenge, and reviews. Left alone: the rule that no AI speaks as him, and the weekly review, the one thing a product without you can't copy.
+Cole (composite operator) meets the signs at month [14]: replies past their hours for [two] weeks, [five] questions behind most comments, and his content hours slipping. He reads it as volume, since the replies that decide trust are the ones about a man's own situation. So the five get templates cut from his best answers, routing help takes public moderation, and he keeps DMs, the pinned challenge, and reviews. Left alone: the rule that no AI speaks as him, and the weekly review, the one thing a product without you can't copy.
 
 ## 4. What My Face Does and Doesn't Prove
 
