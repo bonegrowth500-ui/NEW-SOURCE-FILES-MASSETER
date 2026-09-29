@@ -265,7 +265,7 @@ Cole gives no view on the procedure, since that's a surgeon's question. His writ
 
 ## Templates: The Question Bank, Disclosure, and Fit Check
 
-**The self-assessment question bank.** Ask in this order; you fill the brackets.
+**The self-assessment question bank.** Ask in this order.
 
 1. "Are you a legal adult where you live?" Yes / No → No: the education lane, nothing stored.
 2. "Which age band are you in?" 18–24 / 25–34 / 35+ → Read only in aggregate, for the buyer mix; never a tag.
