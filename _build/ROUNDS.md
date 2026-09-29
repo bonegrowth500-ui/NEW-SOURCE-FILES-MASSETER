@@ -134,3 +134,16 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 - R6 round (27 final): 'the claims library' registered ○ (owner 27) in FRAMEWORKS and the style sheet. Extras run 899 words (Verify Page template carries every required section; module total inside the band; accepted; 4.2 may tighten). Integration (4.3): 09 L44 adds the checkout-confirmation source question for the no-call route; 05 L42's no-pixel reason widens to 27's hub-wide rule.
 - R6 round (23 final): LEDGER C derived row (~0.6–3.5 eligible per 1,000 engaged long-form views early). FRAMEWORKS Start Here Series ends at the offer page and the door. Module 15 seams fixed: the face statement lives in the comment policy every pin links to; the Qualifications Answer is a reply, pinned only when it's the strongest challenge. Integration (4.3): 18 L221 piece 2's price sits on the end card (23's editable-price rule); 13 L90/L245/L303 read age as an observed mix (E2). 23 runs 7,653 w (inside the band; a 4.2 trim candidate with 03).
 - Round 6 complete: Modules 23–27 passed 3.5. Rulings logged as DECISIONS R3-37 to R3-44.
+
+# Step 4 tracker
+
+| Part | Modules | 4.1/4.2 agent | 4.1 | 4.2 | 4.3 |
+|---|---|---|---|---|---|
+| I | 01–03 | a69397451ac2b294c | reading | — | — |
+| II | 04–08 | ae99d68d8580404c2 | reading | — | — |
+| III | 09–13 | addd2084fdea6cac5 | reading | — | — |
+| IV | 14–17 | a33211842cf29b5bb | reading | — | — |
+| V | 18–22 | abf82a230c415badb | reading | — | — |
+| VI | 23–27 | a90ab35f1cbff6822 | reading | — | — |
+
+Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
