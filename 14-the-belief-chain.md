@@ -15,25 +15,17 @@ Belief moves toward evidence in small steps that fade, and behavior follows his 
 
 The popular warning is that challenging a belief makes people dig in. Across many topics and very different groups, that backfire has turned out to be rare: people who meet a clear correction move toward the evidence, whatever they believed at the start. So you can take on "it's all genetics" and "habits fix everything" head-on, steelmanned first. A man who has built an identity around the shrug will still defend it, so give him a better place to stand along with the correction.
 
-Each correction also moves belief only a little, and the movement fades. In large preregistered studies, corrections had largely worn off when researchers checked again, even for people who had seen them more than once. One strong video about bone won't settle the question, because the category's myths are waiting under the next video he opens. What holds up better is sustained exposure: short corrections arriving on a schedule for months.
-
-### Repetition makes claims feel true, so repeat only true ones
-
-Repetition raises how true a claim feels, even to people who knew better. It's how the category's myths got their grip: "mewing gave me a jawline", repeated under thousands of videos, starts to feel like evidence. It works the same way for you, so every claim you repeat has to be calibrated, said at its evidence tier and in the same words every time. A viewer who hears you hedge about bone in one video and hint at it in the next will trust neither claim.
+Each correction also moves belief only a little, and the movement fades. In large preregistered studies, corrections had largely worn off when researchers checked again, even for people who had seen them more than once. One strong video about bone won't settle the question, because the category's myths are waiting under the next video he opens.
 
 ### Efficacy moves behavior, and stakes only aim it
 
 The largest belief lever tested is a person's belief that he can do the thing, ahead of changing his attitudes or his sense of what others do, though only by a modest margin. Stakes are weaker than their reputation. Fear and cost-of-waiting messages have small to moderate effects, and they depend on that same belief: in the few studies built to separate the two, a bigger threat helped only when people already believed they could act. Whether threat adds anything beyond attention is still argued.
 
-That matters here because belief in his own effort is what your buyer has least of. Months of work that never showed on anything taught him that what he does doesn't register, so added threat buys avoidance: he closes the tab, or he checks the mirror more. Threats about his face are out anyway (the line on shame), and they'd be among the weakest levers you could pull. So force goes into one true stake he names himself, and most of the minutes go to a step he can verify, which is the Stake-to-Step Ratio (Module 18).
+That matters here because belief in his own effort is what your buyer has least of. Months of work that never showed on anything taught him that what he does doesn't register, so added threat buys avoidance: he closes the tab, or he checks the mirror more. Threats about his face are out anyway (the line on shame), and they'd be among the weakest levers you could pull. So force goes into one true stake he names himself, and most of the minutes go to a step he can verify, which is the Stake-to-Step Ratio (Module 18). Three more findings set rules for everything you say:
 
 | What the evidence says | How strong | What it means here |
 |---|---|---|
-| Corrections move belief toward the evidence, with essentially no backfire | Strong | Take on the category's myths directly, steelmanned |
-| Each correction is small, and its effect fades | Strong | Repeat on a schedule, because one video settles nothing for long |
-| Repetition makes a claim feel truer | Strong | Repeat only calibrated claims, in the same words |
-| Raising his belief that he can act is the largest belief lever tested, by a modest margin | Strong | Most of the minutes go to a step he can verify |
-| Stakes help a little, and mostly when he believes he can act | Small to moderate; contested for threat alone | One true stake, then the step |
+| Repetition makes a claim feel truer, true or not | Strong | Repeat only calibrated claims, in the same words |
 | Framing the same fact as a gain or a loss changes almost nothing | Strong | Pick the frame that's accurate |
 | Deadlines that end hesitation | Contested | Real dates for honesty and planning, never as a push |
 
@@ -83,7 +75,7 @@ At the decision, each link rests on the ones before it. Until his stall has a ca
 
 The order he meets them in is different. His search usually lands on Range, the bone question, which is why the Honest Answer leads your channel and your Canon. The order also bends for a burned buyer, one who already paid for a promise of structural change. He can't hear Cause or Range from a voice he hasn't checked, so Guide goes first, on his clock, through samples he can verify.
 
-Some no's mark a link you never work on. "I can't afford it" ends money talk: he gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that holds every marketing send for 60–90 days, then asks his permission again. Distress, fixation, or checking many times a day ends the sale for a referral conversation. A signal on the Fit Check, the plain-language check before any paid step, pauses it, and a minor ends it. The chain serves the screened, good-fit buyer who can pay, and stop rules sit above it.
+Some no's mark a link you never work on: money he's said he can't spare, distress, a signal on the Fit Check, the plain-language check before any paid step, or a minor. The chain serves the screened, good-fit buyer who can pay, and stop rules sit above it.
 
 ### The chain runs past the sale
 
@@ -144,7 +136,7 @@ What you never say is that nobody sticks with this on their own, which answers a
 
 ### Two limits come before any check
 
-A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date. Every stop rule ends the work on links entirely. Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. Whatever the stop, the card reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
+A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date. Every stop rule ends the work on links entirely. "I can't afford it" gets the Starter Path, the free path for anyone who shouldn't buy now, and the pause route, a tag that holds every marketing send for 60–90 days, then asks his permission again. Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. Whatever the stop, the card reads "stopped: stop rule" and nothing more, because a stored reason gets used, which is why the pause route records none (Module 5).
 
 **When the signals disagree.** Say Sam *(composite, Ambivalent)*, 22, an apprentice electrician who keeps deferring, says he'll start "after the busy season", a Now sign. Earlier he mentioned restarting [his routine] [three] times this year and dropping it by week [3] each time, a Self sign. Repair the earlier link first, and when his words and his record disagree, trust the record, because a date laid on a broken Self link buys a start and a week-3 exit. So check Self first: ask what happened the last three times.
 
@@ -200,7 +192,7 @@ When a buyer asks whether it will work, he's asking two things. One is self-effi
 | Men like him: someone his age, with his record and its range | Debated levers at their tier: "people report it; it's unproven" |
 | Praise that follows his record: "[21] of [21] days logged" | Clarity instead of change: "By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you." |
 
-Mastery, watching his own effort register on a record he produced, is the strongest source of that belief, and seeing a man like him do it comes next. Encouragement without a record does little. Keep early wins real and small, because belief pushed past what his week can carry tends to end in overcommitment, then a crash. The Outcome Map caps the right column, so the method's promise is clarity, which you control.
+Encouragement without a record does little. Keep early wins real and small, because belief pushed past what his week can carry tends to end in overcommitment, then a crash. The Outcome Map caps the right column, so the method's promise is clarity, which you control.
 
 ### Bounded agency takes the true part of both loud answers
 
@@ -238,7 +230,7 @@ Each correction fades, so the Canon works by sustained exposure: a few calibrate
 
 ### Sustained exposure holds what single corrections can't
 
-Picture the buyer who never comments. He watches for months and checks your page twice, while the category's content reaches him daily, so what holds him is exposure that doesn't stop. One large field experiment sent short corrections every fortnight for six months, and the corrected beliefs stuck, most of all among people who actually read them. It's one study, but its shape is the Canon's: short, regular, and for months.
+Picture the buyer who never comments. He watches for months while the category's content reaches him daily, so what holds him is exposure that doesn't stop. One large field experiment sent short corrections every fortnight for six months, and the corrected beliefs stuck, most of all among people who read them. It's one study, but its shape is the Canon's: short, regular, and for months.
 
 ### The Canon is short and said in fixed words
 
@@ -254,18 +246,30 @@ That set is the **Canon**: 5–7 calibrated core claims, the Honest Answer first
 
 **Belief change is a subscription, not an event.**
 
-### A schedule turns claims into exposure
+### A claim earns its words before it earns a slot
 
-Each surface carries the Canon on a fixed rotation. Set these defaults once, then adjust them from your comments and link tally:
+Repetition makes any claim feel truer, true or not. That's how "mewing gave me a jawline" came to feel like evidence under thousands of videos, and it works the same way for whatever you repeat. So a claim passes three tests before it enters the rotation.
+
+Its tier sits inside the sentence: claim 1 holds a refusal, a debated middle, and an established yes, and "we see" makes claim 2 an observation from your own conversations. Its words survive the crop you run on a destination sentence, with no caveat outside it and no count that goes stale. And it points to one proof a skeptic can open, like the sample weekly review behind claim 5, so repetition he can check becomes verification. "Your stall isn't genetic" fails the crop, since nobody can say it about every stall.
+
+Choose the set from your link tally, the count of which link broke behind each no. After about 30 link cards, give a claim to every link a broadcast can reach that breaks, and a second to the busiest, with claim 1 fixed first because his search lands on Range. Fewer than five leaves a busy link on one claim, and more than seven comes round too rarely to hold: at one Canon Lane email a month, seven already take seven months.
+
+### Claims change by dated correction, and the rotation by its signs
+
+The words stay set because a hedge about bone in one video and a hint in the next teaches a viewer to trust neither. A claim changes only when the evidence under it moves or it fails the crop in public. The change goes on your log, dated, with the old words, the new ones, and the reason, and a retired claim keeps its line. A silent edit is the tell a skeptic hunts. A correction on the record is a signal a grifter can't afford.
+
+The rotation follows one rule: claim 1 on every entry surface, each other claim at least every four to six weeks, and a resurfacing myth's claim first for about two weeks:
 
 | Surface | Which claims | How often |
 |---|---|---|
-| Long-form | Claim 1 wherever the category's search terms apply, plus [one or two] others per piece | Each claim at least once every [four to six] weeks |
-| Short-form | One claim per piece, cycling through all seven | At 4–7 pieces a week, each claim returns roughly every week or two |
-| Email | The Canon Lane, a low-frequency lane that cycles through every claim (Module 26) | [One claim per send] |
+| Long-form | Claim 1 in every piece the category's search terms reach, plus [one or two] others | Each other claim at least every 4–6 weeks |
+| Short-form | One claim per piece, cycling through all seven; claim 1 in every piece built on the search terms | At 4–7 pieces a week, each returns every week or two |
+| Email | The Canon Lane, one claim per send to every subscriber but paused leads, from your first graduation (Module 26) | About monthly |
 | Calls and check-in replies | Claim 1 whenever Range comes up; the claim for the link you confirmed | Every time, in the claim's words |
 
-When a myth resurfaces, like a viral jaw claim or a new device, move the claim that answers it to the front on every surface for [two weeks]. Each claim is said at its tier, has one proof asset a skeptic can check, and changes only when the evidence does, as a dated correction in your public log. Five to seven is a working range: fewer leaves a link unmaintained, and more means no claim comes round often enough to hold.
+Run it on Cole (composite operator) at his month-[9] quarterly review. Cause led his last [~30] link cards. Door answers named a [new chewing device] [five] times in a fortnight. And comments were quoting his sign-off, "measure it and you'll see", back to him as a promise about their jaws. He reads the device as a resurfacing myth, so claim 1 leads everywhere for about two weeks. Cause is a weighting change, so claim 2 takes its long-form slot every four weeks.
+
+The sign-off is the hard read. Any line said often enough works as a claim, and this one fails the crop. He retires it by dated entry, "[date]: retired, read as a promise about your face; claim 5 carries the idea", and ends each short on its own claim. Left alone: every Canon claim's words, the Canon Lane's pace, and the size of the set.
 
 ## Worked Example: Dan, Link by Link from First Video to Renewal
 
@@ -311,31 +315,32 @@ Fill one in after every no that isn't a stop rule, and after every check-in whos
 
 ### Belief sentences by link
 
-A belief sentence is the before-and-after belief an asset is built to move, tagged with its link (Module 18). The sign in his words is the before, and the belief that holds the link is the after:
+A belief sentence is the before-and-after belief an asset is built to move, tagged with its link (Module 18). The before is the sign he gives for that link, word for word, and the after is the belief that holds it:
 
-| Asset | Link | Before | After |
-|---|---|---|---|
-| A stall told back | Cause | "Maybe I'm just not disciplined enough." | "Nothing I did was measured, and that's findable." |
-| The Honest Answer | Range | "Adults can't change anyway." | "Some things are set, some can move, and I can find out which." |
-| A sample weekly review | Vehicle | "I can do this myself with free videos and a spreadsheet." | "What I was missing is someone reading my record." |
-| The Verify Page | Guide | "How do I know you're not one more channel selling a jawline?" | "He tells me what he won't claim, and I can check it." |
-| A client's first month, told with his log | Self | "I always quit after a few weeks." | "A man like me kept going once he could see it working." |
-| The next-start announcement | Now | "I'll start after the busy season." | "There's a real start on [date], so my decision has a day to land on." |
-| The week-12 re-assessment | Hold | "I've done my 12 weeks. I'll keep it going myself." | "One marker is still climbing, and I want to protect it." |
-| A guide worth forwarding | Share | "I'm not telling anyone I did this." | "Passing this on makes me look careful." |
+| Asset | Link | After |
+|---|---|---|
+| A stall told back | Cause | "Nothing I did was measured, and that's findable." |
+| The Honest Answer | Range | "Some things are set, some can move, and I can find out which." |
+| A sample weekly review | Vehicle | "What I was missing is someone reading my record." |
+| The Verify Page | Guide | "He tells me what he won't claim, and I can check it." |
+| A client's first month, told with his log | Self | "A man like me kept going once he could see it working." |
+| The next-start announcement | Now | "There's a real start on [date], so my decision has a day to land on." |
+| The week-12 re-assessment | Hold | "One marker is still climbing, and I want to protect it." |
+| A guide worth forwarding | Share | "Passing this on makes me look careful." |
 
 ### The canon worksheet
 
-Keep one row per claim, checked in your quarterly review. Two rows, filled in:
+Keep one row per claim, checked at your quarterly review. In your own copy, add its rotation slot and the date it last changed, with the evidence that moved it:
 
-| Field | Claim 1 | Claim 5 |
-|---|---|---|
-| Claim | The Honest Answer's three sentences, word for word | "By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you." |
-| Link | Range | Guide |
-| Tier | A refusal, a debated middle, an established yes | A process fact you control |
-| Proof | The Honest Answer video; the Outcome Map on your site | The sample weekly review; the non-response clause in your terms |
-| Rotation | Every surface the search terms reach, every time | Long-form [every four to six weeks]; short-form each cycle; the Canon Lane |
-| Last changed | [Date], and the evidence that moved it | [Date], and the evidence that moved it |
+| Claim | Link | Tier | The proof he can open |
+|---|---|---|---|
+| 1 · the Honest Answer | Range | A refusal, a debated middle, an established yes | The Honest Answer video; the Outcome Map on your site |
+| 2 · direction | Cause | An observation from your own conversations | A stall told back from anonymized patterns |
+| 3 · what gets measured | Vehicle | A process fact | Your published review day and capture dates and conditions |
+| 4 · the reader | Vehicle | A process fact | The sample weekly review |
+| 5 · week 6 and week 12 | Guide | A process fact you control | The sample weekly review; the non-response clause in your terms |
+| 6 · the face and the record | Guide | A process fact | Your public statement that your face proves nothing; the dated log |
+| 7 · how people read you | Range | Educational | One face under two lights and two distances, on a consenting volunteer |
 
 ## Stage Notes
 
@@ -345,7 +350,7 @@ Keep one row per claim, checked in your quarterly review. Two rows, filled in:
 
 **Growing.** Conversion binds, so links have to be repaired before the call instead of on it: move each repair earlier, to the result page, the welcome emails, and the offer page. The trap is tagging everything Range because the Honest Answer performs, while Self keeps breaking in week 3.
 
-**Scaling.** Care minutes bind, so most repair runs without you: the Canon at volume, templated replies, and enrollment without a call. Review the Canon's rotation and the link tally every quarter. The trap is automating a repair that needs you, like the third verdict or a Self repair at a plateau.
+**Scaling.** Care minutes bind, so most repair runs without you: the Canon at volume, templated replies, and enrollment without a call. The trap is automating a repair that needs you, like the third verdict or a Self repair at a plateau.
 
 ## Standard Check
 
@@ -362,8 +367,6 @@ Keep one row per claim, checked in your quarterly review. Two rows, filled in:
 - Corrections fade, so repeat calibrated claims on a schedule; efficacy drives behavior, and stakes only aim it.
 - Repair the earliest broken link first, trust his record over his words, and let stop rules end the work.
 - Raise self-efficacy hard, cap the method at the Outcome Map, and make "misdirected" earn its label.
-
-**The link card.** Stop rule? "Stopped: stop rule," nothing else. Otherwise: his words → sign → one check → confirmed or cleared → repair → outcome.
 
 | Link | Repaired by |
 |---|---|

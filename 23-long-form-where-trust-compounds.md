@@ -61,27 +61,17 @@ A surface isn't a stage for views. It's a place where one kind of work gets done
 
 ## 2. Why Long-Form Compounds
 
-Long-form pieces keep working after the week they ship, carry a clickable path inside the piece, and hold a skeptic long enough to hear you reason. So long-form earns the most hours per piece.
+Long-form pieces keep working after the week they ship, carry a clickable path inside the piece, and hold a skeptic long enough to hear you reason. So long-form earns the most hours per piece, and most of its return arrives from pieces you've stopped watching.
 
 ### Search and suggested feeds keep a piece at work
 
-An adult with a decision question types it into search: too late at 24, worth doing after braces, a year with nothing to show. Those questions don't expire, so a piece that answers one keeps getting found for months or years. Suggested feeds weigh whether viewers were satisfied more than whether they clicked. A piece that satisfied adults keeps reaching adults, and one that satisfied teenagers keeps reaching teenagers.
+An adult with a decision question types it into search: too late at 24, worth doing after braces, a year with nothing to show. Those questions don't expire, so a piece that answers one keeps getting found for months or years. Suggested feeds weigh whether viewers were satisfied more than whether they clicked, so a piece that satisfied adults keeps reaching adults, and one that satisfied teenagers keeps reaching teenagers.
 
-### The path sits inside the piece
-
-A long-form piece carries clickable links in its description and pinned comment, beside the ask you say aloud. A short carries one link, to a piece on your own channel, and feed posts mostly send people to a profile first. From long-form, a viewer's first click lands on your door's age question, so the shortest path also sorts out minors before anything is kept.
-
-Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10. A door page matched to the piece, a spoken ask mid-piece that's also pinned, and decision-stage topics push it up. Those are the questions of a man who has tried something and is choosing what to do next. A generic freebie and teen-heavy traffic pull it down.
-
-Count per engaged view, a view where he kept watching past the first seconds. A public count that starts at the first frame swells most on trend and rating content, whose youngest viewers tap and swipe on.
-
-### Presence carries trust over sustained attention
-
-A skeptic trusts a claim more when he watches its maker reason through it, and long-form holds him long enough to watch. A message that raises the other side and answers it persuades slightly better than a one-sided one, but only when the answer lands, and that takes minutes a caption doesn't have. In one lab's experiments, reasoning heard in the speaker's own voice also seemed more thoughtful than the same words in text. That's presence over pedigree: sustained presence and visible standards carry the trust a credential only claims (Module 15).
+Each of those viewers meets a path inside the piece: links in the description and pinned comment beside the ask you say aloud, opening on your door's age question before anything is kept. Plan on 2–5 raw leads per 1,000 engaged views early, inside a wider 1–10, counting only views where he kept watching past the first seconds. Decision-stage topics, a matched door page, and a spoken ask that's also pinned push it up, while a generic freebie and teen-heavy traffic pull it down. The minutes he stays are also the minutes he watches you reason. That's presence over pedigree: sustained presence and visible standards carry the trust a credential only claims (Module 15).
 
 ### Half-life decides the hours per piece
 
-Half-life budgeting sets an asset's hours by how long it keeps working times how directly its viewer can click to your door. The surfaces compare like this:
+Half-life budgeting sets an asset's hours by how long it keeps working times how directly its viewer can click to your door:
 
 | Asset | How long a piece keeps working | Its path to the door | Hours per piece |
 |---|---|---|---|
@@ -92,9 +82,24 @@ Half-life budgeting sets an asset's hours by how long it keeps working times how
 
 **Hours follow half-life times the path.**
 
-In this niche, half-life and yield point the same way. A trend piece dies within weeks and pulls the youngest viewers while it lives, while the bone question and the stall questions adults ask keep being searched for years. So the piece that lasts is usually the piece that sells.
+In this niche, half-life and yield point the same way. A trend piece dies within weeks and pulls the youngest viewers while it lives, while the questions adults ask about bone and stalls keep being searched for years. So the piece that lasts is usually the piece that sells.
 
-Half-life budgeting sets the hours per piece, and the binding constraint sets how many pieces. Early, reach binds, so short-form gets about 3.5 hours a week for 4–7 native pieces, and long-form about 2.5 hours a week for one piece every other week. As long-form's search traffic builds, the weight shifts toward it.
+### Compounding shows up in old pieces
+
+Read each piece by where its views come from, because a piece that compounds looks ordinary in its first week. After its first month it draws most of its engaged views from search and suggested feeds, and its monthly views hold or rise while a launch spike decays toward zero. Across the channel, the sign is the back catalog's share: the eligible leads each month that arrive through links on pieces older than a quarter. That share starts at zero and should climb through the first year, which is why a steady cadence beats a chased upload.
+
+At each quarterly Operator Review, read three lines per piece from the platform's report and its tagged link: its search-and-suggested share, its monthly engaged views, and its eligible leads per 1,000 engaged views. Most pieces earn no change, since each change makes the feeds re-learn whom a piece satisfies. A few earn one:
+
+| Two quarterly reads in a row show | The read | The default move |
+|---|---|---|
+| Search impressions steady, click-through below your usual | The title no longer matches the question, or a newer piece outranks it | Retitle once, and let the platform's title test judge it on watch time |
+| Views steady, yield falling, more door starts under 18 | Its package drifted toward the teens a suggested feed found | Age up its title and thumbnail |
+| A claim it quotes changed, or its price segment is stale | The piece now says something untrue | Swap the segment or re-film that section the same week |
+| Search share and views falling, yield steady | Fewer adults ask this question | Leave it, and build the next piece on what door answers ask now |
+
+A refresh never adds a date or an "updated" label, since an evergreen piece points to the page for the next start and its last day to join.
+
+Cole *(composite operator)* runs the read at his month-[9] review. His first piece, the Honest Answer, his straight answer on bone, now draws [~75%] of its views from search and suggested feeds, and its monthly views have climbed from [~1.1k] to [~1.6k] at a steady [~2] eligible leads per 1,000. It compounds, so he leaves it. His stall piece, "Eight months in and nothing to show", holds its search impressions, but its click-through has slid from [~6%] to [~3%] over two reads since a larger channel posted a near-identical title. He retitles it once, "[24, eight months in: what your logs can't tell you]", and the title test keeps the new package on watch time. Pieces older than a quarter now bring [about half] of long-form's eligible leads. Left alone: every other piece, and any re-upload, which would start the feeds' learning from nothing.
 
 ## 3. Packaging for Adults
 

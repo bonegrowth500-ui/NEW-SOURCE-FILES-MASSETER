@@ -19,3 +19,8 @@
   - 24's short-form recipe sits in §3 and §6.
   - Transitions move to the first client's week 7 or later (R3-11); weeks 4–8 cite 16 §4 for Origin and the Stall Told Back only.
 - "(Intro)" pointers the Intro must hold: the House Standard, the Dignity Check, the Hostile-Screenshot Test, the Payoff Test (see the 4.1 logs for locations).
+
+## For 4.3 (reconciliation)
+- 'Stop Rules' capitalized when naming the set (◆ framework); lowercase 'a stop rule' / 'the stop rule'; 'stopped: stop rule' stays as record text.
+- Clear resolved open issues from summaries 10, 13, 17, 20, 26, 27 (resolved in Part II's 4.1).
+- Run `_build/tools/reconcile.py` (canon, stages, cast, qr, pointer) after 4.2.

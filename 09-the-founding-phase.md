@@ -95,7 +95,7 @@ In your founding months every conversation does two jobs, learning and deciding,
 
 Men in this category have met the free strategy call that turns into a pitch halfway through. Some have met its mirror image, a "research interview" that ends in a checkout link. Either confirms what a burned buyer already believes, so the founding call states both jobs before he picks a slot. You're building the program with its first clients and will ask how he has gone about this, then see whether it fits him. It ends in one recommendation: the founding group, a founding Private seat, "don't buy", a referral, or the Starter Path, your free sequenced path for anyone who shouldn't buy now.
 
-The same page shows your public price range and asks the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" A no books nothing. He gets the free Starter Path, and the pause route is set, the tag that holds every marketing send for 60–90 days.
+The same page shows your public price range and asks the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" A no books nothing. He gets the free Starter Path, and the pause route is set, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once.
 
 That's the **Dual-Purpose Conversation**: a disclosed fit-and-research call of about 45 minutes, with its purpose, the price, and one recommendation stated before he books. With prep and the written recap it costs about an hour.
 

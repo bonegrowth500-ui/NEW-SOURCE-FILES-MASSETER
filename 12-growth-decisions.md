@@ -46,7 +46,7 @@ A guardrail earns its place by showing when a number was moved by a shortcut. Gu
 
 The affordability "no" share should hold steady as price steps up, so a climb after a step says the price has reached past the man it was built for. It counts paid-step applicants who answer no to the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-The zero protects the pause route, the tag that holds every marketing send for 60–90 days after "I can't afford it", a distress answer, or a fit-check pause (Module 5). One send that slips through reopens a conversation he closed, and at solo volume a single one is a breach, never a rate.
+The zero protects the pause route, a content-free tag set by "I can't afford it", a distress answer, or a fit-check pause, which holds every marketing send and blocks checkout for 60–90 days, then asks permission once (Module 5). One send that slips through reopens a conversation he closed, and at solo volume a single one is a breach, never a rate.
 
 ### A number you chase stops measuring
 

@@ -77,11 +77,11 @@ Program Async is the tier that lets the Program cross. It keeps the same written
 
 The order of checks keeps both tiers honest and keeps the core buyer out of the pause. Your recommendation names the rung, the Program's 12 weeks. The card shows its two tiers side by side, premium first, with both prices and the one difference, the live call. He picks the tier his own pocket can carry, so a man who can carry $2.8k is never walked to a $3.9k checkout to fail it. Then the affordability question asks about his pick, in words that never change: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
 
-A no there, or on the call, still ends money talk for every tier. He gets the Starter Path once, the free sequenced path for anyone who shouldn't buy now. The pause route follows, a tag that holds every marketing send for 60–90 days. Program Async is never offered after that no. It opens through the standing door: the result page, the written plan, and the next start's regular announcement. It carries no window price, since a tier sold as an event is a launch. Because it exists only at Scaling, no default Early or Growing sample plan recommends it.
+A no there, or on the call, still ends money talk for every tier. He gets the Starter Path once, the free sequenced path for anyone who shouldn't buy now. The pause route follows, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. Program Async is never offered after that no. It opens through the standing door: the result page, the written plan, and the next start's regular announcement. It carries no window price, since a tier sold as an event is a launch. Because it exists only at Scaling, no default Early or Growing sample plan recommends it.
 
-### The mix moves by state, and age is read as it lands
+### The mix moves by state, with the age mix read as an observed result
 
-Crossing works only if the buyers the new price was built for are already arriving, so the mix moves first. Keeping a real tier under the ceiling while the mix shifts by state and age, through what you publish and how you package it, is the **Buyer-Mix Shift**. It has three levers:
+Crossing works only if the buyers the new price was built for are already arriving, so the mix moves first. Keeping a real tier under the ceiling while the mix shifts by state, through what you publish and how you package it, with the age mix read as an observed result, is the **Buyer-Mix Shift**. It has three levers:
 
 - **Minors' share.** The Age-Up Dial's packaging choices lower the minors' share and never aim at an adult age band: adult contexts, calm thumbnails, decision-stage topics (Module 23).
 - **State.** Decision-stage topics like [what a week of review looks like] speak to the man who has tried and is choosing.
@@ -349,7 +349,7 @@ Read it monthly beside your other stage numbers: five numbers and two guardrails
 |---|---|
 | **The Parity Rule** | Sell below the flagship's revenue per care hour only while minutes are spare |
 | **The Premium Lane** | Give the Optimizer one public path: priority tier, founding Private seats, Private at parity |
-| **The Buyer-Mix Shift** | Cross the ceiling with a real tier under it and a mix moved by state, with age read as it lands |
+| **The Buyer-Mix Shift** | Cross the ceiling with a real tier under it and a mix moved by state, with the age mix read as an observed result |
 
 **Leans on:** the Demand Equation (Module 1) · the Dated Record (Module 3) · the Self-Serve System (Module 4) · the Three Ceilings and Price Steps (Module 7) · founding Private seats (Module 9) · the LTV Stack (Module 10) · the Build Queue (Module 11) · the Age-Up Dial (Module 23).
 

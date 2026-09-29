@@ -140,7 +140,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | Part | Modules | 4.1/4.2 agent | 4.1 | 4.2 | 4.3 |
 |---|---|---|---|---|---|
 | I | 01–03 | a69397451ac2b294c | ✅ (53 fixes; 22,562→22,666 w) | rebuilding | — |
-| II | 04–08 | ae99d68d8580404c2 | reading | — | — |
+| II | 04–08 | ae99d68d8580404c2 | ✅ (63 fixes; 37,497→38,049 w) | rebuilding | — |
 | III | 09–13 | addd2084fdea6cac5 | ✅ (62 fixes; 38,109→38,252 w) | rebuilding | — |
 | IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | rebuilding | — |
 | V | 18–22 | abf82a230c415badb | ✅ (42 fixes; 37,722→37,963 w) | rebuilding | — |
@@ -153,3 +153,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 4.1 V: 08 seat reason → 18's wording; 02/05 pause glosses → the canonical gloss (FRAMEWORKS now: 'holds every marketing send and blocks checkout for 60–90 days, then asks permission once'); 05 routing → R3-35; FRAMEWORKS protective stop adds 'a minor's leaves nothing'. Composite continuity ruling added to DRAFTING (sketches fixed; events per module unless explicitly continued; Intro states it). 20 → 21 → 22 now follow one April start.
 - 4.1 III: 01 month-8 read → Call Cap fires on volume (cap stays [6]; sent to Part I). Bible: DRAFTING parity ruling corrected ($25k both below; $50k Round Two above, Hold just below until ~$72–80); BUSINESS door diagram pause = no marketing sends, checkout blocked; FRAMEWORKS alumni status = dated record fact; Buyer-Mix Shift = state lever + minors' share, adult age mix observed; Founding Sprint adds no-call source question; LEDGER B derived: $3.1k Program ≈ $900–1,190 per care hour.
 - 4.1 I: 05 sample plan renamed '[first name], 26' with a column verdict (not 'misdirected'); 07/08/12/13 pause glosses → canonical; 13 L82/L84/L352 Buyer-Mix wording → 'by state, with the age mix read as an observed result'; 04 Leans on adds Module 1. 01 month 8 now fires the Call Cap on volume ([9–10] held a week; cap [6]); Cole's warm messages in weeks 1–2 (09).
+- 4.1 II: 'Stop Rules' capitalized when naming the set (◆), lowercase for one rule; sweep in 4.3. Cole's year-1 price path: 08's brackets align to 07's (07 owns price); canonical path to be logged for 28. Stale open issues in summaries 10, 13, 17, 20, 26, 27 cleared in 4.3. All six Parts through 4.1 (total fixes 312).
