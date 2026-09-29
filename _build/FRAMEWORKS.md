@@ -218,7 +218,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | the fit conversation | The free, disclosed first conversation, held open up to the Call Cap | 05 |
 | the Decision Assessment · the priority tier | The paid, credited written plan, worth its fee without buying · its faster version with a recorded walkthrough | 05 |
 | the written plan | The assessment's deliverable: the verdict with reasons, a measurement setup, what to stop spending on, which levers matter, one recommendation, a re-check date | 05 |
-| the pause route | A content-free tag that holds every marketing send for 60–90 days, then asks permission again | 05 |
+| the pause route | A content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once | 05 |
 | the signal pause | What a fit-check signal triggers: no same-day payment, adjusted expectations in writing, a cooling-off gap of at least 72 hours, no payment plan, and the fit window from day one of delivery | 05 |
 | speed to lead | Personal reply within hours → booked within 24–48 h → reminded → held | 05 |
 | age fork · education lane | "Legal adult where you live" · public content and a referral for under-18s, with no data kept | 05 |
@@ -254,7 +254,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | Points for Process, Ranges for Results · the Proof Stack · Integrity Levels | Fixed facts as points, outcomes as tight ranges · proof matched to the doubt, published on a pre-committed schedule · three levels of before/after discipline: Matched (same capture conditions: compare), In context (who, what else changed, timeline, and capture conditions attached: show), Placed (shown within the published range and its denominator: claim) | 16 |
 | Earned Labels · measurement rituals · the Identity Threshold | Labels rest on his record · the review-and-decision moments at baseline, re-captures, and graduation · committing costs identity as well as money | 17 |
 | One Ask per Asset · the belief sentence · the Click Contract · the Page Sequence · the Conversation-to-Content Loop · respect without demand · price with delivery math | One primary ask per asset · before/after belief, tagged by link · every hook is a promise · promise → frame → path → trust → next step · objections become content · content that earns respect but no pull · itemized delivery and the seat cap, never minutes | 18 |
-| protective stop | A stop rule that protects him (money he said he can't spare, distress, a fit-check signal, a minor): it leaves only "stopped: stop rule" on record | 19 |
+| protective stop | A stop rule that protects him (money he said he can't spare, distress, a fit-check signal, a minor): it leaves only "stopped: stop rule" on record, and a minor's leaves nothing | 19 |
 | the Decision Date · the Follow-Up Rule · the Selling-Skill Loop · the objection map | His personal date, on or before the next real decision point (a start's last day to join, or an announced step) · recap within 24 h, one check-in, one close-the-loop · recorded, scored calls and an objection log · the niche's deciding objections, by link | 19 |
 | the result page · threshold continuity · the paid group decision session | The first sales conversation · the decision moment feels like the same mind · "cohort walkthrough and Q&A; the offer and price are inside" | 20 |
 | the Alliance Check · Never Miss Twice | Does he feel heard, and does the work fit his goal? · reward the comeback, not the streak | 21 |
