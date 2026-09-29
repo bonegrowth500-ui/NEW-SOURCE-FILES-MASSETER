@@ -23,7 +23,7 @@ The back end leaks the same way: about 8–9 graduates a month finish week 12, a
 
 One-to-one can't carry that count either. At 45–75 minutes per client-week it caps revenue around $5–20k a month in 12–14 delivery hours (Module 1). So the flagship is a group program built on weekly review, and one-to-one survives only as a premium seat.
 
-The opposite instinct, more offers for more revenue, fails here for a different reason. Information in this category is priced near zero by e-books, free videos, and rating apps, so a cheap product competes with free and mostly loses. Each extra offer also needs a page, a checkout with the age and affordability checks, and support minutes. Worst, it breaks the one recommendation: a burned buyer who hears "it depends which package" hears the upsell pattern he came to you to escape.
+The opposite instinct, more offers, fails too. Information in this category is priced near zero by e-books, free videos, and rating apps, so a cheap product competes with free and mostly loses. Each extra offer also needs a page, a checkout with the age and affordability checks, and support minutes. Worst, it breaks the one recommendation: a burned buyer who hears "it depends which package" hears the upsell pattern he came to you to escape.
 
 | Shape | What breaks first | Why it breaks here |
 |---|---|---|
@@ -111,7 +111,7 @@ Use the shape to place any new offer before it gets a page, asking three questio
 2. Does it do a job that no rung in that slot already does? If so, it's a new rung, with its own page, its job sentence, and a trigger for opening.
 3. Is it an existing job at another dose of review, speed, or live access, called for by a buyer state, the cash ceiling, or your minutes? If so, it's a tier. If it differs only by content or a promised result, it's a no.
 
-Run the test whenever you add, reprice, or retire an offer, and once a quarter when you review your numbers. The default is one flagship, with Private and Program Async as its tiers once the Optimizer's state or the cash ceiling calls for them (Module 13), and nothing on sale without a slot. Keep each buffer a buffer. Assessment fees and Round Two stay small lines at $25k because their job is protecting the flagship.
+Run the test whenever you add, reprice, or retire an offer. The default is one flagship, with Private and Program Async as its tiers once the Optimizer's state or the cash ceiling calls for them (Module 13), and nothing on sale without a slot. Keep each buffer a buffer. Assessment fees and Round Two stay small lines at $25k because their job is protecting the flagship.
 
 **When the signals disagree.** Say a [template pack] you added in month [5] at [$37] sells [20–30] copies a month and brings in [$700–1,100], a real share of an Early month. Revenue says keep it, and the test says it has no rung. It serves the net's condition, but the net's paid rung waits for about 20 graduates, and until then each sale is a Struggler buying templates instead of review. Count its support emails, the checkout checks it needs, and the content slot it takes.
 
@@ -123,7 +123,7 @@ Rungs switch on by stage, because each needs something upstream to feed it and m
 
 **A rung switches on when the rung before it can feed it and your week can price its minutes.**
 
-That's the **Rung Activation Schedule**. The months show where its triggers tend to land in Band B, the steady reach you should plan on. The trigger decides and the month only estimates it, and in Band B the paid overflow usually waits past month 9, since calls there rarely pass the cap's volume in year one:
+That's the **Rung Activation Schedule**. The months show where its triggers tend to land in Band B, the steady reach you should plan on. The trigger decides, and the month only estimates it:
 
 | Months | Switch on | The trigger | Leave off |
 |---|---|---|---|
@@ -136,7 +136,7 @@ Three offers that look early start at month 0 on purpose, since each has a trigg
 
 The Starter Path starts at month 0 too, free and tool-free, because the first "I can't afford it" can arrive in your first week. Every paid rung gets a public page the day it opens, naming who it's for, who it isn't for, its price, and one next step. Your decision-stage videos carry a pitch section for the flagship by default, price included (Module 18). From Growing, one ladder page shows every paid rung, premium first.
 
-A founding page reads premium first, the founding Private seat, then the founding group with its next price stated, then the priority tier, because hiding a real tier fails a buyer as surely as pushing one on him. The Optimizer who never sees the priority tier waits a week for a free slot he'd have paid to skip.
+A founding page reads premium first too, because hiding a real tier fails a buyer as surely as pushing one on him. The Optimizer who never sees the priority tier waits a week for a free slot he'd have paid to skip.
 
 The months move with your band. In a breakout band calls can bind by month 6, so the overflow arrives early. In Bands A and B it may not arrive in year one, which costs nothing, since it only receives what the Call Cap can't hold. The schedule also runs backward without a decision. After a quiet quarter fewer buyers overflow the cap, and the paid assessment goes quiet by itself.
 
@@ -152,7 +152,7 @@ Five offers do their damage by arriving before their trigger:
 | Program Async before the Program passes ~$3.2k | A cheaper copy of your flagship at a price the core buyer can already carry |
 | The paid overflow while reach binds | Fewer conversations while every one counts |
 
-Community on this ladder follows Community Options, the paid-community choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted. A free community never switches on, at any stage.
+Community on this ladder follows Community Options, the paid-community choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted.
 
 ## 5. The Starter Path and the Self-Serve System
 
@@ -195,7 +195,7 @@ When he does come back, his Starter logs become his Week-Zero Baseline, the pre-
 
 The net's paid rung opens at about 20 graduates, the point where paid self-serve products are allowed, and not before. Its job fits in one sentence, a kit for keeping his own record without review, and it comes in two tiers. The Starter tool at $27–97 is the path's own logs, capture guide, and self-check sheets, ready-made. The Self-Serve System at $97–297, one time, adds the full Capture Standard kit, self-review prompts, and walkthroughs.
 
-The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. It stops where judgment starts, with no stall rules. Their page says plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
+The Starter tool is priced low because it holds nothing the free path doesn't, so he pays only for the hours of building it himself. The Self-Serve System costs more because it carries more tools. Their page says plainly that nothing on the path is withheld. Until the trigger, the founding group uses plain versions of the same sheets and shows you what the tools need.
 
 As two tiers of one rung, the tools share that one public page, premium first, for a man who wants to keep his own record. A Struggler who wants a decision on his goes to the door instead. The page is never linked from the path or pitched in its touches, and it's never a fallback when a graduate declines the Hold. Its checkout embeds the age attestation, the affordability question, and the Fit Check. A checking or fixation signal means no capture tools are sold at all.
 
@@ -207,7 +207,7 @@ Package what he'll receive and when, never what he'll learn, because in this cat
 
 **baseline day → weekly written review → the week-6 read → the week-12 re-assessment → graduation → Round Two, the Hold, or a clean finish.**
 
-The method stays inside the review as your [weekly habit block] and [first adjustment], and the Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts the journey in front of him before any payment.
+The method stays inside the review as your [weekly habit block] and [first adjustment]. The Path and Timeline Card, the one-page view of the whole path and its likely total cost, puts the journey in front of him before any payment.
 
 ### A name is a claim, made every time it's read
 
@@ -249,7 +249,7 @@ What's left is a ladder a skeptic can read on one screen. A buyer who understand
 
 ## Worked Example: Cole's Ladder at Month 0 and Month 9
 
-Cole starts in January with about 20 hours a week and a channel that grows steadily, which puts him in Band B, the steady band. Here is his ladder at both ends of his first nine months, with the reads between them.
+Cole starts in January with about 20 hours a week and a channel that grows steadily, which puts him in Band B, the steady band.
 
 **Month 0, January. The read: nothing upstream exists yet.** So only rungs that need nothing upstream switch on, and each gets its job sentence before its page goes live. His first working door runs a self-assessment with an age fork, the legal-adult question, and books a free, disclosed fit conversation. His founding page shows [one founding Private seat at ~$4–6k] first, then the founding group at [~$1.2–1.5k] with its next price stated, and the priority tier at [~$350–600]. The Starter Path is a page and [three] templated check-ins, free and tool-free.
 

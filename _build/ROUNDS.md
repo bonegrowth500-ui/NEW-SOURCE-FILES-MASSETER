@@ -142,7 +142,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | I | 01–03 | a69397451ac2b294c | ✅ (53 fixes; 22,562→22,666 w) | ✅ (→22,921 w) | — |
 | II | 04–08 | ae99d68d8580404c2 | ✅ (63 fixes; 37,497→38,049 w) | rebuilding | — |
 | III | 09–13 | addd2084fdea6cac5 | ✅ (62 fixes; 38,109→38,252 w) | ✅ (→38,276 w) | — |
-| IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | rebuilding | — |
+| IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | ✅ (→30,594 w) | — |
 | V | 18–22 | abf82a230c415badb | ✅ (42 fixes; 37,722→37,963 w) | ✅ (→38,401 w; 18, 19 within 10 w of cap) | — |
 | VI | 23–27 | a90ab35f1cbff6822 | ✅ (45 fixes; 37,551→37,539 w) | ✅ (→38,217 w) | — |
 

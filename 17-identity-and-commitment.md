@@ -54,7 +54,7 @@ The group he joins has to be defined by something he does, because every group t
 
 ### A practice anyone can check defines the group
 
-An identity he can act out on a bad Tuesday is the kind still present when the difficulty arrives, and an identity his record builds is the kind a certain, skeptical self-view has to accept. So define the group by three things he can do and anyone can check. He keeps a log, he captures on schedule, and he makes decisions from what the record shows. Nobody buys his way in, nobody is kept out by a screen he failed, and nobody's face decides anything. Every member was guessing until the week he started measuring.
+An identity he can act out on a bad Tuesday is the kind still present when the difficulty arrives, and an identity his record builds is the kind a certain, skeptical self-view has to accept. So define the group by three things he can do and anyone can check. He keeps a log, he captures on schedule, and he makes decisions from what the record shows. Nobody buys his way in, nobody is kept out by a screen he failed, and nobody's face decides anything.
 
 **Logs kept, captures on schedule, decisions made from the record.**
 
@@ -80,7 +80,7 @@ The operating rule: say the phrase about what a man does, and about who he is on
 - **The check-in's header.** "Adults who measure, week [N]: what your record says."
 - **A content line.** "If you'd rather measure than guess, start with seven days of writing down what you already do."
 
-Keep it from drawing a line between members and outsiders. Guessing is the idea you fight, and the men still guessing are future members. Mockery crosses the line on shame, and it's bad arithmetic too, since the man you mock for guessing this year is the adult who'd have enrolled next year. And keep it off manhood. "Real men measure" or "real men don't quit" turns every missed day into a verdict on his worth, and shame shuts people down. Maya *(composite, welcome, not targeted)*, 28, a product designer, is a member on the same terms, which keeps the identity where it belongs, on adults and their records.
+Keep it from drawing a line between members and outsiders. Guessing is the idea you fight, and the men still guessing are future members. Mockery crosses the line on shame, and it's bad arithmetic too: the man you mock this year would have enrolled next year. And keep it off manhood. "Real men measure" or "real men don't quit" turns every missed day into a verdict on his worth, and shame shuts people down. Maya *(composite, welcome, not targeted)*, 28, a product designer, is a member on the same terms, which keeps the identity where it belongs, on adults and their records.
 
 ## 3. Earned Labels and Measurement Rituals
 
@@ -118,7 +118,7 @@ Status can run at full strength here on two conditions. He can read, before it m
 | A board place | "Opt in once your fit window closes. Places go by check-ins sent on time and captures kept on their dates, the board freezes for the 7 days after your week-6 read, and leaving never shows." | The group's rules |
 | Alumni status | "Graduation: you reached week 12. It's a fact in your record, whatever your markers did." | The Program's terms |
 
-Founding status belongs to clients of the founding group, every early client in one group from the first. Each hears about it only after enrolling, since on the founding page it would be a bonus that ends with a window, and it never depends on his consent to share his record.
+Founding status belongs to clients of the founding group, every early client in one group from the first. It stays off the founding page, where it would be a bonus that ends with a window, and never depends on his consent to share his record.
 
 An exit keeps all of it. A client who uses the fit window or the exit right leaves with his record, a closing count of what he did, and his standing as one of the adults who measure. Alumni status stays a fact about graduation, and nobody presents it as something stopping costs him. No room or board mentions who left.
 
@@ -250,7 +250,7 @@ Cole (composite operator) is in Band B, the steady band, two months in, with the
 
 Then the hard true thing, aimed at the guessing: "You've spent eight months doing this without knowing whether it works. That's the problem, not you." Cole shows both real tiers premium-first, a founding Private seat with fixed deliverables and then the founding group, recommends the group at [~$1.2–1.5k] from [the 1st], states the price once, and asks. Dan says yes. At checkout the Path and Timeline Card and the Expectation Document, the whole path and its terms, sit above the pay button. He attests, answers "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?", and clears the Fit Check with no signal. Left alone: "you're clearly serious", the photos, and any look at his face.
 
-**The rest of the week. The log keeps counting.** It counts whatever he keeps: [5] of [7], with [his routine] done on [4]. His recap leaves out the capture conditions, because his regular checking puts him on the route and baseline day is [ten] days away.
+**The rest of the week. The log keeps counting.** [5] of [7] days logged, with [his routine] done on [4]. His recap leaves out the capture conditions, because his regular checking puts him on the route and baseline day is [ten] days away.
 
 **Baseline day, [the 1st].** Signs: week zero in his file, [5] of [7] days logged and all of them after [10 pm], plus his eight months written as data. The first decision comes from it: [his routine] moves to [straight after his shift], nothing else changes for [two] weeks, and his markers are signed. The capture Cole sees is the first Dan has taken, to the Capture Standard. A record fact, no label, since his fit window has opened: "Five of seven days logged in week zero, and today's decision came from them."
 
