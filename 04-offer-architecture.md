@@ -366,7 +366,7 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | 6–9 | The paid overflow, when the Call Cap binds |
 | 9+ | By trigger: paid tools, alumni room, Program Async, Private at parity, community options |
 
-**The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. Then the loop. His way back: his own reply or a progress condition, never money.
+**The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. His way back: his own reply or a progress condition, never money.
 
 **The Free/Paid Line.** Information free in full; judgment on his record paid; tools priced as convenience; stall rules applied only in review.
 
@@ -377,6 +377,6 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | **One Flagship, Two Buffers, One Net** | Place any new offer as a tier, a rung, or a no |
 | **The Rung Activation Schedule** | Open a rung only when its upstream can feed it and your week can price its minutes |
 
-**Leans on:** the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · the Week-Zero Baseline (Module 17).
+**Leans on:** the Reverse Funnel and the one-to-one ceiling (Module 1) · the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · the Week-Zero Baseline (Module 17).
 
 **Do this month:** write a job card per rung and retire any offer without a slot; write the Starter Path and its handover versions; put every paid rung on a public page, premium first.

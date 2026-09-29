@@ -303,7 +303,7 @@ Signals are "many times a day", "often" on 2 or 3, a booked consultation, and "[
 >
 > What you told us: "the forward growth the [device] promised", and nothing else for now. Tried: the [device] for [months], and [a course].
 >
-> The verdict: misdirected. Your effort went at bone, and habits don't change an adult's bone, so nothing could show where you looked.
+> The verdict: unmeasured. Nothing you tried was logged or captured the same way twice, so nothing can show what moved.
 >
 > Measurement setup, if you want one: log [habit block A] weekly; captures on your own phone, to the attached conditions, at [date] and six weeks later.
 >

@@ -213,7 +213,7 @@ The limits are about people. Quote-post an argument made in public by someone ar
 
 **When the signals disagree.** A large account quote-posts your Honest Answer, your standing answer to the bone question, with "coach admits nothing works lol", and by evening [several hundred] replies have piled on, some rating your face. Reach says ride it: reply to everyone, quote him back, post a thread while the eyes are there. The lab says a joke isn't an objection. Your door says [five] completions tagged X, [one] of them eligible.
 
-Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. Hide the replies under your own posts that rate faces, yours included. Meet appearance attacks with your face statement's first sentence, word for word: "My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't." A real counter-argument in the noise gets its own thread and a line in the log.
+Go by the door and the Standard. Answer the idea once, in a post of your own, with the claim verbatim beside the strongest honest version of the objection: "if bone won't change, what's left to coach?" Leave the account and the joke out. A real counter-argument in the noise gets its own thread and a line in the log. Hide the replies under your own posts that rate faces, yours included. Meet appearance attacks with your face statement's first sentence, word for word: "My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't."
 
 ## 6. Measuring Each Platform
 

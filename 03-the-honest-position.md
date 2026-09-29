@@ -101,7 +101,7 @@ Sort his history before you mention the offer. Each piece lands in a column, and
 
 The last row is his yes, and a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. His question is what opens that row: had his goal sat wholly in the never-claimed column, the honest recommendation would be "don't buy", because nothing you sell reaches it.
 
-The rest is the burned buyer's route (Module 2): the tiers premium-first, one recommendation, the Program, your 12-week flagship, its price said once, and the affordability question word for word. Then come the verification kit and a date he chooses, and the device money stays out of the recap, because a pitch that leans on money already lost is how he was sold the first time.
+The rest is the burned buyer's route (Module 2): the tiers premium-first, one recommendation, the Program, your 12-week flagship, which runs as the founding group in your first months, then its price said once and the affordability question word for word. Then come the verification kit and a date he chooses, and the device money stays out of the recap, because a pitch that leans on money already lost is how he was sold the first time.
 
 ### Every outcome sentence gets a column
 

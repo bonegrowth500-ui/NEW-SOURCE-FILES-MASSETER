@@ -149,7 +149,7 @@ The second check is the affordability question. It's asked before every paid ste
 
 Each phrase has a job. "Comfortable" asks more than "possible": a man can technically pay by draining next month's rent, and the question exists to catch exactly that. "Your own" rules out money belonging to someone who isn't in the conversation. "Income or savings" means money he has or earns, not money he expects. "Without new credit or buy-now-pay-later" closes the route buyers his age reach for at checkout, where a stretch quietly becomes a debt.
 
-A yes passes this check, and the Fit Check, the plain-language check for fit signals, still runs beside it. A no ends money talk. He gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, handed over once. He also gets the pause route, a content-free tag that holds every marketing send for 60–90 days, then asks his permission once. Money that isn't his goes to the Starter Path too.
+A yes passes this check, and the Fit Check, the plain-language check for fit signals, still runs beside it. A no ends money talk. He gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, handed over once. He also gets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. Money that isn't his goes to the Starter Path too.
 
 The wording never varies by channel. A question that softens in DMs or vanishes at a warm checkout makes that channel the loophole, and automation can only honor an answer it can read.
 
