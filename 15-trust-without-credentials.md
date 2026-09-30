@@ -243,7 +243,7 @@ The route moves where force points, so the table's last row never changes. The l
 | Reflection | His lived costs said back plainly | No missed social moment said back, even one he named as his goal |
 | The ladder | Climb to the destination and ground it in a moment | Stop at knowing instead of guessing |
 | The hard true thing | Aimed at the missing measurement | The same force, aimed at the guessing |
-| Recommendation, price, ask | One firm recommendation, the price once, the ask, a decision date | Unchanged |
+| Recommendation, price, ask | One firm recommendation, the price once, the ask, a Decision Date | Unchanged |
 
 **Change the aim, never the recommendation.**
 
@@ -319,7 +319,7 @@ If he pushes:
 
 Never say "Honestly, I know more about this than most orthodontists," because it claims a credential nobody can verify and swings at the people you refer to.
 
-Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit, the sample plan and sample weekly review, and let him pick his decision date. The affordability question runs word for word before any payment.
+Then return to the decision. Show the tiers premium first and recommend one, the Program from [the next start], with its price stated once. Theo is burned, so hand him the verification kit, the sample plan and sample weekly review, and let him pick his Decision Date. The affordability question runs word for word before any payment.
 
 ### The face statement
 
