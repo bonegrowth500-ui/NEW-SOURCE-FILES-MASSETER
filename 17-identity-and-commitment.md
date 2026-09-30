@@ -224,7 +224,7 @@ Run it on Adrian *(composite, Optimizer)*, 31, a consultant who'd rather nobody 
 
 ### The checkout and the recap put the crossing in words
 
-He usually crosses alone, days after the call, at a pay button, so the words there decide whether the step reads as a confession or a decision. Keep them to lines he met on the way, since a new claim beside the button reads as the category's classic switch. Beside the price and the path he's already read, a buyer with a log reads:
+He usually crosses alone, days after the call, at a pay button, so the words there decide whether the step reads as a confession or a decision. Keep them to lines he met on the way, since a new claim beside the button reads as the category's classic switch. Beside the price, the path, the affordability question, and the Fit Check, a buyer with a log reads:
 
 > "Your record so far: [five] of [seven] days logged. That's the practice, and from [start date] [your name] reads it every week. Only [your name] sees your photos, the charge reads '[a discreet name]', and the group knows you by a handle you choose, camera optional."
 

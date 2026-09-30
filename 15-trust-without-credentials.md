@@ -139,7 +139,7 @@ Attractive people are judged more socially skilled but barely more honest, and i
 
 ### Publish the statement before anyone asks
 
-Put the statement where skeptics look: in the comment policy every pin links to, in your profile, and on the Verify Page. That's the page where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof will come from and when, and the rules you keep. Write it to be true on day one. Before you have graduates, the proof is your pre-commitment's schedule, since client captures stay private and never become public evidence.
+Put the statement where skeptics look: in the comment policy every pin links to, in your profile, and on the Verify Page. That's the page where a skeptic checks what you claim, charge, and refuse (Module 27). It has five parts: what your face doesn't prove, why, what it's for, where the proof will come from and when, and the rules you keep. Write it to be true on day one. Before you have graduates, the proof is your pre-commitment's schedule, since client captures stay private and can't be evidence yet.
 
 The rules make it costly, because each one rules out an ad your face could run, from a jaw-lit thumbnail to reposted praise of your looks. That's **What My Face Does and Doesn't Prove**, the public statement that your appearance is never evidence for the method. An operator who sells with his own jaw can't publish it without retracting his best ad.
 
@@ -247,11 +247,11 @@ The route moves where force points, so the table's last row never changes. The l
 
 **Change the aim, never the recommendation.**
 
-The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed. Your tools store no fit or insecurity answers at all. The route itself lives where a person is talking: on a call, in a reply, in a review.
+The right-hand column is also the default for every automated sequence, because a sequence can't hear who it's talking to. No email, page, or reminder reflects a missed moment to anyone, so no dignity tag is needed. Your tools store no fit or insecurity answers. The route itself lives where a person is talking: on a call, in a reply, in a review.
 
 Run it on Dan *(composite, Struggler)*, 24, who keeps a comparison-photo habit. On the call he says he checks his side profile "a few times a week" and looks weak in every photo, so the route runs. You validate first: it's a rough way to feel, and it makes sense after eight months with no answer. You reflect his stake as another year of guessing and leave out the team photos he named as his goal. Then comes the hard true thing: "You've spent eight months asking a mirror a question it can't answer, and the guessing is what's wearing on you."
 
-The ladder stops at knowing instead of guessing. You show the tiers premium first, recommend the Program, your 12-week flagship, from [the next start], and state the price once. He says yes to the affordability question, asked word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" He says yes to the decision too. In delivery his reviews aim at the record, and if his checking climbs, captures and asks stop and a referral conversation runs.
+The ladder stops at knowing instead of guessing. You show the tiers premium first, recommend the Program, your 12-week flagship, from [the next start], and state the price once. He says yes to the affordability question, asked word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" The Fit Check finds no signal, and he enrolls. In delivery his reviews aim at the record, and if his checking climbs, captures and asks stop and a referral conversation runs.
 
 ### The Dignity Check matters most where the answer is no
 

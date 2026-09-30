@@ -75,7 +75,7 @@ At the decision, each link rests on the ones before it. Until his stall has a ca
 
 The order he meets them in is different. His search usually lands on Range, the bone question, which is why the Honest Answer leads your channel. The order also bends for a burned buyer, one who already paid for a promise of structural change. He can't hear Cause or Range from a voice he hasn't checked, so Guide goes first, on his clock, through samples he can verify.
 
-Some no's mark a link you never work on: money he's said he can't spare, distress, a signal on the Fit Check, the plain-language check before any paid step, or a minor. The chain serves the screened, good-fit buyer who can pay, and Stop Rules sit above it.
+Some no's mark a link you never work on: money he's said he can't spare, distress, a minor, or a signal on the Fit Check, the plain-language check before any paid step. The chain serves the screened, good-fit buyer who can pay, and Stop Rules sit above it.
 
 ### The chain runs past the sale
 
@@ -138,7 +138,7 @@ What you never say is that nobody sticks with this on their own, which answers a
 
 A burned buyer's "I need to think" is due diligence, never a hidden link, so you don't probe it. Give him the verification kit, a sample written plan and a sample weekly review, make one firm recommendation, and let him choose his date.
 
-Every stop rule ends the work on links entirely. "I can't afford it" gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, and the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once (Module 5). Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. A stop leaves only "stopped: stop rule" on the card, and a minor's leaves nothing, because a stored reason gets used.
+Every stop rule ends the work on links entirely. "I can't afford it" gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, and the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once (Module 5). Distress, meaning "everything is ruined" language, fixation, or checking many times a day, gets a referral conversation and the pause route. A stop leaves only "stopped: stop rule" in your notes, and a minor's leaves nothing, because a stored reason gets used.
 
 **When the signals disagree.** Say Sam *(composite, Ambivalent)*, 22, an apprentice electrician who keeps deferring, says he'll start "after the busy season", a Now sign. Earlier he mentioned restarting [his routine] [three] times this year and dropping it by week [3] each time, a Self sign. Repair the earlier link first, and when his words and his record disagree, trust the record, because a date laid on a broken Self link buys a start and a week-3 exit. So check Self first: ask what happened the last [three] times.
 

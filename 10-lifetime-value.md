@@ -114,7 +114,7 @@ Membership churn typically runs 4–8% a month, faster in open, cheap groups and
 
 ### Opt-in at the review is the default
 
-People tend to overestimate how often they'll use a membership they pay for. So a subscription can earn for months from a man who stopped using it. To a buyer who has been sold to before, a forgotten charge reads as the grift he came here to escape. Defaults are also a robust effect, moderate to large in pooled studies and smaller for consequential choices, which is why a hidden one is out. Reid *(composite operator)* met both at once. He added a pre-ticked Hold month to every Program checkout, and sign-ups looked strong. In month [5], two members who didn't recognize the charge disputed it, a count a processor notices at solo volume.
+People tend to overestimate how often they'll use a membership they pay for. So a subscription can earn for months from a man who stopped using it. To a buyer who has been sold to before, a forgotten charge reads as the grift he came here to escape. Defaults are also a robust effect, moderate to large in pooled studies and smaller for consequential choices, which is why a hidden one is out. Reid *(composite operator)* met both at once. He ran a disclosed Hold phase from his first graduation, and sign-ups looked strong. In month [5], two members who didn't recognize the charge disputed it, a count a processor notices at solo volume.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
@@ -127,7 +127,7 @@ People tend to overestimate how often they'll use a membership they pay for. So 
 
 The Hold's deliverables card is one page stating what a member gets, when, and from whom, with its billing terms: a reminder before each charge and a one-click exit. The service guarantee covers every Hold deliverable, and when a week runs long, new members wait rather than a review slipping.
 
-The Hold is offered at graduation to a man whose record moved and at Round Two's week-12 re-capture, never after the clause, a flat read, or an exit. A member who hasn't had Round Two can hear about it at a quarterly re-capture that passes the momentum test. The same affordability question and Fit Check run before the first charge. A checking or fixation signal means no Hold, because its core is a capture, and that man gets a referral and reading-only content instead. A subscription a skeptic can leave in one click asks him to trust nothing he can't undo, and that's what lets you sell it plainly.
+The Hold is offered at a measured peak, at graduation or at Round Two's week-12 re-capture, never after the clause, a flat read, or an exit. A member who hasn't had Round Two can hear about it at a quarterly re-capture that passes the momentum test. The same affordability question and Fit Check run before the first charge. A checking or fixation signal means no Hold, because its core is a capture, and that man gets a referral and reading-only content instead. A subscription a skeptic can leave in one click asks him to trust nothing he can't undo, and that's what lets you sell it plainly.
 
 ## 4. Community Options
 
