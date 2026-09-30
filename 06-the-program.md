@@ -242,7 +242,7 @@ Cole's month [10] brings the signs together. His care minutes measure [~585] a w
 
 The default move is to recalculate now, not on the first of the month. The waiting buyer gets the [November] start's date and last day to join. No new Private seat sells until minutes are spare, and his care line moves to the top of its 9–10.5 hours, which together carry [8] seats at measured minutes. Templated review begins with the [November] start, since he has reviewed about 20 clients and turnaround is nearing its point (Module 13). Left alone: the squeezed seat, a quietly longer turnaround, and any "last seats" email.
 
-[November] was announced at [8] on the October start day. An announced start keeps its date, its price, and every seat already sold, and it keeps its cap when moves like Cole's close the gap before it begins. When they can't, its unsold seats come off, stated once on its page with the reason and in no send, and its Fill History line shows the lower cap. The next announcement carries whatever the measured minutes give.
+[November] was announced at [8] on the October start day. An announced start keeps its date, its price, and every seat already sold, and it keeps its cap when moves like Cole's close the gap before it begins. When they can't, its unsold seats come off, stated once on its page with the reason and in no send, and its published fill record shows the lower cap. The next announcement carries whatever the measured minutes give.
 
 ### A 12-week container is the default
 
@@ -281,7 +281,7 @@ Theo has logged [~95]% of days, and every marker sits at baseline. Cole's checks
 
 One client slid after his week-6 read and finished at [~60]% of days, below the threshold. No clause applies, since the exit right was his earlier route out. His re-assessment says honestly that [50] logged days can't judge the lever. Both men graduate.
 
-The other seven each have at least one marker at threshold, so the lever moves for them. For [three], it's one marker of two, which under the clause counts as movement, so no refund is owed. [Five] have measured momentum. Before any offer, Cole asks each the same question, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" [Two] take Round Two. Dan is one: his [posture-habit marker] went from [2] to [7] of [10] spot-checks and is still climbing. [Two] choose the Hold, and the fifth takes neither.
+The other seven each have at least one marker at threshold, so the lever moves for them. For [three], it's one marker of two, which under the clause counts as movement, so no refund is owed. [Five] have measured momentum. Once a man picks, Cole asks about his pick, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" [Two] take Round Two. Dan is one: his [posture-habit marker] went from [2] to [7] of [10] spot-checks and is still climbing. [Two] choose the Hold, and the fifth takes neither.
 
 Adrian's [body-composition measure] reached its threshold in week [9] and has held since, so he's told plainly he doesn't need Round Two. He answers the question yes and takes the Hold. The last graduate leaves with his record and a quarterly date.
 

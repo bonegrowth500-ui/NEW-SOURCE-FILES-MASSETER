@@ -141,7 +141,7 @@ Which start they name depends on the day he arrives, within Decision Points, the
 
 ### Send rules become true at the moment of sending
 
-Module 8's rule gives each start one announcement on the day the previous start begins and one reminder the week before, engaged segments only and never a paused lead, both carrying the start date and the last day to join. The announcement also carries the Fill History line, the last closed start's cap and fill, and any Price Step, a scheduled price rise, while no send mentions an assessment credit, since a credit he already paid for is never a deadline.
+The send rule gives each start one announcement on the day the previous start begins and one reminder the week before, engaged segments only and never a paused lead, both carrying the start date and the last day to join. The announcement also carries the Fill History line, the last closed start's cap and fill, and any Price Step, a scheduled price rise, while no send mentions an assessment credit, since a credit he already paid for is never a deadline.
 
 Plumbing makes the rule true. Each date send and weekly letter checks four exclusions as it goes out: paused leads, clients, leads inside their Welcome Arc, and anyone outside the engaged segment. A lead mid-arc already has his start's dates in his own emails. Engaged means a click or a reply in about the last 60 days. Opens never count, since mail apps' privacy features load images whether or not anyone reads, and neither does a click on "not for me".
 

@@ -232,6 +232,7 @@ So October gets an objection piece on Vehicle, and every asset is tagged before 
 | 7 | Email: the one reminder, both dates on it | Now | Assessed | The offer page |
 | 8 | Shorts: [four], cut by his editor from the month's pieces | One each | Stranger | The door |
 | + | The offer video, pinned on the offer page | Vehicle | Deciding | Checkout |
+
 **Early October. The card catches two lines.** Cole runs the card's script pass on the objection piece before filming. The title is answered by minute [eight], Canon claim 2 is quoted exactly, and the destination line carries claim 7. Two lines fail: the thumbnail, [a jaw close-up], promises a fix the piece never pays (line 3), and the pitch speaks November's date, which will outlive its start (line 9). He swaps the thumbnail and points the pitch to the page.
 
 **Mid-October. The short that skipped it.** One of the editor's shorts, cut from the offer video with the price and "link in bio to join" left in, goes out without Cole's sign-off. In [three] days it draws [~30k] views, mostly from strangers, and no sales. The comments hold two rating requests, and Jordan *(composite, minor)*, 16, asks whether he could join if his parents paid. Cole's read: the clip carried a checkout ask onto the Stranger rung, where no viewer holds the beliefs a price needs and many are under 18. He takes it down that day and answers Jordan once, in public:

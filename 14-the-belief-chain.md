@@ -256,7 +256,7 @@ Choose the set from your link tally. After about 30 link cards, your notes on ea
 
 ### Claims change by dated correction, and the rotation by its signs
 
-The words stay set because a hedge about bone in one video and a hint in the next teaches a viewer to trust neither. A claim changes only when the evidence under it moves or it fails the crop in public. The change goes on your log, dated, with the old words, the new ones, and the reason, and a retired claim keeps its line. A silent edit is the tell a skeptic hunts. A correction on the record is a signal a grifter can't afford.
+The words stay set because a hedge about bone in one video and a hint in the next teach a viewer to trust neither. A claim changes only when the evidence under it moves or it fails the crop in public. The change goes on your log, dated, with the old words, the new ones, and the reason, and a retired claim keeps its line. A silent edit is the tell a skeptic hunts. A correction on the record is a signal a grifter can't afford.
 
 The rotation follows one rule: claim 1 on every entry surface, each other claim at least every 4–6 weeks, and a resurfacing myth's claim first for about two weeks. The defaults by surface:
 

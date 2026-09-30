@@ -99,11 +99,11 @@ A framing is the situation and promise a piece opens with. "27 and asking if it'
 - The bone question pulls views whatever the framing, so a winner on that topic may be the topic winning.
 - Counts are small. At roughly 0.1–1 raw lead per 1,000 views, a piece with [5,000] views sends between none and five people to your door, so a matchup judged on completions compares zero with one.
 
-### A win needs a floor, a margin, and an adult audience
+### A win needs a minimum, a margin, and an adult audience
 
 Run a matchup: two framings of the same point in the same week, on one platform, with the same job and length, so only the framing differs. Where a platform lets you trial a piece with non-followers first, use that slot, since it holds the audience steadier. Judge the matchup on events you can pin to each piece: taps on its own link where it has one, or messages with a keyword unique to it. Count them per 1,000 of that platform's count.
 
-Set two lines before the matchup runs. Under a floor of about 30 counted events across the matchup, it's no result, and neither framing gains or loses. Above it, a framing wins only by a margin fixed in advance, [such as half again as many events per 1,000], and a tie never wins. Its adult share, read at your door's age fork across its labeled door starts, must hold at your running share or above. Door completions confirm a lead framing once about 30 have pooled across its pieces.
+Set two lines before the matchup runs. Under a minimum of about 30 counted events across the matchup, it's no result, and neither framing gains or loses. Above it, a framing wins only by a margin fixed in advance, [such as half again as many events per 1,000], and a tie never wins. Its adult share, read at your door's age fork across its labeled door starts, must hold at your running share or above. Door completions confirm a lead framing once about 30 have pooled across its pieces.
 
 A framing that wins twice, in different weeks, has earned a long-form test, and no more. Small wins pass lucky framings more often than you'd guess, because each matchup is a small sample of strangers on one day. So two wins only nominate a framing, and long-form decides.
 
@@ -122,11 +122,11 @@ That's the **Two-Win Rule**: a short-form framing counts only after it wins repe
 | One piece at [10 times] your usual views | A young pocket, a trend, a lucky seed | Its adult share at the fork, and how its matchup did |
 | A framing that won on views | The youngest viewers engaging first | The job's number |
 | A winner on the bone question | The topic pulling, whatever the framing | A matchup on the same topic |
-| A 3-to-1 win in door starts | Four people | The floor: no result |
+| A 3-to-1 win in door starts | Four people | The minimum: no result |
 | Three wins you remember | Five losses you don't | A written record of every matchup |
 | A jump the week a platform recounted views | A new denominator | The platform's fixed count, with the break dated |
 
-Reid *(composite operator)* runs matchups on Reels and skips both lines. His first matchup ends [3] door starts to [1] on about [4k] views each, and he calls it a win, though under the floor it was no result. His second ties on keyword messages, and he gives it to the framing he liked. Two "wins" in, he skips the long-form test and retitles his next [three] long-form pieces. Their clicks hold, their watch time slips, and his objection pieces book [two] fewer fit conversations that month. The test he finally runs says "performed the same". The rule would have logged one no result and one tie, and left his titles alone.
+Reid *(composite operator)* runs matchups on Reels and skips both lines. His first matchup ends [3] door starts to [1] on about [4k] views each, and he calls it a win, though under the minimum it was no result. His second ties on keyword messages, and he gives it to the framing he liked. Two "wins" in, he skips the long-form test and retitles his next [three] long-form pieces. Their clicks hold, their watch time slips, and his objection pieces book [two] fewer fit conversations that month. The test he finally runs says "performed the same". The rule would have logged one no result and one tie, and left his titles alone.
 
 ### Run the lab inside the batch
 
@@ -261,7 +261,7 @@ When all three hold, move short-form to about 1.25 hours and give the freed hour
 
 ### Derivatives narrow what the lab can test
 
-A native piece is filmed for its platform, so two framings can open on different situations: the 27-year-old at his mirror, or the headshot about to go on the company site. A derivative is cut from a long-form script, so its point, words, and length are set before the short exists, and only its first line, first frame, text, and cover can differ. Test only those, and the lab measures covers. So in Growing, write the week's two framings into the long-form script as two vertical takes of one point, shot in the same batch, and keep the matchup's floor, margin, and adult-share line.
+A native piece is filmed for its platform, so two framings can open on different situations: the 27-year-old at his mirror, or the headshot about to go on the company site. A derivative is cut from a long-form script, so its point, words, and length are set before the short exists, and only its first line, first frame, text, and cover can differ. Test only those, and the lab measures covers. So in Growing, write the week's two framings into the long-form script as two vertical takes of one point, shot in the same batch, and keep the matchup's minimum, margin, and adult-share line.
 
 The clip brief names which framing each cut carries, word for word, because a cutter's tidier first line turns a matchup into a different test. If the Sprint's week-3 check moves hours from long-form into shorts and replies, confirmations wait with the slipped piece, and two-win framings queue in the order they won. Past 25 hours, the De-Scoping Order cuts the TikTok trial first, then X and native Instagram, then short-form above its stage line, Reels before Shorts. The line itself never goes: it sits inside the Protected Content Minimum, the content hours client work can't take (Module 11). A short that spreads adds no hours or platform; it's a candidate for the lab like any other framing.
 
@@ -275,9 +275,9 @@ Cole *(composite operator)* starts in [January] with door v0, the first working 
 
 **Week 0. The tags.** He tags [20] pieces before filming: [eight] reach, [eight] lead, [four] proof, and no offer pieces, since almost nobody follows him yet. Each carries one Canon claim in rotation, with claim 1 on the [six] built on the category's search terms. Proof pieces show his own process, because no client clip can exist before consent does. Lead matchups run on Reels with a keyword per piece, and reach matchups on Shorts, where each piece links a long-form piece. Four framings enter the lab: [A] "27 and still guessing", [B] "eight months, nothing measured", [C] "what can an adult still change?", and [D] "the notes app nobody reads".
 
-**Week 1. Two catches and no result.** His editor's derivative from the Honest Answer drops "debated, and I don't sell it". The caveat fits inside the sentence, so Cole puts it there and approves the clip. A second clip, on [whether age changes that answer], needs a minute of nuance, so its point goes back to long-form. The lead matchup, A against C, ends [11] keyword messages to [9], under the floor of about 30. He logs no result.
+**Week 1. Two catches and no result.** His editor's derivative from the Honest Answer drops "debated, and I don't sell it". The caveat fits inside the sentence, so Cole puts it there and approves the clip. A second clip, on [whether age changes that answer], needs a minute of nuance, so its point goes back to long-form. The lead matchup, A against C, ends [11] keyword messages to [9], under the minimum of about 30. He logs no result.
 
-**Week 2. First wins.** On similar views, A beats C [19] keyword messages to [11], at the floor and past his fixed margin. On Shorts, B beats D [23] taps into long-form to [11]. Both framings' adult shares at the fork hold near his running [~60%].
+**Week 2. First wins.** On similar views, A beats C [19] keyword messages to [11], at the minimum and past his fixed margin. On Shorts, B beats D [23] taps into long-form to [11]. Both framings' adult shares at the fork hold near his running [~60%].
 
 **Week 3. The source check fires.** Warm network and replies have given [4] held conversations in three weeks, under 2 a week. He moves about 2 hours a week into short-form batches and Permission-First Replies, and his week-5 long-form piece slips to week [7]. That same week A beats B [21] messages to [10] for its second win, and waits in the queue with no piece to be tested in.
 
@@ -355,7 +355,7 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, and short-form is its main source. The default is the full batch on Shorts and Reels, walking the Canon with two framings in matchups. The trap is reading the first month's matchups as results. Most sit under the floor at founding volume, and "no result" is the honest read.
+**Early.** Reach binds, and short-form is its main source. The default is the full batch on Shorts and Reels, walking the Canon with two framings in matchups. The trap is reading the first month's matchups as results. Most sit under the minimum at founding volume, and "no result" is the honest read.
 
 **Growing.** Long-form's own traffic is compounding, so short-form's job narrows to the lab and derivatives. The default is one matchup a week, with each two-win framing sent to the next long-form slot that fits. The trap is forcing a framing onto a topic it doesn't fit, so the test scores a broken title and a good framing leaves the lab.
 
@@ -395,4 +395,4 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 
 **Leans on:** the Honest Answer (Module 3) · the Capture Standard (Module 6) · the Founding Sprint (Module 9) · the Protected Content Minimum (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Context Stack and the Honest-Evidence Test (Module 16) · the Warmth Ladder (Module 18) · the Two-Job Scorecard and the Age-Up Dial (Module 23) · the Platform Count Rule (Module 25) · the Proof Portability Gradient (Module 27) · the Payoff Test (Intro).
 
-**Do this month:** tag every short with its job, rung, and Canon claim; set your floor and margin before the first matchup runs; run the Clip Context Check on every clip before it's scheduled.
+**Do this month:** tag every short with its job, rung, and Canon claim; set your minimum and margin before the first matchup runs; run the Clip Context Check on every clip before it's scheduled.

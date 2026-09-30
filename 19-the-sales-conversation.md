@@ -174,7 +174,7 @@ The arc stays fixed for every buyer: his state sets the route through it, the Di
 
 ### His state sets the route through the arc
 
-Buyer States, the four situations a buyer can arrive in, are read in his words at every contact, since a state can shift inside one call. The offer and the arc stay fixed while the route changes:
+Buyer States, the four situations a buyer can arrive in, are read in his words at every contact, since a state can shift inside one call. The route shifts with it:
 
 | State | Lead with | What changes | His date |
 |---|---|---|---|
@@ -255,7 +255,7 @@ Cole is in Growing, month [14]: proof milestone met, the Program at $[2,100] in 
 
 The stake is lived, forward, and his, so it's said back plainly, gadget money left out.
 
-**Minute 15. The summary, the straight answer, the true thing.** Dan confirms the summary: taken seriously at work, the cost he named, and the missing baseline and review. The Honest Answer's spoken version follows word for word, as on every call, then the true thing from section 5.
+**Minute 15. The summary, the straight answer, the true thing.** Dan confirms the summary: taken seriously at work, the cost he named, and the missing baseline and review. The Honest Answer's spoken version follows word for word, then the true thing from section 5.
 
 **Minute 18. One recommendation, the tiers, the price.** Cole recommends the Program from [March 2], because Dan wants to know what's moving and nobody has read his record, and walks the Card, yes before no. The tiers come top first: a Private seat at $[6,000] with [recorded walkthroughs and 24-hour written replies], then the Program at $[2,100] in full, or three payments of $[720], $[2,160] in total. [About eight] seconds of silence pass before Dan says, "The Program." He says yes to the affordability question, asked word for word about it.
 
@@ -319,7 +319,7 @@ On the Dignity Route, [his destination] is "to know instead of guess, and to be 
 
 4. **The straight answer, then the recommendation.** The Honest Answer's spoken version comes first, word for word.
 
-> **You:** "Then I'd recommend [the Program] from [March 2], because [his reasons]. Here's the whole path: [the Card, yes before no]. There are two real options, top first. Private is $[6,000], with [recorded walkthroughs and 24-hour written replies]. The Program is $[2,100] in full, or three payments of $[720], $[2,160] in total, and it's the one I'd recommend for you."
+> **You:** "Then I'd recommend [the Program] from [March 2], because [his reasons]. Here's the whole path: [the Card, yes before no]. There are two real options, top first. Private is $[6,000], with [recorded walkthroughs and 24-hour written replies], and we never read or score your face. The Program, the one I'd recommend for you, is $[2,100] in full, or three payments of $[720], $[2,160] in total."
 > *[Stop. Say nothing until he speaks.]*
 
 State seat status here only when it could change his start: "This start has [8] seats, and [5] are taken."
@@ -446,7 +446,7 @@ Answer from your recordings and your last 30 held conversations. Protective-stop
 - **The question after the tiers.** Asked about his pick once every real tier is shown, the affordability question turns a no into the Starter Path and the pause route, never a cheaper tier: the line on vulnerability, held where a downsell is easiest.
 - **Two probes, then a real date.** *Close* at full strength asks every good-fit buyer, probes each real objection once or twice, and ends on day one or a Decision Date on a real point (*Use real dates*).
 - **Forward money only.** *Name the stakes* reflects money from here on; what he already spent stays out of the summary, the price, and the recap (*Present the price*).
-- **Stop lines, word for word.** Nothing after one carries a price, an offer, or a date, and a protective stop leaves nothing beyond "stopped: stop rule".
+- **Stop lines, word for word.** Nothing after one carries a price, an offer, or a date, and a protective stop leaves nothing beyond "stopped: stop rule" (Stop Rules).
 
 ## Quick Reference
 

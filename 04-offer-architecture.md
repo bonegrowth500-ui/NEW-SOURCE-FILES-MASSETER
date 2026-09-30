@@ -3,7 +3,7 @@
 
 **The shift:** from *"More offers mean more revenue, or one good offer should do everything"* to *"One flagship, two buffers, one net. Every rung has one job, switches on by stage, and the net is as honest as the flagship."*
 
-At month [10], two operators with similar channels sit down with their numbers. Reid *(composite operator)* sells seven things: a [$19] jaw guide, a [$29]-a-month chat group, a [$49] mini-course, a [$149] self-paced course, monthly coaching calls, one-to-one sessions, and a [$99] accountability add-on. His revenue is [~$6–7k] a month and his profit is thin. His weeks go to supporting seven products, and buyers keep asking him which package is right for them.
+At month [10], two operators with similar channels sit down with their numbers. Reid *(composite operator)* sells seven things: a [$19] PDF guide, a [$29]-a-month chat group, a [$49] mini-course, a [$149] self-paced course, monthly coaching calls, one-to-one sessions, and a [$99] accountability add-on. His revenue is [~$6–7k] a month and his profit is thin. His weeks go to supporting seven products, and buyers keep asking him which package is right for them.
 
 Cole *(composite operator)* sells five rungs, each an offer with its own page and a one-sentence job. At his door, a free fit conversation or a paid written assessment turns interest into a decision. The Program, his 12-week flagship, carries the profit and the proof. After week 12, Round Two carries graduates whose records are still climbing, and the Hold keeps the rest measuring. A free, sequenced Starter Path catches everyone who shouldn't buy yet.
 

@@ -293,7 +293,7 @@ It rides inside the start announcement and never gets a send of its own.
 
 ### Plan terms
 
-> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan: every payment after the first stays within about a third of your monthly take-home, any larger first payment comes from savings, and the last is due by week [8]. A failed payment gets one reminder and one retry; 7 days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy; the Starter Path is free.
+> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan: every payment after the first stays within about a third of your monthly take-home, any larger first payment comes from savings, and the last is due by week [8]. A failed payment gets one reminder and one retry; 7 days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" If not, please don't buy; the Starter Path is free.
 
 ### Guarantee terms
 

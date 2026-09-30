@@ -180,3 +180,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 5.3 Final audits: after 5.1–5.2.
 - 5.4 Ship: remove _build/, final commit and push, handoff note.
 - 5.3 Part auditors launched: I ae8f3c9e927b3f022 · II ad3fb82f63dc77c6a · III aad05e18551af1846 · IV ab8f942447b48823b · V ab5374561f8019458 · VI a51f4faa67b155291. Module 28 + README + glossary auditor follows 5.1–5.2.
+- 5.3 I passed (6 small fixes; 01 7,677 · 02 7,673 · 03 7,644). Book-wide note: Quick References run 362–379 words (VOICE 350; audit cap 380), driven by the Leans on lists expanded in 4.3; accepted, since Leans on is a reference list.

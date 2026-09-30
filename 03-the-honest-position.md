@@ -115,7 +115,7 @@ A map nobody hears does nothing, so the first thing your brand publishes is the 
 
 ### The answer comes before the pitch
 
-That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before it asks for anything, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the one ask at its end, the door, credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, the result page after the self-assessment, and a welcome email, and a spoken version for calls.
+That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before it asks for anything, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the one ask at its end, the door, credible. It runs at three lengths with the same claims in the same order: the full asset; a paragraph for the Verify Page, the result page after the self-assessment, and a welcome email; and a spoken version for calls.
 
 ### Every no travels with a yes
 
@@ -173,7 +173,7 @@ Steelman first, because part of it is true: distance, light, and a few pounds ca
 
 Your position should read to any clinician as right about bone and honest that coaching replaces none of them. Test it under your Honest Answer, where a commenter who says he's an orthodontist writes, "Mewing is nonsense. Adults can't change their jaws. See a professional." It gathers [hundreds of] likes by evening, and every adult reading watches whether you fight a clinician. He's right about bone and wrong that nothing else changes, so agree, keep the yes, and name the referral:
 
-> "Agreed on bone, and it's the first thing the video says: 'There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed.' Anything structural, like a bite concern, jaw pain, snoring, or a growing teenager, goes to someone like you. Clinicians are where I send people."
+> "Agreed on bone, and it's the first thing the video says: 'There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed.' Anything clinical, like a bite concern, jaw pain, snoring, or a growing teenager, goes to someone like you. Clinicians are where I send people."
 
 Pin the exchange. Left alone: his credentials, his tone, and any "what doctors won't tell you" angle, which collides with the lines on structural claims and credentials.
 

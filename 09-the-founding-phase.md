@@ -159,7 +159,7 @@ His way in is the priority tier, the faster paid assessment at about $350–600,
 
 ### Founding graduates are offered Round Two
 
-Founding graduates reach week 12 from about month 4, and each gets the offer his record supports. One with measured momentum is offered Round Two, the maintenance block at about $0.8–1.2k. Measured momentum means adherence at or above his threshold and at least one marker still improving across its last two readings. One who moved and holds is told he doesn't need it, and hears about the Hold, the measurement subscription. One paid under the non-response clause, the partial cash refund when no marker reached its threshold despite his effort, hears no offer.
+Founding graduates reach week 12 from about month 4, and each gets the offer his record supports. One who moved, with measured momentum, is offered Round Two, the maintenance block at about $0.8–1.2k. Measured momentum means adherence at or above his threshold and at least one marker still improving across its last two readings. One who moved and holds is told he doesn't need it, and hears about the Hold, the measurement subscription. One paid under the non-response clause, the partial cash refund when no marker reached its threshold despite his effort, hears no offer.
 
 His Path and Timeline Card, the one-page path and cost he saw before paying, already priced both. So both need prices before your first founding checkout. Your founding graduates are Round Two's first cohort, and the block is designed with the rest of the back end (Module 10).
 
@@ -363,7 +363,7 @@ Run it at each founding client's week 12, and monthly for your log.
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** Reach binds, so labeled sources, the Dual-Purpose Conversation, and the founding group are the default until the Month-3 Gate passes. Founding graduates become Round Two's first cohort. The trap is answering a door completion the next day because content felt more urgent, when a reply within hours is what turns a completion into a booking.
+**Early.** Reach binds, so labeled sources, the Dual-Purpose Conversation, and the founding group are the default until the Month-3 Gate passes. The trap is answering a door completion the next day because content felt more urgent, when a reply within hours is what turns a completion into a booking.
 
 **Growing.** Conversion and selling hours bind, and the founding method opens each new offer. First buyers hear they're first, the price is real or has a stated end, and their weeks become its instrument. Round Two was the first, built on your founding graduates, and the Decision Assessment, the paid route once free calls hit their cap, usually comes next. The trap is a "founding" price on the core Program after it has sold at full price, a discount with a story attached.
 

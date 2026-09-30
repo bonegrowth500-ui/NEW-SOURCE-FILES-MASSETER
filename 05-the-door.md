@@ -77,7 +77,7 @@ The fit conversation is the door's human step: free for every eligible adult whi
 
 The fit conversation, the free, disclosed first call, runs 20–30 minutes. In the founding months it's the Dual-Purpose Conversation, a fit-and-research call of about 45 minutes. Its booking page says what a skeptic would otherwise suspect. The call is free, you'll ask for a yes or a no, and it ends in one recommendation, which may be a program, the Starter Path, the free sequenced path for anyone who shouldn't buy now, or "don't buy".
 
-The page also shows your public price range and asks the affordability question before he can pick a slot. A no books nothing and ends money talk there, so the hour you'd have spent learning he can't pay never happens. To a man who has met the category's "free strategy call", a pitch discovered halfway through confirms everything he feared. Disclosed and priced, the same ask is the structure he agreed to, which is how Close by Contract, the close that agrees its structure first and carries the question's spoken form, opens (Module 19).
+The page also shows your public price range and asks the affordability question before he can pick a slot. A no books nothing and ends money talk there, so the hour you'd have spent learning he can't pay never happens. To a man who has met the category's "free strategy call", a pitch discovered halfway through confirms everything he feared. Disclosed and priced, the same ask is the structure he agreed to, which is how Close by Contract, the close that agrees its structure first and asks the same question aloud, opens (Module 19).
 
 What the call delivers is fixed, however you run it: his stall and goal said back in his words, one recommendation, the price stated once, the ask, and a written recap within 24 hours. It ends in a yes, a no, or his Decision Date, the date he agrees to decide by. Anything the call hears sets the same tag a checkout would: "I can't afford it" sets the pause route, a signal starts the pause, and a minor ends it.
 
@@ -137,7 +137,7 @@ The second check is one sentence, worded the same everywhere so automation can r
 
 **"Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"**
 
-At a checkout it comes before any payment option, so a no never meets a plan offer, and on a call it takes its spoken form. A yes lets the Fit Check run. A no ends money talk: he gets the Starter Path once, without its paid tool, and the pause route is set. Money that isn't his gets the same tool-free path.
+At a checkout it comes before any payment option, so a no never meets a plan offer, and on a call it's said word for word. A yes lets the Fit Check run. A no ends money talk: he gets the Starter Path once, without its paid tool, and the pause route is set. Money that isn't his gets the same tool-free path.
 
 ### The pause route binds your automation
 
@@ -233,17 +233,17 @@ Every path through the door ends in one recommendation, because a man who came t
 | The Starter Path | Not now, for a reason his record bears out, or not a fit; tool-free after "can't afford" or money that isn't his; reading-only after a fit pause |
 | "Don't buy", or a referral | A goal he's paying for in the never-claimed column; a lever that doesn't move for him; snoring, jaw, bite, or growth questions; checking or fixation |
 
-Your public page still shows every tier, premium first (*Present the price*), while the plan decides for one man: a tier beside the one he's recommended gets a clause saying what it's for, never an ask. At Scaling the Program goes out beside Program Async, the same review without the live call, each priced once, and he picks the tier his week fits (Module 13).
+Your public page shows every tier, premium first (*Present the price*), while the plan decides for one man: a tier beside the one he's recommended gets a clause saying what it's for, never an ask. At Scaling the Program goes out beside Program Async, the same review without the live call, each priced once, and he picks the tier his week fits (Module 13).
 
 **The page shows every tier; the plan names one, with its reason from his record.**
 
 ### On the line, the goal he's paying for decides
 
-A buyer on the line sits between two rows, where your revenue leans toward the larger commitment and his hesitation toward the smaller. Neither is evidence, so the edge between rows is always one sign from his record.
+A buyer on the line sits between two rows, where your revenue leans toward the larger commitment and his hesitation toward the smaller. Neither is evidence, so the edge between rows is one sign from his record.
 
 Theo, 26, lands between the Program and "don't buy". His signs: three goals, [to stop guessing what works], [to look sharper in work photos], and [a wider jaw], the one his device promised. His free log holds [six of seven] days, and his "why now" reads "[I want to know what works before I spend again]". The read: he's paying to stop guessing, which sits in the changeable column, and the jaw is the device's leftover. "Don't buy" on the leftover would fail the floor, and Private sold because he can pay would fail the ceiling. The default move is the Program, worded so the leftover sits outside it:
 
-> "My recommendation is the Program from [date], at [price]. It can measure how you come across in photos and end the guessing. It won't widen your jaw, and no habit program will. Private, first on the page, buys a faster turnaround and privacy, and nothing in your record needs either."
+> **You:** "My recommendation is the Program from [date], at [price]. It can measure how you come across in photos and end the guessing. There's no good evidence habits widen an adult's jaw, and I don't sell that. Private, first on the page, buys speed and privacy, and your record needs neither. Do you want that start?"
 
 Left alone: a discount against what the device cost, and any word about whoever sold it. Had the jaw been his reason, the same record would have earned "don't buy", as the sample plan's buyer did.
 
@@ -348,7 +348,7 @@ Answer from your records for your last 30 eligible leads.
 
 ## Standard Check
 
-- **The pause route in every machine.** A distress or checking item, a "can't afford", or a fit-check pause writes one content-free tag that every marketing send and every checkout obeys for 60–90 days. That's the line on vulnerability carried into automation, including the pay button.
+- **The pause route in every machine.** A distress or checking item, a "can't afford", or a fit-check pause writes one content-free tag that every marketing send and every checkout obeys for 60–90 days. That's the line on vulnerability carried into automation.
 - **Checks before money, the fork before data.** The fork keeps nothing from a minor, a minor found later is refunded and deleted, and no pay button appears before the question and the Fit Check. All three hold the line on vulnerability by design.
 - **A decision, never a verdict on his face.** The written plan makes one firm recommendation (*Close*), may say "don't buy", and never rates his face or offers a medical opinion (the line on structural claims). The published mix and the plan-usefulness refund let a buyer check that it earned its fee.
 

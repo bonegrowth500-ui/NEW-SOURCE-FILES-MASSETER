@@ -105,7 +105,7 @@ One move is wrong at every position: discounting to close. Buyers learn to wait,
 
 Say one of Cole's steps inside the proof band, the Program's $2.4–3.2k range once proof exists, lands and his close rate across the 30 held conversations since its announcement reads [~22%], down from [~38%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
 
-He doesn't walk the price back, because a step that reverses teaches buyers to wait. He works the conversation side instead: the proof his calls now show, the fit questions in front of the booking button, a call-optional path for warm buyers. Two windows later he's back at [~28%], and the new price holds.
+He doesn't walk the price back, because a step that reverses teaches buyers to wait. He works the conversation side instead: replays of calls recorded with consent, the proof his calls now show, a call-optional path for warm buyers. Two windows later he's back at [~28%], and the new price holds.
 
 Name the binding constraint once a month in the Operator Review, your fixed weekly, monthly, and quarterly look at the numbers (Module 12). The tool is the Monthly Constraint Read, the monthly checklist that names it, answered from your own records. A week holds too few conversations to read, and a quarter lets a misread run too long. Ask one question, *which of the three binds right now?*, then pull the one lever that answers it and leave the others alone.
 

@@ -294,7 +294,7 @@ The third email, in full:
 >
 > [First name], here's what one week inside looks like: [a sample weekly review, labeled composite]. A record doesn't read itself; review turns it into a decision.
 >
-> The tiers, highest first: [Private, $[X], a call first, full this quarter] · the Program, $[Y] for 12 weeks: a written review of your week within [turnaround], a weekly group call with the camera optional, a written read at week 6, and a re-assessment at week 12. For you, the Program from the [Month] start, because [his state's reason, such as "months of effort have been missing someone reading the record"]. You'll see the whole path and its [9]-month cost before you pay.
+> The tiers, highest first: [Private, while a seat is open: $[X], [its fixed deliverables], a call first; we never read or score your face] · the Program, $[Y] for 12 weeks: a written review of your week within [turnaround], a weekly group call with the camera optional, a written read at week 6, and a re-assessment at week 12. For you, the Program from the [Month] start, because [his state's reason]. You'll see the whole path and its [9]-month cost before you pay.
 >
 > [Watch the walkthrough, then join the [Month] start]
 >

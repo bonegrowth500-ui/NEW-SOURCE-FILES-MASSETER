@@ -35,7 +35,7 @@ Those are the **Nurture Jobs**: the five jobs every coaching business must get d
 
 **Five jobs, one owner each, one door.**
 
-The paid rooms own identity rehearsal because they keep the standard of Adults Who Measure, the group of adults who measure instead of guess, where membership is the practice itself (Module 17). The free front is open to anyone: the free seven-day log he keeps while he waits for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now. Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
+The paid rooms own identity rehearsal because they keep the standard of Adults Who Measure, the group of adults who measure instead of guess, where membership is the practice itself (Module 17). The free front is open to any adult: the free seven-day log he keeps while waiting for his first call, and the Starter Path, your free sequenced path for anyone who shouldn't buy now. Long-form adds one recurring segment on the practice, such as [one logged week, labeled as a composite]. Each lowers his Identity Threshold, the point where committing costs identity as well as money.
 
 ### Reid gave three jobs to nobody
 
@@ -86,7 +86,7 @@ In this niche, half-life and yield point the same way. A trend piece dies within
 
 ### Compounding shows up in old pieces
 
-Read each piece by where its views come from, since a piece that compounds looks ordinary in its first week. After its first month, most of its engaged views come from search and suggested feeds, and its monthly views hold or rise while a launch spike decays toward zero. Channel-wide, the sign is the back catalog's share: eligible leads each month through links on pieces older than a quarter. It starts at zero and should climb through the first year.
+Read each piece by where its views come from, since a piece that compounds looks ordinary in its first week. After its first month, most of its engaged views come from search and suggested feeds, and its monthly views hold or rise while an upload spike decays toward zero. Channel-wide, the sign is the back catalog's share: eligible leads each month through links on pieces older than a quarter. It starts at zero and should climb through the first year.
 
 At each quarterly Operator Review, read three lines per piece: its search-and-suggested share, its monthly engaged views, and its eligible leads per 1,000 engaged views from its tagged link. Most pieces earn no change, since each change makes the feeds re-learn whom a piece satisfies. A few earn one:
 
@@ -359,6 +359,7 @@ Run it on the export, before scheduling.
 5. Are your eyes on the lens for the Honest Answer, the stake, and the pitch? → Re-film those lines.
 6. Is every face free of any filter, retouch, or AI edit? → Re-export from the raw footage.
 7. Are prices only in editable places, captions corrected, and no date anywhere? → Fix it before scheduling.
+
 ## Stage Notes
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*

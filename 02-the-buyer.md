@@ -149,7 +149,7 @@ The second check is the affordability question. It's asked before every paid ste
 
 Each phrase has a job. "Comfortable" asks more than "possible": a man can technically pay by draining next month's rent, and the question exists to catch exactly that. "Your own" rules out money belonging to someone who isn't in the conversation. "Income or savings" means money he has or earns, not money he expects. "Without new credit or buy-now-pay-later" closes the route buyers his age reach for at checkout, where a stretch quietly becomes a debt.
 
-A yes passes this check, and the Fit Check, the plain-language check for fit signals, still runs beside it. A no ends money talk. He gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, handed over once. He also gets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once. Money that isn't his goes to the Starter Path too.
+A yes passes this check, and the Fit Check, the plain-language check for fit signals, still runs beside it. A no ends money talk. He gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, handed over once. He also gets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once.
 
 The wording never varies by channel. A question that softens in DMs or vanishes at a warm checkout makes that channel the loophole, and automation can only honor an answer it can read.
 
@@ -314,7 +314,7 @@ Run it before you recommend anything, on a buyer who has passed the fork and sho
 
 *Stages: Early < ~$8k/month · Growing ~$8–30k · Scaling ~$30k+, on a trailing 3-month average plus a volume signal.*
 
-**Early.** You don't know your buyers yet; you know the ones you imagine. After every conversation, write his state, destination, and trigger in his words. After about 30 conversations that file becomes your state map. The trap is building content and offers for the buyer you'd like, usually the Optimizer who pays more, instead of the Struggler who books.
+**Early.** You don't know your buyers yet; you know the ones you imagine. After every conversation, write his state, destination, and trigger in his words; a money, distress, or fit stop leaves only "stopped: stop rule". After about 30 conversations that file becomes your state map. The trap is building content and offers for the buyer you'd like, usually the Optimizer who pays more, instead of the Struggler who books.
 
 **Growing.** Conversations are capped, so the read has to start before the call. Tag states at the door with one or two plain questions ("what have you already bought or tried?", "when would you want to start?"). Then his result and your call start on the right route. The trap is letting a tag harden into a label.
 
@@ -357,4 +357,4 @@ Run it before you recommend anything, on a buyer who has passed the fork and sho
 
 **Leans on:** the Outcome Map and Dated Record (Module 3) · the Starter Path (Module 4) · the Fit Check and pause route (Module 5) · the cash ceiling (Module 7) · the Premium Lane and Buyer-Mix Shift (Module 13) · Fantasy to Expectation (Module 14) · the Dignity Route (Module 15) · State Routing and the Decision Date (Module 19).
 
-**Do this month:** put the verbatim affordability question on every paid step you run, DMs and checkout included; ask every new lead what made him look for help now; after each conversation, write his state, destination, and trigger in his words.
+**Do this month:** put the verbatim affordability question on every paid step you run, DMs and checkout included; ask every new lead what made him look for help now; after each conversation, write his state, destination, and trigger in his words, unless a money, distress, or fit stop ended it.
