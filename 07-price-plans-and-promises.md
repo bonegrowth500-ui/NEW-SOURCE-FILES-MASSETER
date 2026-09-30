@@ -168,7 +168,7 @@ That's the **Layered Guarantee**. Each layer states five things before he pays: 
 | Statutory rights | His local law (UK and EU: ~14 days for online services, with early-start rules) | The law | As the law allows | At least that; never "no refunds" copy |
 | Fit window | Any time before baseline day, or up to 14–21 days after it | His word | A one-line message; any call optional and feedback-only | A full refund, installments cancelled, within 7 days |
 | Service guarantee | A review past its turnaround (e.g., 48–72 h); a milestone, Hold, or Private deliverable past its date; a correction your review should have caught | Timestamps, or his logs and plan history | None: you apply it | [A stated amount] off his next installment or in cash, his choice, within 7 days of the miss; for a review error, the weeks it cost, up to 6, free after week 12 |
-| Week-6 exit right | His request from the week-6 read until 7 days after it's delivered, adherence at threshold | His log count | A written request | Payment for undelivered weeks (~half), within 7 days |
+| Week-6 exit right | His request from the week-6 read, or Round Two's own, until 7 days after it's delivered, adherence at threshold | His log count | A written request | Payment for undelivered weeks (~half), within 7 days |
 | Week-12 non-response clause | No marker at its threshold at week 12, adherence at threshold | The marker sheet signed on baseline day | None: you raise it | [A fixed share inside 25–50%] of what he paid, in cash, within 7 days of the verdict; no Round Two offer |
 | Plan-usefulness refund | His word, within 14 days of receiving the plan, that his Decision Assessment's plan wasn't useful | His word | A written request | The fee, within 7 days |
 
@@ -236,7 +236,7 @@ Read claims by layer each quarter, because each points at a different fix. Fit-w
 
 ### Open early, hold reserves, keep other income
 
-Open your payment processor in the first weeks, so it sees a clean history of small charges, such as installments and assessment fees, before larger ones arrive. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. Keep your other income until your trailing 3-month profit covers your personal costs.
+Open your payment processor in the first weeks, so it sees a clean history of small charges before larger ones arrive. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. Keep your other income until your trailing 3-month profit covers your personal costs.
 
 That last rule protects the standard too. An operator who needs this month's enrollments to pay his rent will feel his hand drift toward the discount and the second ask after a clear no. The reserve is what lets you pay every claim inside its 7 days.
 

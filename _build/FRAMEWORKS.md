@@ -70,7 +70,7 @@ The title is the master thesis in four words, and it's true in both directions. 
 | ★ | **One Flagship, Two Buffers, One Net** | The ladder's shape: the Program; the door's human step and the back end (Round Two, the Hold) as buffers; the Starter Path as the net | new | 04 | 01, 10 |
 | ◆ | **The Rung Activation Schedule** | Which rungs switch on at months 0–3, 3–6, 6–9 and after | new | 04 | 09, 28 |
 | ★ | **The Door** | One owned door: self-assessment with an age fork → result → speed to lead → fit conversation or Decision Assessment → Fit Check and affordability question → one recommendation | new | 05 | 20, 23–27 |
-| ◆ | **The Call Cap** | Free fit conversations stay open up to ~6–8 held a week, reserved by tags for uncertain or high-intent buyers. The overflow goes to the paid or async Decision Assessment | new | 05 | 12 |
+| ◆ | **The Call Cap** | Free fit conversations stay open up to ~6–8 held a week, reserved by tags for uncertain buyers and those near a high-ticket decision. The overflow goes to the paid or async Decision Assessment | new | 05 | 12 |
 | ◆ | **The Fit Check** | A two-tier, plain-language, signal-based check before any paid step. A signal pauses the sale: no same-day payment, written expectations, a cooling-off gap, no plan | new | 05 | 19, 20 |
 | ★ | **The Review Rhythm** | Weekly proactive async review with a stated turnaround, plus one live group call | new | 06 | 21, 11 |
 | ◆ | **The Measurement Calendar** | Behavior logged weekly; standardized appearance capture at 0, ~6, and 12 weeks, then quarterly, and never in between | new | 06 | 16, 21, 22 |

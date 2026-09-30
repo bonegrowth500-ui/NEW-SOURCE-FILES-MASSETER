@@ -152,7 +152,7 @@ Five offers do their damage by arriving before their trigger:
 | Program Async before the Program passes ~$3.2k | A cheaper copy of your flagship at a price the core buyer can already carry |
 | The paid overflow while reach binds | Fewer conversations while every one counts |
 
-Community on this ladder follows Community Options, the paid-room choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted.
+Community on this ladder follows Community Options, the paid-room choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only once its moderation line earns what a Program hour earns.
 
 ## 5. The Starter Path and the Self-Serve System
 

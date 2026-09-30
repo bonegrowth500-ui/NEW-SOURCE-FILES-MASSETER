@@ -53,7 +53,7 @@ Result page + result email (frequency and one-click exit stated)
 BOOK FIRST (Early/Growing): free fit conversation, disclosed ("one recommendation: a program, the Starter Path, or don't buy")
         │     while waiting: the free 7-day behavior log; the baseline capture stays on his device
         │
-        ├── up to the CALL CAP (~6–8 held/week, reserved by tags for uncertain or high-intent buyers)
+        ├── up to the CALL CAP (~6–8 held/week, reserved by tags for uncertain buyers and those near a high-ticket decision)
         └── overflow ──► DECISION ASSESSMENT ($150–250; async-first at volume) · PRIORITY TIER ($350–600, from month 0)
         │
         ▼
