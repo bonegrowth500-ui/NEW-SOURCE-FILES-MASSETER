@@ -3,7 +3,7 @@
 
 **The shift:** from *"Email is a newsletter"* to *"Email is a flow-first private room. Stage-matched sequences sell, the Canon Lane maintains belief, and deliverability is a commons."*
 
-Reid *(composite operator)* has [~900] addresses from a year of long-form and one Thursday letter written for all of them: a tip, his newest video, and "reply if you want coaching". Cole *(composite operator)* has [~250] eligible adults, legal adults who could pay from their own income or savings without new credit, and no weekly letter yet. In the same quarter, Reid's list produces [one] enrollment. Cole's [November] start fills [5] of its [8] seats, and [three] of those men finished his door, the self-assessment every lead comes through, in the six weeks before it.
+Reid *(composite operator)* has [~900] addresses from a year of long-form and one Thursday letter written for all of them: a tip, his newest video, and "reply if you want coaching". Cole *(composite operator)* has [~250] eligible adults, legal adults who could pay from their own income or savings without new credit, and no weekly letter yet. In the same quarter, Reid's list produces [one] enrollment. Cole's [November] start fills [6] of its [8] seats, and [three] of those men finished his door, the self-assessment every lead comes through, in the six weeks before it.
 
 The difference is flow, not size. Each man who finished Cole's door, usually after months of guessing on his own, got his result within minutes, then a welcome that said how often Cole would write and how to leave. Then came the emails his answers called for, ending in one recommendation with its price and the next start's two dates. Reid's new leads got "thanks, here's your result" and waited for Thursday, when a letter written for everyone recommended nothing to anyone.
 
@@ -37,13 +37,13 @@ Of the Nurture Jobs, the five jobs a business must get done between a first view
 
 Everything else goes to the stock: the weekly letter, the Canon Lane, a monthly email that repeats one core claim at a time, and each start's two date sends. That order is **Flow Before Stock**: the result arrives within minutes and stage-matched sequences carry each new lead to one recommendation, and only then do you build for the whole list. The flow works when its emails land inside 2–5% clicks per delivered and men in their first 60 days are enrolling.
 
-**Build the first sixty days before you build the weekly letter.**
+**Build the first 60 days before you build the weekly letter.**
 
 ### Reid's list, sorted by lead age
 
-Reid reads his quarter as a volume problem and plans a second weekly letter. Then he sorts a year of enrollments by each buyer's lead age on the day he paid. [Seven] of his [nine] came from men within 60 days of first finishing his door, and his [~700] older addresses produced [two]. Nine enrollments are too few for a rule, but they show where to look. His money was in the first sixty days, and those days held one email with nothing in it.
+Reid reads his quarter as a volume problem and plans a second weekly letter. Then he sorts a year of enrollments by each buyer's lead age on the day he paid. [Seven] of his [nine] came from men within 60 days of first finishing his door, and his [~700] older addresses produced [two]. Nine enrollments are too few for a rule, but they show where to look. His money was in the first 60 days, and those days held one email with nothing in it.
 
-So he drops the second letter and builds what those days lacked: the result in minutes, a welcome with his pace and his exit, and a sequence ending in one recommendation with its price and dates. New leads join the Thursday letter only after their welcome ends, and the letter gains the ask its readers have earned, the offer page with its public price. Over his next [two] starts, enrollments from men in their first sixty days rise from under [one] a start toward [two or three], inside what Band B, the steady band, allows.
+So he drops the second letter and builds what those days lacked: the result in minutes, a welcome with his pace and his exit, and a sequence ending in one recommendation with its price and dates. New leads join the Thursday letter only after their welcome ends, and the letter gains the ask its readers have earned, the offer page with its public price. Over his next [two] starts, enrollments from men in their first 60 days rise from under [one] a start toward [two or three], inside what Band B, the steady band, allows.
 
 ### The weekly letter waits for a few hundred eligible adults
 
@@ -100,7 +100,7 @@ When the pause ends, one re-permission email asks whether he'd like to hear from
 
 ## 3. Sales-Sequence Plumbing and Send Rules
 
-What a sales sequence says belongs to the Async Arc, the call's arc carried without a call (Module 20). What starts it, where it branches, and what ends it is plumbing, and plumbing is where stop rules and real dates are kept or quietly broken.
+What a sales sequence says belongs to the Async Arc, the call's arc carried without a call (Module 20). What starts it, where it branches, and what ends it is plumbing, and plumbing is where a stop rule or a real date is kept or quietly broken.
 
 ### Every exit is wired before the first email
 
@@ -165,7 +165,7 @@ The Canon Lane is that schedule's email surface: one Canon claim a send, about o
 >
 > [Your name] | [Brand] · [One] email a [month]; one click to leave.
 
-Start the lane with claim 1, the Honest Answer, your straight answer about what adults can change. After that, each send carries the claim that has gone longest without appearing on any surface, from the rotation log your batches already keep, so the lane fills the gaps other surfaces leave in the four-to-six-week rotation. A resurfacing myth's claim overrides the gap, leading everywhere for about two weeks and taking the next week's stock send, and claim 1 returns once each cycle, since a reader who joined months ago met it only in his welcome.
+Start the lane with claim 1, the Honest Answer, your straight answer about what adults can change. After that, each send carries the claim that has gone longest without appearing on any surface, from the rotation log your batches already keep, so the lane fills the gaps other surfaces leave in the 4–6-week rotation. A resurfacing myth's claim overrides the gap, leading everywhere for about two weeks and taking the next week's stock send, and claim 1 returns once each cycle, since a reader who joined months ago met it only in his welcome.
 
 ### What goes around the claim
 
@@ -202,7 +202,7 @@ What providers require points where your standard already does. Send from your o
 
 ### Complaints are spent only where they buy something
 
-Complaints, not list size, set the ceiling on what you can send. Providers want complaints under 0.1% of delivered mail, never reaching 0.3%, and they judge your domain over time. So read the rate per delivered email over a rolling month, the way Module 12 reads every guardrail. At solo scale a single send can't be judged alone:
+Complaints, not list size, set the ceiling on what you can send. Providers want complaints under 0.1% of delivered mail, never reaching 0.3%, and they judge your domain over time. So read the rate per delivered email over a rolling month. At solo scale a single send can't be judged alone:
 
 | Delivered | 0.1%, the budget | 0.3%, the ceiling | One complaint reads |
 |---|---|---|---|
@@ -258,7 +258,7 @@ Result links carry an ID, never an answer, because a link that spells out an ans
 
 Every stream goes out as "[Your name] | [Brand]", the same sender everywhere. Discreet means recognizable to him and uninformative to anyone reading over his shoulder. Subject lines say what an email is, "Your week [4] review is in", never what it's about. If your brand's name says "jaw" or "face" to a stranger, client email goes out under your name alone. His inbox is seen by a partner at breakfast and a coworker at the next desk, and privacy is part of what he pays for.
 
-## Worked Example: Dan and Sam, Sixty Days by Tag
+## Worked Example: Dan and Sam, 60 Days by Tag
 
 Cole is in Growing, in Band B. His list now holds [~420] eligible adults, so his Thursday letter started [three] weeks ago, and the five-email sequence carries his no-call route. Starts fall on first working Mondays, March 2, April 6, and May 4, each joinable through the Friday of its second week.
 
@@ -353,7 +353,7 @@ Answer from your tool's reports and send log, monthly and after every promotion.
 
 ## Quick Reference
 
-**In one line.** Build the first sixty days before the weekly letter, let four tags decide every send, and spend complaints only on readers who click.
+**In one line.** Build the first 60 days before the weekly letter, let four tags decide every send, and spend complaints only on readers who click.
 
 **Takeaways**
 - Flow earns: the result in minutes and a stage-matched sequence ending in one recommendation. The weekly letter waits for a few hundred eligible adults.
@@ -376,11 +376,11 @@ Answer from your tool's reports and send log, monthly and after every promotion.
 
 | Framework | Use it to… |
 |---|---|
-| **Flow Before Stock** | Build each new lead's first sixty days before anything the whole list gets |
+| **Flow Before Stock** | Build each new lead's first 60 days before anything the whole list gets |
 | **The Welcome Arc** | Carry a new lead from his result to one recommendation, matched to his stage |
 | **Readiness Tags** | Decide every send from stage, Buyer State, route, and pause |
 | **The Complaint Budget** | Keep complaints under 0.1% by sending promotions only to engaged readers |
 
-**Leans on:** the Door and pause route (Module 5) · Decision Points and send rules (Module 8) · the Hold (Module 10) · privacy operations (Module 11) · the Canon (Module 14) · the Dignity Route (Module 15) · the Warmth Ladder (Module 18) · the Follow-Up Rule (Module 19) · the Async Arc (Module 20) · adherence rules (Module 21) · Nurture Jobs (Module 23) · the Verify Page (Module 27).
+**Leans on:** the Starter Path (Module 4) · the Door and pause route (Module 5) · Decision Points and send rules (Module 8) · the Hold (Module 10) · privacy operations (Module 11) · the Canon (Module 14) · the Dignity Route (Module 15) · the Warmth Ladder (Module 18) · the Follow-Up Rule (Module 19) · the Async Arc (Module 20) · adherence rules (Module 21) · Nurture Jobs (Module 23) · the Verify Page (Module 27).
 
 **Do this month:** write the result email and welcome 1–3 with a pace line one weekly stock send can keep. Run a paused test lead through the door, a checkout, and a date send until only his asked-for mail reaches him. Start a cohort sheet from each buyer's first door date.

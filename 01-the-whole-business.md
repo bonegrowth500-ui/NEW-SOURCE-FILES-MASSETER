@@ -43,7 +43,7 @@ Five things run short in this business, and the category makes each one shorter 
 
 **Pull a move only when what it relieves sits behind this month's constraint, and what it spends doesn't.**
 
-Those are the **Five Scarcities**. Care minutes, the minutes of review, group call, and milestones each client takes per week, set your ceiling, so protect them with rhythm rather than availability. At equal intensity, group and guided formats do about as well as one-to-one, and scheduled contact that reaches out to him roughly halves dropout (Module 21).
+Those are the **Five Scarcities**. Care minutes, the minutes of review, group call, and milestones per client-week, set your ceiling, so protect them with rhythm rather than availability. At equal intensity, group and guided formats do about as well as one-to-one, and scheduled contact that reaches out to him roughly halves dropout (Module 21).
 
 Efficacy needs the Efficacy Split, two beliefs raised to different heights. Raise his belief in himself hard with a win he can verify, and his belief in the method only as far as your evidence goes, because overselling the method is how this category earned its refunds (Module 14).
 
@@ -103,11 +103,11 @@ One move is wrong at every position: discounting to close. Buyers learn to wait,
 
 ### A slide-back is a bad month that repeats
 
-Cole's step into the proof band, the Program's $2.4–3.2k range once proof exists, lands at the start of his second year. Across the next 30 held conversations his close rate reads [~22%], down from [~33%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
+Cole's step into the proof band, the Program's $2.4–3.2k range once proof exists, lands in August of his second year. Across the 30 held conversations since its announcement, his close rate reads [~22%], down from [~30%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
 
 He doesn't walk the price back, because a step that reverses teaches buyers to wait. He works the conversation side instead: the proof his calls now show, the fit questions in front of the booking button, a call-optional path for warm buyers. Two windows later he's back at [~28%], and the new price holds.
 
-Name the binding constraint once a month in the Operator Review, your fixed weekly, monthly, and quarterly look at the numbers (Module 12). The tool is the Monthly Constraint Read, a short checklist answered from your own records. A week holds too few conversations to read, and a quarter lets a misread run too long. Ask one question, *which of the three binds right now?*, then pull the one lever that answers it and leave the others alone.
+Name the binding constraint once a month in the Operator Review, your fixed weekly, monthly, and quarterly look at the numbers (Module 12). The tool is the Monthly Constraint Read, the monthly checklist that names it, answered from your own records. A week holds too few conversations to read, and a quarter lets a misread run too long. Ask one question, *which of the three binds right now?*, then pull the one lever that answers it and leave the others alone.
 
 ## 4. The Stage Map
 
@@ -198,7 +198,7 @@ In Band A, $25k needs a reach lever on top of pricing at the ceiling: a piece th
 
 ### Your care minutes set a ceiling
 
-The equation's cap has a name: your Capacity Ceiling, the number of concurrent clients your care hours allow, which limits your new enrollments each month. Those hours go to work only you can do here: comparing captures taken under matched conditions, watching check-ins for signs of fixation or distress that call for a referral, and writing each week-6 read.
+The equation's cap has a name: your Capacity Ceiling, the concurrent clients your care hours allow, which caps your new enrollments each month. Those hours go to work only you can do here: comparing captures taken under matched conditions, watching check-ins for signs of fixation or distress that call for a referral, and writing each week-6 read.
 
 With about 9–10.5 care hours a week in the design, care minutes of about 18–20 per client-week put the ceiling around 25–30 concurrent clients in Growing, or 8–10 new enrollments a month. Templated review and a fuller group call bring care down to about 13–15 minutes and the ceiling up to about 40–45, or 12–15 new a month. Early, the founding group, every early client in one group with monthly entry, costs about 30–35 minutes a client at one-to-one review depth. That's part of the price of learning what a good review says.
 
@@ -235,11 +235,11 @@ Cole starts from zero in January. He has a founding page, the standing offer pag
 
 **Month 5. The read: still reach, whatever the week feels like.** His week feels full: founding delivery, the group's first calls, content. The tempting read is that conversations bind and it's time to charge for calls. The signs disagree. He's holding [4] conversations a week, his show rate is near [80]%, and few calls end no-fit. Busy isn't binding. So he adds no friction to his door. He moves the non-selling admin into fixed windows (Module 11) and spends the recovered hours on a decision-stage series. Eligible leads climb toward the Band B month-6 range of roughly 40–80 a month.
 
-**Month 8. The read: conversations.** He holds [4–5] conversations a week, yet his show rate has slid to [58]% and [more than half] his calls end no-fit, mostly men who wanted a bone promise or could only pay on credit. Those signs point to the door's screening (Module 5): unfit men book before meeting either answer. So his result page leads with the Honest Answer, and the price range and affordability question move above his booking slots. No cap is set, because the Call Cap waits for most weeks above about 6–8 held, with selling eating content hours. His show rate recovers toward [~75]%, and his close rate climbs from [~20%] toward [~30%]. He leaves reach alone, because more leads would pour into a leaky door.
+**Month 8. The read: conversations.** He holds [4–5] conversations a week, yet his show rate has slid to [58]% and [more than half] his calls end no-fit, mostly men who wanted a bone promise or could only pay on credit. Those signs point to the door's screening (Module 5): unfit men book before meeting either answer. So the result page his self-assessment returns leads with the Honest Answer, and the price range and affordability question move above his booking slots. No cap is set, because the Call Cap waits for most weeks above about 6–8 held, with selling eating content hours. His show rate recovers toward [~75]%, and his close rate climbs from [~20%] toward [~30%]. He leaves reach alone, because more leads would pour into a leaky door.
 
-**Month 11. The read: care minutes, arriving.** He has [22] concurrent clients, each review takes [15] minutes, and on heavy weeks his turnaround drifts toward its limit. At Growing care minutes his ceiling is roughly 25–30 clients, so the constraint isn't binding yet, but it's coming. He has reviewed enough clients to know what a good review says, so he starts templating. His Price Steps have run on schedule since the founding group. With the proof milestone met, the graduate count that gates the proof band (Module 7), he announces the step into it [30+] days out.
+**Month 11. The read: care minutes, arriving.** He has [22] concurrent clients, each review takes [15] minutes, and on heavy weeks his turnaround drifts toward its limit. At Growing care minutes his ceiling is roughly 25–30 clients, so the constraint isn't binding yet, but it's coming. He has reviewed enough clients to know what a good review says, so he starts templating. The proof milestone, the graduate count that gates the proof band (Module 7), is met, but no single step reaches the band: he announces the January step to [$2k], and the band opens in August of year 2.
 
-**Month 12. Worked back.** Cole runs the Reverse Funnel from $25k: about 8–9 enrollments a month at about $3.1k. At his own rate of about [6%], [6–7] enrollments from [~110] eligible leads, he needs roughly [125–165] eligible leads a month. The larger gap is price, [~$2.2k] against $3.1k: steps up through the proof band, plus the back end, would carry profit to roughly [$18–23k] at his current volume. The rest needs [15–50%] more eligible leads, so year 2 adds modest reach through adult packaging, decision-stage topics, and referrals. Templated review keeps his ceiling at 8–9 new clients a month. A second platform stays off the list.
+**Month 12. Worked back.** Cole runs the Reverse Funnel from $25k: about 8–9 enrollments a month at about $3.1k. At his own rate of about [6%], [6–7] enrollments from [~110] eligible leads, he needs roughly [125–165] eligible leads a month. The larger gap is price, [~$1.9k] against $3.1k, a climb of [~60%]: steps up to the proof band's top, plus the back end, would carry profit to roughly [$18–23k] at his current volume. The rest needs [15–50%] more eligible leads, so year 2 adds modest reach through adult packaging, decision-stage topics, and referrals. Templated review keeps his ceiling at 8–9 new clients a month. A second platform stays off the list.
 
 **What the year shows.** Four reads found three different constraints and two moments where the tempting move would have cost him: charging for calls in month 5, buying reach in month 8. His revenue at month 12, [~$13–16k] a month, sits in the middle of Band B's range. The year also ended his own guessing: each month he read the business from his records, pulled one lever, and watched a start fill without a launch, a countdown, or a discount.
 
@@ -296,11 +296,11 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 
 ## Quick Reference
 
-**In one line.** Sell the End of Guessing, and make every business decision for the constraint that binds this month.
+**In one line.** Sell the End of Guessing, and decide for the constraint that binds this month.
 
 **Takeaways**
 - The binding constraint moves through reach → conversations → care minutes, and can slide back after any lever.
-- Profit = eligible adults × conversion × lifetime value × margin, capped by care minutes. Views aren't a term, and conversion is the cheapest reach.
+- Profit = eligible adults × conversion × lifetime value × margin, capped by care minutes. Views aren't a term; conversion is the cheapest reach.
 - Plan on Band A or B; in the middle case, $25k arrives in year 2, mostly through price.
 
 *The Stage Map*
@@ -326,12 +326,12 @@ Then set line 9 beside your band's waypoint. If it asks for more eligible leads 
 |---|---|
 | **The End of Guessing** | Sell the promise you control; test every rung against it |
 | **The Five Scarcities** | Read where leads stop; relieve only what binds |
-| **The Constraint Sequence** | Name which of reach, conversations, or care minutes stops the next dollar, and pull only that lever |
+| **The Constraint Sequence** | Name which of reach, conversations, or care minutes binds, and pull only that lever |
 | **The Stage Map** | Place yourself by trailing revenue and volume; pick your north star |
 | **The Demand Equation** | Find the weakest term before adding effort |
 | **The Reverse Funnel** | Work back from profit to the leads and reach it needs |
-| **Reach Bands** | Plan on the band you'll probably have; check it at months 3, 6, and 9 |
+| **Reach Bands** | Check your band's waypoints at months 3, 6, and 9 |
 
-**Leans on:** the House Standard and the Spine (Intro) · the Destination Ladder (Module 2) · the Honest Answer and the Dated Record (Module 3) · the ladder (Module 4) · the Call Cap (Module 5) · the Price Steps (Module 7) · the Founding Sprint (Module 9) · Stage Metrics and the Operator Review (Module 12) · the Parity Rule and the $50k path (Module 13) · the Verify Page (Module 27).
+**Leans on:** the House Standard and the Spine (Intro) · the Destination Ladder (Module 2) · the Honest Answer and Dated Record (Module 3) · the ladder (Module 4) · the Call Cap (Module 5) · Seat Math (Module 6) · the Price Steps (Module 7) · the Fill History (Module 8) · the Founding Sprint (Module 9) · the De-Scoping Order (Module 11) · Stage Metrics and the Operator Review (Module 12) · the Parity Rule and the $50k path (Module 13) · the Efficacy Split (Module 14) · proactive contact (Module 21) · the Verify Page (Module 27).
 
 **Do this month:** place yourself on the Stage Map; run the Monthly Constraint Read and pick one lever; fill in the Reverse Funnel worksheet against your band.

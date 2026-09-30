@@ -17,7 +17,7 @@ In your first four months, short-form is the main way strangers find you. Its fe
 
 Your buyer hides the pursuit. He rarely comments or tells a friend, and when he searches, he types the category's words, which the youngest viewers type too. A new channel can't rank for those yet, so long-form reaches him slowly at first. Short-form doesn't wait for his search. Each piece goes first to a small group of strangers and widens when they stay, so a short about a 27-year-old's stall can find the man living it in week one.
 
-Reach binds first, and month 3 is decided by conversations and the routes that produce them. So short-form is one of the labeled sources in the Founding Sprint, your first conversations without an audience, each held conversation labeled by its booking source (Module 9). The early design week gives it about 3.5 hours for 4–7 native pieces a week, its largest content line.
+Reach binds first, and month 3 is decided by conversations and the routes that produce them. So short-form is one of the labeled sources in the Founding Sprint, your first conversations without an audience, each held conversation labeled by its booking source (Module 9). Early, it gets the week's largest content line, about 3.5 hours for 4–7 native pieces.
 
 ### The door is the scoreboard
 
@@ -35,7 +35,7 @@ The second habit is routing. Every profile's link goes to your self-assessment, 
 | Shorts, then Reels | Early, with long-form running and Instagram as your router | A second native pass per piece |
 | Shorts, Reels, and TikTok | A labeled trial matches Reels on eligible adults per editing hour over about 30 door completions | A third pass, the longest route to your door, and no feed into long-form or your router |
 
-**Default: Shorts first, Reels second.** Shorts feed your long-form channel, on the platform that reaches more US adults than any other and nearly all of those aged 18–29. Reels feed your Instagram router, on a platform that reaches about half of US adults, where men who won't comment in public send a keyword in private. TikTok reaches a little over a third of US adults and feeds neither owned asset, so the adults it sends are its whole output. That's why it joins only on the match in the table, the one comparison every platform shares.
+**Default: Shorts first, Reels second.** Shorts feed your long-form channel, on the platform that reaches more US adults than any other and nearly all of those aged 18–29. Reels feed your Instagram router, on a platform that reaches about half of US adults, where men who won't comment in public send a keyword in private. TikTok reaches a little over a third of US adults and feeds neither owned asset, so the adults it sends are its whole output. That's why it joins only on the match in the table.
 
 A trial is an experiment. It runs on slack under 25 hours, for [8–12] weeks or about 30 door completions, whichever comes first, and it's the first thing cut when a week runs long. The whole set answers to the Platform Count Rule: run only as many platforms as your editing budget serves, and drop one before long-form slips (Module 25). If the budget can't serve both, Reels go before Shorts.
 
@@ -244,8 +244,8 @@ Short-form's line moves when long-form starts finding adults on its own, and the
 | Stage | Short-form a week | Pieces | The lab | Who cuts |
 |---|---|---|---|---|
 | Early | About 3.5 h | 4–7 native | Two framings filmed as separate openings; about two long-form tests a month | You film; an editor cuts; you approve |
-| Growing | About 1.25 h | [3–5], mostly derivatives | One matchup a week, both framings scripted into the long-form batch | A freelancer cuts; you approve |
-| Scaling | About 0.5 h | [2–4] derivatives | One matchup when a long-form slot fits | Freelancers cut; you approve every clip |
+| Growing | About 1.25 h | ~3–5, mostly derivatives | One matchup a week, both framings scripted into the long-form batch | A freelancer cuts; you approve |
+| Scaling | About 0.5 h | ~2–4 derivatives | One matchup when a long-form slot fits | Freelancers cut; you approve every clip |
 
 Each batch walks the Canon one claim per piece, with claim 1 in every piece built on the category's search terms and a resurfacing myth's claim first for about two weeks. Matchups sit inside that rotation, two framings of one claim in the same week, so the lab never costs the Canon a slot.
 
@@ -263,9 +263,9 @@ When all three hold, move short-form to about 1.25 hours and give the freed hour
 
 A native piece is filmed for its platform, so two framings can open on different situations: the 27-year-old at his mirror, or the headshot about to go on the company site. A derivative is cut from a long-form script, so its point, words, and length are set before the short exists, and only its first line, first frame, text, and cover can differ. Test only those, and the lab measures covers. So in Growing, write the week's two framings into the long-form script as two vertical takes of one point, shot in the same batch, and keep the matchup's floor, margin, and adult-share line.
 
-The clip brief names which framing each cut carries, word for word, because a cutter's tidier first line turns a matchup into a different test. If the Sprint's week-3 check moves hours from long-form into shorts and replies, confirmations wait with the slipped piece, and two-win framings queue in the order they won. Past 25 hours, the De-Scoping Order cuts the TikTok trial first, then X and native Instagram, then short-form above its stage line, Reels before Shorts, and never the line itself, which sits inside the Protected Content Minimum (Module 11). A short that spreads adds no hours or platform; it's a candidate for the lab like any other framing.
+The clip brief names which framing each cut carries, word for word, because a cutter's tidier first line turns a matchup into a different test. If the Sprint's week-3 check moves hours from long-form into shorts and replies, confirmations wait with the slipped piece, and two-win framings queue in the order they won. Past 25 hours, the De-Scoping Order cuts the TikTok trial first, then X and native Instagram, then short-form above its stage line, Reels before Shorts. The line itself never goes: it sits inside the Protected Content Minimum, the content hours client work can't take (Module 11). A short that spreads adds no hours or platform; it's a candidate for the lab like any other framing.
 
-Cole *(composite operator)* reads the crossing at month [7]. Eligible leads ran [~55] and [~62] the last two months, and long-form brought [~4] eligible leads per hour of his time against short-form's [~2] over two windows. His revenue crossed Growing's line [two] months earlier, on a Price Step, and he kept the Early line then, because leads still ran under 50. Now short-form drops to about 1.25 hours: [four] derivatives a week, cut by a freelancer, with one matchup scripted as two vertical takes. The freed hours go to a third long-form piece a month. Left alone: Reels routing, the Canon rotation, and TikTok, which still has no slack for a trial.
+Cole *(composite operator)* reads the crossing at month [7]. Eligible leads ran [~55] and [~62] the last two months, and long-form brought [~4] eligible leads per hour of his time against short-form's [~2] over two windows. His trailing revenue still sits just under Growing's line, and he moves anyway, because long-form now finds adults on its own. Short-form drops to about 1.25 hours: [four] derivatives a week, cut by a freelancer, with one matchup scripted as two vertical takes. The freed hours go to a third long-form piece a month. Left alone: Reels routing, the Canon rotation, and TikTok, which still has no slack for a trial.
 
 **Short-form leads while long-form is young, and the lab keeps long-form's pace.**
 
@@ -393,6 +393,6 @@ Run it on every clip before it's scheduled. A yes on every line ships it.
 | **The Native Tax** | Pay each platform's cost of belonging with a light pass on one clean master |
 | **The Clip Context Check** | Put every clip's caveat back inside its sentence, or drop the clip |
 
-**Leans on:** the Honest Answer (Module 3) · the Capture Standard (Module 6) · the Founding Sprint (Module 9) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Context Stack and the Honest-Evidence Test (Module 16) · the Warmth Ladder (Module 18) · the Two-Job Scorecard and the Age-Up Dial (Module 23) · the Platform Count Rule (Module 25) · the Proof Portability Gradient (Module 27) · the Payoff Test (Intro).
+**Leans on:** the Honest Answer (Module 3) · the Capture Standard (Module 6) · the Founding Sprint (Module 9) · the Protected Content Minimum (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Context Stack and the Honest-Evidence Test (Module 16) · the Warmth Ladder (Module 18) · the Two-Job Scorecard and the Age-Up Dial (Module 23) · the Platform Count Rule (Module 25) · the Proof Portability Gradient (Module 27) · the Payoff Test (Intro).
 
 **Do this month:** tag every short with its job, rung, and Canon claim; set your floor and margin before the first matchup runs; run the Clip Context Check on every clip before it's scheduled.

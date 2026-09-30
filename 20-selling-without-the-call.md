@@ -136,11 +136,11 @@ In every email the stake is another season of guessing, plus the money he'd spen
 
 A voice note answers one question in about 1–3 minutes, in the call's tone: plain, calm, and validating first if he's frustrated. It opens with his words, answers them, and makes at most one recommendation, with the date it depends on. If he hasn't named a date, it asks which one he'll decide by, and one written line underneath carries the recommendation, the price if he asked, and both dates.
 
-You record and send every note yourself, because AI assists behind the scenes and never speaks as you. Stop rules hold as on a call. "I can't afford it" gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, once, with the pause route and no recommendation. Distress or fixation turns the note into a referral conversation, and a minor goes to the education lane, public content and a referral with nothing kept, with anything he paid refunded. The rest leave only "stopped: stop rule" in your records.
+You record and send every note yourself, because AI assists behind the scenes and never speaks as you. Stop Rules, the conditions that end persuasion, hold as on a call. "I can't afford it" gets the Starter Path, the free sequenced path for anyone who shouldn't buy now, once, with the pause route and no recommendation. Distress or fixation turns the note into a referral conversation, and a minor goes to the education lane, public content and a referral with nothing kept, with anything he paid refunded. The rest leave only "stopped: stop rule" in your records.
 
-**When the signals disagree.** Maya *(composite, welcome, not targeted)*, 28, reaches the checkout from the third email and answers the affordability question no. The pause route takes over: the last two emails never send, no cart email follows, and the Starter Path goes out once. [Seven] weeks later she writes back: "New job. Is the [June] start open?" The tag still has weeks to run, but her message decides, because re-entry is hers to make and writing first is the permission the pause was waiting for.
+**When the signals disagree.** Maya *(composite, welcome, not targeted)*, 28, reaches the checkout from the third email and answers the affordability question no. The pause route takes over: the last two emails never send, no cart email follows, and the Starter Path goes out once. [Seven] weeks later she writes back: "New job. Is the [April] start open?" The tag still has weeks to run, but her message decides, because re-entry is hers to make and writing first is the permission the pause was waiting for.
 
-So clear the tag and answer her by voice note with the June start, its last day to join, and the link, and let the checkout run every check again. Leave the old sequence where it stopped, and never mention the earlier no.
+So clear the tag and answer her by voice note with the April start, its last day to join, and the link, and let the checkout run every check again. Leave the old sequence where it stopped, and never mention the earlier no.
 
 ## 5. The DM Handoff, the Checkout, and the Paid Session
 
@@ -156,7 +156,7 @@ Direct messages bring warm buyers and a real share of minors, and a message can'
 
 **Unverified to the door, verified to one recommendation and a link, Private to a call.**
 
-That's the **DM Handoff**, and its second rule is *Sell directly* at full strength. He counts as verified when your records show a completed door with no pause tag and he confirms from the address his result went to, by a reply or a link sent there. A thread that opens with the door code from his result page is checked the same way: you look up the code, email that address, and his reply confirms him. Every message stays yours, so routing help, the freelancer who moderates your public comments, never works the inbox. Stop rules hold in a message as they do on a call.
+That's the **DM Handoff**, and its second rule is *Sell directly* at full strength. He counts as verified when your records show a completed door with no pause tag and he confirms from the address his result went to, by a reply or a link sent there. A thread that opens with the door code from his result page is checked the same way: you look up the code, email that address, and his reply confirms him. Every message stays yours, so routing help, the freelancer who moderates your public comments, never works the inbox. Stop Rules hold in a message as they do on a call.
 
 ### The checkout checks before it charges
 
@@ -174,7 +174,7 @@ A pause tag blocks the whole checkout and shows "I'll reply to you personally" i
 
 At Scaling some men want to hear other buyers' questions answered live before they pay. The category's free "masterclass" timed to a cohort is a launch, and this business runs no free live enrollment sessions at any stage. What you can run is the paid group decision session, booked from a page that reads "cohort walkthrough and Q&A; the offer and price are inside". Its fee is about $25–50, credited on the Decision Assessment's terms, stated once and away from any date.
 
-The attestation, the question, and the Fit Check run at booking, as at any paid step. Its date sits clear of every start's join window. It's mentioned only inside each start's two sends, the announcement on the previous start's day and the reminder the week before, each with both dates. Attendees stay anonymous, typing questions with cameras off, and a question that reveals a minor, distress, or a referral sign is never read out. You answer it privately, under the stop rules.
+The attestation, the question, and the Fit Check run at booking, as at any paid step. Its date sits clear of every start's join window. It's mentioned only inside each start's two sends, the announcement on the previous start's day and the reminder the week before, each with both dates. Attendees stay anonymous, typing questions with cameras off, and a question that reveals a minor, distress, or a referral sign is never read out. You answer it privately, under the Stop Rules.
 
 | Option | Pick it when | What it costs |
 |---|---|---|
@@ -192,7 +192,7 @@ A free call feels generous and costs nothing you can see, so calendars fill with
 
 **Lift × price ÷ call-hours, set against what the hour earns elsewhere this month.**
 
-That's the **Call Economics Test**, and it turns Module 5's "uncertain or high-intent" into tags. Early, every eligible adult who wants a call gets one, since your hours are spare and each call teaches you the arc. From Growing, price the hour at cohort revenue per care hour: about $800 in the proof band, rising to about $1,250–1,400 at the Scaling ceiling.
+That's the **Call Economics Test**, and it turns Module 5's "uncertain buyers and those near a high-ticket decision" into tags. Early, every eligible adult who wants a call gets one, since your hours are spare and each call teaches you the arc. From Growing, price the hour at cohort revenue per care hour: about $800 in the proof band, rising to about $1,250–1,400 at the Scaling ceiling.
 
 | His state | Default route | When a call clears the bar |
 |---|---|---|
@@ -203,17 +203,17 @@ That's the **Call Economics Test**, and it turns Module 5's "uncertain or high-i
 | Rather have it in writing | The Decision Assessment | Rarely: a plan settles him |
 | Rather type than talk | The walkthrough and voice notes | Never pressed: a call can lower his odds |
 
-A dignity overlay changes how a call runs, never who gets one. For Cole *(composite operator)* at Growing, a call takes about 0.75 hours all-in and the Program costs [$2.8k]. A burned buyer's [25–35]-point lift is worth about [$930–1,300] a call-hour and clears $800, while a decided buyer's [0–5] points, about [$0–190], don't. Nobody who asks for a call is refused one, because the test sets only what his page offers first and who gets this week's reserved slots.
+A dignity overlay changes how a call runs, never who gets one. For Cole *(composite operator)* at Growing, a call takes about 0.75 hours all-in and the Program costs [$2,100]. A burned buyer's [30–35]-point lift is worth about [$840–980] a call-hour and clears $800, while a decided buyer's [0–5] points, about [$0–140], don't. Nobody who asks for a call is refused one, because the test sets only what his page offers first and who gets this week's reserved slots.
 
 Measure lift from your own rates, for buyers with the same tags: held conversation → enrollment on the call route, against walkthrough page → enrollment on the no-call route. Read each in 30-event windows, one routed buyer per event. Buyers choose their routes, so part of any gap is who chose, and you decide on its conservative end. Three conversations sit outside the test, because a rule decides them: Private always gets a call before payment, a Fit Check signal gets the pause conversation, and an endorsed distress item gets the offer of a referral conversation.
 
 ## Worked Example: Adrian and Theo, Ten Days Without a Call
 
-Cole is in month [16], Growing, with the Program at [$2.8k], an arc built from [40] recorded calls, and about [a third] of his enrollments coming without a call. The next start begins [April 6], with late entry through [April 17]; the one after begins [May 4], through [May 15]. On Tuesday [March 24], two men finish his door within two hours of each other.
+Cole is in month [15], Growing, with the Program at [$2,100], an arc built from [40] recorded calls, and about [a third] of his enrollments coming without a call. The next start begins [April 6], with late entry through [April 17]; the one after begins [May 4], through [May 15]. On Tuesday [March 24], two men finish his door within two hours of each other.
 
 **Day 1, [9:40 pm]. Adrian's result.** Adrian *(composite, Optimizer)*, 31, a consultant, arrives from Cole's decision-stage video on what the premium path buys. He answers "this month" and "rather have it in writing", and his tags store his stage, Optimizer, and a no-call route. The page renders the Optimizer branch: the priority tier at [$450], a written plan in [48 hours] with a recorded walkthrough, a privacy block, and the April dates. The read: speed and privacy lead, so Guide and Vehicle come first. Left alone: a free slot he never asked for.
 
-**Day 1, [11:15 pm]. Theo's result.** Theo arrives from a teardown of a device ad, and his answers name a [device] and a [course] that both promised forward growth. He'd start next month and is wary after a past purchase. So the page renders the burned branch, which opens with the verification kit: the sample plan that says "don't buy", the sample weekly review, and the guarantee terms. Then come his stall, the standard, a provisional cause, and the Program from [April 6] at [$2.8k], with both starts, both dates, "your date is yours", and a free slot below. The read: his checking is due diligence, so Guide goes first, on his clock. Left alone: any stake question, and whatever he paid for the device.
+**Day 1, [11:15 pm]. Theo's result.** Theo arrives from a teardown of a device ad, and his answers name a [device] and a [course] that both promised forward growth. He'd start next month and is wary after a past purchase. So the page renders the burned branch, which opens with the verification kit: the sample plan that says "don't buy", the sample weekly review, and the guarantee terms. Then come his stall, the standard, a provisional cause, and the Program from [April 6] at [$2,100], with both starts, both dates, "your date is yours", and a free slot below. The read: his checking is due diligence, so Guide goes first, on his clock. Left alone: any stake question, and whatever he paid for the device.
 
 **Day 2. First replies, and one purchase.** By [8 am] Cole has replied personally to both, each reply built around one line he wrote for that man. Adrian's says the whole lane runs without a call. Theo's points him to the Verify Page. At [10 am] Adrian buys the priority tier, shown above the standard assessment, after the attestation, the affordability question, and the Fit Check, with no signal. That evening Theo's first email, the burned variant, leads with the standard and the kit.
 
@@ -227,7 +227,7 @@ Cole is in month [16], Growing, with the Program at [$2.8k], an arc built from [
 
 **Day 10, Thursday. Theo enrolls.** At [9 am] the check-in arrives: "Today's the date you set for the April start, and the last day to join is [April 17]. Yes, no, or a question?" He opens the checkout, answers the question yes from savings, clears the Fit Check, reads the Card above the pay button, and pays in full.
 
-**What it shows.** Both decisions ran the whole arc, in different orders. Counting every touch, Cole sent Adrian two and Theo three, and one in each path needed his judgment: Adrian's plan, which the fee paid for, and Theo's voice note. Two seats filled at [$2.8k] each for about [1.25] hours. That leaves out the minutes spent on men who didn't buy, so it sits under Growing's planning range of 1.5–3 selling hours per enrollment. A call for the skeptic or a nudge in the silence would have cost what both paths were built to give him: control of his own decision.
+**What it shows.** Both decisions ran the whole arc, in different orders. Counting every touch, Cole sent Adrian two and Theo three, and one in each path needed his judgment: Adrian's plan, which the fee paid for, and Theo's voice note. Two seats filled at [$2,100] each for about [1.25] hours. That leaves out the minutes spent on men who didn't buy, so it sits under Growing's planning range of 1.5–3 selling hours per enrollment. A call for the skeptic or a nudge in the silence would have cost what both paths were built to give him: control of his own decision.
 
 ## Templates: The Result Page by State and the Walkthrough Outline
 
@@ -313,14 +313,14 @@ The order is the arc's, within the Dignity Route's limits, and "I can't afford i
 3. At most one recommendation, with its date; ask for his date if he hasn't named one.
 4. A written line underneath: the recommendation, the price if he asked, both dates.
 5. Recorded and sent by you, never by a tool in your voice.
-6. Stop rules first, with no recommendation: "can't afford" gets the Starter Path once and the pause route; distress, a referral conversation; a minor, the education lane and a refund.
+6. Stop Rules first, with no recommendation: "can't afford" gets the Starter Path once and the pause route; distress, a referral conversation; a minor, the education lane and a refund.
 7. Jaw pain, bite, sleep, or a procedure gets a referral and no opinion.
 
 **Theo's note**, answering "What exactly happens if I do the work and nothing changes?":
 
 > **You:** "Theo, fair question, and after the last guarantee you had, you should check this one. Two things protect you. At week 6, if you've done the work and want to stop, you get a pro-rata refund for the weeks you haven't had. At week 12, if none of the markers we agree at baseline reaches its threshold while you've kept to the agreed work, you get a cash partial refund, fixed before you pay. Either is paid within seven days, and the terms are on the page I'm linking. My recommendation is still the April start. Your date is yours, so which day will you decide by?"
 
-Underneath goes one line: "The Program, [April 6] start, join through [April 17], $[2.8k]. Terms: [link]." The note supports his due diligence and repairs Guide with terms he can collect on and his own date. If he answers "everyone says that", don't argue:
+Underneath goes one line: "The Program, [April 6] start, join through [April 17], $[2,100]. Terms: [link]." The note supports his due diligence and repairs Guide with terms he can collect on and his own date. If he answers "everyone says that", don't argue:
 
 > **You:** "Then check it against the terms page and the refunds I've published, and ask me about anything that doesn't match."
 
@@ -330,7 +330,7 @@ The line you never say is "Trust me, nobody ever asks for one." Once he names a 
 
 > **Dan:** "Watched the walkthrough. I'm in for April. What do I do?"
 >
-> **You:** "Good. The Program starts Monday [April 6], and you can join through [April 17]. It's $[2.8k] for 12 weeks. Here's the checkout: [link]. It asks a few short questions before payment, and your free log comes with the confirmation."
+> **You:** "Good. The Program starts Monday [April 6], and you can join through [April 17]. It's $[2,100] for 12 weeks. Here's the checkout: [link]. It asks a few short questions before payment, and your free log comes with the confirmation."
 >
 > **Dan:** "Can I decide after my [shift rota] comes out on the [10th]?"
 >
@@ -339,9 +339,9 @@ The line you never say is "Trust me, nobody ever asks for one." Once he names a 
 
 This is *Sell directly* at full strength, with the checks left to the checkout, and his rota date became his Decision Date, before the last day to join, which repairs the Now link. If he pushes on price, it holds:
 
-> **Dan:** "Any chance of [$2.5k]?"
+> **Dan:** "Any chance of [$1,800]?"
 >
-> **You:** "No, it's $[2.8k] for everyone in April. That's a written review of your week within [turnaround], the weekly call, and both reads. Shall I check in on the [10th]?"
+> **You:** "No, it's $[2,100] for everyone in April. That's a written review of your week within [turnaround], the weekly call, and both reads. Shall I check in on the [10th]?"
 
 The line you never send is "Price goes up soon, lock it in now." At "I can't afford it", the stop rule ends it: "Understood. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." The other cases, one line each:
 

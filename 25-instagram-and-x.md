@@ -33,9 +33,9 @@ Reid *(composite operator)* is Early, in month [3], with long-form every other w
 
 At his monthly review the read is a count. His short-form line covers one native batch cut two ways, and his replies line covers his DMs and replies, leaving nothing for carousels or daily posts. Both go in the De-Scoping Order's sequence, your fixed order of cuts for an overloaded week: X first, since testing arguments sits furthest from your door, then native Instagram, with routing kept (Module 11). By month [5] long-form is back on cadence and eligible leads are near [18–22] a month.
 
-### The count runs on your design week's lines
+### The count runs on your Design Week's lines
 
-"Fits the budget" is arithmetic on your design week. Reels, carousels, and any TikTok pass come from the short-form line. The replies line covers public replies, Permission-First Replies on both platforms, and your DM slot, which takes its minutes first because routing is never cut. A platform fits when its native version, at its cadence, fits what's left of its line every week:
+"Fits the budget" is arithmetic on your Design Week, where every hour has a line. Reels, carousels, and any TikTok pass come from the short-form line. The replies line covers public replies, Permission-First Replies on both platforms, and your DM slot, which takes its minutes first because routing is never cut. A platform fits when its native version, at its cadence, fits what's left of its line every week:
 
 | Stage | Short-form line | Replies line | DM slot, first | The rest of the replies line |
 |---|---|---|---|---|
@@ -142,7 +142,7 @@ Every DM is read by you in a sized daily slot and answered from the template for
 
 ### The slot is sized from your replies line
 
-DMs are where minors disclose, distress arrives, and buyers ask about price, so they stay on your Keep-List, the work that never leaves your hands, and routing help never works the inbox. The Unpriced-Minute Rule, every per-person minute priced, batched, or templated, sets the shape (Module 11): templates by case, in a slot that takes its minutes first from the replies line. It halves from Growing on, when the automatic link and templates carry more.
+DMs are where minors disclose, distress arrives, and buyers ask about price, so they stay on your Keep-List, the work that never leaves your hands, and routing help never works the inbox. The Unpriced-Minute Rule, every per-person minute priced, batched, or templated, sets the shape (Module 11): templates by case, in a slot on the replies line. It halves from Growing on, when the automatic link and templates carry more.
 
 When the slot runs past its share two weeks running, work the overrun in order: template the reply you keep typing, turn the question you answer most into a Reel or pinned post, then take X's minutes, the first cut. The slot shrinks last, because routing is never cut. Selling inside a thread, a verified adult's recommendation or a voice note of about 1–3 minutes recorded by you, belongs to your selling hours.
 
@@ -157,7 +157,7 @@ Distress can't wait for the slot. Once each evening, slot day or not, read your 
 | 3 | "Rate me", with or without a photo | No rating, the idea behind the question, and the door link | A word about his photo or any feature, kind or not | Nothing; the photo is never saved or forwarded |
 | 4 | An adult with a question | The idea in a line or two, then the door; once he's verified, one recommendation and a checkout link | A close before verification; Private without a call | Only what the door records |
 
-The order matters because messages mix cases. A man who wants a rating and hates every photo of himself is case 1, since help comes before any redirect. A 16-year-old asking the price is case 2 and gets no price. A side profile attached to "is this worth it at 27?" is case 3 before case 4, so his question gets an answer and his photo doesn't. A protective stop, a stop rule that protects him, leaves only "stopped: stop rule" on record, and nothing from the thread feeds your objection log or content plan.
+The order matters because messages mix cases. A man who wants a rating and hates every photo of himself is case 1, since help comes before any redirect. A 16-year-old asking the price is case 2 and gets no price. A side profile attached to "is this worth it at 27?" is case 3 before case 4, so his question gets an answer and his photo doesn't. A protective stop, a stop rule that protects him, leaves at most "stopped: stop rule" on record, and nothing from the thread feeds your objection log or content plan.
 
 ### A thread meets the door through a code
 
@@ -179,7 +179,7 @@ X's users skew adult and male, and far fewer teens use it than use Instagram, so
 
 ### Argue on peers' threads, half an hour a week
 
-Argue where your peers already argue: threads by adjacent educators in training, posture, grooming, and photography, and clinicians' threads when they argue ideas. On a clinician's thread you argue the idea and concede the clinic, with no clinical opinion and no word implying standing you don't hold, since the line on credentials holds on every thread. Follow the peers you've disagreed with well, because X lifts conversation between accounts that follow each other, and your graph grows by good arguments. The lab runs on about half an hour a week of Growing's replies line: one claim, one post of your own, and replies on the threads where its objection lives.
+Argue where your peers already argue: threads by adjacent educators in training, posture, grooming, and photography, and clinicians' threads when they argue ideas. On a clinician's thread you argue the idea and concede the clinic, with no clinical opinion and no word implying standing you don't hold, since the line on credentials holds on every thread. Follow the peers you've disagreed with well, because X lifts conversation between accounts that follow each other. The lab runs on about half an hour a week of Growing's replies line: one claim, one post of your own, and replies on the threads where its objection lives.
 
 ### Test the argument, never the claim's words
 
@@ -221,7 +221,7 @@ Each platform is judged by the number its job produces: eligible adults through 
 
 Instagram's number is eligible-adult yield, eligible leads per unit of reach by source, counted through each keyword's tagged link. Read it per keyword message and per 1,000 views on Instagram's own fixed count, dated whenever the platform changes what it counts, the habit Denominator Discipline makes a rule (Module 12). Beside it sit anonymous counts per keyword of minors' messages and rating requests, which steer packaging. Likes and follows stay off the scoreboard, since they count minors and raters as readily as buyers.
 
-Many keyword messages with few completions mean a Reel drew people the door turns away, so its packaging changes, never the reply. Until your own ratios exist, plan on about 0.1–1 lead per 1,000 short-form views, with 30–70% of raw leads eligible.
+Many keyword messages with few completions mean a Reel drew people the door turns away, so its packaging changes, never the reply. Until your own ratios exist, plan on about 0.1–1 raw lead per 1,000 short-form views, with 30–70% of raw leads eligible.
 
 ### X is judged by arguments moved, read each quarter
 
@@ -242,7 +242,7 @@ The hard quarter is the one where a held argument's piece yields [~1.2] per 1,00
 
 ## Worked Example: Cole's Objection, from an X Thread to a Keyword Reel
 
-Cole *(composite operator)* is Growing in month [11], with the Program at $[2.4k], X running as a full lab, and his Reels routing through the Keyword Route. His objection log's last 30 held conversations show one doubt most: "Why pay when it's free on YouTube?" It's a Vehicle objection, a doubt that a paid program is the way to get there.
+Cole *(composite operator)* is Growing in month [11], with the Program at [$1,910], X running as a full lab, and his Reels routing through the Keyword Route. His objection log's last 30 held conversations show one doubt most: "Why pay when it's free on YouTube?" It's a Vehicle objection, a doubt that a paid program is the way to get there.
 
 **Week 1. The claim, verbatim.** He posts the Canon's fourth claim word for word, "A record doesn't read itself; review turns it into a decision", beside the objection and his usual answer: free videos give you the method but can't read your record. [Forty] replies agree. Then a strength coach with a larger following objects that most people just need consistency, and paid review is a crutch.
 
@@ -259,7 +259,7 @@ The first argument has no answer to that, so Cole tries a second: consistency is
 - [Three] reveal minors, one as "[RECORD] im 15": the education-lane line, no link, threads cleared, and the count up by three.
 - One, at [2 a.m.], pairs the keyword with hating every photo of himself: a referral that day, no sale, and nothing kept.
 
-**Week 6. Two verified adults.** Dan *(composite, Struggler)*, 24, came through [RECORD], finished the door, sent the code from his result page, and confirmed by replying to Cole's email. He asks "When's the next start?" and gets the DM Handoff: the [Month] start, its last day to join, the price once, and the checkout link. He joins [two] days later, after the checkout's checks. Adrian *(composite, Optimizer)*, 31, verified the same way, asks about Private. He gets one recommendation, the priority tier at $[350–600], which buys a written plan within [48 hours] with a recorded walkthrough, and its checkout link; Private needs a call, and only after that plan recommends it. He buys the tier that evening.
+**Week 6. Two verified adults.** Dan *(composite, Struggler)*, 24, came through [RECORD], finished the door, sent the code from his result page, and confirmed by replying to Cole's email. He asks "When's the next start?" and gets the DM Handoff: the [Month] start, its last day to join, the price once, and the checkout link. He joins [two] days later, after the checkout's checks. Adrian *(composite, Optimizer)*, 31, verified the same way, asks about Private. He gets one recommendation, the priority tier at [$450], which buys a written plan within [48 hours] with a recorded walkthrough, and its checkout link; Private needs a call, and only after that plan recommends it. He buys the tier that evening.
 
 **Left alone.** No public keyword comment, no date on the Reel, no reply to the cheers, and nothing from the distress thread in his objection log or content plan.
 
@@ -370,6 +370,6 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 | **The Keyword Route** | Turn a keyword sent by DM into one link to your self-assessment |
 | **The Argument Lab** | Test the arguments behind canon claims; move what holds to long-form |
 
-**Leans on:** the Door and the education lane (Module 5) · the De-Scoping Order and the Unpriced-Minute Rule (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Qualifications Answer (Module 15) · the Warmth Ladder (Module 18) · the DM Handoff (Module 20) · the Age-Up Dial (Module 23) · the Native Tax and Reels craft (Module 24).
+**Leans on:** the Door and the education lane (Module 5) · the Design Week, the De-Scoping Order, and the Unpriced-Minute Rule (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Qualifications Answer (Module 15) · the Warmth Ladder (Module 18) · the DM Handoff (Module 20) · the Age-Up Dial (Module 23) · the Native Tax and Reels craft (Module 24).
 
-**Do this month:** Check each platform's native pass against your design week's lines from two logged weeks, and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.
+**Do this month:** Check each platform's native pass against your Design Week's lines from two logged weeks, and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.

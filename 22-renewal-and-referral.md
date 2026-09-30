@@ -192,7 +192,7 @@ Drift starts in small places: a graduation email that opens with the offer, "as 
 
 ## Worked Example: Cole's [April] Start, Weeks 10 to 12
 
-Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying ran his first nine months three ways. The Program alone came to [$2,800], and with [six] Hold months at [$55], to [$3,130]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,965].
+Cole *(composite operator)* is Growing, with about [24] concurrent clients across three monthly starts and his group call split by stage. The card every client read before paying priced his first [9] months. The Program alone came to [$2,100], and with [six] Hold months at [$55], to [$2,430]. With Round Two at [$1,000] and [three] Hold months, it came to [$3,265].
 
 Ten clients started in [April]: Dan, Theo, Adrian, Sam *(composite, Ambivalent)*, 22, Maya *(composite, welcome, not targeted)*, 28, and five others. Maya took the exit right after her week-6 read and had her pro-rata refund within [four] days. She was asked for nothing then or since, and nobody in the group heard about it from Cole.
 
@@ -210,7 +210,7 @@ Sam gives his old line, "after the busy season", and since a deferral isn't a no
 
 That's the stake in his own words. Round Two needs a check-in only every second week, and its next start takes joiners until [its last day to join]. Sam agrees to decide by then. On that date he writes that he'll keep his own quarterly date, a clear no that Cole accepts without another ask.
 
-[Three] records reach their peak and hold, and all three hear they don't need Round Two. Clients 8 and 9 want a reviewer's quarterly read on whether it holds, so both take the Hold after the same question. Client 10, who expected an upsell, hears the honest answer twice: "You don't need Round Two, and I don't think you need the Hold. Your last [six] check-ins named your own misses before I did."
+[Three] records reach their peak and hold, and all three hear they don't need Round Two. Clients 8 and 9 want a reviewer's quarterly read on whether it holds, so both take the Hold after the same question. Client 10, who expected an upsell, hears an honest no twice: "You don't need Round Two, and I don't think you need the Hold. Your last [six] check-ins named your own misses before I did."
 
 Each of the [eight] then hears one private referral question, and five hear the results ask. Client 6, Client 7, and Sam, whose first peak came at week 12, decline, and Client 9 says his week-10 lines already say it. Adrian, who at week [8] had asked to be asked once he'd seen his verdict, writes a results line now.
 
@@ -272,7 +272,7 @@ If he argues for stopping, reflect it, ask to challenge it, then use his own rec
 
 What you never say: "Stop now and your jaw will slide back." It puts the stake on his face and claims what no record supports. Then return to the plain question, "Do you want to start Round Two?", and take his answer. A clear no ends the ask. A no to the money question ends money talk, and his record and quarterly date stay his.
 
-**The private referral ask.** Sam, at his graduation peak, once his Round Two question has its decision date.
+**The private referral ask.** Sam, at his graduation peak, once his Round Two question has its Decision Date.
 
 > **You:** "One more question, and a no is completely fine. Is there someone who's asked you what you've been doing these twelve weeks?"
 >

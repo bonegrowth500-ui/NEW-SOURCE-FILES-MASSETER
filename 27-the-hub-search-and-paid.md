@@ -38,9 +38,9 @@ Traffic flatters a hub, because a page fills with visits from people who were ne
 - eligible leads who hold a conversation, 10–20% with a reply within hours;
 - warm offer-page visitors who enroll, about 1–3%, read through its stages (visit, checkout start, a yes to the affordability question, payment) until about 30 enrollments exist.
 
-Beside them sits one onboarding question, read only in aggregate: what did you check before you paid? At the monthly review, a stage is below range once it stays under for two windows of about 30 events, or sooner when a check of its page turns up a plain fault. Change one thing on the page that owns the worst stage and leave the rest alone, since two changes at once hide which one worked. If every stage holds but no enrolled man names the page he checks you on, your log, or the offer page, search your own name as he would to see why.
+Beside them sits one onboarding question, read only in aggregate: what did you check before you paid? At the monthly review, a stage is below range once it stays under for two windows of about 30 events, or sooner when a check of its page turns up a plain fault. Change one thing on the page that owns the worst stage and leave the rest alone, since two changes at once hide which one worked. If every stage holds but no enrolled man names the page he checks you on, your log, or the offer page, search your name as he would to see why.
 
-Cole *(composite operator)* runs this at month [5]. His door finishes [~63%] of starts and his eligible leads book at [~14%], both in range, but his offer page drew [~170] warm visits and [one] enrollment. Through its stages: [12] checkout starts, [9] yeses to the affordability question, [one] payment. [Eight] men said yes and stopped at payment, too sharp a drop to wait out a second window. Side by side, the pages disagree: the checkout shows the three-payment total, [$1,830], where the offer page says [$1,750] "or three payments" with no total, and a burned buyer stops at a number he didn't see before.
+Cole *(composite operator)* runs this at month [5]. His door finishes [~63%] of starts and his eligible leads book at [~14%], both in range, but his offer page drew [~170] warm visits and [one] enrollment. Through its stages: [12] checkout starts, [9] yeses to the affordability question, [one] payment. [Eight] men said yes and stopped at payment, too sharp a drop to wait out a second window. The pages disagree: the checkout shows the three-payment total, [$1,695], where the offer page says [$1,650] "or three payments" with no total, and a burned buyer stops at a number he didn't see before.
 
 One change puts the total on the offer page in the checkout's words. Left alone: the price, the pitch, and the door's questions. The next window brings [three] enrollments from [~150] visits, inside the 1–3% plan, and [two] of the three name that page's guarantee terms as what they checked.
 
@@ -114,7 +114,7 @@ Drift here runs one way, toward the bone claim, because the strongest-sounding l
 
 **The page is part of the post: every claim from one library, every page in habit and process words, and no health framing wherever an ad or a tracker reads.**
 
-That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library does its work. It's one document holding every public claim in its exact words. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, and where it may travel. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the card of at most ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
+That's the **Destination Rule**, the rule that a linked page carries the post's claims, and a claims library, one document holding every public claim in its exact words, does its work. Beside each claim sit its Outcome Map column, its rung on the Claim Ladder from process up to outcome, the context it needs, and where it may travel. Your Canon sits in it verbatim, beside a list of what never appears: the never-claimed column, clinical words, condition names. A claim enters the library before any asset. The Pre-Publish Card, the card of at most ten yes/no lines every asset clears before it ships, checks assets against it (Module 18).
 
 On pages, habit and process words describe what he does and what you deliver: logs, weekly review, captures to a standard, a verdict from his record. One sentence can sit on every page and description: "[Brand] coaches habits and presentation, reviews your record every week, and gives no medical or dental opinion."
 
@@ -189,7 +189,7 @@ A scaled budget also waits for a tested cost per eligible lead at or under your 
 
 ### The Band A test is a measurement buy
 
-The test turns on the volume leg of the Month-3 Gate, your week-12 check on volume and conversion (Module 9). Fewer than about 15 held conversations by week 12 says reach is short, while your band still can't be read. That trigger sits with your other scaling triggers (Module 12). The default then is about $300–1,000 a month from months 3–4, pushing proven pieces to adults against a holdout. It needs only the first gate, plus pieces that pass the second. It carries the name of Band A, the channel that never breaks out, because that band has no other reach lever you can plan on.
+The test turns on the volume leg of the Month-3 Gate, your week-12 check on volume and conversion (Module 9). Fewer than about 15 held conversations by week 12 says reach is short, while your band still can't be read. That trigger is one of your Scaling Triggers, the signals set in advance (Module 12). The default then is about $300–1,000 a month from months 3–4, pushing proven pieces to adults against a holdout. It needs only the first gate, plus pieces that pass the second. It carries the name of Band A, the channel that never breaks out, because that band has no other reach lever you can plan on.
 
 Expect it to miss. At opening prices it usually costs more per eligible lead than you can afford. That's acceptable, because you're buying a measurement: your own cost per eligible lead, which no benchmark gives you, and with it the condition under which paid could ever scale. Judge it by eligible leads per dollar, turned into the cost of each eligible lead the spend added, against a third of your current revenue per eligible lead.
 
@@ -241,7 +241,7 @@ Count cost per eligible lead at your door, never per click, view, raw lead, or p
 
 ## Worked Example: Reid, His Verify Page and First Paid Test
 
-Reid *(composite operator)* is twelve weeks in. His eligible leads run about [16–18] a month, inside the month-3 ranges of both Band A and Band B, the steady band, so the band can't tell him anything yet. His Month-3 Gate can.
+Reid *(composite operator)* is 12 weeks in. His eligible leads run about [16–18] a month, inside the month-3 ranges of both Band A and Band B, the steady band, so the band can't tell him anything yet. His Month-3 Gate can.
 
 **Week 12. The read: volume.** He has held [10] conversations against the gate's line of about 15, and his founding group, every early client in one group, has [two] members. The volume leg fails. The default fix has two parts: [2] more hours a week on short-form and public replies, and the Band A test once his destinations pass. He leaves price alone, since his founding price ends on its stated date.
 

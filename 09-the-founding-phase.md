@@ -245,7 +245,7 @@ So he works the fix order. Replaying the [22] calls he recorded with consent, he
 
 ## Worked Example: Cole's First 90 Days, Logged by Label
 
-Cole *(composite operator)* starts from zero in [January] with door v0, a founding page, and the Honest Answer published in week 1. The page shows [one] founding Private seat at [$6,000], async-first. Below it sits the founding group at [$1,500], with [4] seats and [$1,650] from the [March] start, then the priority tier at [$450]. His channel will prove to be Band B, the steady band, though nothing in his first quarter can show him that.
+Cole starts from zero in [January] with door v0, a founding page, and the Honest Answer published in week 1. The page shows [one] founding Private seat at [$6,000], async-first. Below it sits the founding group at [$1,500], with [4] seats and [$1,650] from the [March] start, then the priority tier at [$450]. His channel will prove to be Band B, the steady band, though nothing in his first quarter can show him that.
 
 | Weeks | Warm network | Replies | Permission-First Replies | Short-form | Long-form and search | Clients so far | Cash so far |
 |---|---|---|---|---|---|---|---|
@@ -315,7 +315,7 @@ His purchases stayed in the notes, the price came once, and the seats and next p
 >
 > **You:** "The check-in takes about 10 minutes a week, and on baseline day we fit your [habit blocks] around your rota. Miss the [Thursday] call for a shift and your written review still arrives. Does February work?"
 
-If he still wants time: "February's last day to join is [February 13]. Shall we say [February 9], and I'll check in then?" Never say "this is just research, no sales" before a call that ends in a recommendation. At a clear no, ask once what made it a no, except after distress or a fit-check pause. "I can't afford it" gets the Starter Path once and the pause route.
+If he still wants time: "February's last day to join is [February 13]. Shall we say [February 9], and I'll check in then?" Never say "this is just research, no sales" before a call that ends in a recommendation. "I can't afford it" gets the Starter Path once and the pause route.
 
 ## Template: The Founding Page
 
@@ -356,7 +356,7 @@ Run it at each founding client's week 12, and monthly for your log.
 2. Did his check-in take about 10 minutes, with every field filled most weeks? → Cut or rewrite any field blank [three] weeks running.
 3. Did his captures match baseline conditions without a retake? → If not, add the failed condition to the next Capture Standard.
 4. Was each testimonial asked at a measured peak after his exit decision, with revocable consent and no incentive? → If not, never use the answer.
-5. Did a check-in, capture standard, or review template survive a full start? → Freeze it as version 1 and name it in the founding step.
+5. Did a check-in, Capture Standard, or review template survive a full start? → Freeze it as version 1 and name it in the founding step.
 6. Did this month's process entries reach your Dated Record? → If not, publish them now, dated today and marked late.
 
 ## Stage Notes
@@ -373,7 +373,7 @@ Run it at each founding client's week 12, and monthly for your log.
 
 - **Disclosed in the first line.** The warm-network message says it's a business message, and the Dual-Purpose Conversation puts its research job, the price range, and the affordability question on the booking page (*Sell directly*). A research call that ends in a pitch would fail the Informed-Client Test's ceiling.
 - **Founding scarcity with its math shown.** Seats come from founding Seat Math, and the founding price ends at its seat count or its date, never extended (*Use real dates*), which keeps it clear of the line on fake scarcity.
-- **Stop rules apply to friends.** A friend's "I can't afford it" ends money talk, he gets no discount or second message, and nobody under 18 is contacted (the line on vulnerability).
+- **Stop Rules apply to friends.** A friend's "I can't afford it" ends money talk, he gets no discount or second message, and nobody under 18 is contacted (the line on vulnerability).
 - **Research that never turns into a pitch.** What he bought stays in the notes, never in the recommendation or the price (*Name the stakes*; the line on vulnerability). The first testimonial ask waits for a measured peak after his exit decision.
 
 ## Quick Reference
@@ -405,6 +405,6 @@ Run it at each founding client's week 12, and monthly for your log.
 | **The Dual-Purpose Conversation** | Research and decide in one disclosed 45-minute call that ends in one recommendation |
 | **The Month-3 Gate** | Read volume, then conversion, at week 12, and fix sources or the offer one change at a time |
 
-**Leans on:** the Dated Record (Module 3) · speed to lead (Module 5) · the Price Steps (Module 7) · founding Seat Math and the Fill History (Module 8) · Round Two (Module 10) · the Premium Lane (Module 13) · Close by Contract (Module 19) · testimonial timing (Module 22) · short-form (Module 24) · Permission-First Replies (Module 25) · the paid test (Module 27).
+**Leans on:** the Dated Record (Module 3) · speed to lead (Module 5) · the Path and Timeline Card (Module 6) · the Price Steps (Module 7) · founding Seat Math and the Fill History (Module 8) · Round Two (Module 10) · Small Numbers Lie (Module 12) · the Premium Lane (Module 13) · Close by Contract (Module 19) · testimonial timing (Module 22) · short-form (Module 24) · Permission-First Replies (Module 25) · the paid test (Module 27).
 
 **Do this month:** put the founding page live with seats, both prices, and privacy terms, then send the warm-network message once. Label each held conversation by booking source. Run the week-3 source check on its date.

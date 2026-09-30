@@ -72,7 +72,7 @@ Body composition sits in the first column and jaw change in the second, so the n
 | "Mewing gave me a jawline" | Debated | "People report that. The evidence is photos, and it's unproven for adults." |
 | "Habits can widen an adult's jaw" | Never claimed | "There's no good evidence for that, and I don't sell it." |
 
-Saying a debated item at its tier means three things in one breath: what's claimed, how strong the evidence is, and what he'd need to see to believe it about himself. For oral-posture habits, orthodontic professionals have said publicly that there's no good evidence they change an adult's face shape. Chewing-driven muscle change carries trade-offs of its own, so jaw pain is a referral trigger, never a sign of progress.
+Saying a debated item at its tier means three things in one breath: what's claimed, how strong the evidence is, and what he'd need to see to believe it about himself. For oral-posture habits, orthodontic professionals have said publicly that there's no good evidence they change an adult's face shape. Chewing-driven muscle change carries trade-offs of its own, so jaw pain is a refer-out trigger, never a sign of progress.
 
 ### The yes is bigger than the no
 
@@ -101,7 +101,7 @@ Sort his history before you mention the offer. Each piece lands in a column, and
 
 The last row is his yes, and a burned buyer who hears only refusals leaves with nothing to check. His plan is first-column work: a body-composition baseline, a logged [weekly habit block], and matched captures at baseline, week 6, and week 12, so by week 6 his own record shows whether the work held. His question is what opens that row: had his goal sat wholly in the never-claimed column, the honest recommendation would be "don't buy", because nothing you sell reaches it.
 
-The rest is the burned buyer's route (Module 2): the tiers premium-first, one recommendation, the Program, your 12-week flagship, which runs as the founding group in your first months, then its price said once and the affordability question word for word. Then come the verification kit and a date he chooses, and the device money stays out of the recap, because a pitch that leans on money already lost is how he was sold the first time.
+The rest is the burned buyer's route (Module 2): the tiers premium-first, one recommendation, the Program, your 12-week flagship, then its price said once and, word for word, the affordability question about paying without new credit. Then come the verification kit, a sample plan and weekly review, and a date he chooses, and the device money stays out of the recap, because a pitch that leans on money already lost is how he was sold the first time.
 
 ### Every outcome sentence gets a column
 
@@ -115,7 +115,7 @@ A map nobody hears does nothing, so the first thing your brand publishes is the 
 
 ### The answer comes before the pitch
 
-That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before it asks for anything, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the one ask at its end, the door, credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, the result page, and a welcome email, and a spoken version for calls.
+That's the **Honest Answer**: one dedicated asset, delivered wherever the category's search terms bring people in. It's your first long-form piece, and everything after links back to it. It answers completely before it asks for anything, so a viewer who never buys still leaves knowing what can move, what can't, and how he'd tell, which is what makes the one ask at its end, the door, credible. It runs at three lengths with the same claims in the same order: the full asset, a paragraph for the Verify Page, the result page after the self-assessment, and a welcome email, and a spoken version for calls.
 
 ### Every no travels with a yes
 
@@ -161,7 +161,7 @@ Holding it takes force aimed at ideas: pointed, even cutting, about practices an
 | Business models: the next tip, the next device, the next rating | Anyone's features |
 | The genetics shrug, steelmanned first | Clinicians, who are where you send people |
 
-An attack on a person reads as rivalry and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea hands the buyer the Honest-Evidence Test, the tells of manufactured proof and the standard of honest evidence, taught through teardowns with every face cropped or blurred (Module 16). Build your Capture Standard, matched conditions for every capture, before your first teardown, because every viewer you teach will use the lesson on you.
+An attack on a person reads as rivalry and fails the Hostile-Screenshot Test, the check of whether a line survives the category's harshest critic (Intro). An attack on an idea hands the buyer the Honest-Evidence Test, the tells of manufactured proof and the standard of honest evidence, taught through teardowns with every face cropped or blurred (Module 16). Build your Capture Standard, matched conditions for every capture (Module 6), before your first teardown, because every viewer you teach will use the lesson on you.
 
 ### A grift claim gets a teardown of the idea, never the seller
 
@@ -212,7 +212,7 @@ Third, the assets that compound should outlive a platform ban or a bad quarter: 
 
 So put rules on the camera. No thumbnail uses your own profile or jawline, and no shot of you is lit from above to sharpen a jaw, since both are manufactured proof with your face as the product.
 
-Put What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, in the comment policy your pinned comments link to and on the Verify Page. Answer "what are your qualifications?" with the Qualifications Answer: no implied title, the method you can show, and the record he can check (Module 15). An implied title falls apart the first time he searches your name, while a record gets stronger every month he checks it.
+Put What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, in the comment policy your pinned comments link to and on the Verify Page. Answer "what are your qualifications?" with the Qualifications Answer: the fact of what you hold, what you do and don't, the record he can check, and who to see instead (Module 15). An implied title falls apart the first time he searches your name, while a record gets stronger every month he checks it.
 
 ### The descriptor names what you deliver
 
@@ -294,7 +294,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 
 **What he left alone.** He didn't add a platform, buy reach to replace the lost views, cut his founding price, or chase the old numbers with bolder hooks. Honest disagreement stayed up in his old comment threads, because deleting it would have been one more thing to explain.
 
-**Month 8. The outcome.** Views settled [~25%] below their peak. Raw leads per 1,000 engaged views rose from [~1] into the 2–5 early planning range, and his eligible share moved toward the middle of the 30–70% range. Held conversations reached [2–3] a week, with [2–4] clients in his founding group, the first cohort every early client joins. The 27-year-old came back after watching the Honest Answer and booked a fit conversation. Reid sits about [2–3] months behind a clean start, the real price of the misread, and inside Bands A–B, the reach bands worth planning on.
+**Month 8. The outcome.** Views settled [~25%] below their peak. Raw leads per 1,000 engaged views rose from [~1] into the 2–5 early planning range, and his eligible share moved toward the middle of the 30–70% range. Held conversations reached [2–3] a week, with [2–4] clients in his founding group, the first cohort every early client joins. The 27-year-old came back after watching the Honest Answer and booked a fit conversation. Reid sits about [2–3] months behind a clean start, the real price of the misread, and inside Bands A–B, the Reach Bands worth planning on (Module 1).
 
 **What it shows.** The repositioning cost Reid views, affiliate income, and a few months, and it gained him eligible adults, because the same effort now pointed at people who could buy and could check his claims. The pre-commitment he posted with no clients is the first entry in a record no rival starting later can match.
 
@@ -385,6 +385,6 @@ Run it on every product, tier, and program name before it's printed anywhere.
 | **The Honest Answer** | Answer the bone question in full before any pitch |
 | **The Dated Record** | Turn honesty into evidence with a month-1 pre-commitment and a dated log |
 
-**Leans on:** the burned buyer's route (Module 2) · the Canon, bounded agency, and Fantasy to Expectation (Module 14) · Costly vs Hygiene Signals, the face statement, and the Qualifications Answer (Module 15) · the Honest-Evidence Test and the Proof Stack (Module 16) · the Verify Page and the Evaluation Query (Module 27).
+**Leans on:** Reach Bands (Module 1) · the burned buyer's route (Module 2) · the Capture Standard (Module 6) · the Canon, bounded agency, and Fantasy to Expectation (Module 14) · Costly vs Hygiene Signals, the face statement, and the Qualifications Answer (Module 15) · the Honest-Evidence Test and the Proof Stack (Module 16) · the Warmth Ladder (Module 18) · the Verify Page and the Evaluation Query (Module 27).
 
 **Do this month:** publish the Honest Answer as your first long-form; post your dated pre-commitment and start the log; set your descriptor and "First name | Brand" everywhere.

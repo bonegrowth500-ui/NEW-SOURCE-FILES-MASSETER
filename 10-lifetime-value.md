@@ -223,7 +223,7 @@ The card states your time per member, and a member's questions about his record 
 
 ## Worked Example: Cole's [September] Start, Followed for a Year
 
-Cole (composite operator) is Growing, with about [24] concurrent clients across three monthly starts. His Program sits at [$2,400] and costs about [19] care minutes a client-week, so a Program seat earns about [$630] per care hour. Round Two is [$950], and the Hold is [$49] a month, still a subscription with no room. [Ten] clients start in [September], Dan among them. Each read both back-end prices on the Path and Timeline Card before paying.
+Cole *(composite operator)* is Growing in year 2, with about [24] concurrent clients across three monthly starts. His Program sits at [$2,400] and costs about [19] care minutes a client-week, so a Program seat earns about [$630] per care hour. Round Two is [$950], and the Hold is [$49] a month, still a subscription with no room. [Ten] clients start in [September], Dan among them. Each read both back-end prices on the Path and Timeline Card before paying.
 
 **Week 6. An exit, and a miss owned.** [One] client's new job arrives early. He has done the work and asks to stop, so the exit right, the pro-rata refund for a client who did the work, pays about half his price. There's no re-pitch and no offer. [Another]'s week-6 read finds a signal in his logs from week [2]: [his habit block drifting to late evenings]. Cole's reviews missed it for [four] weeks. The read says so in writing, adjusts one lever, and books [four] corrective weeks after week 12 at no charge, logged in his claim rate.
 

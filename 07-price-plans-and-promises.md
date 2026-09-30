@@ -76,7 +76,7 @@ Those are the **Three Ceilings**. Early on, credibility binds and capacity doesn
 
 Reid *(composite operator)* sets his first program at [$3.5k]. A rival bills [about $1k a month], and a higher price, he reasons, will read as serious. In his first month he holds [8] conversations and enrolls nobody, and the ceilings say why. On cash, $3.5k is about 1.25 months of take-home at 20–24, the ceiling's very edge, and [half] his buyers answer no to the affordability question. The two who ask about plans want [six] payments, a loan in all but name. On credibility, he has no graduates, no sample plan, and no ranges, so the price asks a burned buyer to believe what he can't check. Capacity, the one ceiling that could justify a high price, isn't binding: every seat is open.
 
-He moves the price into the opening band at [$1.8k] before anyone has paid, and puts his sample plan and terms on the page. Had a buyer already paid $3.5k, the difference would have gone back to him first, because no buyer should learn he paid more than the next man for the same seat. [Two] starts later his close rate sits at [~24%], inside the 15–35% an offer without proof should hold.
+He moves the price into the opening band at [$1.8k] before anyone has paid, and puts his sample plan and terms on the page. Had a buyer already paid [$3.5k], the difference would have gone back to him first, because no buyer should learn he paid more than the next man for the same seat. [Two] starts later his close rate sits at [~24%], inside the 15–35% an offer without proof should hold.
 
 ### Set the first price one step above the founding price
 
@@ -96,11 +96,9 @@ Those are the **Price Steps**, and three rules run them.
 
 Plan steps of about 5–10% every second start. Before you announce one, check two conditions: your starts are filling, and your close rate over the 30 held conversations since the last step was announced, when buyers first saw its price, sits inside its range, 15–35% before proof and 25–45% with it. If both hold, announce the step at least 30 days out, inside the announcement for the start before it. From then on it lands, whatever the next start looks like, because a step that reverses teaches every future buyer to wait. The conditions decide only whether you announce the next one.
 
-Until 30 have been held since that announcement, the close rate can't be read, so filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call (Module 19).
+Until 30 have been held since that announcement, the close rate can't be read, so filling starts carry the step alone, at the bottom of the range. Once the window is readable, it sizes each step: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every start since the last announcement filled. One readable window below range holds the next announcement, and two send the work to the call (Module 19).
 
-Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every start since the last announcement has filled. Under 30 held conversations the rate can't size a step, so a step that filling starts carry alone takes the bottom of the range.
-
-An announced step is also one of his Decision Points, the real dates every assessed buyer meets within a few weeks (Module 8). So his written recap names today's price, the next one, and the start it applies to, once, as a plain fact. A buyer who drifts past a step he never heard about was failed by your silence. You let him treat waiting as free when you knew it wasn't.
+An announced step is also one of his Decision Points, the real dates every assessed buyer meets within about 2–4 weeks (Module 8). So his written recap names today's price, the next one, and the start it applies to, once, as a plain fact. A buyer who drifts past a step he never heard about was failed by your silence. You let him treat waiting as free when you knew it wasn't.
 
 ### Every step names what was added and cuts nothing
 
@@ -244,7 +242,7 @@ That last rule protects the standard too. An operator who needs this month's enr
 
 ## Worked Example: Cole's Twelve Months of Price
 
-Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. Here is the steady kind of year you should plan on, at seven decision points.
+Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. Here is the steady kind of year you should plan on, in seven decisions.
 
 **Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one] and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
@@ -277,11 +275,11 @@ Fill it in before you set a price and before you announce a step, using planning
 | 5. Revenue per care hour | [$ ] | Price ÷ (12 × line 4 ÷ 60); ~$800 at proof prices in Growing |
 | 6. Proof milestone met? | [yes/no] | ≥10 graduates with consented process testimonials, plus first ranges |
 | 7. Close rate, 30 held since the last announced step | [ %] | Inside 15–35% before proof, or 25–45% with it? |
-| 8. Recent starts filled? | [yes/no] | Seats taken at each recent start |
-| 9. Proposed price | [$ ] | ~5% (line 7 in the lower half) to ~10% (upper half); under line 2; inside the band line 6 allows |
+| 8. Last start to close full? | [yes/no] | Every seat taken |
+| 9. Proposed price | [$ ] | ~5%; ~10% only with line 7 in the upper half and every start since the last announcement full; under line 2; inside the band line 6 allows |
 | 10. What was added | [ ] | Only buyers from that start get it; nothing published is cut |
 
-Announce only when line 7 sits inside its range and line 8 is yes.
+Announce only when line 8 is yes and line 7 sits inside its range or is still unreadable.
 
 ### The step block
 
@@ -295,7 +293,7 @@ It rides inside the start announcement and never gets a send of its own.
 
 ### Plan terms
 
-> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan: every payment after the first stays within about a third of your monthly take-home, any larger first payment comes from savings, and the last is due by week [8]. A failed payment gets one reminder and one retry; [a stated number of] days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy; the Starter Path is free.
+> [Brand] payment plan: [$price] in full, or three payments of [$installment], [$total] in total, the difference covering card processing and missed payments. These are our own installments, never a loan: every payment after the first stays within about a third of your monthly take-home, any larger first payment comes from savings, and the last is due by week [8]. A failed payment gets one reminder and one retry; 7 days later your program pauses, with no fee and no collections, until you pay and resume or cancel forward. Leave under the exit right or the non-response clause, and remaining payments stop. First we'll ask: is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy; the Starter Path is free.
 
 ### Guarantee terms
 
@@ -356,6 +354,6 @@ It rides inside the start announcement and never gets a send of its own.
 | **The Layered Guarantee** | Promise only what you control, one layer for each thing that can go wrong |
 | **The Collectability Test** | Check that a client who did the work could actually collect on each clause |
 
-**Leans on:** the signal pause (Module 5) · markers (Module 6) · Decision Points (Module 8) · the founding price (Module 9) · the Buyer-Mix Shift (Module 13) · Costly vs Hygiene Signals (Module 15) · Premium First, Price Once (Module 19) · the Honest Exit (Module 21).
+**Leans on:** the Dated Record (Module 3) · the signal pause (Module 5) · markers (Module 6) · Decision Points (Module 8) · the founding price (Module 9) · the Hold (Module 10) · the Risk Register (Module 11) · the Buyer-Mix Shift (Module 13) · Costly vs Hygiene Signals (Module 15) · Premium First, Price Once (Module 19) · the Honest Exit (Module 21).
 
-**Do this month:** Fill in the price-setting worksheet, and if both conditions hold, put your next step in your next start announcement. Rewrite your guarantee as six layers and run the Collectability Test on each clause. Open your processor with small charges under your brand's name.
+**Do this month:** Fill in the price-setting worksheet, and if the gate allows, put your next step in your next start announcement. Rewrite your guarantee as six layers and run the Collectability Test on each clause. Open your processor with small charges under your brand's name.

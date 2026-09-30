@@ -27,7 +27,7 @@ The answer is to decide where every hour goes before the week starts. Each kind 
 
 ### Each stage's week is priced line by line
 
-Every line in the four stage weeks carries hours, including the four that operators leave off: milestones, the measurement subscription called the Hold, the premium Private seat, and building. Read each column as a budget for its stage's job: early hours go to content and conversations because reach binds, Growing's go to care, the review, call, and milestone minutes clients take, and the last column says what each line buys.
+Every line in the four stage weeks carries hours, including the four that operators leave off: milestones, the measurement subscription called the Hold, the premium Private seat, and building. Read each column as a budget for its stage's job: early hours go to content and conversations because reach binds, and Growing's go to care, the review, call, and milestone minutes clients take.
 
 | Line (h/week) | Early (months 0–3) | Growing | Scaling at $25k | Scaling at $50k | What it buys |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@ The order protects selling on purpose. Building, platforms, and extra content al
 
 One heavy week is noise. Two weeks running at step 5 means capacity binds, and the pause stops being a rescue and becomes a cap you set on purpose. Seat Math recomputes the next start's cap now, from this month's measured minutes, and that usually takes seats off. The build line moves to whichever template cuts care minutes next, and the next Price Step, a small raise on your published schedule, keeps its date (Module 7). Booking reopens once the lower cap holds the week under 25. More hours never join that list, because a week past 25 is what the order exists to end.
 
-**When the signals disagree.** A piece breaks out, and inquiries run at [three times] normal for [two] weeks. The hours say step 5; the revenue says take every call. Run step 5 as written: tighten the Call Cap until free conversations fit their line, about four a week in Growing, and cap paid overflow assessments at what your slack can buy, since each costs 0.5–1.5 hours. A verified, good-fit buyer gets one recommendation and a checkout link, and everyone else hears your next real start. Keep the content minimum; the next piece converts the new viewers. Still at step 5 after two weeks, spike or not, you're at capacity. The Launch Line, the test that keeps a date honest, holds as written (Module 8).
+**When the signals disagree.** A piece breaks out, and inquiries run at [three times] normal for [two] weeks. The hours say step 5; the revenue says take every call. Run step 5 as written: tighten the Call Cap until free conversations fit their line, about four a week in Growing, and cap paid overflow assessments at what your slack can buy, since each costs 0.5–1.5 hours. Warm pages keep selling, and everyone else hears your next real start. Keep the content minimum; the next piece converts the new viewers. Still at step 5 after two weeks, spike or not, you're at capacity. The Launch Line, the test that keeps a date honest, holds as written (Module 8).
 
 ## 3. The Unpriced-Minute Rule
 
@@ -137,10 +137,10 @@ Four kinds of work never leave your hands, production goes to freelancers billed
 
 ### Four kinds of work stay with you
 
-The Keep-List is the work that never leaves your hands: claims approval, selling, review, and client communication. Each one carries a line of the House Standard or the product itself, so handing one off hands away what buyers came to trust you with.
+The Keep-List is the work that never leaves your hands: claims approval, selling, review, and client communication. Each one carries a line of the House Standard, the playbook's rules for persuasion and proof, or the product itself, so handing one off hands away what buyers came to trust you with.
 
 - **Claims approval.** Every title, thumbnail, caption, and clip is a claim, and in a category built on structural promises one careless caption can undo a year of your Honest Answer, your straight public answer to the bone question. Public replies beyond a templated link are claims too.
-- **Selling.** The Fit Check, your plain-language check before any paid step, the affordability question about paying without new credit, and the stop rules that end a sale all take judgment in the moment. So does asking a good-fit buyer and naming what waiting costs him.
+- **Selling.** The Fit Check, your plain-language check before any paid step, the affordability question about paying without new credit, and the Stop Rules that end a sale all take judgment in the moment. So does asking a good-fit buyer and naming what waiting costs him.
 - **Review.** It's the product, and your written terms promise that every line of judgment in it is yours.
 - **Client communication.** His check-ins, captures, and messages hold what he tells nobody else, and distress shows up in them first.
 
@@ -263,7 +263,7 @@ Reid is Growing in month [19], six weeks after the [31]-hour week that opened th
 
 **Weeks 5–10. The queue pays.** The build line, unbroken at 1.25 hours since week 1, finishes the review template in [four] weeks. Before it touches anyone, he adds the review disclosure to his written terms, with a separate opt-in for the tool that tallies logged numbers. Review falls from [about 15] minutes per client-week toward [about 8].
 
-**Left alone.** His price stays on schedule, and group calls, milestones, turnaround, and Hold deliverables never moved. He didn't pause booking or add a window, and no one else touches a DM: the leaks, not his clients, had filled the week.
+**Left alone.** His price stays on schedule, and group calls, milestones, turnaround, and Hold deliverables never moved. He didn't pause booking or add a window, because the leaks, not his clients, had filled the week.
 
 **Week 10. The outcome.** His logged week sits at [about 21] hours, with content back at its 6.75, review near [3], and conversations near [3]. Eligible leads, [about 60] a month when he started logging, climb back toward [80–90] as the cadence holds.
 
@@ -380,6 +380,6 @@ Run it quarterly at the Operator Review, from your own records.
 | **The De-Scoping Order** | Cut in a fixed order past 25 hours, and read two weeks at the last step as capacity |
 | **The Unpriced-Minute Rule** | Give every minute spent on one person a fee, a window, or a template |
 
-**Leans on:** Seat Math (Module 6) · Scaling Triggers (Module 12) · the Platform Count Rule (Module 25) · the Parity Rule (Module 13).
+**Leans on:** the Door (Module 5) · Seat Math (Module 6) · the Price Steps (Module 7) · the Launch Line (Module 8) · Scaling Triggers (Module 12) · the Parity Rule (Module 13) · the Async Arc (Module 20) · the Platform Count Rule (Module 25).
 
 **Do this month:** Log two weeks by line and set them beside your stage's column. Block the content batches and your 2–3 live windows before any client slot. Write the freelancer brief, the retention map, and your six risk flags.

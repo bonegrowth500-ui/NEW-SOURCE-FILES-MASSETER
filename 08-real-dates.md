@@ -19,7 +19,7 @@ A decision with no date has no day on which it's due, and nobody can plan around
 
 Don't lean on research to make this case. The findings usually cited are contested: "a second good option makes people wait" failed large replications, and the evidence that imposed deadlines improve follow-through has weakened, with a key study retracted. So this playbook never uses a date as a lever on his psychology. It uses dates because a real date is true information about the offer, and because it lets both of you plan.
 
-In this niche the month has a price. Change is slow and confounded by weight, age, and how a photo was taken, so unmeasured effort yields no information: nothing was recorded against a baseline, so nothing can be read. "I'll start in January," said in March, buys nine more months of [his current routine] with nothing to read at the end, and a little less belief that effort can work for him. That's the stake: time, money from here on, and guessing. It's never his face.
+In this niche the month has a price. Change is slow and confounded by weight, age, and how a photo was taken, so unmeasured effort yields no information. "I'll start in January," said in March, buys nine more months of [his current routine] with nothing to read at the end, and a little less belief that effort can work for him. That's the stake: time, money from here on, and guessing. It's never his face.
 
 You can watch deferral win in your own records: recaps with no date, check-ins unanswered, assessment credits unused past a second start. Each is a buyer who agreed with the plan and never met a day on which agreeing had to become deciding. That gap sits in your calendar, where you can close it.
 
@@ -110,7 +110,7 @@ Monthly entry adds no call load until about 12–15 concurrent clients, because 
 
 **Starts add clients, not calls.**
 
-The one change comes at about 12–15 concurrent clients, when a single call gets crowded and mixed, so split it by stage. New clients always join the early call, so the split holds as starts keep coming, at about 2 hours of calls a week through Growing.
+At about 12–15 clients a single call gets crowded and mixed, so split it by stage. New clients always join the early call, so the split holds as starts keep coming, at about 2 hours of calls a week through Growing.
 
 ### Caps, waitlists, cash, and evidence follow the month
 
@@ -142,11 +142,11 @@ On the call, the point becomes his Decision Date, the personal date he agrees to
 
 The Price Steps are small scheduled rises that always happen while starts fill and close rates hold, each naming what was added and announced at least 30 days ahead (Module 7). When they land is the calendar's call. A step lands on a start, never between starts, so every quoted price belongs to a specific start. In Growing it lands every second start and rides inside the announcement for the start before it, clearing the 30-day minimum without a send of its own.
 
-Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. That rate is read over the 30 held conversations since the last step was announced, once 30 exist. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
+Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. That rate is read over the 30 held conversations since the last step was announced; until 30 exist, filling starts carry a step alone, at the bottom of the range. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
 
 ### Credit is held, never a deadline
 
-The Decision Assessment, your paid, credited written plan at $150–250, credits its fee toward the Program, and the written plan states those terms once. The credit is held for about 90 days, at least the next two starts, so a buyer who wants the start after next keeps it without watching a clock. After a "not now" or a recommendation to the Starter Path, your free path for anyone who shouldn't buy yet, it holds until he enrolls, capped at about 12 months. A credit that lapsed while he followed your advice would punish him for taking it.
+The Decision Assessment, your paid written plan at $150–250, credits its fee toward the Program, and the written plan states those terms once. The credit is held for about 90 days, at least the next two starts, so a buyer who wants the start after next keeps it without watching a clock. After a "not now" or a recommendation to the Starter Path, your free path for anyone who shouldn't buy yet, it holds until he enrolls, capped at about 12 months. A credit that lapsed while he followed your advice would punish him for taking it.
 
 A deadline built on money he has already paid turns his own payment into the pressure. The client at the low end of his range would point to "use your credit before it expires" as the push, and he'd be right. It would also cross the line on vulnerability, which rules out pitches built on money he has already lost. So the credit never appears in a send, in a recap, or beside his Decision Date as a reason to decide.
 
@@ -239,11 +239,11 @@ Landmark pinning means setting starts near fresh-start moments, and first workin
 
 A life event works differently, because it's a date he wants to be ready by: a wedding, a new job, a move. It takes the nearest start now, with what 12 weeks can show by then, and never a promise about how he'll look on the day.
 
-Expect New-Year intent, and hold the cap. January is the biggest landmark most people have, so expect interest, but the evidence is about starting goals rather than buying, and seasonal patterns in this niche are weakly evidenced. Run January with its normal cap, let the waitlist carry into February, and let a year or two of your Fill History show whether January really fills faster. A January campaign, with content and sends building toward the start, fails the third test however well it fills.
+Expect New-Year intent, and hold the cap. January is the biggest landmark most people have, but the evidence is about starting goals rather than buying, and seasonal patterns in this niche are weakly evidenced. Run January with its normal cap, let the waitlist carry into February, and let a year or two of your Fill History show whether January really fills faster. A January campaign, with content and sends building toward the start, fails the third test however well it fills.
 
 ## Worked Example: Cole's Six-Month Calendar
 
-Cole is in Growing, with [~18] clients running, the Program at [$1,820] in its opening price band. In the last week of September he sets the next six starts in one sitting.
+Cole is in Growing, with [~18] clients running, the Program at [$1,820] in its opening band. In the last week of September he sets the next six starts in one sitting.
 
 **Late September. The calendar.** Starts sit on first working Mondays. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The September announcement went out on the August start day, when July had closed full with his close rate in range, so it carried the October step to [$1,910]. September then closed thin, [4] of [8], and the October start day's read will find it, so no December step goes out. The candidates are January and March.
 
@@ -369,6 +369,6 @@ Answer from your own calendar, page, send log, and call notes before any date go
 | **The Launch Line** | Test every date, send, and page before it goes public: five yeses, or it's out |
 | **Decision Points** | Design the calendar so every assessed buyer meets a start's last day to join or an announced step within about 2–4 weeks |
 
-**Leans on:** the Price Steps (Module 7) · Seat Math (Module 6) · the founding group (Module 9) · the Decision Date (Module 19) · send rules and the pause route (Module 26, Module 5).
+**Leans on:** the Price Steps (Module 7) · Seat Math (Module 6) · the founding group (Module 9) · the Decision Date (Module 19) · the paid group decision session (Module 20) · asset asks (Module 18) · send rules (Module 26) · the pause route (Module 5).
 
 **Do this month:** set six starts on first working Mondays, each with its last day to join, a Seat Math cap, and any step on a start. Run the Launch Line checklist on your page, both sends, and every sequence. Check that every buyer you assessed left with a dated point and a Decision Date.

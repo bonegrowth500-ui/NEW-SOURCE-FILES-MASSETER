@@ -201,7 +201,7 @@ Pick each month's objection piece by rule. By default, take the real objection h
 
 **Hear it on a call this week, and answer it a rung earlier next month.**
 
-That's the Conversation-to-Content Loop: objections become content earlier in the journey. It runs on patterns in a buyer's kind of words, never a line a client could recognize, because check-ins and exits are private. Protective stops, the stop rules that shield a vulnerable buyer, never feed it: money he said he can't spare, distress, a fit-check signal, or a minor. Whether one ends a sale, a program, or an exit, the record says "stopped: stop rule" and nothing more. A clear no's link may be logged, so price content comes only from men who could pay.
+That's the Conversation-to-Content Loop: objections become content earlier in the journey. It runs on patterns in a buyer's kind of words, never a line a client could recognize, because check-ins and exits are private. Protective stops, each a stop rule that shields a vulnerable buyer, never feed it: money he said he can't spare, distress, a fit-check signal, or a minor. Whether one ends a sale, a program, or an exit, the record says only "stopped: stop rule", and a minor's leaves nothing. A clear no's link may be logged, so price content comes only from men who could pay.
 
 ### The card catches what its maker can't see
 
@@ -215,18 +215,18 @@ Reid runs the card once, on finished cuts, and in one Growing month [three] piec
 
 ## Worked Example: Cole's October, Eight Assets and an Offer Video
 
-Cole *(composite operator)* is in Growing, with [~18] clients running and about [90] eligible leads a month, adults who could pay without new credit. The Program sits at [$2,100] in its opening price band, with [8] seats a start and one Private seat a quarter at [$5,000] while his minutes allow. In late September he plans October.
+Cole *(composite operator)* is in Growing, with [~18] clients running and about [90] eligible leads a month, adults who could pay without new credit. The Program sits at [$1,910] in its opening price band, with [8] seats a start and one Private seat a quarter at [$5,000] while his minutes allow. In late September he plans October.
 
 **Late September. The read.** Across his last [30] held conversations, the real objection heard most is some version of "why pay when it's free on YouTube?", a Vehicle doubt, in [9]. [Five] ask whether he's one more course guy, at Guide, and [three] say adults can't change, at Range. His Leak Trace puts the biggest drop at his free-call close rate, whose fix lives in the call, so the count decides. His September tags tell another story: [five] of eight assets worked Range or Cause, because the bone question pulls views, and none worked Vehicle.
 
-So October gets an objection piece on Vehicle, and every asset is tagged before it's made. The offer video stays as it is, since it points to the page for dates; only its price line changes, when the December step lands. The November announcement, sent on the October start day, carries that step, [$2,100] to [$2,200], adding [a recorded walkthrough of each week-6 read].
+So October gets an objection piece on Vehicle, and every asset is tagged before it's made. The offer video stays as it is, since it points to the page for dates; its price line changes only when a step lands. The November announcement, sent on the October start day, carries no step, because September, the last start to close, filled [4] of [8].
 
 | | Asset | Link | Rung | One ask |
 |---|---|---|---|---|
 | 1 | Long-form: "Why pay when it's free on YouTube?" | Vehicle | Returning | The offer page, after the payoff |
 | 2 | Long-form: "Eight months in and nothing to show" | Cause | Returning | The door, with the offer named and its price on the end card |
 | 3 | Long-form: "27 and asking if it's too late" | Range | Stranger | The door |
-| 4 | Email: the November announcement, with both dates and the December step | Now | Assessed | The offer page |
+| 4 | Email: the November announcement, with both dates | Now | Assessed | The offer page |
 | 5 | Email: a stall told back, from anonymized patterns | Cause | Assessed | A fit conversation, the free first call |
 | 6 | Email: a founding client's Transition, in his words | Self | Assessed | The offer page |
 | 7 | Email: the one reminder, both dates on it | Now | Assessed | The offer page |
@@ -242,7 +242,7 @@ He hides the rating requests under his published comment policy and re-cuts the 
 
 **Late October. What he left alone.** A week before the start, November stands at [4] of [8]. He sends the one reminder and nothing else: no "last seats" email, no date-themed video, no bonus. When a comment calls the objection piece a sales video in disguise, he pins a reply noting that its first minute announced the pitch. He doesn't chase the Range piece's views, because the plan came from the log.
 
-**Mid-November. What sold, and why.** November closes at [6] of [8], and one ask per asset shows where each buyer came from: [three] through the objection piece's pitch, [two] through the announcement, and [one] through a fit conversation booked from the stall email. [Five] of the [six] watched the offer video first. The objection piece had [about a third] of the Range piece's views and most of the offer-page visits, because it answered the doubt his log heard most, for viewers warm enough to hear a price. The Range piece did its own job, drawing the most door starts.
+**Mid-November. What sold, and why.** November closes at [6] of [8], and One Ask per Asset shows where each buyer came from: [three] through the objection piece's pitch, [two] through the announcement, and [one] through a fit conversation booked from the stall email. [Five] of the [six] watched the offer video first. The objection piece had [about a third] of the Range piece's views and most of the offer-page visits, because it answered the doubt his log heard most, for viewers warm enough to hear a price. The Range piece did its own job, drawing the most door starts.
 
 One start is too few to plan on, so he tallies [three]. Vehicle pieces, the offer video included, trace to [2], [3], and [3] buyers from September to November, against [0–1] from Range pieces, so Vehicle keeps its slot until the log's top objection changes.
 
@@ -256,7 +256,7 @@ Each piece recaps the Card's [9]-month range, points to the page for dates, and 
 
 > **You:** "At week 12, you open your record beside your baseline and know what moved. At the next group photo, you stay where you're standing, because you know what your record says. Most of how people read you was never about your jaw. What's in the way is months with nothing measured, and another year of that costs a year. Here's the whole offer, price included. First, what I won't claim: [the Honest Answer, word for word]. Under 18? This isn't for you: an orthodontist answers questions about a growing face, and the videos are free."
 
-> **You:** "The path: a baseline, a written review of every weekly check-in within [48] hours, a live group call each week, captures at weeks 0, 6, and 12, the week-6 read, the week-12 re-assessment, and your record. When a seat is open, Private is [$5,000] for [its fixed deliverables], starting with a call, and we never read or score your face. For most people I recommend the Program: [$2,100], [8] seats a start, because that's how many new clients my review week can take each month. Over [9] months, the likely total is [$2,100] to about [$3,150] with Round Two and the Hold. The sample plan, refund terms, and next start are on the page: [link]."
+> **You:** "The path: a baseline, a written review of every weekly check-in within [48] hours, a live group call each week, captures at weeks 0, 6, and 12, the week-6 read, the week-12 re-assessment, and your record. When a seat is open, Private is [$5,000] for [its fixed deliverables], starting with a call, and we never read or score your face. For most people I recommend the Program: [$1,910], [8] seats a start, because that's how many new clients my review week can take each month. Over [9] months, the likely total is [$1,910] to about [$2,960] with Round Two and the Hold. The sample plan, refund terms, and next start are on the page: [link]."
 
 Notice the two moves. The Page Sequence, spoken, fixes what can be claimed before the path makes the price the cost of weeks he has heard itemized. Then it repairs Vehicle: he knows exactly what he'd buy.
 
@@ -268,7 +268,7 @@ The line you never say is "Join this week and I'll add a bonus review call." A o
 
 ### Who it's for and who it isn't
 
-> **You:** "This is for adults who've put months into [their routine], can't tell what's working, and want to know. It takes [minutes a day] plus about 10 minutes a week for your check-in, paid from your own income or savings, without new credit or buy-now-pay-later. It isn't for anyone under 18: an orthodontist answers questions about a growing face. It isn't for anyone who needs a promise about bone, because nobody can honestly make one. Jaw pain, snoring, or bite trouble? See a dentist or doctor first. If checking your face has started to take over your day, talk to a doctor instead. Everyone else: 12 weeks of written review for [$2,100], and likely [$2,100] to [$3,150] over [9] months. The next start is on the page: [link]."
+> **You:** "This is for adults who've put months into [their routine], can't tell what's working, and want to know. It takes [minutes a day] plus about 10 minutes a week for your check-in, paid from your own income or savings, without new credit or buy-now-pay-later. It isn't for anyone under 18: an orthodontist answers questions about a growing face. It isn't for anyone who needs a promise about bone, because nobody can honestly make one. Jaw pain, snoring, or bite trouble? See a dentist or doctor first. If checking your face has started to take over your day, talk to a doctor instead. Everyone else: 12 weeks of written review for [$1,910], and likely [$1,910] to [$2,960] over [9] months. The next start is on the page: [link]."
 
 Notice the move: every exclusion carries its reason or referral, so the list reads as a standard. It repairs Guide, because turning buyers away in public is a signal a grifter can't afford.
 
@@ -280,7 +280,7 @@ Never follow with "No problem, you can split it into [three] payments," which re
 
 ### Price with delivery math
 
-> **You:** "When a seat is open, Private is [$5,000] for [its fixed deliverables], starting with a call, and we never read or score your face. The Program is [$2,100] for 12 weeks: [12] written reviews of your week, each within [48] hours; [12] live group calls; captures at weeks 0, 6, and 12; the two written reads; and your record. [8] seats a start, because that's how many new clients my review week can take each month. Set it against 12 more months of guessing. Over [9] months, with Round Two and the Hold if your record calls for them, the likely total is [$2,100] to about [$3,150]. Three installments come to [$total]."
+> **You:** "When a seat is open, Private is [$5,000] for [its fixed deliverables], starting with a call, and we never read or score your face. The Program is [$1,910] for 12 weeks: [12] written reviews of your week, each within [48] hours; [12] live group calls; captures at weeks 0, 6, and 12; the two written reads; and your record. [8] seats a start, because that's how many new clients my review week can take each month. Set it against 12 more months of guessing. Over [9] months, with Round Two and the Hold if your record calls for them, the likely total is [$1,910] to about [$2,960]. Three installments come to [$total]."
 
 > **You:** "If it isn't right, cancel within [14–21] days of your baseline day for a full refund. If you've logged [80%] of your days and want to stop at week 6, the weeks you haven't had come back. If you've logged [80%] and no marker we set reached its threshold by week 12, [a fixed share] of what you paid comes back in cash, and I raise it. At checkout you'll be asked, 'Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?' If not, don't buy it. The next start is on the page: [link]."
 
@@ -294,7 +294,7 @@ Never answer with a count like "about [15] minutes a week," which invites him to
 
 ### An objection piece: "Why pay when it's free on YouTube?"
 
-> **You:** "Most of the method is free, here included, and it'll stay free. So why pay? Fair question. Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. A record doesn't read itself; review turns it into a decision. The Program is that review: your week read in writing within [48] hours for 12 weeks, two written reads, and a verdict. Over [9] months, the likely total is [$2,100] to about [$3,150]. Weigh it against another year of guessing. The next start is on the page: [link]."
+> **You:** "Most of the method is free, here included, and it'll stay free. So why pay? Fair question. Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. A record doesn't read itself; review turns it into a decision. The Program is that review: your week read in writing within [48] hours for 12 weeks, two written reads, and a verdict. Over [9] months, the likely total is [$1,910] to about [$2,960]. Weigh it against another year of guessing. The next start is on the page: [link]."
 
 Notice the move: the true part is conceded first and the rest answered, since a two-sided message wins slightly, and only when the counterargument gets its answer. It repairs Vehicle, with Canon claims 2 and 4 word for word.
 
@@ -310,7 +310,7 @@ Maya *(composite, welcome, not targeted)*, 28, consented to words and numbers un
 
 > **You:** "Cases here run in an order set before anyone qualified, middle of the range first, and this is a small sample until 30 graduates. This is [M.], 28. Before joining: [months] of [her routine], nothing measured. At baseline on [date], we set [marker 1] and [marker 2]. At week 6, [marker 1] was moving and [marker 2] wasn't, so her plan changed [one lever]. At week 12, [marker 1] had passed its threshold, [baseline reading] to [week-12 reading]. Also changed: [what else changed]. Captures matched our standard. Of everyone so far, [N] started, [n] left in the fit window or at week 6, [n] graduated, and [k] graduates who did the work reached no threshold. On this marker type, the range across [n] graduates was [A–B]. Observed, not caused."
 
-> **You:** "The Program runs the same way for everyone: over [9] months, likely [$2,100] to about [$3,150]. The card, the full log, and the next start are on the page: [link]."
+> **You:** "The Program runs the same way for everyone: over [9] months, likely [$1,910] to about [$2,960]. The card, the full log, and the next start are on the page: [link]."
 
 Notice the two moves. The Context Stack is said aloud with the selection rule first and the whole denominator in one breath. Then it repairs Self: a record like his, read to the end.
 
@@ -328,7 +328,7 @@ A no on any line holds the asset.
 2. **One ask.** Is there one primary ask, with at most one ranked secondary after it? → Cut the rest.
 3. **Click Contract.** Is every hook's promise paid before the pitch? → Rewrite the hook or the body.
 4. **Claim Ladder.** Does every observational or outcome claim carry all six items of the Context Stack? → Drop it a rung, or cut it.
-5. **Canon.** Is every canon claim quoted word for word? → Paste it from your Canon.
+5. **Canon.** Is every Canon claim quoted word for word? → Paste it from your Canon.
 6. **Proof travel.** Does client proof run only where the Proof Portability Gradient and his written consent allow, with no pair outside long-form and the site library, none in ads, and range and denominator on screen in short-form (Module 27)? → Move it or cut it.
 7. **Perspective line.** Does every destination line carry one line placing it beyond the face? → Add it.
 8. **Minors.** Is it free of rating, comparison, and minor-targeted framing? → Reframe it for adults, or don't ship it.
@@ -341,7 +341,7 @@ A no on any line holds the asset.
 
 **Early.** Reach binds and short-form carries it, so most of what you publish lands on the Stranger rung. Put the founding price on long-form end cards and the founding page, never in the audio, since it ends. Start the objection log with your first call. The trap is a founding-price short: it feels like selling, and its viewers are mostly strangers, many of them minors.
 
-**Growing.** Conversion binds, starts run monthly, and steps land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the card's script pass keeps dates out of them. The trap is a date spoken into a piece meant to last.
+**Growing.** Conversion binds, starts run monthly, and steps can land every second start, so dates move faster than videos. The Offer Pieces go live as evergreen pieces that point to the page, and the card's script pass keeps dates out of them. The trap is a date spoken into a piece meant to last.
 
 **Scaling.** Care minutes bind and most enrollments come without a call, so the Offer Pieces do the call's screening. Private survives only at parity, which means an async-first seat at about $10k or more. Program Async, the program without the live call, joins the tiers under the core buyer's cash ceiling. The trap is a soft who-it-isn't-for piece, since each buyer it misses becomes a week-6 exit you've paid for in minutes.
 

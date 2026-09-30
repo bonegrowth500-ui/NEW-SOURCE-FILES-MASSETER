@@ -120,7 +120,7 @@ Keep every original, unedited and unfiltered, with its date and conditions writt
 
 Captures are the most sensitive thing he gives you, and in this category the easiest to screenshot. Only you see them: not the group, not an editor or the helper who moderates your comments, and no tool beyond the one that stores them. Cohorts are pseudonymous and camera-optional, because a camera-shy Optimizer and a Struggler who won't tie his handle to his face both need a room they'll use. Fit-check and health-adjacent answers stay out of anything marketing touches, and billing and sender names are discreet but recognizable.
 
-Using a capture publicly takes his separate written consent, revocable at any time, and anything is deleted on request. The tools, retention rules, and consent records behind those promises are operations (Module 11). What the client experiences is simpler, and it's the sentence to put in writing: nobody but his reviewer sees his face without his say-so.
+Using a capture publicly takes his separate written consent, revocable at any time, and anything is deleted on request. The tools, retention rules, and consent records behind those promises are operations (Module 11). What he experiences fits in one written sentence: nobody but his reviewer sees his face without his say-so.
 
 ## 4. Before Payment: The Path and Timeline Card and the Expectation Document
 
@@ -363,7 +363,7 @@ Signed after payment; signing changes none of your refund rights.
 
 - **Verdicts read the record, never the face.** Reviews and re-assessments work from logs and markers read without photos; captures stay observations, and nothing scores or reads structure (the line on structural claims).
 - **The whole path before payment.** The Path and Timeline Card names the destination with conviction and a line beyond the face (*Name the destination boldly*) and prices the first [9] months in real numbers (*Present the price*). The Expectation Document prints the adherence threshold and the review method.
-- **Offers only on a measured record, and stop rules win.** Round Two and the Hold follow the affordability question, a distress or checking signal pauses every offer, and an exit, a flat verdict, or a slide ends with no offer (the line on vulnerability).
+- **Offers only on a measured record, and Stop Rules win.** Round Two and the Hold follow the affordability question, a distress or checking signal pauses every offer, and an exit, a flat verdict, or a slide ends with no offer (the line on vulnerability).
 - **Status from process, faces private.** Boards are opt-in and rank timestamped process, commitments go to the reviewer, and captures stay coach-only (*Build identity on evidence*; the line on shame).
 
 ## Quick Reference
@@ -395,6 +395,6 @@ Signed after payment; signing changes none of your refund rights.
 | **The Capture Standard** | Match distance, lens, angle, light, expression, and time of day so captures compare |
 | **The Path and Timeline Card** | Show what 12 weeks deliver, when change tends to show, and his first months' likely cost before payment |
 
-**Leans on:** the Commit Ritual, First-14, and Plateau Plan (Module 21) · the Layered Guarantee and Collectability Test (Module 7) · Stall Verdicts (Module 14) · the Outcome Map (Module 3) · the verification kit (Module 5) · Integrity Levels (Module 16) · monthly entry (Module 8) · measured momentum (Module 10) · Program Async (Module 13).
+**Leans on:** the Commit Ritual, First-14, and Plateau Plan (Module 21) · the Layered Guarantee and Collectability Test (Module 7) · Stall Verdicts (Module 14) · the Outcome Map (Module 3) · the verification kit (Module 5) · Integrity Levels (Module 16) · monthly entry (Module 8) · measured momentum (Module 10) · privacy operations (Module 11) · Program Async (Module 13).
 
 **Do this month:** write your check-in form and Capture Standard and use both with your next client; draft your Path and Timeline Card and Expectation Document with real prices; run Seat Math on last month's minutes and state the next start's cap.

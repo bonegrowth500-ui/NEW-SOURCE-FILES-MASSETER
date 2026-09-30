@@ -63,7 +63,7 @@ Every costly signal proves one thing and leaves another open, and he can test ea
 
 | Signal | Keeping it true would cost a grifter | How he tests it | What it proves | What it can't prove |
 |---|---|---|---|---|
-| Claim rate, by guarantee layer | A payout on every failure | Using the fit window himself; payouts against the terms' 7 days | You pay what you owe | That it works: few claims can mean terms nobody could collect |
+| Claim rate, by guarantee layer | A payout on every failure | Claiming the fit window's full refund himself; payouts against the terms' 7 days | You pay what you owe | That it works: few claims can mean terms nobody could collect |
 | Recommendation mix (~30 assessments) | Plans that say "don't buy" | The published "don't buy" sample plan | Paid plans aren't pitches | That each recommendation was right |
 | Fit declines, when no sale follows | A shrinking funnel | Any declined man can contradict it | Your yes means something | How the men you accepted will do |
 | How reviews are made | Admitting who writes his "personal" feedback | His first review's timestamp, and whether it answers his week | He gets what the page describes | That your judgment is good |
@@ -109,7 +109,7 @@ Run it on Adrian *(composite, Optimizer)*, 31, a consultant who hears vendors cl
 
 ### Presence carries what pedigree only claims
 
-A credential is a one-time claim, and it transfers badly, since a certificate in another field says little about reading a stalled adult's record. Presence accumulates. Hearing someone reason makes him seem more competent than reading the same words. In guided programs in other fields, people usually did better with a reviewer who followed up on schedule, whether or not that reviewer held a clinical qualification.
+A credential is a one-time claim, and it transfers badly, since a certificate in another field says little about reading a stalled adult's record. Presence accumulates. Hearing someone reason makes him seem more thoughtful and human than the same words in text. In guided programs in other fields, people usually did better with a reviewer who followed up on schedule, whether or not that reviewer held a clinical qualification.
 
 That's presence over pedigree: sustained presence and visible standards carry trust. Say the contrarian and selling parts on camera, where disagreement lands as reasoning, keep a fixed publishing day, and walk through a sample check-in review, labeled as a composite.
 
@@ -125,7 +125,7 @@ Personal replies carry presence early, because these buyers have been answered f
 
 **Default:** templates for public repeats and routing help on public comments from Growing, while DMs, the pinned challenge, and every review stay yours. Move the first reply to a new lead onto a template you approve only after personal replies run past their hours two weeks running.
 
-Cole (composite operator) meets the signs at month [14]: replies past their hours for [two] weeks, [five] questions behind most comments, and his content hours slipping. He reads it as volume, since the replies that decide trust are the ones about a man's own situation. So the five get templates cut from his best answers, routing help takes public moderation, and he keeps DMs, the pinned challenge, and reviews. Left alone: the rule that no AI speaks as him, and the weekly review, the one thing a product without you can't copy.
+Cole *(composite operator)* meets the signs at month [14]: replies past their hours for [two] weeks, [five] questions behind most comments, and his content hours slipping. He reads it as volume, since the replies that decide trust are the ones about a man's own situation. So the [five] get templates cut from his best answers, routing help takes public moderation, and he keeps DMs, the pinned challenge, and reviews. Left alone: the rule that no AI speaks as him, and the weekly review, the one thing a product without you can't copy.
 
 ## 4. What My Face Does and Doesn't Prove
 
@@ -179,7 +179,7 @@ That's the **Qualifications Answer**, a straight answer to "what are your qualif
 
 ### A credential goes inside the fact and never widens the scope
 
-A credential goes inside the fact, stated once with its exact title and issuer, and nowhere else: never in a product name, a display name, a bio line, or an ad. Without one, the fixed sentence is said plainly and never dressed up. A weekend certificate bought so you'd have an answer is costume, and this audience has learned to read costume.
+A credential goes inside the fact, stated once with its exact title and issuer, and nowhere else: never in a product name, a display name, a bio line, or an ad. A weekend certificate bought so you'd have an answer is costume, and this audience has learned to read costume.
 
 The hard case is a credential next to this work, such as a dental hygiene license or orofacial training with "therapist" in its title. Say that exact title once, inside the fact, because the fact beat means the exact truth either way. Then say what it helps you notice, which is mostly when to refer, and that this coaching gives no clinical opinions or care. A line that bends for one operator's paper bends for the category, so any clinical work you do runs under its own rules and records, never under this brand.
 
@@ -192,7 +192,7 @@ The referral beat runs on its own rule, the Scope Boundary: "I can't help with t
 | Sleep or snoring signs | A doctor | A referral note goes out first, in writing, and payment waits for it |
 | Jaw pain | A dentist or doctor | The same, and jaw pain is never read as progress |
 | Bite concerns | A dentist or orthodontist | The same |
-| Distress or fixation | A doctor or mental-health professional, with crisis resources if it's acute | No sale; a referral conversation; reading-only content; the pause route, which holds every marketing send for 60–90 days |
+| Distress or fixation | A doctor or mental-health professional, with crisis resources if it's acute | No sale; a referral conversation; reading-only content; the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once |
 | Under 18 | An orthodontist, for questions about a growing face | It ends: public education only, anything collected deleted, anything paid refunded |
 
 Name the trigger and the professional, then stop, because what his snoring means is the doctor's question and a guess from you is a medical opinion. Coaching runs alongside a clinician's care, never instead of it, and nothing you sell goes ahead of the note. For a client, a trigger ends delivery only when he chooses to stop and see someone, or when continuing would keep the trigger alive, as when your captures feed his checking (Module 21).
@@ -227,7 +227,7 @@ Negation doesn't clean a word, because "I don't diagnose anything" still puts a 
 
 ### Some buyers are asking about their worth
 
-Most buyers here describe a situation, like "my profile hasn't moved in eight months", while a few describe themselves, like "is it even worth it for someone like me?" The first asks whether the method works. The second asks whether he's worth the effort. For him, a reflected missed moment becomes evidence against him, and a ladder climbed past his destination ends at a verdict on his worth. Shame, a judgment on the whole self, predicts withdrawal, while a gap that looks repairable predicts effort.
+Most buyers here describe a situation, like "my profile hasn't moved in [eight] months", while a few describe themselves, like "is it even worth it for someone like me?" The first asks whether the method works. The second asks whether he's worth the effort. For him, a reflected missed moment becomes evidence against him, and a ladder climbed past his destination ends at a verdict on his worth. Shame, a judgment on the whole self, predicts withdrawal, while a gap that looks repairable predicts effort.
 
 That buyer gets the **Dignity Route**, a way of running the sale that keeps force off his worth and the recommendation where it was. Insecurity-led language about his worth, in his own words, triggers it. So does a non-acute answer on the Fit Check, the plain-language screen before any paid step (Module 5), such as "sometimes" on the item about how he feels making everyday life hard. So does regular checking of his face in mirrors or photos, short of the "many times a day" that is the checking signal at both of its tiers.
 
@@ -263,11 +263,11 @@ The Dignity Check asks whether he leaves more capable or more defective (Intro),
 | Declined: a fixation signal | "You're not a fit for the program." | "The useful next step is someone who can help with how much time this takes. Here's who. The reading is yours either way." |
 | A budget buyer: "I can't afford it" | "Maybe when you're in a better spot", or any cheaper offer | "Understood, and thanks for saying it straight. Here's the Starter Path, free: logs and self-checks, without the review. The door opens whenever you write." |
 
-The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once. The pause route is set, and money talk ends. If he keeps the practice, he's still one of the adults who measure instead of guess (Module 17).
+The budget row carries a stop rule: nothing he receives after "I can't afford it" carries a price, an offer, or a date. The Starter Path, the free sequenced path for anyone who shouldn't buy now, goes out once. The pause route is set, and money talk ends. If he keeps the practice, he still belongs to Adults Who Measure (Module 17).
 
 ## Worked Example: Cole's First-Month Trust Audit
 
-Cole (composite operator) starts from zero in [January]. By day [30] he has published the Honest Answer, his straight public answer to the bone question, plus [one] more long-form piece and about [20] native shorts. He has a founding page, a working door, a Verify Page draft, and [9] held conversations. His [one] client, inside the honest expectation of 0–2 for a first month, sits in his founding group, the one group every early client joins. On day [30] he reads everything he's published the way a burned buyer would, asking one question: what here could I check?
+Cole *(composite operator)* starts from zero in [January]. By day [30] he has published the Honest Answer, his straight public answer to the bone question, plus [one] more long-form piece and about [20] native shorts. He has a founding page, a working door, a Verify Page draft, and [9] held conversations. His [one] client, inside the honest expectation of 0–2 for a first month, sits in his founding group, the one group every early client joins. On day [30] he reads everything he's published the way a burned buyer would, asking one question: what here could I check?
 
 **Day 30. Eight findings, each with its read and its fix.**
 
@@ -286,7 +286,7 @@ Cole (composite operator) starts from zero in [January]. By day [30] he has publ
 
 **What he left alone.** He didn't buy a [weekend certificate] to have something to say, since a credential that doesn't cover the work gets stretched or explained away. He posted no testimonials, because no client could be asked yet, and he made no video about the jaw comment. He hid one face-rating request, which his comment policy names, and deleted nothing else.
 
-**Month 3. The outcome.** Qualifications questions under new videos fell to about [one] per piece, and other viewers answered [two] of those by linking his log. He held [10] conversations in month 3, inside the 4–14 of Band B, the steady reach band worth planning on. He has [3] founding clients, inside the 2–6 expected by then. Asked what made them book, [two] of the [three] named the pinned answer or the log.
+**Month 3. The outcome.** Qualifications questions under new videos fell to about [one] per piece, and other viewers answered [two] of those by linking his log. He held [12] conversations in month 3, inside the 4–14 of Band B, the steady reach band worth planning on. He has [5] founding clients, inside the 2–6 expected by then. Asked what made them book, [three] of the [five] named the pinned answer or the log.
 
 **What it shows.** None of the eight fixes needed a credential, a result, or a better jaw. Each turned something he'd said into something a buyer could verify. At [about an hour], the audit is cheap enough to repeat on the last day of every month.
 

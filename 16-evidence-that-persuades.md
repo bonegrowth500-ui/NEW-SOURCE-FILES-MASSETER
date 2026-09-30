@@ -38,7 +38,7 @@ The survivors share three properties: he can check how the proof was made, what 
 
 **If he'd have to ask, it isn't proof yet.**
 
-Run it on Cole *(composite operator)* at month [5]. [Four] founding clients have consented to share delighted messages, and his draft proof page stacks all four at the top. The sign is already in his comments: "how many didn't write?" Each message passes the first question and fails the third. So the page leads with his dated log, check-in completion across all [9] clients and the [one] who took his full refund in the first weeks, and the messages sit beneath it as process moments. Left alone: any result claim, since no range exists yet.
+Run it on Cole *(composite operator)* at month [5]. [Four] founding clients have consented to share delighted messages, and his draft proof page stacks all [four] at the top. The sign is already in his comments: "how many didn't write?" Each message passes the first question and fails the third. So the page leads with his dated log, check-in completion across all [9] clients and the [one] who took his full refund in the first weeks, and the messages sit beneath it as process moments. Left alone: any result claim, since no range exists yet.
 
 ## 2. The Claim Ladder and the Context Stack
 
@@ -128,7 +128,7 @@ A published range sits beside a comparison only where an honest one exists, and 
 
 ### Show the contrast, and a trigger instead of a date
 
-The range only wins when he sees both formats, so show him the contrast yourself. Set "results in [30] days" beside "a written review every week, captures at weeks 0, 6, and 12", and "guaranteed jaw gains" beside "[n] of [N] graduates reached a marker threshold; [k] didn't". Before your records hold any range, publish your process points and the trigger your first range waits for, such as the first monthly entry after your tenth graduate with a consented process testimonial. A promised date can slip whenever a client exits, and a trigger kept in public shows him the format working before you ever show him a result.
+The range only wins when he sees both formats, so show him the contrast yourself. Set "results in [30] days" beside "a written review every week, captures at weeks 0, 6, and 12", and "guaranteed jaw gains" beside "[n] of [N] graduates reached a marker threshold; [k] didn't". Before your records hold any range, publish your process points and the trigger your first range waits for, such as the first monthly log entry after your tenth graduate with a consented process testimonial. A promised date can slip whenever a client exits, and a trigger kept in public shows him the format working before you ever show him a result.
 
 ## 4. The Four Stories
 
@@ -155,7 +155,7 @@ Origin tells why the standard exists: what you watched fail, what you couldn't f
 
 The Stall Told Back is his story told better than he tells it, built from anonymized patterns in your conversations and, later, your records. Its force goes at the situation, and it claims no verdict it can't check:
 
-> "Eight months. You did the work most nights and took a comparison photo most weeks, and no two were taken the same way, so the photos couldn't tell you anything. Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. Right now nobody can say, you included. By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you."
+> "[Eight] months. You did the work most nights and took a comparison photo most weeks, and no two were taken the same way, so the photos couldn't tell you anything. Most stalls we see are direction problems: months of real effort with no map and nothing measured. Measuring is how you'd know if yours is. Right now nobody can say, you included. By week 6 your record shows what's moving, and by week 12 it can tell you a lever doesn't move for you."
 
 Dan *(composite, Struggler)* hears himself in it and gets nothing he can't check. It names the part of his stall he can change this week, the missing measurement, and admits the third answer, which keeps it inside Stall Verdicts: a stall is unmeasured, misdirected, or "the lever doesn't move for this person" (Module 14). It grades his setup, not his face or his discipline, so it passes the Dignity Check, whether he leaves more capable or more defective (Intro).
 
@@ -187,7 +187,7 @@ The default is no incentive, because anything of value changes what the words ar
 
 ### Asks stay away from every refund decision
 
-Timing is fixed, because an ask near a refund right turns a testimonial into a trade. Never ask before the fit window, his full refund in the first 14–21 days, has closed. Never ask in a conversation that decides a refund: the week-6 exit, his pro-rata refund for doing the work, or the week-12 verdict on the non-response clause, his partial refund when no marker reached its threshold despite the work. And never ask a client who claimed a refund.
+Timing is fixed, because an ask near a refund right turns a testimonial into a trade. Never ask before the fit window, his full refund in the first 14–21 days, has closed. Never ask in a conversation that decides a refund: the week-6 exit right, his pro-rata refund for doing the work, or the week-12 verdict on the non-response clause, his partial refund when no marker reached its threshold despite the work. And never ask a client who claimed a refund.
 
 That leaves two asks at most. The process ask comes at his first measured peak after the week-6 decision is settled, from about week 7, if his record shows progress. The results ask comes after the week-12 verdict is settled, and only if a marker reached its threshold with his adherence at or above its threshold. A no to either is final. Both are Measured-Peak Asks, made only at a measurement moment that shows progress on his record (Module 22). The ask is its own skill; this module's part is the scope conversation after a yes:
 
@@ -222,7 +222,7 @@ A pair below Level 1 isn't a before/after; it's two photos, and it never appears
 
 Where each kind of proof may travel is the Proof Portability Gradient: process proof everywhere, outcome stories in long-form, email, and your site, contextualized clips in organic short-form with range and denominator on screen, and no outcome proof in ads (Module 27). Short-form carries a result further than any page, so use it, on four conditions.
 
-The range, denominator, and "observed, not caused" stay on screen as long as the claim does. No before/after pair appears in the clip at all, since pairs live in long-form and your site library, where their context travels with them. The clip opens on an adult situation, because rating-style openings pull the youngest viewers fastest in a category whose hardcore audience is majority under 18. And each clip passes the Clip Context Check: an extracted clip is an original claim, so put the caveat back or drop the clip (Module 24).
+The range, denominator, and "observed, not caused" stay on screen as long as the claim does. No before/after pair appears in the clip at all, since pairs live in long-form and your site library, where their context travels with them. The clip opens on an adult situation, because rating-style openings pull the youngest viewers fastest in a category whose hardcore audience is majority under 18 in self-selected samples. And each clip passes the Clip Context Check: an extracted clip is an original claim, so put the caveat back or drop the clip (Module 24).
 
 ## 6. The Honest-Evidence Test and the Proof Stack
 
@@ -258,7 +258,7 @@ Cole wrote his Capture Standard in month 1 and published his first teardown in m
 
 Then he ran the six questions. Matched? No: in the after shot the light sits overhead, the chin is tilted, and the background shows the camera moved in, so he recreated each change on a consenting volunteer. Dated? Only "[60] days". What else changed? The post doesn't say. Which rung? "Rebuild your jawline" claims a cause no photo can show. The count? One man, posted by the seller of the lever, and the rest nowhere. His sharpest line went at the practice: "That's a lighting choice with a discount code attached." Then he ran the same questions on his own record: his capture log, his check-in completion, and the trigger for his first range. [Three] adults booked fit conversations that week.
 
-The default is a standing teardown every quarter, plus one whenever a claim pattern starts showing up in your door answers, where buyers say what they've already tried. Each ends on your own record, because the protection fades without repeats and the ending turns his skepticism into trust in you. Targets are businesses' published claims, never a person, and every face is blurred, because the features of someone who hasn't consented aren't yours to discuss.
+The default is a standing teardown every quarter, plus one whenever a claim pattern starts showing up in your door answers, where buyers say what they've already tried. Each ends on your own record, because the protection fades without repeats and the ending turns his skepticism into trust in you. Targets are businesses' published claims, never a person, and every face is cropped or blurred, because the features of someone who hasn't consented aren't yours to discuss.
 
 ### The Proof Stack matches proof to the doubt
 
@@ -293,11 +293,11 @@ Changes: [one record removed at the client's request, [date]; counts updated]
 
 ## Worked Example: Cole, Choosing the First Case
 
-Cole reaches his proof milestone in month [10], and his first real proof decision comes with it: which graduate's Case goes up first. He made most of that decision in month 1.
+Cole reaches his proof milestone in month [11], and his first real proof decision comes with it: which graduate's Case goes up first. He made most of that decision in month 1.
 
 **Month 1. The rule, set before any graduate exists.** Cole's pre-commitment post names his log day, [the first of each month], and a trigger instead of a date: first outcome ranges in the first entry after his tenth graduate with a consented process testimonial. It sets the Case order too, the rotation through the range's thirds with the middle first. With no graduates yet, nobody's record could have shaped the rule.
 
-**Month [10]. The signs.** [14] clients have started, [1] left at week 6 with the exit right, and [13] have graduated. [10] gave consented process testimonials; [2] had no measured peak to ask at, and [1] claimed the non-response clause and wasn't asked. The trigger fires: the next entry carries the first ranges as a small sample, [9] of [13] graduates with a marker at its threshold. Three say yes to a results testimonial, each after his week-12 verdict was settled. Dan, 24, sits at the [upper end] on both markers, lost [~4] kg, and offers his captures. [A 29-year-old] sits in the middle third, and [a 21-year-old] near the bottom of the lower third.
+**Month [10]. The signs.** Of the [15] clients whose programs have ended, [1] took a fit-window refund, [1] left at week 6 with the exit right, and [13] graduated. [10] gave consented process testimonials; [2] had no measured peak to ask at, and [1] claimed the non-response clause and wasn't asked. The trigger fires: the next entry carries the first ranges as a small sample, [10] of [13] graduates with a marker at its threshold. [Three] say yes to a results testimonial, each after his week-12 verdict was settled. Dan, 24, sits at the [upper end] on both markers, lost [~4] kg, and offers his captures. [A 29-year-old] sits in the middle third, and [a 21-year-old] near the bottom of the lower third.
 
 **The read.** The tempting move is Dan first, the most striking record Cole has. But the first Case teaches every later reader what typical looks like, and a top-end Case makes the range beside it read like small print. The month-1 rule answers before the temptation can: the middle-third graduate goes first. Dan's offer of his captures gets a warm no, because he came in with a weekly comparison-photo habit, and a client who arrived checking his photos stays in words and markers, whatever he offers.
 
@@ -354,7 +354,7 @@ Send it after he says yes, as its own document, outside your enrollment terms.
 Run it before filming and again before publishing. One "no" holds the piece.
 
 1. Is the target a business's published claim, such as an ad, a sales page, or a sponsored post, and not a private person's post or anyone who could be under 18? → If not, drop it.
-2. Is every face blurred, with names, handles, watermarks, and identifying backgrounds removed, and the claim's words paraphrased so a search can't trace them? → If not, don't publish.
+2. Is every face cropped or blurred, with names, handles, watermarks, and identifying backgrounds removed, and the claim's words paraphrased so a search can't trace them? → If not, don't publish.
 3. Does every line describe the capture or the claim, such as distance, light, pose, dates, or count, and none a person's features? → Rewrite any line about a face.
 4. Did you steelman first, saying what the claim gets right or why a reasonable man believed it? → Add it before the first tell.
 5. Is each tell shown on a consenting volunteer, and does any client material carry consent scoped to this piece? → If not, cut that material.
@@ -376,7 +376,7 @@ Run it before filming and again before publishing. One "no" holds the piece.
 
 - **Proof built to be audited.** Integrity Levels and the Context Stack keep every pair matched, dated, and in context, and only the Stall Told Back may be a labeled composite, so nothing edited or invented reaches a caption (the line on fabricated proof). A striking, confounded result still ships as what it is, since hiding it fails *Name the destination boldly*.
 - **Numbers only from your records.** Every range names its denominator, exits, and the men who reached no threshold, and observed, not caused keeps a caused change to his face out of every sentence (the line on structural claims).
-- **Teardowns aim at the claim.** Faces blurred, captions paraphrased, tells shown on a volunteer, no features described: *Fight ideas, not people* at full force, with the line on shame intact.
+- **Teardowns aim at the claim.** Faces cropped or blurred, captions paraphrased, tells shown on a volunteer, no features described: *Fight ideas, not people* at full force, with the line on shame intact.
 - **Testimonials he chose freely.** His scope, his words, no reward, and no ask near a refund decision, so each is his view, not a trade (the line on fabricated proof).
 
 ## Quick Reference

@@ -164,7 +164,7 @@ So his week-6 read runs under the rising-checking rules. The capture is skipped,
 
 ## 6. Adherence Data as the Renewal Case
 
-His renewal case at week 12 is written in weeks 1 to 11 or not at all, from data the review collects anyway. Measured momentum, the qualifier for Round Two, the maintenance block after graduation, has two halves (Module 10). His adherence sits at or above his threshold, and at least one marker is still improving across its last two readings. Both halves must be on the record before anyone asks, so capture five things now:
+His Renewal Case, the week-12 argument from his own record, is written in weeks 1 to 11 or not at all, from data the review collects anyway. Measured momentum, the qualifier for Round Two, the maintenance block after graduation, has two halves (Module 10). His adherence sits at or above his threshold, and at least one marker is still improving across its last two readings. Both halves must be on the record before anyone asks, so capture five things now:
 
 1. Days logged each week, with comebacks counted, since the threshold reads all twelve weeks.
 2. Every marker reading on schedule through weeks 10–12, since "its last two readings" must fall near the end.
@@ -182,7 +182,7 @@ The same data tells some men they don't need more, and "you don't need Round Two
 
 ## Worked Example: Dan's Week-5 Plateau, From Check-In to Verdict
 
-Cole *(composite operator)* is Growing, with about [25] clients across three monthly starts and a [48]-hour review turnaround. Dan joined his [April] start from a call where his comparison-photo habit, a few times a week, put him on the Dignity Route. So his reviews aim at the record, and any stake stays on time, money from here on, and guessing.
+Cole *(composite operator)* is Growing, with about [25] clients across three monthly starts and a [48]-hour review turnaround. Dan joined his [April] start by message, with no call. His comparison-photo habit, a few times a week, put him on the Dignity Route. So his reviews aim at the record, and any stake stays on time, money from here on, and guessing.
 
 **Day 0. The Commit Ritual.** Week zero showed three misses, all on early shifts. So the first change moves [his habit block] to [after the shift] and leaves everything else alone for [two] weeks. His markers are a [posture-habit tally], [2] of [10] spot-checks against a threshold of [6], and a [body-composition measure], [x] against [x − y]. Cole reads the [80%] adherence condition aloud once and names each exit with its date. Dan writes two lines of reasons, which stay in his file.
 
@@ -196,11 +196,11 @@ Cole *(composite operator)* is Growing, with about [25] clients across three mon
 
 **Tuesday. The next 48 hours, used.** A written re-plan goes out, and Dan accepts a [15]-minute call because his pulse dipped. Cole starts with the frustration: a week like that is rough, and it makes sense after a rotation change. The one change follows: on night weeks, [the habit block] moves to [after he wakes], with [a minimum version] as his miss plan. Then the hard thing, aimed at the guessing: "Your eight months ended in a stretch like this one, flat and unreadable. This one is on a record, and week 6 answers whether it's working." Cole asks plainly, with stop on the list and the exit right waiting at the day-[42] read. Dan keeps the plan.
 
-**What Cole left alone.** He sent no new tip, no extra capture, no second change, and no word about refunds. The work photos Dan named on his call as his goal stay unmentioned, as the Dignity Route requires.
+**What Cole left alone.** He sent no new tip, no extra capture, no second change, and no word about refunds. The work photos Dan named as his goal stay unmentioned, as the Dignity Route requires.
 
 **Day 42. The week-6 read, one marker at a time.** Adherence answers the verdict question first: [35] of [42] days, with week 6 back at [7] of [7]. The tally reads [5], past its baseline wobble, so that lever is moving. The body-composition measure sits inside its wobble, and at week 6 that column is early. No Stall Verdict runs on it yet, and the letter dates the reading that will, week [9]. It recommends continuing, states the exit right just as plainly, and asks. Dan continues.
 
-**Weeks 7–12.** One more night rotation logs [5] of [7], with the miss plan on each day after a miss. At the week-12 re-assessment his adherence sits in the [~82–86%] range. The tally reads [6–8] of [10], past its threshold, and the body-composition measure is improving across its last two readings. The verdict is moved, with measured momentum, so his renewal case starts from a record that already argues it.
+**Weeks 7–12.** One more night rotation logs [5] of [7], with the miss plan on each day after a miss. At the week-12 re-assessment his adherence sits in the [~82–86%] range. The tally reads [6–8] of [10], past its threshold, and the body-composition measure is improving across its last two readings. The verdict is moved, with measured momentum, so his Renewal Case starts from a record that already argues it.
 
 **Maya's week 6, the short thread.** Maya *(composite, welcome, not targeted)*, 28, in the same start, has logged [37] of [42] days with one marker moving, so her record says hold. Her calendar disagrees: a [release crunch] of [12-hour days] fills all [six] weeks she has left. By her own estimate a minimum version would hold [2] or [3] days a week, too few for the verdict to read the lever. The rule points to a stop, which inside the window means the exit right. Cole recommends it, with a return to the door whenever her weeks fit, on her word alone. She takes it. What she paid beyond her delivered weeks reaches her card in [four] days, her last installment cancels, and nobody asks her for anything.
 
@@ -250,7 +250,7 @@ If he pushes:
 
 What you never say: "Stop now and you lose your week-12 refund." His refund terms never argue for staying. Then return to the decision: "[The minimum version] after site days, check-in Sunday as usual, full plan back on [date]. Yes?"
 
-### The honest exit, at week 12
+### The Honest Exit, at week 12
 
 Theo *(composite, Burned Struggler)*, 26, logged [77] of [84] days, every reading was clean, and neither marker reached its threshold. His question about [his bite] went to an orthodontist in week [3], the day he raised it. You raise the clause before he asks.
 

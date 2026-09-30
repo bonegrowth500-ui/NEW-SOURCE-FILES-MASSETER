@@ -49,7 +49,7 @@ Name every job's owner before your second long-form piece, since a page with thr
 
 ### Surface Types sort every surface by its rung
 
-Every surface does one of three kinds of work, and the kind tells you where its viewers mostly stand on the Warmth Ladder. That's the rule that no asset asks for a rung its buyer isn't standing on, with rungs running Stranger, Returning, Assessed, and Deciding, and it decides what each asset may ask for (Module 18). This sorting, **Surface Types**, tells you which rungs each surface serves:
+Every surface does one of three kinds of work, and the kind tells you where its viewers mostly stand on the Warmth Ladder. That's the rule that you never ask for a rung the buyer isn't standing on, with rungs running Stranger, Returning, Assessed, and Deciding, and it decides what each asset may ask for (Module 18). This sorting, **Surface Types**, tells you which rungs each surface serves:
 
 | Surface Type | Where it runs | Its viewers' usual rung | Its job |
 |---|---|---|---|
@@ -182,7 +182,7 @@ The Start Here Series is a five-piece progression of decision-stage topics that 
 | 4 | "How to check anyone selling this, me included" | Guide | Returning | "My face is not evidence for the method. The record is, published on the dates I committed to." | The offer page, then the door |
 | 5 | "What happens after the self-assessment, and what it costs" | Vehicle | Returning | "A record doesn't read itself; review turns it into a decision." | The offer page, then the door |
 
-The playlist plays the five in order, so each keeps the ask its rung and link set, and every piece offers the door to the man not ready to buy. Beyond the series, the Canon keeps its rotation: claim 1 in every piece the category's search terms reach, each other claim at least every four to six weeks, and a resurfacing myth's answer first for about two weeks.
+The playlist plays the five in order, so each keeps the ask its rung and link set, and every piece offers the door to the man not ready to buy. Beyond the series, the Canon keeps its rotation: claim 1 in every piece the category's search terms reach, each other claim at least every 4–6 weeks, and a resurfacing myth's answer first for about two weeks.
 
 ### The fifth piece speaks the price
 
@@ -218,7 +218,7 @@ You're on camera from the first piece, and your face carries trust, never proof.
 
 **Delivery.** Hold a calm pace, plain words, and one voice for the teaching and the pitch. A voice that changes at the price tells him the teaching was bait. Concede the debated middle aloud, say the hard thing level, and cut performed outrage.
 
-None of it is about looking better. No filter, beauty mode, retouch, or AI edit touches your face, and no light, angle, or pose is chosen to sharpen your jaw. Cut to process visuals, a log, an empty capture template, or your dated record, whenever a claim needs showing, so your face carries the trust and the visuals carry the proof. What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, goes in your comment policy and on the Verify Page.
+None of it is about looking better. No filter, beauty mode, retouch, or AI edit touches your face, and no light, angle, or pose is chosen to sharpen your jaw. Cut to process visuals, an empty capture template, or your dated log, whenever a claim needs showing, so your face carries the trust and the visuals carry the proof. What My Face Does and Doesn't Prove, the public statement that your appearance is never evidence for the method, goes in your comment policy and on the Verify Page.
 
 ### Batch every two weeks, and hand out production first
 
@@ -255,13 +255,13 @@ The **Comment Courtroom** is your comment section run on published rules: a comm
 | The strongest honest objection | Answered at its evidence tier and pinned in place of your comment | You |
 | "Where do I start?" | One templated door link | Routing help, or you |
 
-Mine the rest for your Conversation-to-Content Loop, which turns objections into content a rung earlier. Distress, minors, and money he can't spare are protective stops, the stop rules that shield a vulnerable buyer, so they never feed it, and their only record is "stopped: stop rule".
+Mine the rest for your Conversation-to-Content Loop, which turns objections into content a rung earlier. Distress, minors, and money he can't spare are protective stops, each a stop rule that shields a vulnerable buyer, so they never feed it. They leave only "stopped: stop rule", and a minor's leaves nothing.
 
 ### The pin is where you fight ideas
 
 The pin is where *Fight ideas, not people* runs at full strength. Under a Returning piece, the top comment reads "this is just mewing with a price tag". That's the strong challenge, so you pin it in place of your own comment and answer beneath:
 
-> **You:** "Fair challenge, and this category has earned it. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. The Program is [$2,100] for 12 weeks of review of your record, and the page shows what's in it: [link]. A '[90]-day jaw' is a promise nobody has to keep when nobody measured day one."
+> **You:** "Fair challenge, and this category has earned it. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed. The Program is [$1,650] for 12 weeks of review of your record, and the page shows what's in it: [link]. A '[90]-day jaw' is a promise nobody has to keep when nobody measured day one."
 
 Notice the move: you concede the fair half, quote Canon claim 1 word for word, state the price once, and aim the force at a practice, never a person. It repairs Range for every silent reader and sells directly in the same reply.
 
@@ -282,8 +282,8 @@ Each correction fades while the category's noise reaches him daily. A steady cad
 | Stage | Long-form | Weekly hours | Batch day |
 |---|---|---|---|
 | Early | The Honest Answer, then every other week; the Start Here Series assembles | ~2.5 | One piece every two weeks |
-| Growing | ~3 a month: the series re-filmed, then the Offer Pieces | ~3.5 | One or two every two weeks |
-| Scaling | 2–3 a month, at a higher bar, freelancers on derivatives | ~3.0 | One or two every two weeks |
+| Growing | ~3 a month: the series re-filmed, then the Offer Pieces | ~3.5 | 1–2 every two weeks |
+| Scaling | 2–3 a month, at a higher bar, freelancers on derivatives | ~3.0 | 1–2 every two weeks |
 
 When a week runs past 25 hours, long-form above its minimum cadence is the fourth cut in the De-Scoping Order, your fixed order of cuts. The minimum itself stays, because content never drops below about 5 hours a week at any stage.
 

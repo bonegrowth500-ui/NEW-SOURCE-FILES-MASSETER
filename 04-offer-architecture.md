@@ -152,7 +152,7 @@ Five offers do their damage by arriving before their trigger:
 | Program Async before the Program passes ~$3.2k | A cheaper copy of your flagship at a price the core buyer can already carry |
 | The paid overflow while reach binds | Fewer conversations while every one counts |
 
-Community on this ladder follows Community Options, the paid-community choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted.
+Community on this ladder follows Community Options, the paid-room choices for alumni and members (Module 10). The default is the alumni room; an in-cohort peer space can run inside the Program; and from Growing, an open paid membership for verified adults can open, but only with moderation minutes budgeted.
 
 ## 5. The Starter Path and the Self-Serve System
 
@@ -257,14 +257,14 @@ Left alone: the paid overflow, because reach binds and every conversation counts
 
 **Month [6]. The read: the back buffer's trigger fired at the first graduation, in month [4].** By [June], [four] founding clients have reached week 12, and each record picks its own rung. [One] is still climbing, so he hears about Round Two at [~$0.8–1.2k]. [One] moved and holds, so he's told he doesn't need Round Two, and he takes the Hold at [$49] a month. [One] logged too little for his record to judge the lever, and [one] did the work while his markers stayed flat. Neither hears an offer, and the second gets the partial refund the guarantee promises for that case.
 
-**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.95k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it.
+**Month [7]. The read: a tier request, which the test turns down for now.** A buyer asks for the Program without the group call, for less. The test says it's a tier, the same job at a lower dose, and its trigger hasn't fired. At [~$1.73k] the Program sits well under the cash ceiling, so a cheaper copy would only undercut it.
 
 **Month 9, September. The read: every rung has a job and a trigger behind it.**
 
 | Slot | Rung live, and its job | Price on his page | Switched on |
 |---|---|---|---|
 | Front buffer | The door's human step: a screened decision | Free · [~$350–600] | Month 0 |
-| Flagship | The Program, with one founding Private seat: judgment on his record, weekly | [~$2.1k] · [~$4–6k] | Month 0 |
+| Flagship | The Program, with one founding Private seat: judgment on his record, weekly | [~$1.82k] · [~$4–6k] | Month 0 |
 | Back buffer | Round Two: more reviewed weeks for a climbing record | [~$0.8–1.2k] | Month [4] |
 | Back buffer | The Hold, with [five] members: a quarterly check that it holds | [$49]/month | Month [4] |
 | Net | The Starter Path: a real path and a way back | Free | Month 0 |
@@ -344,7 +344,7 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 
 **Takeaways**
 - Work down from the target: 8–9 buyers a month make every leak expensive, and each leak that binds earns a rung.
-- A slot is a buyer condition, a rung is an offer with its own page and job, and a tier is the same rung at another dose.
+- A slot is a buyer condition, a rung an offer with its own page and job, a tier the same rung at another dose.
 - One rung, one job: an offer without a slot comes down, whatever it earns.
 
 *The ladder*
@@ -363,9 +363,9 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | 0–3 | Fit conversation, founding group, founding Private seats, priority tier, Starter Path |
 | 3–6 | Round Two and the Hold, at the first graduation |
 | 6–9 | Steps through the opening band |
-| 9+ | By trigger: the paid overflow, paid tools, alumni room, Program Async, Private at parity, community options |
+| 9+ | By trigger: the paid overflow, paid tools, Program Async, Private at parity, Community Options |
 
-**The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. His way back: his own reply or a progress condition, never money.
+**The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. His way back: his reply or a progress condition, never money.
 
 **The Free/Paid Line.** Information free in full; judgment on his record paid; tools priced as convenience; stall rules applied only in review.
 
@@ -376,6 +376,6 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | **One Flagship, Two Buffers, One Net** | Place any new offer as a tier, a rung, or a no |
 | **The Rung Activation Schedule** | Open a rung only when its upstream can feed it and your week can price its minutes |
 
-**Leans on:** the Reverse Funnel and the one-to-one ceiling (Module 1) · the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · the Week-Zero Baseline (Module 17).
+**Leans on:** the Reverse Funnel and one-to-one ceiling (Module 1) · the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · refer-out triggers (Module 15) · the Week-Zero Baseline (Module 17) · decision-stage pitches (Module 18).
 
 **Do this month:** write a job card per rung and retire any offer without a slot; write the Starter Path and its handover versions; put every paid rung on a public page, premium first.

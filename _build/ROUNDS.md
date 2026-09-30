@@ -165,3 +165,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 | IV | a993ff82a79063c4c |
 | V | ab82335afa5d93b3c |
 | VI | a74976bd53fe4c9fc |
+- 4.3 V done (25 numbers, 17 terms, 4 cross-refs). Rulings: Y2 April cap [10] (path v2 updated); Cole's Private holds [$6,000] after month 1 (18/19 brackets changed); FRAMEWORKS Close by Contract adds the affordability question; Decision Date gloss adopts 19's wording.

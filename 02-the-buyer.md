@@ -49,10 +49,10 @@ Three other buyers tempt a new operator, and each costs more than it pays. The O
 |---|---|---|
 | The stalled adult, 19–32 | Always, as the buyer the brand speaks to | Proof has to be built from zero, and he pays from a monthly budget |
 | Optimizer-first positioning | Never as the position; he gets his own lane from month 0 | A smaller pool, and polished proof a new brand doesn't have |
-| Breathing-first entry | Never as the door; breathing habits stay one lever inside the Program | Health framing on every page, and a door full of sleep and snoring complaints whose right answer is a referral |
+| Breathing-first entry | Never as the door; breathing habits stay one lever inside the Program, your 12-week flagship | Health framing on every page, and a door full of sleep and snoring complaints whose right answer is a referral |
 | Parent-funded teens | Never | A sale to someone who can't consent, paid for by someone who isn't the client |
 
-**Default: the stalled adult.** His stall is exactly what judgment and measurement answer. His job usually lets him pay from his own income, and his need matches what you can honestly deliver without credentials. Switch the emphasis, not the default, once the Program, your 12-week flagship, climbs past about $3.2k and presses on what a 20–24 buyer can comfortably pay. Then keep a real tier under that price and let packaging by state, never income targeting, move the mix; a rising share aged 25–34 is something you observe, never a target.
+**Default: the stalled adult.** His stall is exactly what judgment and measurement answer. His job usually lets him pay from his own income, and his need matches what you can honestly deliver without credentials. Switch the emphasis, not the default, once the Program climbs past about $3.2k and presses on what a 20–24 buyer can comfortably pay. Then keep a real tier under that price and let packaging by state, never income targeting, move the mix; a rising share aged 25–34 is something you observe, never a target.
 
 ## 2. The Destination Ladder
 
@@ -66,7 +66,7 @@ People name goals as features because features are easy to say. They want the fe
 
 ### Climb until the answer leaves his face
 
-Watch it on a typical buyer: "a sharper jaw" → "I'd look better in photos" → "I'd stop dodging the camera at work, and people there would take me seriously", two questions from feature to life. Each question is a version of "what would that give you?", asked about his last answer. Once the answer leaves his face, a third question grounds it instead of climbing: where would he notice it first? That sequence is the **Destination Ladder**: climbing questions from the feature he names to the destination behind it, one grounding question, and a hard stop at the top.
+Watch it on a typical buyer: "a sharper jaw" → "I'd look better in photos" → "I'd stop dodging the camera at work, and people there would take me seriously", two questions from feature to life. Each question is a version of "what would that give you?", asked about his last answer. Once the answer leaves his face, a third question grounds it instead of climbing: where would he notice it first? That sequence is the **Destination Ladder**: climbing questions from his surface goal to the destination behind it, one grounding question, and a hard stop at the top.
 
 **Climb until the answer leaves his face, then stop and say it back.**
 
@@ -86,7 +86,7 @@ Here's the ladder on Adrian *(composite, Optimizer)*, 31, a consultant who opene
 
 You say it back: "So the goal is a straight answer about what's worth your time. Right now you're guessing, because nothing you've tried was measured. The plan is a baseline, a review on fixed days each week, and a written read at week 6. Captures happen only on fixed dates, so there's nothing to check in between. Most of how people read you was never about your jaw."
 
-Run the ladder once per buyer, early and before any recommendation. The default is two climbing questions and one grounding question, with four at most. If his first answer already leaves his face, go straight to grounding. Write the destination down in his words, because your recommendation will argue from it and your written recap will repeat it. Stop early if a rung turns up a referral trigger (jaw pain, snoring, a bite concern) or distress, because those answers call for a referral instead.
+Run the ladder once per buyer, early and before any recommendation. The default is two climbing questions and one grounding question, with four at most. If his first answer already leaves his face, go straight to grounding. Write the destination down in his words, because your recommendation will argue from it and your written recap will repeat it. Stop early if a rung turns up a refer-out trigger (jaw pain, snoring, a bite concern) or distress, because those answers call for a referral instead.
 
 ## 3. Buyer States
 
@@ -109,7 +109,7 @@ The promise, the method, and the standards never change by state: the same strai
 
 He's a Struggler who paid for a promise and watched it fail, usually a device or a course that sold structural change. The purchase taught him that confidence is the tell, so your confidence reads as the same pitch in better lighting. His skepticism is earned, and it's an opening: he audits, so a brand built to be audited is the one he'll end up trusting.
 
-His "I need to think" is due diligence, so support it instead of probing it. Send the verification kit, a labeled sample written plan and a sample weekly review, with the guarantee terms. Make one firm recommendation and let him choose the decision date. Ask one stake question about the future and take the answer as given, because letting a good-fit buyer believe waiting is free fails him too. Keep what he already spent out of it and far from your price, since a pitch built on money already lost is how he was sold before.
+His "I need to think" is due diligence, so support it instead of probing it. Send the verification kit, a labeled sample written plan and a sample weekly review, with the guarantee terms. Make one firm recommendation and let him choose his Decision Date, the date he agrees to decide by. Ask one stake question about the future and take the answer as given, because letting a good-fit buyer believe waiting is free fails him too. Keep what he already spent out of it and far from your price, since a pitch built on money already lost is how he was sold before.
 
 ### The Optimizer is a state, not an age
 
@@ -129,11 +129,11 @@ A state is a reading, not a label, and it can move inside one conversation, when
 
 ### Women and men past the core band are welcome, not targeted
 
-Women, and men older than the core band, buy from this brand, and the door handles them exactly as it handles Dan. They're welcome, not targeted, because the brand's language, proof, and examples are built for the core buyer. A second target audience would split every asset between two vocabularies that a solo operator's hours can't serve. The older buyer often brings the category's sharpest question, whether it's too late, and gets the same answer at its evidence tier.
+Women, and men older than the core band, buy from this brand, and the door handles them exactly as it handles Dan. They're welcome, not targeted, because the brand's language, proof, and examples are built for the core buyer. A second target audience would split every asset between two vocabularies that a solo operator's hours can't serve. The older buyer often brings the category's sharpest question, whether it's too late, and gets the same answer at its evidence tier, meaning how well supported each claim is.
 
 ## 4. The Eligibility Rule
 
-Eligibility is two checks and nothing else: he's a legal adult where he lives, and he can pay from his own income or savings without new credit.
+Eligibility is two checks and nothing else: he's a legal adult where he lives, and before every paid step he can pay comfortably from his own income or savings, without new credit.
 
 That's the Eligibility Rule. It's non-negotiable because each check protects him before it protects you. Your door enforces it on every path, including the ones where a keen buyer makes bending it tempting.
 
@@ -197,7 +197,7 @@ Those moments are buying triggers, events that turn a stall he can live with int
 
 ### A trigger speeds your reply and nothing else
 
-Your door already asks for it in his words, "What made you look for help now?", beside "When could you start?" (Module 5). Read the answer for three things. The trigger it names shapes his first reply. A date of its own, which a life event or a fresh start brings, sets where his decision date comes from. And words that lean on his worth or on checking send him to the Dignity Route or the Fit Check, whatever the trigger.
+Your door already asks for it in his words, "What made you look for help now?", beside "When could you start?" (Module 5). Read the answer for three things. The trigger it names shapes his first reply. A date of its own, which a life event or a fresh start brings, sets where his Decision Date comes from. And words that lean on his worth or on checking send him to the Dignity Route or the Fit Check, whatever the trigger.
 
 Beyond that, the trigger changes only your speed. It's the moment he's most willing and sometimes most fragile, since the team photo that sent Dan to your door is, for another man, the edge of a fixation, so every check runs as it would on any other day.
 
@@ -249,13 +249,13 @@ Declines build your position once they're visible. Count your fit declines in ag
 
 ## Worked Example: Four Buyers in One Week
 
-Cole (composite operator) is in month [4], Early stage, holding [4] conversations a week. His founding group, every early client in one group with monthly entry, is open at [~$1.2–1.5k] for 12 weeks. Four buyers who look eligible reach his door in one week, each in a different state, and a fifth completes it on Friday.
+Cole *(composite operator)* is in month [4], Early stage, holding [4] conversations a week. His founding price ended as stated, so the Program's monthly starts are open at [$1,650] for 12 weeks. Four buyers who look eligible reach his door in one week, each in a different state, and a fifth completes it on Friday.
 
-**Monday. Dan: the read is Struggler.** His door names the team photo at work as the reason he's looking now. On a free first call, Cole finds the widest gap is feedback. The ladder reaches the destination: taken seriously at work, at ease on camera, and knowing whether the months did anything. Dan names what another year of guessing would cost him. Cole recommends the founding group from [the next monthly start], shows both real tiers with the founding Private seat first, and states the price once. Dan answers yes to the affordability question, clears the Fit Check, says yes to the ask, and books day one. Left alone: what the device cost him.
+**Monday. Dan: the read is Struggler.** His door names the team photo at work as the reason he's looking now. On a free first call, Cole finds the widest gap is feedback. The ladder reaches the destination: taken seriously at work, at ease on camera, and knowing whether the months did anything. Dan names what another year of guessing would cost him. Cole recommends the Program from [the next monthly start], shows both real tiers with the founding Private seat first, and states the price once. Dan answers yes to the affordability question, clears the Fit Check, says yes to the ask, and books day one. Left alone: what the device cost him.
 
-**Tuesday. Theo: the read is Burned Struggler.** Theo *(composite, Burned Struggler)*, 26, in sales, names a device and a course that both promised structural change, and he wants the guarantee terms before booking. Cole says the plain thing first: "You weren't foolish to buy those. You were sold promises nobody could check, so check everything here." He recommends the founding group once, sends the verification kit and the terms, and asks what another year of buying things he can't check would cost. He future-paces from the record: a written read by [a fixed date in week 6] would tell Theo what's moving, the knowing no photo gives him. Theo picks his decision date, [ten days out]. Left alone: any probe of "I need to think", and what the device cost.
+**Tuesday. Theo: the read is Burned Struggler.** Theo *(composite, Burned Struggler)*, 26, in sales, names a device and a course that both promised structural change, and he wants the guarantee terms before booking. Cole says the plain thing first: "You weren't foolish to buy those. You were sold promises nobody could check, so check everything here." He recommends the Program once, sends the verification kit and the terms, and asks what another year of buying things he can't check would cost. He future-paces from the record: a written read by [a fixed date in week 6] would tell Theo what's moving, the knowing no photo gives him. Theo picks his Decision Date, [ten days out]. Left alone: any probe of "I need to think", and what the device cost.
 
-**Wednesday. Adrian: the read is Optimizer.** At 31, inside the core band, his state routes him. He books the priority tier at [~$350–600] after the fork, the affordability question, and the Fit Check. On the assessment call his thumbnail-checking comes up, and Cole reads it on the three questions: a few glances a call, nothing crowded out, irritation rather than distress, so the Dignity Route runs over his route. The written plan arrives in [48 hours] and recommends a founding Private seat at [~$4–6k] for speed, privacy, and fixed deliverables. At checkout the question runs again, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Yes. [He enrolls the following Tuesday.] Left alone: any hint that Private buys a better result.
+**Wednesday. Adrian: the read is Optimizer.** At 31, inside the core band, his state routes him. He books the priority tier at [$450] after the fork, the affordability question, and the Fit Check. On the assessment call his thumbnail-checking comes up, and Cole reads it on the three questions: a few glances a call, nothing crowded out, irritation rather than distress, so the Dignity Route runs over his route. The written plan arrives in [48 hours] and recommends a founding Private seat at [$6,000] for speed, privacy, and fixed deliverables. At checkout the question runs again, word for word: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?" Yes. [He enrolls the following Tuesday.] Left alone: any hint that Private buys a better result.
 
 **Thursday. Sam: the read is Ambivalent, the hard one.** He agrees with everything and closes with "after the busy season". The ladder reaches his destination, to stop guessing about photos, and he names the stake: another season of guessing. The hard read is what changes then, since a vague answer would be deferral, to reflect and challenge with his own months. Sam's answer is concrete: the overtime ends, and until then he lacks the [minutes a day]. Cole takes the constraint and answers his fear of stalling: the first weeks are built to show him something on his record. He declines the next start, ending the ask, and takes the Starter Path, with his decision dated to the first start after the busy season. Left alone: any invented deadline.
 
@@ -355,6 +355,6 @@ Run it before you recommend anything, on a buyer who has passed the fork and sho
 | **Buyer States** | Read which state he's in, in order, and route the sale to match |
 | **The Struggler Gap Triad** | Name which gap stalled him and make its first move |
 
-**Leans on:** the Outcome Map and Dated Record (Module 3) · the Starter Path (Module 4) · the Fit Check and pause route (Module 5) · the cash ceiling (Module 7) · the Premium Lane and Buyer-Mix Shift (Module 13) · Fantasy to Expectation (Module 14) · the Dignity Route (Module 15) · State Routing (Module 19).
+**Leans on:** the Outcome Map and Dated Record (Module 3) · the Starter Path (Module 4) · the Fit Check and pause route (Module 5) · the cash ceiling (Module 7) · the Premium Lane and Buyer-Mix Shift (Module 13) · Fantasy to Expectation (Module 14) · the Dignity Route (Module 15) · State Routing and the Decision Date (Module 19).
 
 **Do this month:** put the verbatim affordability question on every paid step you run, DMs and checkout included; ask every new lead what made him look for help now; after each conversation, write his state, destination, and trigger in his words.
