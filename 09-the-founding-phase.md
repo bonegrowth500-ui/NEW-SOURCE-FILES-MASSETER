@@ -7,7 +7,7 @@ It's the first Monday. You have a camera on a tripod and a channel with no subsc
 
 The tempting plan is to post for six months and sell once there's an audience. In this category that plan spends the months that decide your first quarter waiting for people who mostly won't buy. Your first clients will come from conversations you start by hand. They start with a disclosed message, a reply under a piece, or a call whose purpose and price are on the page.
 
-So the honest questions for day one are where your first five conversations come from, what you'll change in week 3 if they haven't come, and how your first clients become the business's first instruments: a map of why men stall, a check-in tested on real weeks, and its first proof.
+So the honest questions for day one are where your first five conversations come from, and what you'll change in week 3 if they haven't come. After that, your first clients become the business's first instruments: a map of why men stall, a check-in tested on real weeks, and its first proof.
 
 ## 1. Why You Sell Before You Have an Audience
 

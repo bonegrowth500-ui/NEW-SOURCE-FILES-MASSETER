@@ -211,7 +211,7 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Format effects in behavior-change trials | Individual ≈ group ≈ guided at equal intensity | — | EV (S in domain; transfer M–W) |
 | Contact frequency | More contacts per week helps; the total number of sessions has little effect | — | EV (M) |
 | Proactive encouragement vs self-help | Better outcomes and roughly half the dropout; on-demand-only support adds little | — | EV (M) |
-| Progress monitoring → goal attainment | Moderate (d≈0.4); larger when recorded, reported, and reviewed | — | EV (S) |
+| Progress monitoring → goal attainment | Moderate (d≈0.4); larger when recorded and reported, or made public | — | EV (S) |
 | If-then plans | Smaller than headline figures after bias correction (≈0.15–0.35) | Format; rehearsal | EV (S that it shrinks; size C) |
 | Habit automaticity | Median ~2 months; range from days to most of a year | Behavior complexity. **Never used to time outcomes** | EV (M) |
 | Unguided completion | Very low (MOOCs ~3% overall; apps ~4% retained at day 15). Paying/verified MOOC learners ~46% (selection + commitment) | Human touch; deadlines; payment | EV (S/M) |
@@ -256,6 +256,9 @@ Bands are defined by **eligible adult leads per month** at month 9. Engaged long
 | Positive fantasy vs expectation | Indulging in a vivid positive fantasy predicts less effort and weaker outcomes than a grounded expectation of success | Why a destination is always paired with the obstacle and plan | EV (M; mostly one research group) |
 | Sustained exposure to corrections | Repeated corrections over months durably reduce a misperception where a single correction fades (one six-month field experiment) | Why the Canon repeats on a schedule | EV (M/W) |
 | Narrative persuasion | Small–moderate | Composites labeled | EV (M) |
+| Repetition → perceived truth | Repeated claims are rated truer than new ones; robust across meta-analyses, size varies with prior knowledge | Why the Canon repeats true claims in fixed words, and why a grift claim gains from repetition too | EV (S) |
+| Satisfaction vs expectation | Satisfaction tracks results against what was expected (meta-analytic support) | Why the Outcome Map sets expectations before the sale | EV (S) |
+| Recognized persuasion tactics | A tactic recognized as a persuasion attempt gets discounted | Why proof and pitch are built to survive a skeptic who knows the tricks | EV (S) |
 | Underestimating compliance with direct asks | People expect roughly half the yeses they get | Ask everyone, privately | EV (M) |
 | Voice vs text | Hearing a person's voice makes his reasoning seem more thoughtful and human than the same words in text | Why voice-note replies carry the one recommendation | EV (M; one lab) |
 | In-person vs written requests | Requests made in person get far more yeses than the same request by email or text, and requesters underestimate the gap | Why the referral ask is private and live where possible | EV (M/W; one group) |

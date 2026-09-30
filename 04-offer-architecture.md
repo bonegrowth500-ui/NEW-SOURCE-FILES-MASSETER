@@ -277,7 +277,7 @@ Left alone at month 9: the paid overflow, since he holds [4–5] conversations a
 
 ## Checklists: Ladder Design and the Rung Job Card
 
-Run the first whenever you add or retire an offer, and once a quarter, answering from your pages, your sales records, and your design week. Fill in the second before any rung goes live.
+Run the first whenever you add or retire an offer, and once a quarter, answering from your pages, your sales records, and your Design Week, the week budgeted line by line. Fill in the second before any rung goes live.
 
 ### Ladder design
 
@@ -298,7 +298,7 @@ Run the first whenever you add or retire an offer, and once a quarter, answering
 | For / not for | In the buyer's words, with a route for the not-for | For "not now", "not a fit", and "can't afford"; referral triggers go to a professional first |
 | Price | Your ledger range, with any next step stated | Free, with no paid tool before ~20 graduates |
 | Trigger | What must exist upstream before it opens | Your first "not now" |
-| Minutes | Per client-week or per unit, in your design week | [Your minutes per handover], templated |
+| Minutes | Per client-week or per unit, in your Design Week | [Your minutes per handover], templated |
 | Hands off to | Where each buyer goes next | The door, on his own reply or progress condition |
 | Its number | One count that shows it doing its job | Week-8 self-checks reached |
 
@@ -340,10 +340,10 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 
 ## Quick Reference
 
-**In one line.** One flagship earns, two buffers protect it, one net catches every no, and each rung opens only when its trigger fires.
+**In one line.** One flagship earns, two buffers protect it, one net catches every no, and each rung opens only on its trigger.
 
 **Takeaways**
-- Work down from the target: 8–9 buyers a month make every leak expensive, and each leak that binds earns a rung.
+- Work down from the target: 8–9 buyers a month make every leak expensive, and each binding leak earns a rung.
 - A slot is a buyer condition, a rung an offer with its own page and job, a tier the same rung at another dose.
 - One rung, one job: an offer without a slot comes down, whatever it earns.
 
@@ -361,9 +361,9 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | Months | Switch on |
 |---|---|
 | 0–3 | Fit conversation, founding group, founding Private seats, priority tier, Starter Path |
-| 3–6 | Round Two and the Hold, at the first graduation |
+| 3–6 | Round Two and the Hold, at first graduation |
 | 6–9 | Steps through the opening band |
-| 9+ | By trigger: the paid overflow, paid tools, Program Async, Private at parity, Community Options |
+| 9+ | By trigger: paid overflow, paid tools, Program Async, Private at parity, Community Options |
 
 **The Starter Path.** Weeks 1–4: log, one baseline capture, goals sorted by column. Weeks 5–8: one change, judged by the reading rule. His way back: his reply or a progress condition, never money.
 
@@ -376,6 +376,6 @@ Three rules travel with it. After "I can't afford it" or money that isn't his, t
 | **One Flagship, Two Buffers, One Net** | Place any new offer as a tier, a rung, or a no |
 | **The Rung Activation Schedule** | Open a rung only when its upstream can feed it and your week can price its minutes |
 
-**Leans on:** the Reverse Funnel and one-to-one ceiling (Module 1) · the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · refer-out triggers (Module 15) · the Week-Zero Baseline (Module 17) · decision-stage pitches (Module 18).
+**Leans on:** the Reverse Funnel and one-to-one ceiling (Module 1) · the Outcome Map (Module 3) · the Call Cap and Decision Assessment (Module 5) · the Review Rhythm (Module 6) · the cash ceiling (Module 7) · Round Two, the Hold, and Community Options (Module 10) · the Design Week (Module 11) · the Premium Lane and Program Async (Module 13) · Stall Verdicts (Module 14) · refer-out triggers (Module 15) · the Week-Zero Baseline (Module 17) · decision-stage pitches (Module 18).
 
-**Do this month:** write a job card per rung and retire any offer without a slot; write the Starter Path and its handover versions; put every paid rung on a public page, premium first.
+**Do this month:** write a job card per rung and retire any offer without a slot; write the Starter Path and its handovers; put every paid rung on a public page, premium first.

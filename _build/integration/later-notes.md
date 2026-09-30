@@ -15,6 +15,8 @@
 - Cole's Private seat holds at [$6,000] after month 1. Year 2's April start has [10] seats.
 - Name the step additions for path v2's August and October steps; path v2 proposes [a recorded walkthrough of each week-6 read] and [a written recap of each group call]. 18's price piece can then itemize them.
 
+- Dan's events differ across modules (17: offered a founding Private seat in month 2; 16: graduates before month 10; 07/08 and path v2: enrolls in December). 28 follows path v2 and 09: Adrian takes the one founding Private seat in week 6, and Dan enrolls in December.
+
 ## For 5.1 (the Intro and the Early Fast Path)
 - Composite continuity convention: a composite's sketch is fixed; each module's events are its own unless a module explicitly continues another's story (20 → 21 → 22 follow one April start).
 - Early Fast Path citations:
