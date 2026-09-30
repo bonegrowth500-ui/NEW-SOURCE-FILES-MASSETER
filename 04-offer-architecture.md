@@ -184,7 +184,7 @@ The path goes out once, in the written recap within 24 hours, in the version his
 | Money that isn't his | The full path, with the same silence on price | Never named | His own reply, or the progress condition |
 | "Not now", for a real reason | The full path | Named once, from ~20 graduates | His own date: one check-in on it, then one close-the-loop message |
 | Not a fit: a goal only in the never-claimed column, or no time for the work | The full path, aimed at the changeable column | Named once, from ~20 graduates | His own reply, or the progress condition |
-| A referral trigger: sleep or snoring signs, jaw pain, a bite concern | The referral first, in writing (Module 15); reading-only until he's been seen, since no reviewer watches the trigger | Never named | His reply once he's been seen |
+| A refer-out trigger: sleep or snoring signs, jaw pain, a bite concern | The referral first, in writing (Module 15); reading-only until he's been seen, since no reviewer watches the trigger | Never named | His reply once he's been seen |
 | A Fit Check pause | Reading-only, with no captures or logs; for checking or fixation, the referral first and nothing about measuring | Never named | His own permission after the pause |
 
 After "I can't afford it", the pause route governs every automated touch: a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once, with no price, offer, or date. Only the path's check-ins still go, because taking the path asked for them. That keeps the stop rule true inside your email tool, where it's easiest to break.
@@ -295,7 +295,7 @@ Run the first whenever you add or retire an offer, and once a quarter, answering
 |---|---|---|
 | Slot | Flagship, front buffer, back buffer, or net | Net |
 | Job | One sentence; if it takes two, it's two rungs | A real path, and a way back, for everyone who shouldn't buy now |
-| For / not for | In the buyer's words, with a route for the not-for | For "not now", "not a fit", and "can't afford"; referral triggers go to a professional first |
+| For / not for | In the buyer's words, with a route for the not-for | For "not now", "not a fit", and "can't afford"; refer-out triggers go to a professional first |
 | Price | Your ledger range, with any next step stated | Free, with no paid tool before ~20 graduates |
 | Trigger | What must exist upstream before it opens | Your first "not now" |
 | Minutes | Per client-week or per unit, in your Design Week | [Your minutes per handover], templated |
@@ -320,7 +320,7 @@ It goes in the written recap within 24 hours of the conversation. Brackets hold 
 >
 > [Your name]
 
-Three rules travel with it. After "I can't afford it" or money that isn't his, the reason and the tool lines both come out, and the recap names no price, offer, or date. A "not now" with a date gets one check-in on that date and one close-the-loop message. After a Fit Check pause or a referral trigger, send the reading-only version, with no capture or logging steps, and the referral first where it applies.
+Three rules travel with it. After "I can't afford it" or money that isn't his, the reason and the tool lines both come out, and the recap names no price, offer, or date. A "not now" with a date gets one check-in on that date and one close-the-loop message. After a Fit Check pause or a refer-out trigger, send the reading-only version, with no capture or logging steps, and the referral first where it applies.
 
 ## Stage Notes
 

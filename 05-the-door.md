@@ -17,7 +17,7 @@ The two doors most operators start with fail here in opposite directions. A cale
 
 One door fixes both by running its checks in order of cost. The age question costs him a click, and the fit and money questions a minute, before any booking or pay button. A conversation costs you an hour, so it comes last, and your live hours go only to adults who passed everything cheaper. The order protects him too: a minor leaves before he types anything worth keeping, and a man in distress meets help before he meets an offer.
 
-The door has to be owned. The age fork, the door's legal-adult question, must come before any field that stores data, and platform lead forms ask for an email first. Answers about how a man feels about his face should never pass through an ad platform's forms, and no page you own carries an ad pixel at all. Your own records keep the source label instead, so you can count eligible adults, legal adults who could pay from their own income or savings, by the content that sent them.
+The door has to be owned. The age fork, the door's legal-adult question, must come before any field that stores data, and platform lead forms ask for an email first. Answers about how a man feels about his face should never pass through an ad platform's forms, and no page you own carries an ad pixel at all. Your own records keep the source label instead, so you can count eligible adults, legal adults who could pay from their own income or savings without new credit, by the content that sent them.
 
 It has to be one door as well, because checks that differ by channel make the weakest channel the loophole. Every buyer walks the same order:
 
@@ -163,7 +163,7 @@ The standard tier costs $150–250 and becomes the overflow route once the Call 
 
 It reads his record, never his face: his answers, what he's tried and bought, his free log, his goal in his words, and his constraints. The booking page says all this before he pays, including that the plan may end in "don't buy".
 
-His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, with seat status stated as fact when it's informative, or an announced price step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
+His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, or an announced price step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
 
 The credit is one term, written on the plan once and never beside a date. The fee counts toward a program if he joins, held about 90 days, or up to about 12 months after a "not now".
 
@@ -173,7 +173,7 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
 
 | Part | What it holds | Why he keeps it without buying |
 |---|---|---|
-| The verdict, with reasons | One of the three Stall Verdicts, unmeasured, misdirected, or "this lever doesn't move for you", argued from his record, or a goal wholly in the never-claimed column | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
+| The verdict, with reasons | One of the three Stall Verdicts, unmeasured, misdirected, or "this lever doesn't move for you", argued from his record, or a goal wholly in the never-claimed column; "misdirected" names the lever and correction, a hypothesis until movement at his re-check confirms it | It ends "is it me?" with a cause he can check, and it's allowed to say stop |
 | A measurement setup | What to log weekly, when to capture, what not to measure | Every month he spends alone from here becomes evidence |
 | What to stop spending on | Named purchases and habits that can't show him anything | Money and months back, the plainest return a non-buyer gets |
 | The levers that matter | His goal sorted into changeable, debated, never claimed, and referral | The category's noise cut to a short list he can act on |
@@ -189,7 +189,7 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
    Goal, in your words: "[his words]"
    Tried: [routine] for [months] · Bought: [items, never amounts]
    Constraints: [minutes a day] · [schedule] · [budget from your own income or savings]
-2. The verdict: [unmeasured | misdirected | this lever doesn't move for you | goal in the never-claimed column]
+2. The verdict: [unmeasured | misdirected, pending re-check | this lever doesn't move for you | goal in the never-claimed column]
    Why, from your record: [reason] · [reason] · [reason]
 3. Your measurement setup (it runs without us)
    Weekly: log [habit block A] and [habit block B]; review on [day]
@@ -249,7 +249,7 @@ Left alone: a discount against what the device cost, and any word about whoever 
 
 ### Every route carries the same checks
 
-Any paid recommendation carries his path, cost, and terms in writing before payment: the Path and Timeline Card and the Expectation Document (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder's rule for what each asset may ask (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc, the call's arc without a call (Module 20).
+Any paid recommendation carries his path, cost, and terms in writing before payment: the Path and Timeline Card and the Expectation Document (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder's rule for what each asset may ask (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call (Module 20).
 
 However he arrives, the floor holds: his recap within 24 hours names the one recommendation, its price, his Decision Date, and his next step.
 

@@ -257,7 +257,7 @@ The default move is to recalculate now, not on the first of the month. The waiti
 
 ## Worked Example: Cole's [April] Start, 10 Clients Through 12 Weeks
 
-Cole is Growing, with about [30] concurrent clients across three monthly starts. His review is templated at about [10] minutes per client-week, and he runs two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill.
+Cole is Growing, with about [23] concurrent clients across three monthly starts. His review is templated at about [10] minutes per client-week, and he runs two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill.
 
 Dan is among the 10, and so is Theo, who chose his own date after reading the verification kit. Adrian *(composite, Optimizer)*, 31, joins under a handle with his camera off, and Sam *(composite, Ambivalent)*, 22, enrolled in the gap before his busy season. All 10 read the Path and Timeline Card and the Expectation Document, adherence threshold included, before paying.
 

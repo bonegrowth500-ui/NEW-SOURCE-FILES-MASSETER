@@ -103,7 +103,7 @@ One move is wrong at every position: discounting to close. Buyers learn to wait,
 
 ### A slide-back is a bad month that repeats
 
-Cole's step into the proof band, the Program's $2.4–3.2k range once proof exists, lands in August of his second year. Across the 30 held conversations since its announcement, his close rate reads [~22%], down from [~30%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
+Say one of Cole's steps inside the proof band, the Program's $2.4–3.2k range once proof exists, lands and his close rate across the 30 held conversations since its announcement reads [~22%], down from [~38%] and below the 25–45% an offer with proof should hold. One window proves little at his volume, so he holds his next step's announcement, changes nothing else, and reads the next 30: [~21%]. Two readable windows below range send the work to the call, because the step handed the constraint back to conversations.
 
 He doesn't walk the price back, because a step that reverses teaches buyers to wait. He works the conversation side instead: the proof his calls now show, the fit questions in front of the booking button, a call-optional path for warm buyers. Two windows later he's back at [~28%], and the new price holds.
 
