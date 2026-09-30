@@ -126,7 +126,7 @@ The legal and platform side stays at flag level. Health-adjacent advertising and
 
 ### The library starts as one page
 
-Early, the library fits on a page: the Canon, the Outcome Map's columns, the face statement, and your terms. It becomes a working control in Growing, when an editor cuts your clips and a helper answers comments. The first line to slip under more hands is always the one about bone. Reread the library at each quarterly review, and pull any live claim missing from it the same day, since an unlisted claim is one nobody checked. Kept that way, every page a buyer lands on says what your best video says.
+Early, the library fits on a page: the Canon, the Outcome Map's columns, the face statement, and your terms. It becomes a working control in Growing, when an editor cuts your clips and a helper answers comments. The first line to slip under more hands is usually the one about bone. Reread the library at each quarterly review, and pull any live claim missing from it the same day, since an unlisted claim is one nobody checked. Kept that way, every page a buyer lands on says what your best video says.
 
 ## 4. The Proof Portability Gradient
 
@@ -280,7 +280,7 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 >
 > **Who we are, and who we turn away.** [Brand]: [a written plan and weekly review of habits and presentation, for adults done guessing], fronted by [first name]. No clinical qualification, medical opinions, face ratings, or affiliate income. Not a legal adult where you live? This isn't for you; an orthodontist answers growth questions. Jaw pain, bite problems, or loud snoring: a dentist or doctor first. Appearance worries most days: [support link] and an offer to talk, never a sale. Before any payment, a few plain questions; some answers mean we'll talk first.
 >
-> **What we don't claim.** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." Nor, for the same reason, that habits even out asymmetry, replace dental or medical care, or give everyone one result. A before/after taken from a new distance is a photo of the camera moving, and "it's all genetics" is right about bone, wrong about the rest. Judge anyone, us included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? [Latest teardown]
+> **What we don't claim.** "There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed." Nor that habits even out asymmetry, replace dental or medical care, or give everyone one result. A before/after taken from a new distance is a photo of the camera moving, and "it's all genetics" is right about bone, wrong about the rest. Judge anyone, us included: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? [Latest teardown]
 >
 > **What my face does and doesn't prove.** [The face statement, verbatim.]
 >
@@ -290,7 +290,7 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 >
 > **The whole path.** [Path and Timeline Card]: what 12 weeks deliver, when change tends to show, your likely [9]-month cost.
 >
-> **Prices.** [Private, while a seat is open: $, with recorded walkthroughs and 24-hour written replies, by call] · Program: $ for [12] reviews within [48] hours, [12] group calls, two written reads, three captures; or three payments totaling $ · Decision Assessment: $ for a written plan, or $ with priority and a recorded walkthrough · Hold: $ a month, a quarterly re-capture and review · Round Two: $, biweekly review, only while your record still improves · Starter Path: free. Our own installments, never a loan. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy.
+> **Prices.** [Private, while a seat is open: $, recorded walkthroughs, 24-hour written replies, by call; we never read or score your face] · Program: $ for [12] reviews within [48] hours, [12] group calls, two written reads, three captures; or three payments totaling $ · Decision Assessment: $ for a written plan, or $ with priority and a recorded walkthrough · Hold: $ a month, a quarterly re-capture and review · Round Two: $, biweekly review, only while your record still improves · Starter Path: free. Our own installments, never a loan. Is this comfortable from your own income or savings, without new credit or buy-now-pay-later? If not, please don't buy.
 >
 > **Guarantee.** Legal rights first. Fit window: full refund before baseline day or within [14–21] days of it. Service: a late review or read earns [a stated amount]; my errors earn free corrective weeks, up to 6. Exit right: with [80%] of days logged, ask from your week-6 read until 7 days after; undelivered weeks come back. Stop before week 6 and your read comes forward; referred out, undelivered weeks come back; stop later by choice, and payments cancel, with undelivered weeks movable to a start within 6 months. Non-response: with [80%] logged and no marker at its threshold by week 12, [a fixed share inside 25–50%] comes back in cash; below [80%], it doesn't apply. Assessment fee back if it wasn't useful, claimed within 14 days. Payouts within 7 days. Never guaranteed: your face. Claim counts: [link].
 >
@@ -311,10 +311,11 @@ At his founding price and early conversion, an eligible lead is worth about [$40
 
 Answer from your records. Any no holds the test.
 
-1. Has the volume leg failed, does every page one click from an ad pass the Destination Rule, and has each pushed piece brought eligible leads on its own? → Fix that first.
-2. Is it about $300–1,000 a month, adults only, with no interests, lookalikes, or retargeting? → Cut it back.
-3. Does each ad ask only for the door, with no price, feature question, outcome proof, or timeframe? → Rebuild it from a long-form piece.
-4. Are the blocks and washouts written, the read set at about 30 bought eligible leads, and the verdict line at a third of revenue per eligible lead? → Write them, and the re-test condition, first.
+1. Has the volume leg failed, and does every page an ad links to pass the Destination Rule? → Fix that first.
+2. Has each pushed piece brought eligible leads alone? → Push only those.
+3. Is it about $300–1,000 a month, adults only, with no interests, lookalikes, or retargeting? → Cut it back.
+4. Does each ad ask only for the door, with no price, feature question, outcome proof, or timeframe? → Rebuild it from a long-form piece.
+5. Are the blocks and washouts written, the read set at about 30 bought eligible leads, and the verdict line at a third of revenue per eligible lead? → Write them, and the re-test condition, first.
 
 ## Stage Notes
 

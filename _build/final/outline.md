@@ -895,7 +895,7 @@
   ### One point makes four pieces
 ## 3. The Two-Win Rule
   ### Why one win proves little here
-  ### A win needs a floor, a margin, and an adult audience
+  ### A win needs a minimum, a margin, and an adult audience
   ### Confirmation happens in long-form
   ### How noise fools you
   ### Run the lab inside the batch

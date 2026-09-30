@@ -1,6 +1,6 @@
 # Glossary
 
-Every named framework, tool, and defined term in the playbook, in alphabetical order (a leading "the" is ignored), with its definition as the playbook uses it and a link to the module that teaches it in full; "(flagship)" marks the frameworks the playbook is built around.
+Look up any named framework, tool, or defined term here: entries run alphabetically, ignoring a leading "the", each gives the definition as the playbook uses it and links to where it's taught in full, and "(flagship)" marks the frameworks the playbook is built around.
 
 The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introduced in the [Intro](README.md).
 
@@ -234,7 +234,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **the Hostile-Screenshot Test** — Asks whether a line would survive the category's harshest critic. *([Intro](README.md))*
 
-**the House Standard** (flagship) — The playbook's rules of persuasion: the Informed-Client Test, where force goes, nine things done on purpose, six lines never crossed, the Claim Ladder, Stop Rules, and the house rules. *([Intro](README.md))*
+**the House Standard** (flagship) — The playbook's rules for persuasion and proof: the Informed-Client Test, where force goes, nine things done on purpose, six lines never crossed, the Claim Ladder, Stop Rules, the house rules, and five checks. *([Intro](README.md))*
 
 ## I
 
@@ -480,7 +480,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **speed to lead** — A personal reply within hours, a booking within 24–48 hours, a reminder, and a held conversation. *([Module 5](05-the-door.md))*
 
-**the Spine** — The default business at a glance, on one page of the Intro. *([Intro](README.md))*
+**the Spine** — The default business on one page of the Intro: the business every module's examples, numbers, and scripts assume, and the default each module picks when it lays out options. *([Intro](README.md))*
 
 **the Stage Map** — Early, Growing, and Scaling, placed by trailing three-month revenue and a volume signal, each with its binding constraint and one north-star number. When the two signals disagree, the constraint decides. *([Module 1](01-the-whole-business.md))*
 
@@ -500,7 +500,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **State Routing** — One arc and one offer, with the route set by his state: Struggler to Cause and Self, Optimizer to Vehicle and Guide, Burned to verification first and his own date, Ambivalent to Now, and an insecurity-led buyer to the Dignity Route. *([Module 19](19-the-sales-conversation.md))*
 
-**Stop Rules** — A clear no, "I can't afford it", distress or fixation, or a minor ends persuasion, and the stop binds automation too. *([Intro](README.md))*
+**Stop Rules** — The fixed points where selling ends, overriding everything else in the House Standard: a clear no, "I can't afford it", distress or fixation, and a minor, with follow-up fixed in advance. They bind automation too. *([Intro](README.md))*
 
 **the Struggler Gap Triad** — The three things a stalled buyer lacks once effort stops working on its own: effort without direction, tactics without feedback, and information without interpretation. *([Module 2](02-the-buyer.md))*
 

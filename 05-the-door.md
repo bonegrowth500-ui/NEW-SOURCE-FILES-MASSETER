@@ -243,9 +243,9 @@ A buyer on the line sits between two rows, where your revenue leans toward the l
 
 Theo, 26, lands between the Program and "don't buy". His signs: three goals, [to stop guessing what works], [to look sharper in work photos], and [a wider jaw], the one his device promised. His free log holds [six of seven] days, and his "why now" reads "[I want to know what works before I spend again]". The read: he's paying to stop guessing, which sits in the changeable column, and the jaw is the device's leftover. "Don't buy" on the leftover would fail the floor, and Private sold because he can pay would fail the ceiling. The default move is the Program, worded so the leftover sits outside it:
 
-> **You:** "My recommendation is the Program from [date], at [price]. It can measure how you come across in photos and end the guessing. There's no good evidence habits widen an adult's jaw, and I don't sell that. Private, first on the page, buys speed and privacy, and your record needs neither. Do you want that start?"
+> **You:** "My recommendation is the Program from [date], at [price]. It can measure how you come across in photos and end the guessing. There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Private, first on the page, buys speed and privacy your record doesn't need. Do you want that start?"
 
-Left alone: a discount against what the device cost, and any word about whoever sold it. Had the jaw been his reason, the same record would have earned "don't buy", as the sample plan's buyer did.
+Left alone: a discount against the device's cost, and any word about whoever sold it. Had the jaw been his reason, the same record would have earned "don't buy", as the sample plan's buyer did.
 
 ### Every route carries the same checks
 
@@ -349,7 +349,7 @@ Answer from your records for your last 30 eligible leads.
 ## Standard Check
 
 - **The pause route in every machine.** A distress or checking item, a "can't afford", or a fit-check pause writes one content-free tag that every marketing send and every checkout obeys for 60–90 days. That's the line on vulnerability carried into automation.
-- **Checks before money, the fork before data.** The fork keeps nothing from a minor, a minor found later is refunded and deleted, and no pay button appears before the question and the Fit Check. All three hold the line on vulnerability by design.
+- **Checks before money, the fork before data.** The fork keeps nothing from a minor, a minor found later is refunded and deleted, and no pay button appears before the question and the Fit Check. All three hold the line on vulnerability.
 - **A decision, never a verdict on his face.** The written plan makes one firm recommendation (*Close*), may say "don't buy", and never rates his face or offers a medical opinion (the line on structural claims). The published mix and the plan-usefulness refund let a buyer check that it earned its fee.
 
 ## Quick Reference
