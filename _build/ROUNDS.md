@@ -173,3 +173,9 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 4.3 III done (9 numbers, 13 terms, 9 cross-refs). Rulings: path v2 year-2 reads corrected (after proof the range is 25–45%: Y2 Jan unreadable [~20–25] held, carried by filling at the bottom; Y2 Apr [~30%] lower half; Y2 Jun [~38%] upper half, so the top step to $2,400 in Y2 Aug); 13's extrapolation appended to path v2 (month 26 $3.2k; crossing month 28; $47–50k by month 36). 01 §3's slide-back becomes a hypothetical ('Say one of Cole's steps inside the proof band…') so it no longer contradicts 13's dated climb. Round Two carries the Program's week-6 exit right at its own week-6 read, pro rata (LEDGER B; 07 clause sent to Part II).
 - 4.3 II done (11 numbers, 20 terms, 5 cross-refs). Bible: Call Cap gloss → 'uncertain buyers and those near a high-ticket decision' (FRAMEWORKS, LEDGER C, BUSINESS); open paid membership only once its moderation line earns what a Program hour earns (LEDGER B; 04 aligned). 4.3 COMPLETE: all 27 modules 0 FAIL; total 206,843 words (7,569–7,695 each); canon/stages/cast/qr/leans clean (canon's 2 hits are line wraps).
 - 4.4 done: Module 28 drafted, critiqued (0 blocking, 9 major, 13 minor), rebuilt, audited (0 FAIL). STEP 4 COMPLETE: 28 modules, 214,337 words, 0 FAIL; canon/stages/cast/qr/leans clean. Rulings R4-8 to R4-13 logged.
+
+# Step 5 tracker
+- 5.1 Intro (README.md): drafter af6f5451bb44243d4.
+- 5.2 Glossary (glossary.md): compiler a65a30bb32db5044c.
+- 5.3 Final audits: after 5.1–5.2.
+- 5.4 Ship: remove _build/, final commit and push, handoff note.
