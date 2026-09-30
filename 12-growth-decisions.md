@@ -54,7 +54,7 @@ Every number on these lists stands in for something you can't count directly: he
 
 | Number | The cheap route | What catches it |
 |---|---|---|
-| Pieces published | Rating and comparison hooks | Eligible leads flat while pieces rise |
+| Pieces published | Trend-chasing hooks | Eligible leads flat while pieces rise |
 | Held conversations | Booking results the door marked "not yet" | Over half ending no-fit |
 | Check-in completion | A one-tap check-in | Check-ins far under their ~10 minutes |
 | Close rate, enrollments | A softer answer about bone; a softened check | Refunds and disputes; the fit-check signal count |
@@ -62,7 +62,7 @@ Every number on these lists stands in for something you can't count directly: he
 | Care minutes, profit per hour | Thinner review | Turnaround kept; the non-responder share |
 | Revenue per eligible lead | Price past the cash ceiling | The affordability "no" share |
 
-Reid takes his five early numbers and makes each one a target. For pieces published, he doubles his shorts on rating-style hooks. His count goes from [5] to [10] a week while eligible leads stay flat, because most new viewers are under 18 and leave at the age fork. For held conversations, he books every adult who finishes the door, including results marked "not yet". His count rises from [3] to [6] a week, and more than half end no-fit: men who wanted a promise about bone, or could pay only on credit.
+Reid takes his five early numbers and makes each one a target. For pieces published, he doubles his shorts on trend-chasing hooks. His count goes from [5] to [10] a week while eligible leads stay flat, because most new viewers are under 18 and leave at the age fork. For held conversations, he books every adult who finishes the door, including results marked "not yet". His count rises from [3] to [6] a week, and more than half end no-fit: men who wanted a promise about bone, or could pay only on credit.
 
 For check-in completion, he trims the check-in to one tap, and completion climbs to [~95%] while his reviews have nothing left to read. By month [5], three of his five numbers show progress and his cash hasn't moved. Each rose by its cheapest route, and each route spent the thing the number stood for.
 

@@ -291,12 +291,12 @@ For a no-call buyer, the second line reads "Your free 7-day log · Your start: [
 
 ## Script: The Baseline-Day Ritual
 
-Theo enrolled on the date he chose.
+Theo *(composite, Burned Struggler)* enrolled on the date he chose.
 
 > **You:** "Here's your week zero: [five] of [seven] days logged, with both misses on travel days. So today's decision comes from it: [your routine] moves to [before you leave for work], and nothing else changes for [two] weeks. Your two markers are on this sheet with their thresholds. Does that fit your week?"
 > *[Stop. Let him answer.]*
 >
-> **Theo** *(composite, Burned Struggler)*: "It fits. Can you tell from today's photo whether the [device] did anything?"
+> **Theo:** "It fits. Can you tell from today's photo whether the [device] did anything?"
 >
 > **You:** "No, and I wouldn't trust anyone who said they could from one photo. Today's capture is a starting observation, taken to fixed conditions so week 6 has something honest to sit beside. The sheet decides."
 
@@ -345,7 +345,7 @@ A count survives a screenshot, because it's true whoever reads it.
 **Takeaways**
 - Membership is the practice, and Starter Path users who keep it are members.
 - The ritual is the review and the decision; the photo is context.
-- The log is a head start that passes no verdict, and it becomes week zero for every buyer, with or without a call.
+- The log is a head start that passes no verdict, and it becomes week zero for every buyer.
 - Status never depends on a refund right, and labels and boards pause inside his fit and exit windows.
 
 **What status and devices may rest on**
