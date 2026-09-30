@@ -179,3 +179,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 5.2 Glossary (glossary.md): compiler a65a30bb32db5044c.
 - 5.3 Final audits: after 5.1–5.2.
 - 5.4 Ship: remove _build/, final commit and push, handoff note.
+- 5.3 Part auditors launched: I ae8f3c9e927b3f022 · II ad3fb82f63dc77c6a · III aad05e18551af1846 · IV ab8f942447b48823b · V ab5374561f8019458 · VI a51f4faa67b155291. Module 28 + README + glossary auditor follows 5.1–5.2.
