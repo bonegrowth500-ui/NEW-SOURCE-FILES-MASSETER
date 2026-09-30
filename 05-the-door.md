@@ -249,7 +249,7 @@ Left alone: a discount against what the device cost, and any word about whoever 
 
 ### Every route carries the same checks
 
-Any paid recommendation carries the Path and Timeline Card and the Expectation Document, his path, cost, and terms in writing, before payment (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder's rule for what each asset may ask (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc, the call's arc without a call (Module 20).
+Any paid recommendation carries his path, cost, and terms in writing before payment: the Path and Timeline Card and the Expectation Document (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder's rule for what each asset may ask (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc, the call's arc without a call (Module 20).
 
 However he arrives, the floor holds: his recap within 24 hours names the one recommendation, its price, his Decision Date, and his next step.
 

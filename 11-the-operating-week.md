@@ -76,7 +76,7 @@ So each stage's four content lines form a minimum client work can't take: about 
 
 **Content goes on the calendar first, seat caps keep clients off it, and no week drops below about 5 hours.**
 
-Three things hold it. Filming happens in batches every two weeks, blocked before any client slot is offered. Seat Math, the monthly seat caps set from your measured care minutes, keeps client work from ever needing those hours (Module 6). And your weekly review flags any week under the minimum, so a slide gets caught in days, well before it reaches your leads.
+Three things hold it. Filming happens in batches every two weeks, blocked before any client slot is offered. Seat Math, the monthly seat caps set from your measured care minutes, keeps client work from ever needing those hours (Module 6). And your weekly review flags any week under the minimum, so a slide gets caught in days.
 
 ### Past 25 hours, the cuts come in a fixed order
 

@@ -166,3 +166,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 | V | ab82335afa5d93b3c |
 | VI | a74976bd53fe4c9fc |
 - 4.3 V done (25 numbers, 17 terms, 4 cross-refs). Rulings: Y2 April cap [10] (path v2 updated); Cole's Private holds [$6,000] after month 1 (18/19 brackets changed); FRAMEWORKS Close by Contract adds the affordability question; Decision Date gloss adopts 19's wording.
+- 4.3 VI done (13 numbers, 10 terms, 4 cross-refs; 38,217→38,210 w). 'Design Week' capitals sent to II (04) and III (12). Notes for 28 added (leads pass ~50/month before ~$8k revenue; Private [$6,000]; step additions to name).

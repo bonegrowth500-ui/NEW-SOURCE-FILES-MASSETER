@@ -7,7 +7,7 @@ It's the first Monday. You have a camera on a tripod and a channel with no subsc
 
 The tempting plan is to post for six months and sell once there's an audience. In this category that plan spends the months that decide your first quarter waiting for people who mostly won't buy. Your first clients will come from conversations you start by hand. They start with a disclosed message, a reply under a piece, or a call whose purpose and price are on the page.
 
-So the honest questions for day one are where your first five conversations come from, and what you'll change in week 3 if they haven't come. This module answers both. Then it turns your first clients into the business's first instruments: a map of why men stall, a check-in tested on real weeks, and its first proof.
+So the honest questions for day one are where your first five conversations come from, what you'll change in week 3 if they haven't come, and how your first clients become the business's first instruments: a map of why men stall, a check-in tested on real weeks, and its first proof.
 
 ## 1. Why You Sell Before You Have an Audience
 
@@ -109,7 +109,7 @@ What's out is anything that turns the research into a warm-up for the pitch. Tha
 
 ### It ends in one recommendation and an ask
 
-The fit half runs the close you'd run on any call: say his stall and goal back, recommend one thing, state the price once, ask, and resolve each real objection. That's Close by Contract, the close that agrees its structure first (Module 19). It ends at a yes with day one booked, a no, or his Decision Date. That's the day he agrees to decide by, on or before the next start's last day to join. A good-fit adult who helps you learn for 45 minutes and leaves without a recommendation and a price has been failed.
+The fit half runs the close you'd run on any call: say his stall and goal back, recommend one thing, state the price once, ask the affordability question about his pick, ask for a decision, and resolve each real objection. That's Close by Contract, the close that agrees its structure first (Module 19). It ends at a yes with day one booked, a no, or his Decision Date. That's the day he agrees to decide by, on or before the last day to join of the start he's deciding for. A good-fit adult who helps you learn for 45 minutes and leaves without a recommendation and a price has been failed.
 
 The disclosure buys one extra question. After a clear no, you may ask once what made it a no, because you said the call was also research. Write the answer down without arguing. There's no such question after distress, or after a pause called by the Fit Check, your plain-language check for signs that buying could hurt him. And "I can't afford it" ends money talk: the Starter Path once, and the pause route. Those last three are protective stops, and each leaves only "stopped: stop rule" in your notes, never his words.
 

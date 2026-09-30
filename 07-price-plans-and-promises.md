@@ -226,7 +226,7 @@ A dispute costs you the charge, a fee, and a mark on that ratio, and most proces
 
 ### One dispute, read from the record
 
-A [$1.82k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message first. At checkout the client accepted the terms, with the Path and Timeline Card, his one-page path and cost, above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document, his written terms, and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
+A [$1.82k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message first. At checkout the client accepted the terms, with the Path and Timeline Card, his one-page path and cost, above the pay button, and answered the affordability question yes. His baseline-day record holds his markers and the signed Expectation Document, his written terms. [Five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
 
 The read: no layer fits, since his fit window has closed, he never asked to stop, and everything arrived as described, on time. The default is to contest with the terms he accepted, the page as he saw it, and the timestamps, and to send him one plain message naming what his terms still give him. The evidence never includes his captures or his baseline-day reasons. Had the record shown a gap, such as a late review without its credit, the default flips to refund, since you'd lose on your own record. Left alone: any argument about his effort, and a counter-offer. Dispute rules and evidence deadlines differ by processor and country, so they sit on your Risk Register.
 

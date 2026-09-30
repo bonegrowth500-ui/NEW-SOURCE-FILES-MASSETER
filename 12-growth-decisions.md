@@ -182,7 +182,7 @@ Several of these moves sit near a line of the House Standard. Price past the cas
 
 **Write each trigger before the evidence: a signal, a threshold, a window, the move, its owner, and the check that can hold it.**
 
-Those six parts make a trigger checkable, including by you on a bad week. Scaling Triggers, the signals set in advance for each scaling move, are read at the quarterly review. The Price Steps and the Call Cap ride the monthly review instead, because they turn on each start and each month's calendar. The owner teaches each move:
+Those six parts make a trigger checkable on a bad week. Scaling Triggers, the signals set in advance for each scaling move, are read at the quarterly review. The Price Steps and the Call Cap ride the monthly review instead, because they turn on each start and each month's calendar. The owner teaches each move:
 
 | Move | Fires when | Window | The check that can hold it | Owner |
 |---|---|---|---|---|
