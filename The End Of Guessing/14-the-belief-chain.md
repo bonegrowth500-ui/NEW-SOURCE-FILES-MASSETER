@@ -315,11 +315,11 @@ Fill one in after every no that isn't a stop rule, and after every check-in whos
 
 ### Belief sentences by link
 
-A belief sentence is the before-and-after belief an asset is built to move, tagged with its link (Module 18). The before is the sign he gives for that link, word for word, and the after is the belief that holds it:
+A belief sentence is the before/after belief an asset is built to move, tagged with its link (Module 18). The before is the sign he gives for that link, word for word, and the after is the belief that holds it:
 
 | Asset | Link | After |
 |---|---|---|
-| A stall told back | Cause | "Nothing I did was measured, and that's findable." |
+| A Stall Told Back | Cause | "Nothing I did was measured, and that's findable." |
 | The Honest Answer | Range | "Some things are set, some can move, and I can find out which." |
 | A sample weekly review | Vehicle | "What I was missing is someone reading my record." |
 | The Verify Page | Guide | "He tells me what he won't claim, and I can check it." |
@@ -335,7 +335,7 @@ Keep one row per claim, checked at your quarterly review. In your own copy, add 
 | Claim | Link | Tier | The proof he can open |
 |---|---|---|---|
 | 1 · the Honest Answer | Range | A refusal, a debated middle, an established yes | The Honest Answer video; the Outcome Map on your site |
-| 2 · direction | Cause | An observation from your own conversations | A stall told back from anonymized patterns |
+| 2 · direction | Cause | An observation from your own conversations | A Stall Told Back from anonymized patterns |
 | 3 · what gets measured | Vehicle | A process fact | Your published review day and capture dates and conditions |
 | 4 · the reader | Vehicle | A process fact | The sample weekly review |
 | 5 · week 6 and week 12 | Guide | A process fact you control | The sample weekly review; the non-response clause in your terms |

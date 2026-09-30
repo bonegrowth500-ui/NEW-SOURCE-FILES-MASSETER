@@ -42,7 +42,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **the Belief Chain** (flagship) — The six beliefs a purchase completes: Cause, Range, Vehicle, Guide, Self, and Now, with Hold and Share after the sale. Every no names a broken link, though a stop rule can mark one you never work on. *([Module 14](14-the-belief-chain.md))*
 
-**the belief sentence** — The before-and-after belief an asset is built to move, tagged with its link and written before the asset is made. *([Module 18](18-content-that-sells.md))*
+**the belief sentence** — The before/after belief an asset is built to move, tagged with its link and written before the asset is made. *([Module 18](18-content-that-sells.md))*
 
 **bounded agency** — Genes set the range of what shows, guessing wastes it, and measurement shows what's moving. "What shows" means the changeable column, and measurement never reads a ceiling off his face. *([Module 14](14-the-belief-chain.md))*
 

@@ -158,7 +158,7 @@ Short-form rides the long-form batch and editor you already have, so one filming
 |---|---|
 | A core claim, said whole in its fixed words | The pitch, whose price belongs on warm surfaces |
 | A capture fact shown on lamps or an empty capture template | A before/after segment, or any face comparison |
-| A stall told back from anonymized patterns | An outcome story without its full count |
+| A Stall Told Back from anonymized patterns | An outcome story without its full count |
 | A teardown's steelman and its sharp point, together | A debated point whose caveat won't fit its sentence |
 | A destination line with its perspective line | Anything a commenter under 18 wrote |
 
@@ -210,7 +210,7 @@ A short suits *Fight ideas, not people* at its pointed strength, since one defen
 
 Notice the move: the steelman in one line, one sharp point at the practice, then a check he can run on anyone, you included. It repairs Guide, because he learns the test your own proof must pass: the Honest-Evidence Test, the tells of manufactured proof taught so buyers can judge anyone (Module 16). The same edge fits rating culture, tip farms, and the "it's all genetics" shrug, each with a hook pattern in the templates.
 
-> **Dan** *(composite, Struggler)*: "My own before-and-after looked real, though. Same bathroom, a month apart."
+> **Dan** *(composite, Struggler)*: "My own before/after looked real, though. Same bathroom, a month apart."
 >
 > **You:** "Same bathroom isn't the same light, so two phone photos can't tell either of us what changed. Behavior gets measured every week; appearance gets captured rarely, the same way every time. The free self-assessment in my profile starts there."
 

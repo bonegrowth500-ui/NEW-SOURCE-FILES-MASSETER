@@ -95,7 +95,7 @@ So measurement runs on two schedules. Behavior is logged daily and reviewed week
 
 **Behavior every week; captures at 0, 6, and 12, then quarterly; nothing in between.**
 
-Nothing in between keeps a noisy weekly signal from being read as progress or failure. It also gives him a reason to retire the daily mirror check. And it protects the proof, because an interim photo under a bathroom light is exactly the unmatched before-and-after this category is known for.
+Nothing in between keeps a noisy weekly signal from being read as progress or failure. It also gives him a reason to retire the daily mirror check. And it protects the proof, because an interim photo under a bathroom light is exactly the unmatched before/after this category is known for.
 
 Ask clients to skip interim comparison photos. A free baseline he took before buying stays on his own device, and the first capture you see is the one taken on baseline day.
 
@@ -114,7 +114,7 @@ Most tells of manufactured proof live in these variables, so an honest compariso
 | Expression | Neutral, lips together, jaw relaxed, no flexing | Flexing and smiling change the outline |
 | Time and grooming | The same [hour]; facial hair as at baseline, or the change noted | Faces look puffier at some hours; a beard line redraws the jaw that same day |
 
-Keep every original, unedited and unfiltered, with its date and conditions written down, as the Integrity Levels, three levels of before-and-after discipline, require (Module 16). At the milestones, check the conditions first, then compare what's observable in the changeable column, the Outcome Map's list of what adults can change and measure (Module 3). Captures are observations he sees beside his markers, and the markers decide the verdict. So nobody draws lines on his face, measures angles, or scores anything.
+Keep every original, unedited and unfiltered, with its date and conditions written down, as the Integrity Levels, three levels of before/after discipline, require (Module 16). At the milestones, check the conditions first, then compare what's observable in the changeable column, the Outcome Map's list of what adults can change and measure (Module 3). Captures are observations he sees beside his markers, and the markers decide the verdict. So nobody draws lines on his face, measures angles, or scores anything.
 
 ### Privacy is part of delivery
 

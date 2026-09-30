@@ -288,7 +288,7 @@ Fill it from two logged weeks, and redo it when your stage changes or a week run
 >
 > You receive raw footage of me, the approved script, and brand assets. You never receive client photos, check-ins, messages, or email.
 >
-> Every title, caption, thumbnail, and clip comes back to me for approval before it's scheduled. Keep each claim with its caveat, or drop the clip. No before-and-afters, no face but mine, nothing that rates a face or promises a change in bone, and no AI-made or AI-edited faces.
+> Every title, caption, thumbnail, and clip comes back to me for approval before it's scheduled. Keep each claim with its caveat, or drop the clip. No before/afters, no face but mine, nothing that rates a face or promises a change in bone, and no AI-made or AI-edited faces.
 
 ### The routing-help brief
 

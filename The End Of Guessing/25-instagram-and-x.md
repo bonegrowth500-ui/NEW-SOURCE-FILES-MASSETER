@@ -84,7 +84,7 @@ A reply never closes, never rates, and never comments on features. A price quest
 
 > **You:** "Fair question, and the appeal makes sense. 'There's no good evidence that habits change the shape of an adult's bone, and I don't sell that. Some things are debated, and I'll tell you where the evidence is thin. A lot does change and can be measured: your habits, your body composition, how you carry yourself, your grooming, how you're photographed.' A device you chew on is a habit with a price tag, so selling it on forward growth sells the one result the evidence doesn't support. Ask any seller, me included, for matched captures and how many people the result came from."
 
-The reply names no seller, touches no face, and ends in a test he can apply to you: *Fight ideas, not people* at its sharper setting. Claim 1 goes out whole again, because the Canon holds by repetition. If he answers "I've seen the before-and-afters", ask whether the light, angle, and distance match, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and gives his buyers a reason to defend him.
+The reply names no seller, touches no face, and ends in a test he can apply to you: *Fight ideas, not people* at its sharper setting. Claim 1 goes out whole again, because the Canon holds by repetition. If he answers "I've seen the before/afters", ask whether the light, angle, and distance match, and how many people tried it. Never write "anyone selling that is a scammer", which aims at a person and gives his buyers a reason to defend him.
 
 ## 3. Instagram as a Private Router
 
@@ -195,7 +195,7 @@ A loss is the lab working: next week's answer is better, or the claim gets a dat
 
 **Quote the claim verbatim, argue it against the best objection, log the outcome, and move what holds to long-form.**
 
-That's the **Argument Lab**: X as the place to test canon claims and framings in public argument, captured to email. Start with the objection your last 30 held conversations raised most, then work the Canon's rotation, replying on peers' threads first and quote-posting a peer's argument when it earns your followers' eyes. Log the claim, the objection, the argument, the outcome in the objector's words, and the week's tagged door completions.
+That's the **Argument Lab**: X as the place to test Canon claims and framings in public argument, captured to email. Start with the objection your last 30 held conversations raised most, then work the Canon's rotation, replying on peers' threads first and quote-posting a peer's argument when it earns your followers' eyes. Log the claim, the objection, the argument, the outcome in the objector's words, and the week's tagged door completions.
 
 ### What holds moves to long-form, and captures go through the door
 
@@ -205,7 +205,7 @@ X keeps nothing for you, since the follow graph is the platform's. The capture t
 
 ### Tone runs under the House Standard
 
-The lab licenses force, all of it aimed at ideas: device grift, manufactured before-and-afters, the endless-tips model that sells the stall back to its buyers, and the "it's all genetics" shrug, pointedly, after steelmanning each. When a thread asks what qualifies you, post your Qualifications Answer in the same words every time: the fact, the scope, the check, the referral (Module 15).
+The lab licenses force, all of it aimed at ideas: device grift, manufactured before/afters, the endless-tips model that sells the stall back to its buyers, and the "it's all genetics" shrug, pointedly, after steelmanning each. When a thread asks what qualifies you, post your Qualifications Answer in the same words every time: the fact, the scope, the check, the referral (Module 15).
 
 The limits are about people. Quote-post an argument made in public by someone arguing in public, and crop a seller's claim to its words, account and face out. Never quote-post a private person's worry, and stay out of rating threads. Spaces and co-hosted threads stay out with podcasts and collaborations, for the reasons that keep Instagram Live out.
 
@@ -315,7 +315,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 - *Distress:* "That sounds really hard, and I'm glad you said it. Please talk to [a doctor]; if you're ever unsafe, [a crisis line] is there now. You can message me, and I'll read it myself."
 - *A practice:* "[Steelman.] [Claim 1, whole.] So [the practice] sells [a result] the evidence doesn't support. Ask any seller, me included, for matched captures and a denominator."
 
-**X formats for canon testing.**
+**X formats for Canon testing.**
 
 | Format | What it tests | Its shape |
 |---|---|---|
@@ -352,7 +352,7 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 | | Instagram | X |
 |---|---|---|
 | Job | Private router | Argument Lab |
-| Carries | Reels, the Keyword Route, DMs by case | Replies, quote-posts, canon claims verbatim |
+| Carries | Reels, the Keyword Route, DMs by case | Replies, quote-posts, Canon claims verbatim |
 | Never | Keyword comments, ratings, a DM flow, broadcast offers | Mocking people, quoted faces, live audio |
 | Its number | Eligible leads per keyword message and per 1,000 views | Tagged completions; arguments held and moved |
 | Cut order | Step 2's second cut, native posts only | Step 2's first cut |
@@ -368,8 +368,8 @@ That's *Sell directly* before verification: the offer, who it's for and isn't, t
 | **The Platform Count Rule** | Run only the platforms your editing budget serves natively |
 | **Permission-First Replies** | Answer and link in public; ask before anything private |
 | **The Keyword Route** | Turn a keyword sent by DM into one link to your self-assessment |
-| **The Argument Lab** | Test the arguments behind canon claims; move what holds to long-form |
+| **The Argument Lab** | Test the arguments behind Canon claims; move what holds to long-form |
 
 **Leans on:** the Door and the education lane (Module 5) · the Design Week, the De-Scoping Order, and the Unpriced-Minute Rule (Module 11) · Denominator Discipline (Module 12) · the Canon (Module 14) · the Qualifications Answer (Module 15) · the Warmth Ladder (Module 18) · the DM Handoff (Module 20) · the Age-Up Dial (Module 23) · the Native Tax and Reels craft (Module 24).
 
-**Do this month:** Check each platform's native pass against your Design Week's lines from two logged weeks, and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.
+**Do this month:** Check each platform's native pass against your Design Week's lines from two logged weeks, and set your DM slot's minutes. Set the keyword reply to fire on the keyword alone, or send links by hand. Post one Canon claim on X verbatim beside its strongest objection, and log the outcome in the objector's words.

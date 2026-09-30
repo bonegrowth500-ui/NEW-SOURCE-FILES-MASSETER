@@ -62,7 +62,7 @@ One tagged link gives each asset one number to read against its planning range: 
 
 ### The belief sentence tags every asset
 
-Write the belief sentence before you make the asset: the before-and-after belief it's built to move, tagged with its link. The before is a buyer's words from your objection log, the running list of doubts from calls, check-ins, and exits, and the after is the belief that holds the link:
+Write the belief sentence before you make the asset: the before/after belief it's built to move, tagged with its link. The before is a buyer's words from your objection log, the running list of doubts from calls, check-ins, and exits, and the after is the belief that holds the link:
 
 | Asset | Link | Before, in his words | After | Rung | Ask |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@ So October gets an objection piece on Vehicle, and every asset is tagged before 
 | 2 | Long-form: "Eight months in and nothing to show" | Cause | Returning | The door, with the offer named and its price on the end card |
 | 3 | Long-form: "27 and asking if it's too late" | Range | Stranger | The door |
 | 4 | Email: the November announcement, with both dates | Now | Assessed | The offer page |
-| 5 | Email: a stall told back, from anonymized patterns | Cause | Assessed | A fit conversation, the free first call |
+| 5 | Email: a Stall Told Back, from anonymized patterns | Cause | Assessed | A fit conversation, the free first call |
 | 6 | Email: a founding client's Transition, in his words | Self | Assessed | The offer page |
 | 7 | Email: the one reminder, both dates on it | Now | Assessed | The offer page |
 | 8 | Shorts: [four], cut by his editor from the month's pieces | One each | Stranger | The door |

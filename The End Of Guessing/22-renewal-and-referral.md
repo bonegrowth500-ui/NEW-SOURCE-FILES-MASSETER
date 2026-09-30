@@ -162,9 +162,9 @@ Never planned on means your Reverse Funnel, the plan worked back from profit to 
 
 ### Shareables let him pass it on without exposing himself
 
-Identity-safe shareables are referral objects that make the sharer look rigorous and reveal nothing he didn't choose to share. They're public education a skeptic would respect, such as the six conditions that make a capture comparable, or the six questions that test any before-and-after. Each carries one link to your self-assessment. Each also passes those six questions itself, claiming nothing above the educational rung and holding no face, capture, or result of his.
+Identity-safe shareables are referral objects that make the sharer look rigorous and reveal nothing he didn't choose to share. They're public education a skeptic would respect, such as the six conditions that make a capture comparable, or the six questions that test any before/after. Each carries one link to your self-assessment. Each also passes those six questions itself, claiming nothing above the educational rung and holding no face, capture, or result of his.
 
-They travel further than you intend, and a large share of this category's most engaged audience is under 18. So the link opens on the age fork, the door's first question, and nothing on any card asks for anything. The capture card sets a cadence of every few months at most. Nothing rewards posting a face, either: no contests, no free month for a before-and-after, no tags, since a posted face can't be recalled once it's screenshotted.
+They travel further than you intend, and a large share of this category's most engaged audience is under 18. So the link opens on the age fork, the door's first question, and nothing on any card asks for anything. The capture card sets a cadence of every few months at most. Nothing rewards posting a face, either: no contests, no free month for a before/after, no tags, since a posted face can't be recalled once it's screenshotted.
 
 ### The partner seat is the most specific ask of all
 
@@ -329,7 +329,7 @@ Each is one screen or one page, with [Brand] and one link to your self-assessmen
 
 > **The capture card.** "Six conditions make a comparison photo mean something: the same distance, the same lens with no zoom, the camera at eye level, the same lamp with no overhead light, a neutral expression, and the same hour. Take one every few months at most, because in between, the light changes more than you do. [Brand] · [link]"
 
-> **The honest-evidence questions.** "Six questions for any before-and-after: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? The rung is the size of the claim, from a habit someone kept up to a promise about everyone. [Brand] · [link]"
+> **The honest-evidence questions.** "Six questions for any before/after: Matched? Dated? What else changed? Which rung? Out of how many? Where are the rest? The rung is the size of the claim, from a habit someone kept up to a promise about everyone. [Brand] · [link]"
 
 > **The stall check.** "A stall has one of three causes: nothing was measured, the plan aimed at the wrong lever, or the lever doesn't move for you. Seven days of writing down what you already do is how you start finding out which is yours. [Brand] · [link]"
 

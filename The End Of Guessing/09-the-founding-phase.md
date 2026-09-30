@@ -145,7 +145,7 @@ It ends at whichever comes first: its seats filling, or the start where the firs
 |---|---|---|
 | Founding price near the real one, with a stated end | From the first client | A small gap under the opening band, closed by one scheduled step |
 | The opening band from the first client | Your sources are warm and your process proof is already public | Fewer yeses in the months when each one also builds the instrument |
-| Free or deep-discount "beta" seats | Never: free transformations traded for before-and-afters are how this category's fake proof gets made | Paid proof no buyer can see, and a price nobody paid |
+| Free or deep-discount "beta" seats | Never: free transformations traded for before/afters are how this category's fake proof gets made | Paid proof no buyer can see, and a price nobody paid |
 
 **Default:** the founding price, because it pays for real review before any proof exists. It's also the lowest price the program will ever carry, so no founding client later watches someone pay less for the same seat. Move to the opening band at the founding price's end.
 
@@ -344,7 +344,7 @@ week-6 read · week-12 re-assessment · a new start every month
 
 Priority assessment · $[350–600] · credited to either
 Guarantee: [fit window] · [service guarantee] · [exit right] · [non-response clause]
-Seats: [n] of [4] taken · Fill history: [link]
+Seats: [n] of [4] taken · Fill History: [link]
 Next step: the free self-assessment [link]. I reply personally within hours.
 ```
 

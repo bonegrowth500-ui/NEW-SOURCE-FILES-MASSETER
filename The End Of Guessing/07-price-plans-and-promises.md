@@ -31,7 +31,7 @@ The niche makes the second column bite harder. The core buyer feels price in mon
 
 ### Price is a weak signal of quality
 
-Buyers do read price as a hint of quality, but the effect is weak to moderate, and it shrinks as they get to know a category. Your buyer knows this one too well. He has seen weekly rating apps, one-off "analysis" reports, coaches billing monthly for promises about bone, and devices sold on before-and-afters. A high price with nothing visible behind it reads as the pattern he's escaping, and a low one reads as another e-book.
+Buyers do read price as a hint of quality, but the effect is weak to moderate, and it shrinks as they get to know a category. Your buyer knows this one too well. He has seen weekly rating apps, one-off "analysis" reports, coaches billing monthly for promises about bone, and devices sold on before/afters. A high price with nothing visible behind it reads as the pattern he's escaping, and a low one reads as another e-book.
 
 What moves him is what the price visibly buys: delivery units he can count, terms he could collect on, and a record he can check. Price can't carry credibility here, so credibility has to carry price. That's why the higher band waits for proof, and why every raise names what it added.
 
@@ -56,7 +56,7 @@ The first limit is his pay. In the US, full-time men aged 20–24 earn about $42
 | $3.9k | ~1.4 | ~1.0 | Past the 20–24 ceiling; inside 25–34 |
 | $4.5k | ~1.6 | ~1.14 | Past the 20–24 ceiling; inside 25–34 |
 
-The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own eligibility rule agree. Installments carry a cap of their own, about a third of monthly take-home each.
+The cash ceiling is the most a core container may cost the buyer it's built for. It's about 1–1.25 months of the core buyer's take-home, payable from income or savings without new credit: roughly $2.8–3.5k at 20–24 and $3.9–4.9k at 25–34. Past it, most core buyers can pay only by borrowing, which the affordability question rules out. So the ceiling is where your price and your own Eligibility Rule agree. Installments carry a cap of their own, about a third of monthly take-home each.
 
 ### Capacity sets how far price has to climb
 

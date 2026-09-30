@@ -111,7 +111,7 @@ Every tactic in this playbook runs under one set of rules, and those rules are p
 
 ### A standard is a growth asset here
 
-Trust is short in this category, and every sale is made against that shortage. Your buyers have seen faked before-and-afters, devices that did nothing, and a vocabulary that promised bone and delivered nothing anyone could measure, so they audit everything. A tactic a buyer recognizes as a persuasion attempt gets discounted, one of the better-established findings about persuasion, and this buyer recognizes most of them. A standard he can watch working lets you sell harder than a grifter can, because a skeptic can see exactly what you're doing and why.
+Trust is short in this category, and every sale is made against that shortage. Your buyers have seen faked before/afters, devices that did nothing, and a vocabulary that promised bone and delivered nothing anyone could measure, so they audit everything. A tactic a buyer recognizes as a persuasion attempt gets discounted, one of the better-established findings about persuasion, and this buyer recognizes most of them. A standard he can watch working lets you sell harder than a grifter can, because a skeptic can see exactly what you're doing and why.
 
 It pays in ways you can count. A claim he can check leaves nothing to discover later, and discovery is what turns into refunds, disputes, and screenshots. A client who would endorse everything you did refers the next one. A record kept to a standard from month 1 is an asset no rival can back-fill (Module 3).
 
@@ -161,7 +161,7 @@ Six lines hold in every month, every channel, and every automated send, and noth
 
 | The line on… | What never happens |
 |---|---|
-| Fabricated proof | Undisclosed paid or invented testimonials, AI-made or doctored results, unmatched before-and-afters, or invented numbers. Your own face is never evidence for the method |
+| Fabricated proof | Undisclosed paid or invented testimonials, AI-made or doctored results, unmatched before/afters, or invented numbers. Your own face is never evidence for the method |
 | Structural claims | Universal, guaranteed, structural, or medical claims: implying that habits produce visible skeletal change in adults, promising the same result to everyone, implying coaching replaces dental, medical, or orthodontic care, or giving a medical or dental opinion |
 | Fake scarcity | Fake timers, invented seat counts, or deadlines that move |
 | Shame | Mocking faces, circling strangers' "flaws", or making a person's worth the problem |

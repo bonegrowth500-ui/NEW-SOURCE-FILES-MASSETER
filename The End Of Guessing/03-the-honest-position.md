@@ -167,7 +167,7 @@ An attack on a person reads as rivalry and fails the Hostile-Screenshot Test, th
 
 Theo forwards you an ad that's everywhere this week: a before/after captioned "[21] days with the [device]", an affiliate code beneath it, and his question, "Is this real?" [Three] door answers mention the same ad, so it has earned an extra teardown. His question is due diligence, the claim is device grift, and the pull is to mock the seller.
 
-Steelman first, because part of it is true: distance, light, and a few pounds can change how a face looks within weeks. Then take the claim apart at full strength, faces blurred and the handle and product cropped. The after is shot closer and lit from above, the face is leaner, the timeline is in days, and the caption sells the lever: a before-and-after at a different distance is a photograph of the camera. Left alone: the seller's name, face, and motives, and any "scam" label. Theo gets the teardown and the test to run on your claims too. Yours survive it partly because you carry no affiliate code, and a removed conflict is a signal a grifter can't afford.
+Steelman first, because part of it is true: distance, light, and a few pounds can change how a face looks within weeks. Then take the claim apart at full strength, faces blurred and the handle and product cropped. The after is shot closer and lit from above, the face is leaner, the timeline is in days, and the caption sells the lever: a before/after at a different distance is a photograph of the camera. Left alone: the seller's name, face, and motives, and any "scam" label. Theo gets the teardown and the test to run on your claims too. Yours survive it partly because you carry no affiliate code, and a removed conflict is a signal a grifter can't afford.
 
 ### A dismissive clinician gets agreement on bone and the referral
 
@@ -285,7 +285,7 @@ Reid *(composite operator)* started from zero, and by month 5 his channel was gr
 | Descriptor | "Mewing, jawline, and face tips" | "Assessment, a written plan, and weekly review of habits and presentation, for adults done guessing" |
 | Positioning line | "Your daily jawline tips" | "What an adult can and can't change, and a way to measure it" |
 | Title 1 | "The [21]-day mewing challenge" | "Eight months of guessing: what an adult can and can't change" |
-| Title 2 | "Every jawline myth, ranked" | "Why most jaw before-and-afters prove nothing" |
+| Title 2 | "Every jawline myth, ranked" | "Why most jaw before/afters prove nothing" |
 | Title 3 | "My morning mewing routine" | "At ease in the group photo at 27: what can change, what can't, how you'd know" |
 
 **Week 2. The Honest Answer.** His next long-form followed the outline: the no first, the debated claims at their tier, then the first column as a destination with one line placing it beyond the face, and his Capture Standard on screen. It gave the under-18s already watching their own answer, an orthodontist and nothing to sign up for, and closed on the null-result stance and the door.

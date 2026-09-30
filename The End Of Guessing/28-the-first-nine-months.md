@@ -161,7 +161,7 @@ Then he runs the Reverse Funnel, working back from $25k of profit to the enrollm
 
 So the quarter's structural move gives the third long-form slot to the Offer Pieces, judged by the offer page's enrollment rate next quarter. Left alone: templated review until turnaround creeps, the paid overflow while he holds [4–5] a week, and a second platform.
 
-**What it shows.** Nine months of Band B ended at [~$8–11k] a month, with a written next decision and no month spent on a lever whose input hadn't arrived. The tempting moves came on schedule, a cheaper tier in month 7 and a call cap in month 8. Each gate turned one down with a number. What moves Cole toward $25k now is price through proof, which the calendar puts in year 2.
+**What it shows.** Nine months of Band B ended at [~$8–11k] a month, with a written next decision and no month spent on a lever whose input hadn't arrived. The tempting moves came on schedule, a cheaper tier in month 7 and a Call Cap in month 8. Each gate turned one down with a number. What moves Cole toward $25k now is price through proof, which the calendar puts in year 2.
 
 | Month | One number | Gate at its end | Do this month |
 |---|---|---|---|
