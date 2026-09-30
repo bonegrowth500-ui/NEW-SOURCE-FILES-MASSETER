@@ -1,6 +1,6 @@
 # Glossary
 
-Look up any named framework, tool, or defined term here: entries run alphabetically, ignoring a leading "the", each gives the definition as the playbook uses it and links to where it's taught in full, and "(flagship)" marks the frameworks the playbook is built around.
+Look up any named framework, tool, or defined term here. Entries run alphabetically, ignoring a leading "the". Each gives the definition as the playbook uses it and links to where it's taught in full, and "(flagship)" marks the frameworks the playbook is built around.
 
 The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introduced in the [Intro](README.md).
 
@@ -480,7 +480,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **speed to lead** — A personal reply within hours, a booking within 24–48 hours, a reminder, and a held conversation. *([Module 5](05-the-door.md))*
 
-**the Spine** — The default business on one page of the Intro: the business every module's examples, numbers, and scripts assume, and the default each module picks when it lays out options. *([Intro](README.md))*
+**the Spine** — The default business on one page of the Intro, the one every module's examples, numbers, and scripts assume. *([Intro](README.md))*
 
 **the Stage Map** — Early, Growing, and Scaling, placed by trailing three-month revenue and a volume signal, each with its binding constraint and one north-star number. When the two signals disagree, the constraint decides. *([Module 1](01-the-whole-business.md))*
 

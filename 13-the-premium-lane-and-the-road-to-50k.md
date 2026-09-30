@@ -9,8 +9,6 @@ The first version adds hours: a second start each month, more calls, reviews wri
 
 The third version barely touches his week. It finds leads for about half again as many enrollments and templates review so the same care hours can serve them. It moves the flagship to an older buyer's cash ceiling while a real tier stays under a younger buyer's. It sells a premium seat only where that seat earns what a flagship seat earns per hour of care. With breakout reach, or steady reach plus paid reach that works, that version reaches the top of the range in a week of about 20.5 hours, in year 2 or 3.
 
----
-
 ## 1. What $50k Actually Requires
 
 $50k a month in profit takes about 13 enrollments a month instead of 8–9, sold at two prices instead of one. The back end grows up around them. Reach decides whether those enrollments exist. Care minutes, the review, group-call, and milestone minutes each client takes a week, decide whether you can serve them, and more hours decide neither.

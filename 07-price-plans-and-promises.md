@@ -13,8 +13,6 @@ At capacity, a step that loses a smaller share of buyers than its percentage flo
 
 Three limits decide how far that arithmetic runs: what the core buyer can pay from his own pocket, what your minutes must earn, and what a skeptic will believe before proof. Two more decide whether a good-fit buyer can say yes and still endorse it a year later: how he pays, and what you promise if it goes wrong.
 
----
-
 ## 1. Price as Lever and Signal
 
 Price does two jobs, and which one depends on whether your seats or your buyers run out first. At a 75–85% margin, nearly every extra dollar of price is profit, so a 1% raise lifts profit by about 1.2–1.3% if volume holds. Volume holds when the buyers a step loses get replaced, and breaks when they leave an empty seat.

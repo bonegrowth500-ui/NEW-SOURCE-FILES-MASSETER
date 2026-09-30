@@ -9,8 +9,6 @@ Cole *(composite operator)* sells five rungs, each an offer with its own page an
 
 Every call Cole holds ends in one recommendation from that short list, and his week fits in about 20 hours. Reid's instinct was that more offers make more money. In this category each extra offer competes with free information, costs minutes, and blurs the one recommendation a burned buyer came for. This module builds Cole's kind of ladder: one flagship, two buffers, and one net, with each rung switched on when its stage arrives.
 
----
-
 ## 1. Design From the Target Down
 
 Your ladder is set by arithmetic before taste. Start at $25k of profit a month, the low end of the target, which takes roughly $29–38k of cash collected. Price can't carry that alone, because the core container stays under the cash ceiling, about 1–1.25 months of take-home pay for the core buyer, an employed adult aged 19–32 (Module 7). At 20–24 that's roughly $2.8–3.5k. So the target becomes a head count: about 8–9 Program enrollments a month at about $3.1k, plus the back end they bring.

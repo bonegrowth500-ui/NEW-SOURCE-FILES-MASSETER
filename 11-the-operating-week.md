@@ -9,8 +9,6 @@ Six weeks later his eligible leads, the adults who could pay, fall by [about a t
 
 A solo business has to run in about 20 hours with slack, or it doesn't run. So the week gets designed before it starts, line by line, with its cuts decided before the heavy week arrives. Then a full inbox can't quietly spend next month's leads, and a protected hour of building each week is what makes the $25k week lighter than the Growing one.
 
----
-
 ## 1. The Design Week
 
 Your week needs a line for every kind of work before the work arrives, because in this niche per-person demand outbids anything that pays off later.

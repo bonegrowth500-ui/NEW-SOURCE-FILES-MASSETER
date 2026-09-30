@@ -163,7 +163,7 @@ The standard tier costs $150–250 and becomes the overflow route once the Call 
 
 It reads his record, never his face: his answers, what he's tried and bought, his free log, his goal in his words, and his constraints. The booking page says all this before he pays, including that the plan may end in "don't buy".
 
-His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, or an announced price step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
+His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, or an announced Price Step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
 
 The credit is one term, written on the plan once and never beside a date. The fee counts toward a program if he joins, held about 90 days, or up to about 12 months after any advice not to buy now.
 

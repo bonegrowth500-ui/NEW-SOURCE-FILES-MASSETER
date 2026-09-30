@@ -9,8 +9,6 @@ Cole sells less of his time and more of his judgment. His door screens buyers, f
 
 Everything else in this playbook is a lever: the door, the offers, the price, the calendar, the persuasion, the platforms. This module gives you the equation underneath them and tells you which one to pull, and when.
 
----
-
 ## 1. What You Actually Sell: The End of Guessing
 
 What you sell is the end of his guessing, and the promise at the center of it has to be one you control completely. Dan *(composite, Struggler)* is 24 and works full-time in logistics. He has spent about eight months on a routine he found online, checking the mirror and taking comparison photos in whatever light the bathroom had. On your self-assessment, the short quiz every piece of your content routes to, he writes that he wants "a sharper jawline, less soft". A few questions uncover the destination underneath: to be taken seriously, to be at ease in photos, and to know instead of hope (Module 2).

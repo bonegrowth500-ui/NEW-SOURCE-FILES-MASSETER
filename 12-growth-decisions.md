@@ -7,8 +7,6 @@ In [March], Reid *(composite operator)* announced a step in the price of his 12-
 
 Every step felt like reading the data, and none was. Four calls can't tell a price that fits from a good week. In this category a man's yes turns on whether payday has landed, and on whether last weekend's group photo is still on his mind. Reid didn't lack tracking; he had spreadsheets. He lacked three things: a short list of numbers worth reading, a rule for when a ratio may change his mind, and a fixed day for decisions. This module gives you all three, plus a trigger written in advance for every scaling move.
 
----
-
 ## 1. Stage Metrics and Guardrails
 
 At each stage, a handful of numbers tells you whether the business is working. Nearly everything else you could track follows from them or counts people who can't buy. This category offers more numbers than most, and the loudest point the wrong way. Views, followers, and likes climb fastest on rating and comparison content, which pulls the youngest viewers. Raw leads include every door start that ends at the age fork, your door's legal-adult question. None of these is a term in the equation that makes profit.
@@ -74,7 +72,7 @@ At solo volume, a rate built on a handful of events is mostly noise. So you deci
 
 ### A small window measures the calendar
 
-This niche adds noise of its own, because its buyers decide in clusters. They come after payday, after a wedding or a work photo, around New Year, and in the days after a video answering the bone question reaches them. So a week's close rate measures your calendar as much as your call. The changes you want to detect, such as a price step of about 5–10%, are small beside that swing.
+This niche adds noise of its own, because its buyers decide in clusters. They come after payday, after a wedding or a work photo, around New Year, and in the days after a video answering the bone question reaches them. So a week's close rate measures your calendar as much as your call. The changes you want to detect, such as a Price Step of about 5–10%, are small beside that swing.
 
 Two definitions make the rule usable. An event is one unit of whatever the rate is counted per. That's an eligible lead for eligible lead → held conversation, and a held conversation for the close rate. For the take of Round Two, the maintenance block some graduates buy, it's a graduate. A window is the stretch it takes to collect about 30 of those events. Windows run back to back without overlapping, and a window that judges a change starts the day the change reaches buyers.
 

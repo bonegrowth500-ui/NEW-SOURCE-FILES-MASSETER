@@ -9,8 +9,6 @@ So this week you build the door and put a founding page live with its prices. Yo
 
 What your notes lack is a sequence. It runs in three phases, with one number that matters each month and a gate at each month's end. Your reach gets checked at months 3, 6, and 9, so every month has a job you can finish and a test you can fail.
 
----
-
 ## 1. How to Use the Build
 
 Month zero offers more good moves than a 20-hour week can hold, and in this category the tempting ones arrive early. Rating content wins views fastest while it pulls the youngest viewers. A Scaling operator's tools look like shortcuts to a man with an empty calendar: paid assessments, templated review, ads. Each is a right move in the wrong month, and it spends the hours the right move needed.
@@ -60,7 +58,7 @@ The Expectation Document, the fuller written terms of the work, goes out before 
 
 Your Design Week puts every hour on a line sized to its stage (Module 11). Its Early column protects about 8.5 hours of content. The roughly 7.5 hours no client has claimed yet, for conversations, review, and Private, go to starting conversations. A new channel's long-form pays over months, while a disclosed message can book a call this week.
 
-The Founding Sprint gives those hours their routes: labeled sources for first conversations without an audience (Module 9). The warm-network message goes out once, and Permission-First Replies answer in public before any DM. Native shorts run on Shorts and Reels, and every adult who finishes the door hears from you within hours. Held conversations are counted weekly by booking route, one of your five Stage Metrics, the early numbers that show whether the business works (Module 12). At week 3, if warm network and replies give under 2 held a week, about 2 hours move from long-form into short-form and replies.
+The Founding Sprint gives those hours their routes: labeled sources for first conversations without an audience (Module 9). The warm-network message goes out once, and Permission-First Replies answer in public before any DM. Native shorts run on Shorts and Reels, and every adult who finishes the door hears from you within hours. Held conversations are counted weekly by booking source, one of your five Stage Metrics, the early numbers that show whether the business works (Module 12). At week 3, if warm network and replies give under 2 held a week, about 2 hours move from long-form into short-form and replies.
 
 Each first call is a Dual-Purpose Conversation, a disclosed fit-and-research call of about 45 minutes. Each follows Close by Contract, the close that agrees its structure first (Module 19). He hears the tiers premium-first, one recommendation, and the price once, then the affordability question about his pick and an ask. Plan on 0–2 clients in month 1, since first cash can slip past it when every route runs slow.
 
@@ -145,7 +143,7 @@ Short-form's line moves on yield, never on revenue (Module 24). Three signs move
 
 **Month 7.** Cole's eligible leads ran [~55] and [~62] the last two months, with older pieces bringing a rising share. Long-form brought [~4] eligible leads per hour against short-form's [~2]. Revenue still sits just under Growing's line, and he moves anyway: [four] derivatives a week, cut by a freelancer, and a third long-form piece a month. At [13] concurrent clients his weekly call splits by program stage. Seat Math, rerun at [~18] minutes a client-week, gives July [6] seats and August [8].
 
-Then a buyer wants the Program minus its group call, at a lower price. The cash ceiling runs about 1–1.25 months of the core buyer's take-home, and at [$1,730] the Program already sits far under it. So the buyer hears one recommendation, the Program as it stands, and the affordability question about it. Program Async, the call-free tier he asked about, waits for Scaling.
+Then a buyer wants the Program minus its group call, at a lower price. The cash ceiling runs about 1–1.25 months of the core buyer's take-home, and at [$1,730] the Program already sits far under it. So the buyer hears one recommendation, the Program as it stands, the affordability question about it, and an ask. Program Async, the call-free tier he asked about, waits for Scaling.
 
 ### The opening band carries the offers, and leverage waits for its trigger
 
@@ -159,7 +157,7 @@ At that volume the Call Cap is far off, so the read is screening, and no cap is 
 
 **Month 9.** The [September] start at [$1,820] fills [4] of [8]. The October step, announced before that fill was known, lands anyway. Revenue runs at [~$8–11k] a month, with [~18] clients running, [13] graduates, and [five] Hold members. With both readings now in Growing, his quarterly review swaps his five early numbers for Growing's six.
 
-Then he runs the Reverse Funnel, working back from $25k of profit to the enrollments it needs (Module 1). It needs about 8–9 Program enrollments a month at about $3.1k, against his [~6] at [$1,820]. Price has the further to go, and it rises only through the proof milestone. The Leak Trace, each route priced in dollars from reach to renewal (Module 12), finds one joint below range. Warm offer-page visitors enroll at [~1%], the bottom of about 1–3%, a gap worth about [~$3k] of lifetime revenue a month at [~150] visits.
+Then he runs the Reverse Funnel, working back from $25k of profit to the enrollments it needs (Module 1). It needs about 8–9 Program enrollments a month at about $3.1k, against his [~6] at [$1,820]. Price has the further to go, and it rises only through the proof milestone. The Leak Trace, each route priced in dollars from reach to renewal (Module 12), finds one joint below its midpoint. Warm offer-page visitors enroll at [~1%], the bottom of about 1–3%, a gap worth about [~$3k] of lifetime revenue a month at [~150] visits.
 
 So the quarter's structural move gives the third long-form slot to the Offer Pieces, judged by the offer page's enrollment rate next quarter. Left alone: templated review until turnaround creeps, the paid overflow while he holds [4–5] a week, and a second platform.
 
