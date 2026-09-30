@@ -104,7 +104,7 @@ The composites (Dan, Theo, Adrian, Sam, Maya, Jordan, Cole, and Reid) are introd
 
 **the core buyer** — The employed Struggler, usually a man between 19 and 32, around whom every default in the playbook is built. *([Module 2](02-the-buyer.md))*
 
-**Costly vs Hygiene Signals** (flagship) — Hygiene signals, such as stated limits and policy pages, are required but cheap. Costly signals are the ones a grifter can't afford, such as an honored guarantee with its claim rate and ranges that include the men it didn't work for. *([Module 15](15-trust-without-credentials.md))*
+**Costly vs Hygiene Signals** (flagship) — Hygiene signals, such as public prices, refund terms, and a privacy page, are required but cheap. Costly signals are the ones a grifter can't afford to send, such as an honored guarantee with its claim rate published and a dated record that includes the men it didn't work for. *([Module 15](15-trust-without-credentials.md))*
 
 **the Credible Middle** — The position between grift hype and "it's all genetics", answering both of the buyer's questions, about bone and about everything else, each at its evidence tier. *([Module 3](03-the-honest-position.md))*
 
