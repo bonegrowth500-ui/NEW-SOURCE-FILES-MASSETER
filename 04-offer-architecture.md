@@ -211,7 +211,7 @@ The method stays inside the review as your [weekly habit block] and [first adjus
 
 ### A name is a claim, made every time it's read
 
-Names take one rule: every product name describes what happens, sits under your brand, promises nothing about bone, and is settled before your first group starts (Module 3). A name appears on every page, receipt, and card statement with no caveat beside it, so a name that implies a new jaw repeats that claim more often than anything you film. Settle it early, because a product renamed after its first graduates looks, to a skeptic searching your name, like a seller outrunning his reviews.
+Names take one rule: every product name describes what happens, sits under your brand, promises nothing about bone, and is settled before your first group starts (Module 3). A name appears on every page, receipt, and recap with no caveat beside it, so a name that implies a new jaw repeats that claim more often than anything you film. Settle it early, because a product renamed after its first graduates looks, to a skeptic searching your name, like a seller outrunning his reviews.
 
 Three signs mark a name that fails: a body part, a verb of change such as reset or sharpen, and a curriculum word such as phase or unlock. The first two claim what habits can't do to an adult's bone, which the line on structural claims rules out. The third tells a burned buyer the useful part is locked behind a later payment.
 

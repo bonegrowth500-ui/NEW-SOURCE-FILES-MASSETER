@@ -33,7 +33,7 @@ The weak joint is the transfer: those trials measured mood and weight, and his g
 
 ### The weekly review makes four things
 
-The four outputs come out of the same weekly loop, so a start that loses the loop loses all four at once. That's why the review gets your best minutes, and the lesson library gets whatever is left.
+A start that loses the weekly loop loses all four at once, so the review gets your best minutes and the lesson library gets whatever is left.
 
 - **Results.** His record is the first result he can hold: within two weeks the log shows whether the work is happening, and by week 12 his markers, the measures he agrees at the start, show what moved.
 - **Proof.** Captures to one standard, logs kept on schedule, and consented process testimonials are the proof a skeptic here accepts, and only the weekly loop produces them.
@@ -50,7 +50,7 @@ In this category, the moment a client most needs contact is the moment he's leas
 
 The mechanism is contact he doesn't have to request. A check-in that's due anyway can't be dodged by a man who's slipping. A review that arrives on schedule doesn't wait for him to feel ready. Because you start the contact, his worst week still produces a report.
 
-Put those pieces together and the week has a shape. He logs his days and submits one check-in on a fixed day, whatever the week held. You read every log and send a written review within a turnaround you state as a single point, such as [48] hours. Once a week the group meets live. That's the **Review Rhythm**, short enough to say in one line:
+He logs his days and submits one check-in on a fixed day, whatever the week held. You read every log and send a written review within a turnaround you state as a single point, such as [48] hours. Once a week the group meets live. That's the **Review Rhythm**, short enough to say in one line:
 
 **Proactive review every week, on a stated clock, plus one live call.**
 
@@ -81,11 +81,11 @@ The call is the Program's only synchronous hour, so give it a fixed shape. It ru
 
 Run one combined call until about 12–15 concurrent clients, then split it by program stage. A man in week 2 and a man in week 10 need different conversations. Status in the room comes from the record: members join under a handle with cameras off, and nobody's face is discussed. If the group wants a board, make it opt-in, open it to each man only after his fit window closes, pause his place while his exit window is open, and rank only timestamped process, such as check-ins submitted on time and captures on schedule. Self-reported days logged stay off it, because they decide his refund terms and a board would reward inflating them.
 
-Late entry closes after week 2. Starts run as monthly entry, a new start every month into a standing group (Module 8). A man who enrolls mid-month joins the running start through week 1–2, and his weeks count from his own baseline day. Any later and he waits the few weeks for the next start.
+Starts run as monthly entry, a new start every month into a standing group (Module 8). A man who enrolls mid-month joins the running start through its week 2, with his weeks counted from his own baseline day. Any later and he waits for the next start.
 
 ## 3. The Measurement Calendar and the Capture Standard
 
-Behavior gets measured every week; appearance gets captured rarely, the same way every time. Appearance moves slowly, photos mislead easily, and checking a face often does harm of its own, so the calendar and the standard protect both the client and the proof.
+Behavior gets measured every week; appearance gets captured rarely, the same way every time. Photos mislead easily and checking a face does harm of its own, so the calendar and the standard protect both the client and the proof.
 
 ### Appearance moves slowly, so it's captured rarely
 
@@ -101,7 +101,7 @@ Ask clients to skip interim comparison photos, and read a rising urge to check a
 
 ### A capture means something only when the conditions match
 
-A photo records its conditions as faithfully as it records his face. A phone held at arm's length enlarges whatever sits nearest the lens, so the nose grows while the jaw and ears recede. The same phone a few feet away renders proportions close to how people see him across a room. Overhead light carves shadows under the jaw, and a dipped chin or a clenched jaw changes the outline more than months of habits could.
+A photo records its conditions as faithfully as it records his face. A phone held at arm's length enlarges whatever sits nearest the lens, while the same phone a few feet away renders him close to how people see him across a room. A dipped chin or a clenched jaw changes the outline more than months of habits could.
 
 Most tells of manufactured proof live in these variables, so an honest comparison is one where none of them moved. That's the **Capture Standard**: matched distance, lens, angle, light, expression, and time of day, for every capture.
 
@@ -166,7 +166,7 @@ A skeptic's real question is what the weekly review looks like, so show him one.
 >
 > *I read your full log and wrote every line of judgment above. [Tool] filled in the Logged numbers from your entries, with your consent, and reads nothing else.*
 
-For Theo *(composite, Burned Struggler)*, 26, who verifies everything, this page decides it, because it shows exactly what he'd be buying. His "I need to think" is due diligence, so support it. Send the kit and both documents, recommend the Program once and firmly, and let him choose his date.
+For Theo *(composite, Burned Struggler)*, 26, who verifies everything, this page decides it, because it shows exactly what he'd be buying. His "I need to think" is due diligence, so send the kit and both documents and let him choose his date.
 
 ## 5. Milestones and Markers
 
@@ -207,7 +207,7 @@ The third shows as the right lever, done and showing up in spot-checks, with cle
 
 ### The week-12 re-assessment ends in a verdict
 
-The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side as observations, scores every marker against its threshold, and writes the verdict. Every paid next step it opens starts with the affordability question: "Is this comfortable from your own income or savings, without new credit or buy-now-pay-later?"
+The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side as observations, scores every marker against its threshold, and writes the verdict. Every paid next step it opens starts with the affordability question.
 
 | His record at week 12 | Verdict | What's offered |
 |---|---|---|
@@ -224,17 +224,25 @@ Everyone who reaches week 12 graduates, and graduation, the week-12 finish into 
 
 ## 6. Seat Math and the Container
 
-The Program's capacity is a number you calculate every month from measured minutes, and its length is a choice with a default. Both decide whether the review stays good as the business grows, and getting either wrong costs the turnaround first.
+The Program's capacity is a number you calculate from measured minutes, and its length is a choice with a default. Both decide whether the review stays good as the business grows.
 
 ### Seat Math turns minutes into caps
 
-Seat Math, the seat caps for the Program, Round Two, the Hold, and Private, set monthly from measured care minutes, is the arithmetic behind every "this start: [10] seats". It works because the review is the product. Minutes run out long before leads do, so a cap drawn from them is a fact you can publish.
+Seat Math, the seat caps for the Program, Round Two, the Hold, and Private, set monthly from measured care minutes, is the arithmetic behind every "this start: [10] seats". Minutes run out long before leads do, because the review is the product, so a cap drawn from them is a fact you can publish.
 
 **Program seats = care minutes left after the fixed lines ÷ minutes per client-week.**
 
-Start with the care hours your week allows, about 9–10.5 at your Capacity Ceiling, the most concurrent clients your care hours allow. Subtract the fixed lines: the group calls at about 2 hours, then the Hold and any Private seat. Divide what's left by one Program client-week, review minutes plus milestone time spread over 12 weeks, for concurrent seats, then by three for the monthly cap. In the Growing stage, about $8–30k a month, that lands near 25–30 concurrent and 8–10 new enrollments a month. Templated review near 6 minutes lifts it to about 40–45 concurrent once you're Scaling, past about $30k.
+Start with the care hours your week allows, about 9–10.5 at your Capacity Ceiling, the most concurrent clients your care hours allow, and subtract the fixed lines: the group calls at about 2 hours, the Hold, and any Private seat. Divide the rest by review and milestone minutes per client-week, then by three for the monthly cap. In Growing that lands near 25–30 concurrent and 8–10 new enrollments a month, and templated review near 6 minutes lifts it to about 40–45 at Scaling. Round Two, the Hold, and Private take caps from their own lines, and a full line's offer waits.
 
-Round Two, the Hold, and Private get caps from their own lines. When a line is full the offer waits, because the service guarantee, your promise on turnaround and milestones, covers Hold and Private deliverables too. Private sells only while minutes are spare, and at Scaling only when it earns at least what a Program seat earns per care hour. Recalculate on the first of each month from last month's measured minutes, so the cap drops before the turnaround slips.
+### The first binding shows inside the review
+
+Seat Math first binds while the business still looks small. Starts fill and revenue climbs, but a client-week's minutes creep as more records reach week-6 reads and verdicts, and the turnaround drifts toward its stated point. Then a cap set on last month's minutes promises more than the week can keep.
+
+Cole's month [10] brings the signs together. His care minutes measure [~585] a week against a line of [540], because a client-week has crept from the [16] minutes his cap assumed to about [20]. Reviews now arrive near his stated [48] hours, and one lands at [53], which earns its credit. Then a buyer who missed the full [October] start asks to be squeezed in. The read: the cap is wrong, and the late review is its first cost. At [20] minutes, Seat Math gives [6] seats a start, not [8].
+
+The default move is to recalculate now, not on the first of the month. The waiting buyer gets the [November] start's date and last day to join. No new Private seat sells until minutes are spare, and his care line moves to the top of its 9–10.5 hours, which together carry [8] seats at measured minutes. Templated review begins with the [November] start, since he has reviewed about 20 clients and turnaround is nearing its point (Module 13). Left alone: the squeezed seat, a quietly longer turnaround, and any "last seats" email.
+
+[November] was announced at [8] on the October start day. An announced start keeps its date, its price, and every seat already sold, and it keeps its cap when moves like Cole's close the gap before it begins. When they can't, its unsold seats come off, stated once on its page with the reason and in no send, and its Fill History line shows the lower cap. The next announcement carries whatever the measured minutes give.
 
 ### A 12-week container is the default
 
@@ -245,13 +253,11 @@ Round Two, the Hold, and Private get caps from their own lines. When a line is f
 | 6 months | Clients reliably need the half-year, and the price still fits the cash ceiling, about 1–1.25 months of his take-home | Roughly double the first price, a long sag in the middle, and months some clients don't need |
 | Async-only | The Program's price must pass about $3.2k, the ceiling for buyers in their early 20s | No live call, so less belonging for the men who need the room |
 
-**Default: 12 weeks.** It holds two matched capture intervals and a midpoint read with six weeks left to act on it. Its first price fits inside the cash ceiling. Habits take anywhere from days to most of a year to become automatic, and Round Two and the Hold carry the months after for the men whose records call for it.
-
-Switch when the Program's price must pass about $3.2k. Then add async-only as Program Async, the same review without the live call, as a real tier under the ceiling (Module 13).
+**Default: 12 weeks.** It holds two matched capture intervals and a midpoint read with six weeks left to act on it, and its first price fits inside the cash ceiling. Habits can take days to most of a year to become automatic, and the back end carries those months. Async-only enters as Program Async, the same review without the live call, a real tier under the ceiling.
 
 ## Worked Example: Cole's [April] Start, 10 Clients Through 12 Weeks
 
-Cole (composite operator) is Growing, with about [30] concurrent clients across three monthly starts. His review is templated at about [10] minutes per client-week, and he runs two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill.
+Cole is Growing, with about [30] concurrent clients across three monthly starts. His review is templated at about [10] minutes per client-week, and he runs two group calls a week, split by program stage. Seat Math gives his [April] start [10] seats, and they fill.
 
 Dan is among the 10, and so is Theo, who chose his own date after reading the verification kit. Adrian *(composite, Optimizer)*, 31, joins under a handle with his camera off, and Sam *(composite, Ambivalent)*, 22, enrolled in the gap before his busy season. All 10 read the Path and Timeline Card and the Expectation Document, adherence threshold included, before paying.
 
@@ -349,7 +355,7 @@ Signed after payment; signing changes none of your refund rights.
 
 **Early.** What binds is the instrument itself. The check-in, Capture Standard, and review template don't exist until the founding group, every founding client in one group from the first, builds them. Review it at a one-to-one level while it has fewer than about four members, at about 30–35 care minutes per client-week. The trap is a Path and Timeline Card with a hole where Round Two and the Hold should be; price both on it before anyone pays.
 
-**Growing.** Care minutes start to bind as starts stack, and turnaround slips first. Run Seat Math monthly and cap the start before the turnaround moves. The trap is the waiting buyer you squeeze in anyway, because one extra seat taxes every review in the start.
+**Growing.** Care minutes bind as starts stack, and turnaround slips first. The default is Seat Math on measured minutes and templated review from about 20 clients. The trap is the squeezed seat, because one extra client taxes every review in the start.
 
 **Scaling.** At about 13–15 all-in minutes, review can get too thin to keep men logging, so let price carry the margin. When the Program must pass the cash ceiling, run Program Async under it. The trap is letting Program Async become the Program minus the care, when it's the same review without the call.
 
@@ -357,7 +363,7 @@ Signed after payment; signing changes none of your refund rights.
 
 - **Verdicts read the record, never the face.** Reviews and re-assessments work from logs and markers read without photos; captures stay observations, and nothing scores or reads structure (the line on structural claims).
 - **The whole path before payment.** The Path and Timeline Card names the destination with conviction and a line beyond the face (*Name the destination boldly*) and prices the first [9] months in real numbers (*Present the price*). The Expectation Document prints the adherence threshold and the review method.
-- **Offers only at a measured peak, and stop rules win.** Round Two and the Hold follow the affordability question, a distress or checking signal pauses every offer, and an exit, a flat verdict, or a slide ends with no offer (the line on vulnerability).
+- **Offers only on a measured record, and stop rules win.** Round Two and the Hold follow the affordability question, a distress or checking signal pauses every offer, and an exit, a flat verdict, or a slide ends with no offer (the line on vulnerability).
 - **Status from process, faces private.** Boards are opt-in and rank timestamped process, commitments go to the reviewer, and captures stay coach-only (*Build identity on evidence*; the line on shame).
 
 ## Quick Reference

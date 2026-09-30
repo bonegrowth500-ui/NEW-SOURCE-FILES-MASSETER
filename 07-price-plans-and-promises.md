@@ -17,11 +17,11 @@ Three limits decide how far that arithmetic runs: what the core buyer can pay fr
 
 ## 1. Price as Lever and Signal
 
-Price does two jobs in this business. Which one it's doing depends on whether your seats or your buyers run out first. At a 75–85% margin, nearly every extra dollar of price is profit, so a 1% raise lifts profit by about 1.2–1.3% if volume holds. Volume holds when the buyers a step loses get replaced, and it breaks when they leave an empty seat.
+Price does two jobs, and which one depends on whether your seats or your buyers run out first. At a 75–85% margin, nearly every extra dollar of price is profit, so a 1% raise lifts profit by about 1.2–1.3% if volume holds. Volume holds when the buyers a step loses get replaced, and it breaks when they leave an empty seat.
 
 ### A full start turns a step into profit
 
-When seats bind, the start fills before its date and a waiting list forms behind it. The buyer a step loses is replaced by the next name, so the step's whole percentage lands as profit. When buyers bind, the start opens with empty seats, and the man a step loses leaves one of them empty. He takes more than his fee with him: Round Two, the lighter maintenance block some graduates buy; the Hold, a measurement subscription for graduates; the referral he'd have made; and his place in the record you publish.
+When seats bind, the buyer a step loses is replaced by the next name on the waiting list, so the step's whole percentage lands as profit. When buyers bind, the man a step loses leaves a seat empty. He takes more than his fee with him: Round Two, the lighter maintenance block some graduates buy; the Hold, a measurement subscription for graduates; the referral he'd have made; and his place in the record you publish.
 
 | | Seats bind | Buyers bind |
 |---|---|---|
@@ -39,7 +39,7 @@ What moves him is what the price visibly buys: delivery units he can count, term
 
 **At capacity, price is the profit lever; before proof, it's a weak signal that only your record can back.**
 
-One move fails both jobs: discounting to close. When seats bind, it gives away profit you'd have kept. When buyers bind, it teaches the next buyer to wait. A founding price with its next price printed beside it is a real price, and a price that drops for the man who hesitates is a discount. Read which job price is doing before you move it, and every raise either lands as profit or waits for the proof that will carry it.
+One move fails both jobs: discounting to close. When seats bind, it gives away profit you'd have kept. When buyers bind, it teaches the next buyer to wait. A founding price with its next price printed beside it is a real price, and a price that drops for the man who hesitates is a discount.
 
 ## 2. The Three Ceilings
 
@@ -82,7 +82,7 @@ He moves the price into the opening band at [$1.8k] before anyone has paid, and 
 
 Read all three ceilings when you set a price and before every scheduled step. Cash comes from the table, capacity from your monthly seat count, and credibility from your close rate and the proof milestone. The ceiling that binds now sets the price, and the next one tells you how far the steps can run.
 
-The founding group, every early client in one group from the first, pays a price set in your founding phase (Module 9). It goes out with its stated end: the next price and the start it applies to. That end is the one step announced before any gate can be read, because a founding price with no end is a discount with no date. That end lands low in the opening band, leaving the later steps room to run before the proof milestone.
+The founding group, every early client in one group from the first, pays a price set in your founding phase (Module 9). It goes out with its stated end: the next price and the start it applies to. That end is the one step announced before any gate can be read, because a founding price with no end is a discount with no date.
 
 ## 3. The Price Steps
 
@@ -99,8 +99,6 @@ Plan steps of about 5–10% every second start. Before you announce one, check t
 Until 30 conversations have been held at the new price, the close rate can't be read, so filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call (Module 19).
 
 Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every recent start has filled. Under 30 held conversations the rate can't size a step, so a step that filling starts carry alone takes the bottom of the range.
-
-A step can still outrun your credibility. When the close rate falls below range after one, the step still stands, because walking a price back tells buyers the number was never real, and the work moves to proof and to the conversation.
 
 An announced step is also one of his Decision Points, the real dates every assessed buyer meets within a few weeks (Module 8). So his written recap names today's price, the next one, and the start it applies to, once, as a plain fact. A buyer who drifts past a step he never heard about was failed by your silence. You let him treat waiting as free when you knew it wasn't.
 
@@ -190,7 +188,7 @@ Three stops fall outside the windows, and all are written down before he pays. A
 
 When he stops by choice after the exit window, delivered weeks aren't refunded, his remaining installments cancel forward, and his undelivered weeks can move to a later start within 6 months. When he asks to stop after the fit window but before week 6, his week-6 read comes forward, and the exit right's adherence condition is judged over the weeks delivered so far.
 
-The clause turns on markers, two or three changeable-column measures with thresholds set on baseline day (Module 6). They're never read from photos and never binary did-it items, which any client who did the work would pass. "Haven't moved" means no marker reached its threshold by the week-12 re-assessment, the end-of-program capture and verdict. One crossing it means the lever moves for him, so there's no refund. A client below the adherence threshold, the share of days logged printed before he pays, isn't covered. He gets an honest verdict, and the week-6 exit right was his route out.
+The clause turns on markers, two or three changeable-column measures with thresholds set on baseline day, never read from photos (Module 6). One reaching its threshold by the week-12 re-assessment, the end-of-program capture and verdict, means the lever moves for him, so there's no refund. A client below the adherence threshold, the share of days logged printed before he pays, isn't covered. He gets an honest verdict, and the week-6 exit right was his route out.
 
 Where to sit inside 25–50% is a real choice, and your reserve makes it. Pick the largest share it could pay if every client in one start claimed at once. At [8] seats and [$2.4k], that's [$4.8k] at the bottom of the range and [$9.6k] at the top, so early on the bottom is usual. Revisit it once 30 graduates give you a measured non-responder share.
 
@@ -226,27 +224,31 @@ At solo volume, refunds and disputes are counted one at a time, and cash is mana
 
 ### A refund offered beats a dispute filed
 
-When a complaint arrives, reply the same day and refund if any layer fits, because a man who can get his money back from you rarely needs his bank. Disputes here mostly say "I don't recognize this charge" or "I didn't get what was promised", and the category has made the second every buyer's first suspicion. Record his acceptance of the terms at checkout and on baseline day, so a dispute you do contest can be answered from the record.
+A dispute costs you the charge, a fee, and a mark on that ratio, and most processors count it whether you win or not. So when a complaint arrives, reply the same day and refund if any layer fits, because a man who can get his money back from you rarely needs his bank. Disputes here mostly say "I don't recognize this charge" or "I didn't get what was promised", and the category has made the second every buyer's first suspicion. The first kind is a naming problem, so your billing descriptor, the name on his card statement, is your brand's name: discreet, but never a holding company he's never heard of or words about faces and jaws.
 
-The first complaint is a naming problem. Your billing descriptor, the name on his card statement, should be your brand's name. Keep it discreet, since many buyers keep this pursuit private, but never a holding company he's never heard of or words about faces and jaws. When a bank or processor reviews a dispute, it reads your pages too, and a page that promises structural change reads like the category's grift.
+### One dispute, read from the record
+
+A [$2.1k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message to Cole first. At checkout the client accepted the terms, with the Path and Timeline Card above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
+
+The read: no layer fits, since his fit window has closed, he never asked to stop, and everything arrived as described, on time. The default is to contest with the terms he accepted, the page as he saw it, and the timestamps, and to send him one plain message naming what his terms still give him. The evidence never includes his captures or his baseline-day reasons. Had the record shown a gap, such as a late review without its credit, the default flips to refund, since you'd lose on your own record. Left alone: any argument about his effort, and a counter-offer. Dispute rules and evidence deadlines differ by processor and country, so they sit on your Risk Register.
 
 ### Claims show you where the business leaks
 
-Read claims by layer each quarter, because each points at a different fix. Fit-window claims point at your page and your call, which set expectations the first weeks didn't meet. Service claims point at Seat Math, the monthly seat caps set from your measured care minutes, since missed turnarounds mean too many seats. Non-response claims point at marker design or the lever itself, and disputes point at your descriptor or at a promise he heard that you never made.
+Read claims by layer each quarter, because each points at a different fix. Fit-window claims point at your page and your call, and service claims at Seat Math, the monthly seat caps set from your measured care minutes. Non-response claims point at marker design or the lever itself, and disputes at your descriptor or at a promise he heard that you never made.
 
 ### Open early, hold reserves, keep other income
 
-Open your payment processor in the first weeks, while its charges are small ones such as plan installments and assessment fees. It then sees a clean history before larger charges arrive. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. That reserve also sizes your non-response share. Keep your other income until your trailing 3-month profit covers your personal costs.
+Open your payment processor in the first weeks, so it sees a clean history of small charges, such as installments and assessment fees, before larger ones arrive. Hold about 2–3 months of costs in reserve, because refunds cluster after a weak start and a processor can hold funds without warning. Keep your other income until your trailing 3-month profit covers your personal costs.
 
 That last rule protects the standard too. An operator who needs this month's enrollments to pay his rent will feel his hand drift toward the discount and the second ask after a clear no. The reserve is what lets you pay every claim inside its 7 days.
 
 ## Worked Example: Cole's Twelve Months of Price
 
-Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. It's the steady kind of year you should plan on. Here it is at seven decision points.
+Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. Here is the steady kind of year you should plan on, at seven decision points.
 
 **Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
-**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool. The pause route holds every marketing send and blocks checkout for 60–90 days, and any return is his own reply.
+**Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool, and any return is his own reply.
 
 **Month 4. The first gated step.** By [April], [30] held conversations stand behind a close rate of [~27%], in the upper half of 15–35%, and his starts are filling. He announces [$1.8k] for [May], [five] weeks out, a step at the top of the range, naming [a second group-call time] as the addition.
 
@@ -256,9 +258,9 @@ Cole starts in January with a door, a founding page, and his guarantee and plan 
 
 **Month 9. A thin start.** The [September] start, the first at [$2.1k], fills [4] of [8] seats. The [November] step went out on September's start day, before that fill was known, so it lands, and the thin start is published like any other. The next step waits for a start that fills. Left alone: a discount, and a "last chance" email.
 
-**Month 11. The proof milestone.** His [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. October filled and his close rate holds, so on the [November] start day, as the Program moves to [$2.2k], the December announcement carries [$2.4k] for [January], the first price inside the proof band, naming [a recorded walkthrough of the week-12 re-assessment] that only buyers from January get.
+**Month 11. The proof milestone.** His [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. October filled and his close rate holds. So on the [November] start day, as the Program moves to [$2.2k], the December announcement carries [$2.4k] for [January], the first price inside the proof band, naming [a recorded walkthrough of the week-12 re-assessment] that only January's buyers get.
 
-**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, and the thin start cost him a check, never a reversal. At month 12 his Program sits at [$2.2k] and his revenue at about [$13–16k] a month, with the proof-band step landing on his second year's first start. Every plan and guarantee case sits in counts a skeptic can check.
+**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, and the thin start cost him a check, never a reversal. At month 12 his Program sits at [$2.2k] and his revenue at about [$13–16k] a month, with the proof-band step landing on his second year's first start.
 
 ## Templates: Price Setting and the Step Block
 

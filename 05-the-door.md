@@ -39,7 +39,7 @@ The self-assessment is the door's first step, and its job is routing: it sorts w
 
 The fork asks "Are you a legal adult where you live?", because the age of majority isn't 18 everywhere you sell. Nothing comes before it: no email field, no name, no question about his face. Ask it neutrally, with no "you must be 18 to continue" above it, because a question that announces its right answer teaches a 16-year-old what to click. A flag kept only in his browser session stops the back button from changing the answer, since a fork he can retake in two seconds is decoration.
 
-A no sends him to the education lane: public content and an orthodontist referral for anyone not yet a legal adult where he lives, with no data kept. The page has no email field and stores no answer, and like every page you own it carries no ad pixel, which here would add a minor to an audience you'd later advertise to. All that remains is an anonymous count of fork exits by source. Jordan *(composite, minor)*, 16, arrives from a short, answers no, and reads your public answer on growing faces beside the referral. The count rises by one, and nothing else about him exists.
+A no sends him to the education lane: public content and an orthodontist referral for anyone not yet a legal adult where he lives. The page has no email field and stores no answer, and like every page you own it carries no ad pixel, which here would add a minor to an audience you'd later advertise to. All that remains is an anonymous count of fork exits by source. Jordan *(composite, minor)*, 16, arrives from a short, answers no, and reads your public answer on growing faces beside the referral. The count rises by one, and nothing else about him exists.
 
 Every checkout carries the fork as a one-line attestation, "I'm a legal adult where I live", ahead of any payment field. It can be clicked through, but it's the proportionate check, since asking for ID would leave you holding documents you'd have to protect. When a minor surfaces later, on a call, in a DM, or in his answers, he exits at once to the education lane. The conversation ends, you delete what was collected, you make no offer, and you refund anything he paid.
 
@@ -67,7 +67,7 @@ He books first and logs while he waits, since a task placed before the booking l
 
 ### Door v0 goes live in week one
 
-Door v0, the first working version of the door, goes live in week one, because any paid step before it sells without knowing age, fit, or money. It holds the fork and education-lane page, the questions and screening items, the result, a booking page with prices and the money question, and the pause tag, wired into your email tool before its first sequence. It also holds two checkouts. One sells the founding group, every early client in one group with monthly entry, and one sells the priority tier, the assessment's faster, premium version. Both run their checks before a pay button appears.
+Door v0, the first working version of the door, goes live in week one, because any paid step before it sells without knowing age, fit, or money. It holds the fork and education-lane page, the questions and screening items, the result, a booking page with prices and the money question, and the pause tag, wired into your email tool before its first sequence. It also holds two checkouts. One sells the founding group, every early client in one group with monthly entry, and one sells the priority tier, the assessment's faster, premium version.
 
 ## 3. The Fit Conversation and the Call Cap
 
@@ -75,7 +75,7 @@ The fit conversation is the door's human step: free for every eligible adult whi
 
 ### It's disclosed, priced, and ends in a decision
 
-The fit conversation, the free, disclosed first call that ends in one recommendation, runs 20–30 minutes. In the founding months it's the Dual-Purpose Conversation, a fit-and-research call of about 45 minutes. Its booking page says what a skeptic would otherwise suspect. The call is free, you'll ask for a yes or a no, and it ends in one recommendation, which may be a program, the Starter Path, the free sequenced path for anyone who shouldn't buy now, or "don't buy".
+The fit conversation, the free, disclosed first call, runs 20–30 minutes. In the founding months it's the Dual-Purpose Conversation, a fit-and-research call of about 45 minutes. Its booking page says what a skeptic would otherwise suspect. The call is free, you'll ask for a yes or a no, and it ends in one recommendation, which may be a program, the Starter Path, the free sequenced path for anyone who shouldn't buy now, or "don't buy".
 
 The page also shows your public price range and asks the affordability question before he can pick a slot. A no books nothing and ends money talk there, so the hour you'd have spent learning he can't pay never happens. To a man who has met the category's "free strategy call", a pitch discovered halfway through confirms everything he feared. Disclosed and priced, the same ask is the structure he agreed to, which is how Close by Contract, the close that agrees its structure first and carries the question's spoken form, opens (Module 19).
 
@@ -99,7 +99,7 @@ That's the logic of the **Call Cap**: free fit conversations stay open up to abo
 | Direct checkout only | As a warm route beside the door | As the only door, uncertain buyers stall or refund |
 | Application before any call | Inside the path to Private, the premium seat | Slow, and friction without judgment |
 
-**Default: free, up to the Call Cap.** A fee filters out eligible adults while reach binds, and a burned buyer reads a paid first look as the rating-app pattern he's trying to leave. Switch to the small credited fee only when no-shows keep eating selling hours after bookings already land inside 24–48 hours with a reminder, because lead time and reminders lift show rates without filtering anyone out.
+**Default: free, up to the Call Cap.** A fee filters out eligible adults while reach binds, and a burned buyer reads a paid first look as the rating-app pattern he's trying to leave. Switch to the small credited fee only on its row's condition, because lead time and reminders lift show rates without filtering anyone out.
 
 Then run the economic test. Say 100 eligible leads at a cap of [8] give [14] held conversations, [2] assessments, and [4–5] enrollments for about [15] operator hours. At a cap of [6] they give [10] conversations, [5] assessments, and the same [4–5] enrollments for about [13] hours, plus fees from the non-buyers. The tighter cap wins that example, but a fee also thins take-up, so only 30 or more events at each setting can decide it. As care minutes, the review and call time each client takes, start to bind, the cap tightens below 6–8.
 
@@ -129,7 +129,7 @@ Any signal removes that day's pay button, sets the pause tag, and starts the sig
 
 The pause holds a conversation with three plain questions: how often it happens, what it crowds out, and the words he uses for it. It ends one of three ways: he enrolls with adjusted expectations, takes the Starter Path in its reading-only version, or gets a referral. Checking or fixation means a referral and reading-only content, with no capture tools, and acute distress or "everything is ruined" language ends the sale. If he enrolls, the conversation counts as his permission. You send a single-use link with no plan option, opening no sooner than 72 hours after your note, which is how a tag that records no reason still enforces every part of the pause.
 
-Serial appearance purchasers get the same pause, because the pace of buying is the pattern: a run of recent purchases, each dropped for the next. Tell it apart from a burned buyer. Theo *(composite, Burned Struggler)* bought [a device and a course], stopped, and now checks everything, which is due diligence to support. A man on his [fourth] purchase in [a few months] may be buying relief, and the pause gives you both three days to find out. A yes on the referral signs holds payment too, until your referral-first note has gone out.
+Serial appearance purchasers get the same pause, because the pace of buying is the pattern: a run of recent purchases, each dropped for the next. Tell it apart from a burned buyer. Theo *(composite, Burned Struggler)* bought [a device and a course], stopped, and now checks everything, which is due diligence to support. A man on his [fourth] purchase in [a few months] may be buying relief, and the pause gives you both three days to find out.
 
 ### The affordability question runs at every paid step
 
@@ -161,11 +161,11 @@ His free result gave a provisional read from [8–10] answers. The fee buys what
 
 The standard tier costs $150–250 and becomes the overflow route once the Call Cap binds. At volume it goes async-first: a written plan with an optional short live slot. The priority tier, about $350–600, adds a faster turnaround and a recorded walkthrough of his plan. It's credited to the Program or to Private and open from month 0 as the entry for the Optimizer, the buyer with income and little time. A live assessment costs 1–1.5 hours all-in and a templated async one 0.5–0.75, which is why its template sits second in the Build Queue, the order you build leverage in.
 
-It reads his record, never his face: his answers, what he's tried and bought, his free log, his goal in his words, and his constraints. It also carries the capture instructions the pre-call log left out. The booking page says all this before he pays, including that the plan may end in "don't buy".
+It reads his record, never his face: his answers, what he's tried and bought, his free log, his goal in his words, and his constraints. The booking page says all this before he pays, including that the plan may end in "don't buy".
 
 His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, with seat status stated as fact when it's informative, or an announced price step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
 
-The credit is one term, written on the plan once and never beside a date: the fee counts toward a program if he joins. It's held about 90 days, or after a "not now" until he enrolls, for up to about 12 months, and it's never a reason to decide sooner.
+The credit is one term, written on the plan once and never beside a date. The fee counts toward a program if he joins, held about 90 days, or up to about 12 months after a "not now".
 
 ### Six parts, each worth keeping
 
@@ -180,7 +180,7 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
 | One recommendation | A program, Private, the Starter Path, or "don't buy", with any price stated once | The decision he paid for, instead of a menu |
 | A re-check date | A dated moment to read his own record, and what to look at | A date of his own to judge from his record, whether or not he buys |
 
-"Don't buy" is what the plan earns most often when his goal sits only in the never-claimed column, like the bone caller's. The honest plan says no program moves that goal, yours included, and still leaves him a stop list, a setup, and who to see. The stop list never names clinical care. The levers come from the Outcome Map, the brand's straight answer to the bone question by age and evidence tier (Module 3), so bone never appears as a lever. The full template:
+"Don't buy" is what the plan earns most often when his goal sits only in the never-claimed column. The honest plan says no program moves that goal, yours included, and still leaves him a stop list, a setup, and who to see. The stop list never names clinical care. The levers come from the Outcome Map, the brand's straight answer to the bone question by age and evidence tier (Module 3), so bone never appears as a lever. The full template:
 
 ```
 [Brand] · Decision Assessment · Written plan for [first name] · [date]
@@ -218,36 +218,44 @@ never a reason to decide sooner.
 
 The verification kit is the sample written plan built here and the sample weekly review built with the Program, both labeled as composites, posted on your Verify Page, and sent to any buyer who asks what he'd get. For a burned buyer the kit is his due diligence. Publish a sample that says "don't buy", because a plan that can refuse him is the one he'll believe when it recommends.
 
-After about 30 assessments, publish the recommendation mix in aggregate in your Dated Record, the public log you've kept since month 1. It's a costly signal a grifter can't afford to send (Module 15). A man paying to be told whether to buy suspects the answer is always "buy", and the count is the one answer to that suspicion he can check.
+After about 30 assessments, publish the recommendation mix in aggregate in your Dated Record, the public log you've kept since month 1. A man paying to be told whether to buy suspects the answer is always "buy", and the count is the one answer to that suspicion he can check.
 
 ## 6. The One Recommendation
 
-Every path through the door ends in one recommendation, because a man who came to stop guessing and leaves with a menu has been handed his guessing back.
+Every path through the door ends in one recommendation, because a man who came to stop guessing and leaves with a menu has been handed his guessing back. A burned buyer also hears a menu as a seller gaining from his doubt. One recommendation, with its reason taken from his record, can be proved wrong by his re-check date, which is why he can trust it.
 
 ### Four recommendations, each a real destination
 
-| Recommendation | When it's the one | What goes with it |
-|---|---|---|
-| The Program; at Scaling, beside Program Async, the tier without the live call, so he picks the tier (Module 13) | An eligible adult with no open signal, a goal in the changeable column, and the [minutes a day] to do the work | The next start, each tier's price once, and the whole path in writing before payment |
-| Private | The Optimizer who needs speed, privacy, and fixed deliverables, while your minutes are spare or once the seat earns what a Program seat does per care hour | A call first, and the same checks |
-| The Starter Path | Not now or not a fit; tool-free after "can't afford" or money that isn't his; reading-only after a fit pause | Handed over once, with its re-entry point |
-| "Don't buy", or a referral | A goal only in the never-claimed column; a lever that doesn't move for him; snoring, jaw, bite, or growth questions; checking or fixation | The reason in writing, and who to see |
+| Recommendation | When it's the one |
+|---|---|
+| Private | A need for speed, privacy, or fixed deliverables that the Program's terms can't meet, while your minutes are spare or once the seat earns what a Program seat does per care hour |
+| The Program | A goal he's paying for in the changeable column, no open signal, and the [minutes a day] to do the work |
+| The Starter Path | Not now, for a reason his record bears out, or not a fit; tool-free after "can't afford" or money that isn't his; reading-only after a fit pause |
+| "Don't buy", or a referral | A goal he's paying for in the never-claimed column; a lever that doesn't move for him; snoring, jaw, bite, or growth questions; checking or fixation |
 
-Every tier stays on your public page, premium first, and the recommendation is still one. "Don't buy" is a destination too, because a referral names who to see and the Starter Path keeps him measuring.
+Your public page still shows every tier, premium first (*Present the price*), while the plan decides for one man: a tier beside the one he's recommended gets a clause saying what it's for, never an ask. At Scaling the Program goes out beside Program Async, one rung at two doses, each priced once, and he picks the tier his week fits (Module 13).
 
-### Before payment, he sees the whole path
+**The page shows every tier; the plan names one, with its reason from his record.**
 
-Any paid recommendation goes out with the Path and Timeline Card and the Expectation Document, before any payment. Between them they show what 12 weeks reliably deliver, the full path's likely cost, what can't move, and how reviews are made (Module 6). At checkout the Card sits above the pay button, because a buyer who learns the full path only after paying becomes the refund request of week three.
+### On the line, the goal he's paying for decides
 
-### Warm routes skip the conversation, never the checks
+A buyer on the line sits between two rows, where your revenue leans toward the larger commitment and his hesitation toward the smaller. Neither is evidence, so the edge between rows is always one sign from his record.
 
-Decision-stage assets may pitch with public prices and link straight to a checkout, under the Warmth Ladder, the rule for which asset may ask for what (Module 18). That checkout runs the same checks as the door. Through the DM Handoff, a verified adult may get one recommendation and a checkout link by DM, which is *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, carried by the Async Arc, the call's arc run through pages, walkthroughs, emails, and voice notes (Module 20).
+Theo, 26, lands between the Program and "don't buy". His signs: three goals, [to stop guessing what works], [to look sharper in work photos], and [a wider jaw], the one his device promised. His free log holds [six of seven] days, and his "why now" reads "[I want to know what works before I spend again]". The read: he's paying to stop guessing, which sits in the changeable column, and the jaw is the device's leftover. "Don't buy" on the leftover would fail the floor, and Private sold because he can pay would fail the ceiling. The default move is the Program, worded so the leftover sits outside it:
 
-The Informed-Client Test's floor, which says under-asking a good-fit buyer fails him too, sets the minimum here. Every good-fit buyer leaves every step knowing the one recommendation, its price, his decision date, and what to do next. His written recap within 24 hours carries all four.
+> "My recommendation is the Program from [date], at [price]. It can measure how you come across in photos and end the guessing. It won't widen your jaw, and no habit program will. Private, first on the page, buys a faster turnaround and privacy, and nothing in your record needs either."
+
+Left alone: a discount against what the device cost, and any word about whoever sold it. Had the jaw been his reason, the same record would have earned "don't buy", as the sample plan's buyer did.
+
+### Every route carries the same checks
+
+Any paid recommendation carries the Path and Timeline Card and the Expectation Document before payment (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc (Module 20).
+
+However he arrives, the floor holds: his recap within 24 hours names the one recommendation, its price, his decision date, and his next step.
 
 ## Worked Example: Dan, Through Cole's Door Twice
 
-Run one buyer through the door at two stages of the same business. Cole *(composite operator)* is in Band B, the steady band. Dan *(composite, Struggler)*, 24, arrives both times from a long-form video. He has about eight months of [his daily routine] behind him, a [jaw device] in a drawer, nothing measured, and a comparison-photo habit. A second buyer shows what a signal does.
+Cole *(composite operator)* is in Band B, the steady band. Dan *(composite, Struggler)*, 24, arrives both times from a long-form video. He has about eight months of [his daily routine] behind him, a [jaw device] in a drawer, nothing measured, and a comparison-photo habit.
 
 **Month [2], the Early door. The read: reach binds, so this adult is worth a free hour.** Dan finishes the self-assessment at [9 pm] on a Monday. The fork says adult, the screening items are clear, and he ticks "ready to start". His result gives a provisional read, unmeasured, and offers a free slot. Cole replies personally at [8 am], quoting Dan's line about team photos. The booking page shows the founding price and asks the affordability question, and Dan answers yes, books [Wednesday], and gets the 7-day behavior log.
 
@@ -261,14 +269,14 @@ His plan argues "unmeasured" from his [five] logged days and recommends the Prog
 
 Cole gives no view on the procedure, since that's a surgeon's question. His written note says the Program works on Adrian's record, never his face, and replaces nothing a clinician does. The single-use link that follows has no plan option and opens 72 hours after the note, and the fit window will start on day one of delivery. Adrian pays [four] days later. Cole's minutes: [~35]. Left alone: a discount for the delay, and any opinion on the consultation.
 
-**What it shows.** The door changed around Dan while his decision didn't: a free hour when reach bound, a written plan when care minutes did, and the same checks before each payment. One buyer proves nothing about the cap, which is judged on 30 or more events. The checks re-ran at Adrian's second paid step and caught what had changed, at a cost of four days.
+**What it shows.** The door changed around Dan while his decision didn't: a free hour when reach bound, a written plan when care minutes did, and the same checks before each payment. The checks re-ran at Adrian's second paid step and caught what had changed, at a cost of four days.
 
 ## Templates: The Question Bank, Disclosure, and Fit Check
 
 **The self-assessment question bank.** Ask in this order.
 
 1. "Are you a legal adult where you live?" Yes / No → No: the education lane, nothing stored.
-2. "Which age band are you in?" 18–24 / 25–34 / 35+ → Read only in aggregate, for the buyer mix; never a tag.
+2. "Which age band are you in?" 18–24 / 25–34 / 35+ → Aggregate only; never a tag.
 3. "What do you want to change, in your own words?" → Read by you, never a tag.
 4. "What have you tried, and for how long? Did anything you bought promise to change your face?" → His history; a failed promise sets the Burned Struggler state tag.
 5. "What are you measuring now?" Nothing / Photos sometimes / A log → The provisional read.
@@ -334,13 +342,13 @@ Answer from your records for your last 30 eligible leads.
 
 **Early.** Reach binds, so every eligible adult who finishes the door earns a personal reply within hours and a free conversation. The priority tier is the only paid assessment open from month 0, for the Optimizer who would rather pay than wait. The trap is adding a fee or a paid overflow because the week feels full. A full week with few held conversations is a reach problem, and friction makes it worse.
 
-**Growing.** The Call Cap starts to bind, and the overflow opens once most weeks run above 6–8 held conversations. Reserve the free slots by tag and send the rest to the Decision Assessment, judged on the economics after 30 events. The trap is booking first come, first served, so buyers who'd decide the same way in writing take the hours your uncertain buyers needed.
+**Growing.** The Call Cap starts to bind, and the overflow opens once most weeks run above 6–8 held conversations. Reserve the free slots by tag and send the rest to the Decision Assessment. The trap is booking first come, first served, so buyers who'd decide the same way in writing take the hours your uncertain buyers needed.
 
 **Scaling.** Care minutes bind, so assessments go async-first, the cap tightens below 6–8, and most enrollments come without a call. The trap is a plan template that has quietly stopped saying "don't buy". Read your recommendation mix each quarter, because a mix with no refusals means the plans have become pitches.
 
 ## Standard Check
 
-- **The pause route in every machine.** A distress or checking item, a "can't afford", or a fit-check pause writes one content-free tag that every marketing send, from sequences and date sends to unfinished-checkout notes and the weekly letter, and every checkout obeys for 60–90 days. That's the line on vulnerability carried into automation, including the pay button.
+- **The pause route in every machine.** A distress or checking item, a "can't afford", or a fit-check pause writes one content-free tag that every marketing send and every checkout obeys for 60–90 days. That's the line on vulnerability carried into automation, including the pay button.
 - **Checks before money, the fork before data.** The fork keeps nothing from a minor, a minor found later is refunded and deleted, and no pay button appears before the question and the Fit Check. All three hold the line on vulnerability by design.
 - **A decision, never a verdict on his face.** The written plan makes one firm recommendation (*Close*), may say "don't buy", and never rates his face or offers a medical opinion (the line on structural claims). The published mix and the plan-usefulness refund let a buyer check that it earned its fee.
 
@@ -353,7 +361,7 @@ Answer from your records for your last 30 eligible leads.
 - Speed to lead: a reply within hours, a booking within 24–48 hours, a reminder, a held conversation.
 - The written plan earns its fee without a purchase, and its one recommendation may be "don't buy".
 
-**The door's routes**, in order: age → fit → money → the hour → one recommendation.
+**The door's routes**
 
 | What he shows | Where it routes |
 |---|---|

@@ -110,7 +110,7 @@ Monthly entry adds no call load until about 12–15 concurrent clients, because 
 
 **Starts add clients, not calls.**
 
-The one change comes at about 12–15 concurrent clients, when a single call gets crowded and mixed. A man in his baseline week and a man preparing for his week-12 re-assessment need different things from the same hour. So split the call by stage, one for the early weeks and one for the later weeks. New clients always join the early call, so the split holds as starts keep coming, at about 2 hours of calls a week through Growing.
+The one change comes at about 12–15 concurrent clients, when a single call gets crowded and mixed, so split it by stage. New clients always join the early call, so the split holds as starts keep coming, at about 2 hours of calls a week through Growing.
 
 ### Caps, waitlists, cash, and evidence follow the month
 
@@ -185,19 +185,23 @@ It does three jobs. It makes the cap auditable, which a skeptic needs before any
 
 ### Status is stated when it could change his start
 
-Before a start closes, state seat status as a fact when it's informative, and let your own records set the line. Count how many buyers usually join a start in the fortnight before it closes, across your last few starts. Once the seats left fall to that number, waiting could cost him this start, so the count goes on the page and into the reminder. Above it, "[2] of [8] taken" tells him nothing and reads like a plea.
+Before a start closes, state seat status as a fact only when it's informative, and let your records set the status line: your usual last-fortnight intake, the buyers who join a start in the two weeks before it closes, across your last few starts. Once the seats left fall to that number, waiting could cost him this start, so the count goes on the page and into the reminder. Above it, a count tells him nothing and reads like a plea.
 
-Status is always an exact count, never "almost full". You update it by hand, never through a live counter, because a counter that ticks by itself is a pressure device whatever it counts. This buyer has watched counters tick on pages where nothing was real. The cap behind the count changes only when Seat Math does, because a cap tuned to the week is an invented seat count with a spreadsheet behind it.
+Run it on numbers. Say your last four starts took [2], [4], [3], and [3] buyers in their last fortnight, so the line sits at [3]. An [8]-seat start with [4] taken has [4] left, more than a last fortnight usually takes, so the page shows no count. At [5] of [8], a man who waits could lose this start, so "[5] of [8] seats taken" goes on the page and into the reminder.
 
-### Founding seats are the first real scarcity
+Status is always an exact count, never "almost full". You update it by hand, never through a live counter, because a counter that ticks by itself is a pressure device whatever it counts. The cap behind the count changes only when Seat Math does, because a cap tuned to the week is an invented seat count with a spreadsheet behind it.
 
-Founding seats are the first real scarcity you have, so state them with conviction. Their number, n, is founding Seat Math: the review hours your Early week protects, divided by the 30–35 all-in minutes a founding client-week takes at 1:1-level review. The founding price has a stated end, a dated Price Step on a start, announced at least 30 days out, with the next price on the page from day one. How the founding group runs belongs elsewhere (Module 9); the calendar owns the number and the end.
+### A thin first line, published plainly, earns trust
 
-When the seats fill before the step, say so as plainly as you stated the number. "Founding seats are full; the [Month] start opens at $[next], with [6] seats" passes every test of the Launch Line. The next start is buyable at a price published from day one, n came from capacity math, nothing ramped, and the founding price was never a window price, because its end was scheduled. Your first history lines will be thin, [1] of [4] in a founding month. Publish them anyway, because a record that starts small and honest is the only kind that counts later.
+Founding seats are the first real scarcity you have, so state them with conviction. Their number, n, is founding Seat Math: the review hours your Early week protects, divided by the 30–35 all-in minutes a founding client-week takes at 1:1-level review. The founding price ends on a dated Price Step, announced at least 30 days out, with the next price on the page from day one. How the founding group runs belongs elsewhere (Module 9); the calendar owns the number and the end.
 
-**When the signals disagree.** A week before the [May] start, [3] of [8] seats are taken, your reserve has dropped under a month of costs, June's step is announced, and your close rate has slipped out of range. The step's own condition says price shouldn't rise while conversions slip. The announcement says it must. The reserve says to push May.
+Cole *(composite operator)* closes his [January] start with [1] of [4] founding seats taken. He posts that line in the row format every later start will use. One sentence sits above the table: "Seats come from the review hours I can give each client, and every start is listed here when it closes, full or not." The next start sits beside it with its date and price. To a skeptic that row is the most believable one on the page, because no invented history starts at [1] of [4], and [February]'s line will sit under it in the same format. Left alone: a cap cut to read full, a waitlist for a start with open seats, and any line about demand.
 
-Land the June step as announced. Some buyers chose May to beat it and others chose June knowing it, and canceling would reward the second group, punish the first, and teach both that your dates move. The condition still does its real job: it blocks the next announcement until the close rate is back in range. Run May as announced, with its one reminder and no seat count, and publish [3] of [8] when it closes. Close the cash gap through costs, never through a send, and read the close rate as the real signal: find the leak in the door or the call before you announce another step.
+When the seats fill before the step, say so as plainly as you stated the number. "Founding seats are full; the [Month] start opens at $[next], with [6] seats" passes every test of the Launch Line, because n came from capacity math and the founding price's end was scheduled.
+
+**When the signals disagree.** A week before the [May] start, [3] of [8] seats are taken and your reserve has dropped under a month of costs. Three moves would each look better by Friday: a count on the page ("only [5] left"), a cap cut to [4] so the start reads [3] of [4], and a quiet gap where May's Fill History line should be. The status line says no count, since [5] seats left is above the [3] your starts usually take in their last fortnight. The cap is Seat Math's, and Seat Math hasn't changed. And the history is worth something only because its thin lines are in it.
+
+So May runs as announced, with its one reminder and no seat count, and [3] of [8] goes up when it closes. Close the cash gap through costs, never through a send. A thin start is information about reach or the door, so read it there.
 
 ## 6. Announcing Dates
 
@@ -239,9 +243,9 @@ Expect New-Year intent, and hold the cap. January is the biggest landmark most p
 
 ## Worked Example: Cole's Six-Month Calendar
 
-Cole *(composite operator)* is in Growing, with [~18] clients running, the Program at [$2,100] in its opening price band, and monthly entry in place since his founding group. In the last week of September he sets the next six starts in one sitting.
+Cole is in Growing, with [~18] clients running, the Program at [$2,100] in its opening price band, and monthly entry in place since his founding group. In the last week of September he sets the next six starts in one sitting.
 
-**Late September. The calendar.** Starts sit on first working Mondays, which moved September's past the holiday. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The October announcement went out on the September start day, when August had closed at [8] of [8] with his close rate in range, so it carried the November step to [$2,200], the top of the opening band. September then closed thin, [4] of [8], but no step reads it. The candidates are January and March, and January would enter the proof band, so it also needs the proof milestone.
+**Late September. The calendar.** Starts sit on first working Mondays. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The October announcement went out on the September start day, when August had closed at [8] of [8] with his close rate in range, so it carried the November step to [$2,200], the top of the opening band. September then closed thin, [4] of [8], but no step reads it. The candidates are January and March, and January would enter the proof band, so it also needs the proof milestone.
 
 | Start | Seats | Price | Step gate, read at send time |
 |---|---|---|---|
@@ -260,7 +264,7 @@ That's a feeling, so December stays the recommendation. Dan names what another m
 
 **Late November. One row, run test by test.** Building the December reminder, Cole runs the Launch Line. January is on the page with its dates, seats, and price: yes. December's date has sat on the calendar since September, its cap from Seat Math: yes. His email tool's template adds a countdown block and an extra send, failing the widget rule and the third test, so both go: yes. Nothing comes with December that won't come with January except the price, through an announced step: yes. "December is full" would name January: yes.
 
-**December and January. New-Year intent.** December closes full as well, so the February announcement, sent on the January start day, carries the March step, which adds [48-hour] review turnaround, down from [72]. By [December 21] January stands at [7] of [8], one seat left against the [3] buyers who usually join in a start's last fortnight, so the count goes on the page and into the reminder. January fills, [2] buyers take February seats, and the cap stays at [8], because Seat Math hasn't changed.
+**December and January. New-Year intent.** December closes full as well, so the February announcement, sent on the January start day, carries the March step, which adds [a printed capture guide]. By [December 21] January stands at [7] of [8], one seat left against the [3] buyers who usually join in a start's last fortnight, so the count goes on the page and into the reminder. January fills, [2] buyers take February seats, and the cap stays at [8], because Seat Math hasn't changed.
 
 **February and March. A thin start, held.** February closes at [5] of [8], [2] of them carried from January, and its Fill History line says so. The March step lands as announced, because its gate was December's close. When the April announcement goes out on the March start day, February is the last closed start, so it carries no May step.
 

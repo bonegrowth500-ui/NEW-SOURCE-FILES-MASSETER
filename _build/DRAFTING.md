@@ -149,3 +149,4 @@ File path and word count; audit result (FAILs remaining should be zero); the thr
 - **Result email (round 6):** the result and one next step; a quiet footer line may link the Verify Page (how we work, prices, terms).
 - **Composite continuity (Step 4):** a composite's sketch is fixed (age, state, background, situation); each module's events are its own illustration, not a continuing timeline, unless a module explicitly continues another's story (as 20 → 21 → 22 follow one April start). Adjacent modules that read as one story must agree. The Intro states this convention.
 - **Pause gloss (Step 4):** "a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once".
+- **Price Step gate (Step 4, R4-4):** the close rate is read over the 30 held conversations since the last step was announced; until 30 exist, filling starts carry a step alone, at the bottom of the range.
