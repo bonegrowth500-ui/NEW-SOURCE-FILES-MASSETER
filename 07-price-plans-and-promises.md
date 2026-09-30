@@ -3,10 +3,10 @@
 
 **The shift:** from *"Price by gut, discount to close, and treat guarantees as a risk"* to *"Price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."*
 
-In his second year, Cole *(composite operator)* has a full [May] start: [8] seats taken and [3] names on the waiting list. His [July] start is priced [about 8%] higher, and the whole case for that step fits in three lines:
+In his second year, Cole *(composite operator)* has a full [June] start: [8] seats taken and [3] names on the waiting list. His [August] start is priced [about 9%] higher, and the whole case for that step fits in three lines:
 
-1. Before the step: [8] seats × [$2.6k] = [$20.8k] a start.
-2. After it: [8] seats × [$2.8k] = [$22.4k], because the [one or two] buyers the step loses are replaced from the waiting list.
+1. Before the step: [8] seats × [$2.2k] = [$17.6k] a start.
+2. After it: [8] seats × [$2.4k] = [$19.2k], because the [one or two] buyers the step loses are replaced from the waiting list.
 3. What the extra [$1.6k] costs him: processing, about [$50]. The rest is profit.
 
 At capacity, a step that loses a smaller share of buyers than its percentage flows almost entirely to profit, because the seats still fill. In a half-empty month the same step is a different bet. A discount is a bad bet in any month, because a slashed price and a countdown are how this category's grifters sell.
@@ -94,11 +94,11 @@ Those are the **Price Steps**, and three rules run them.
 
 ### The gate decides what you announce, and an announcement always lands
 
-Plan steps of about 5–10% every second start. Before you announce one, check two conditions: your starts are filling, and your close rate over the 30 held conversations since the last step landed sits inside its range, 15–35% before proof and 25–45% with it. If both hold, announce the step at least 30 days out, inside the announcement for the start before it. From then on it lands, whatever the next start looks like, because a step that reverses teaches every future buyer to wait. The conditions decide only whether you announce the next one.
+Plan steps of about 5–10% every second start. Before you announce one, check two conditions: your starts are filling, and your close rate over the 30 held conversations since the last step was announced, when buyers first saw its price, sits inside its range, 15–35% before proof and 25–45% with it. If both hold, announce the step at least 30 days out, inside the announcement for the start before it. From then on it lands, whatever the next start looks like, because a step that reverses teaches every future buyer to wait. The conditions decide only whether you announce the next one.
 
-Until 30 conversations have been held at the new price, the close rate can't be read, so filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call (Module 19).
+Until 30 have been held since that announcement, the close rate can't be read, so filling starts carry the step alone. Once the window is readable, one window below range holds the next announcement, and two send the work to the call (Module 19).
 
-Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every recent start has filled. Under 30 held conversations the rate can't size a step, so a step that filling starts carry alone takes the bottom of the range.
+Size each step by the evidence: the bottom of that range when your close rate sits in the lower half of its own, the top when it sits in the upper half and every start since the last announcement has filled. Under 30 held conversations the rate can't size a step, so a step that filling starts carry alone takes the bottom of the range.
 
 An announced step is also one of his Decision Points, the real dates every assessed buyer meets within a few weeks (Module 8). So his written recap names today's price, the next one, and the start it applies to, once, as a plain fact. A buyer who drifts past a step he never heard about was failed by your silence. You let him treat waiting as free when you knew it wasn't.
 
@@ -133,7 +133,7 @@ A payment plan decides who can say yes, so it's where the line on vulnerability,
 So your plan earns nothing and ends before delivery does. Plans at Cost, the rules that keep a plan from becoming a loan, come to six:
 
 - Your own installments only, at most three, all due inside delivery. No lender and no buy-now-pay-later, because the affordability question rules out new credit.
-- A premium of 0–5%, covering processing and part of the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.95k] in full, or three payments of [$670], [$2.01k] in total."
+- A premium of 0–5%, covering processing and part of the 3–8% of plan revenue short plans tend to leave uncollected, stated as one total: "[$1.73k] in full, or three payments of [$600], [$1.8k] in total."
 - Each installment at or below about a third of his monthly take-home.
 - The affordability question again, word for word, at the plan step. A no ends money talk and sets the pause route, a content-free tag that holds every marketing send and blocks checkout for 60–90 days, then asks permission once, so nothing he receives carries a price, an offer, or a date.
 - No plan after a Fit Check signal. The Fit Check, the plain-language check before any paid step, triggers the signal pause: nothing paid that day, expectations in writing, 72 hours or more to cool off, and no plan (Module 5).
@@ -228,7 +228,7 @@ A dispute costs you the charge, a fee, and a mark on that ratio, and most proces
 
 ### One dispute, read from the record
 
-A [$2.1k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message to Cole first. At checkout the client accepted the terms, with the Path and Timeline Card above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
+A [$1.82k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message to Cole first. At checkout the client accepted the terms, with the Path and Timeline Card above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
 
 The read: no layer fits, since his fit window has closed, he never asked to stop, and everything arrived as described, on time. The default is to contest with the terms he accepted, the page as he saw it, and the timestamps, and to send him one plain message naming what his terms still give him. The evidence never includes his captures or his baseline-day reasons. Had the record shown a gap, such as a late review without its credit, the default flips to refund, since you'd lose on your own record. Left alone: any argument about his effort, and a counter-offer. Dispute rules and evidence deadlines differ by processor and country, so they sit on your Risk Register.
 
@@ -246,21 +246,21 @@ That last rule protects the standard too. An operator who needs this month's enr
 
 Cole starts in January with a door, a founding page, and his guarantee and plan terms written before his first price. Here is the steady kind of year you should plan on, at seven decision points.
 
-**Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one], so its first charges are small installments, and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
+**Month 1. The first price.** No graduates, no ranges, open seats: credibility binds, and neither capacity nor cash does. He prices the founding group at [$1.5k] with its stated end, [$1.65k] from the [March] start, the one step he announces before any gate can be read. He opens his processor in week [one] and sets his brand's name as the descriptor. All six guarantee layers and the plan terms go on the page: three payments of [$515], [$1.55k] in total. Left alone: a "premium" price, and any bonus.
 
 **Month 2. A plan declined.** Sam *(composite, Ambivalent)*, 22, an apprentice electrician, answers one Fit Check question with a signal: [a consultation is booked]. The signal pause runs as written, and when he comes back asking for three installments, Cole declines the plan by the rule, in one plain line. Sam says "after the busy season" and takes the reading-only Starter Path, with no capture tools and no paid tool, and any return is his own reply.
 
-**Month 4. The first gated step.** By [April], [30] held conversations stand behind a close rate of [~27%], in the upper half of 15–35%, and his starts are filling. He announces [$1.8k] for [May], [five] weeks out, a step at the top of the range, naming [a second group-call time] as the addition.
+**Month 4. The first gated step.** On the [March] start day, [~20] held conversations are too few to read, and neither founding start filled, so no step goes out. By the [April] start day, [32] stand behind a close rate of [~17%], inside 15–35% but in its lower half, and March has filled its [2] seats. So the May announcement carries a [June] step at the bottom of the range, [$1.73k], naming [a second group-call time].
 
-**Month 5. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] days, offers the feedback conversation once, and makes no counter-offer. Adrian declines the call, and the refund joins the rolling claim counts.
+**Month 5. A fit-window refund.** Adrian *(composite, Optimizer)*, 31, a consultant, writes on day [9] that his travel won't allow a weekly check-in. Cole refunds him in full within [2] days, offers the feedback conversation once, and makes no counter-offer.
 
-**Month 8. An exit right paid.** Maya *(composite, welcome, not targeted)*, 28, a product designer, joined the [July] start at [$1.95k] on three payments of [$670], [$2.01k] in total. She has logged [39 of 42] days when a new role moves her to [night shifts], and two days after her week-6 read she asks to stop. She did the work, so the exit right applies: six of twelve weeks are undelivered, and she owes [$1,005] for the six she had. She has paid [$1,340], so her third payment is cancelled and [$335] comes back within [5] days. Nobody quotes her baseline reasons back to her.
+**Month 8. An exit right paid.** Maya *(composite, welcome, not targeted)*, 28, a product designer, joined the [July] start at [$1.73k] on three payments of [$600], [$1.8k] in total. She has logged [39 of 42] days when a new role moves her to [night shifts], and two days after her week-6 read she asks to stop. She did the work, so the exit right applies: six of twelve weeks are undelivered, and she owes [$900] for the six she had. She has paid [$1,200], so her third payment is cancelled and [$300] comes back within [5] days. Nobody quotes her baseline reasons back to her.
 
-**Month 9. A thin start.** The [September] start, the first at [$2.1k], fills [4] of [8] seats. The [November] step went out on September's start day, before that fill was known, so it lands, and the thin start is published like any other. The next step waits for a start that fills. Left alone: a discount, and a "last chance" email.
+**Month 9. A thin start.** The [September] start, at [$1.82k], fills [4] of [8] seats. The [October] step to [$1.91k] went out on the August start day, before that fill was known, so it lands, and the thin start is published like any other. As the last start to close on the October start day, it holds that day's announcement, so no December step goes out. Left alone: a discount, and a "last chance" email.
 
-**Month 11. The proof milestone.** His [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. October filled and his close rate holds. So on the [November] start day, as the Program moves to [$2.2k], the December announcement carries [$2.4k] for [January], the first price inside the proof band, naming [a recorded walkthrough of the week-12 re-assessment] that only January's buyers get.
+**Month 11. The proof milestone.** His [eleventh] graduate consents to a process testimonial, and the first outcome ranges go up as a labeled small sample, with denominators that count every graduate. October filled, and since the August start day his close rate reads [~28%], in the upper half. September's thin start still holds the size to the bottom: on the [November] start day, the December announcement carries [$2k] for [January], naming [a recorded walkthrough of the week-12 re-assessment].
 
-**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, and the thin start cost him a check, never a reversal. At month 12 his Program sits at [$2.2k] and his revenue at about [$13–16k] a month, with the proof-band step landing on his second year's first start.
+**What it shows.** Every rise in Cole's price came from a step his buyers saw coming, sized by his own numbers, and the thin start cost him a step, never a reversal. At month 12 his Program sits at [$1.91k] and his revenue at about [$13–16k] a month, and the proof band waits for year 2.
 
 ## Templates: Price Setting and the Step Block
 
@@ -276,7 +276,7 @@ Fill it in before you set a price and before you announce a step, using planning
 | 4. Care minutes per client-week | [ ] | ~30–35 early; ~18–20 Growing; ~13–15 Scaling |
 | 5. Revenue per care hour | [$ ] | Price ÷ (12 × line 4 ÷ 60); ~$800 at proof prices in Growing |
 | 6. Proof milestone met? | [yes/no] | ≥10 graduates with consented process testimonials, plus first ranges |
-| 7. Close rate, 30 held since the last step | [ %] | Inside 15–35% before proof, or 25–45% with it? |
+| 7. Close rate, 30 held since the last announced step | [ %] | Inside 15–35% before proof, or 25–45% with it? |
 | 8. Recent starts filled? | [yes/no] | Seats taken at each recent start |
 | 9. Proposed price | [$ ] | ~5% (line 7 in the lower half) to ~10% (upper half); under line 2; inside the band line 6 allows |
 | 10. What was added | [ ] | Only buyers from that start get it; nothing published is cut |

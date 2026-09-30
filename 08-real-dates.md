@@ -142,7 +142,7 @@ On the call, the point becomes his Decision Date, the personal date he agrees to
 
 The Price Steps are small scheduled rises that always happen while starts fill and close rates hold, each naming what was added and announced at least 30 days ahead (Module 7). When they land is the calendar's call. A step lands on a start, never between starts, so every quoted price belongs to a specific start. In Growing it lands every second start and rides inside the announcement for the start before it, clearing the 30-day minimum without a send of its own.
 
-Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. That rate is read over the 30 held conversations since the last step, once 30 exist. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
+Its conditions are read at send time, from the last start to close: whether that start filled, every seat taken by the end of its late-entry window, and whether your close rate sits in range. That rate is read over the 30 held conversations since the last step was announced, once 30 exist. Once announced, a step happens whatever the next fill brings, because a canceled step is a deadline that moved. And the price belongs to the start he joins, whenever he pays. That closes the last way a step could become a window price, and it aims the step's force at starting sooner, which is also how he stops guessing sooner.
 
 ### Credit is held, never a deadline
 
@@ -201,7 +201,7 @@ When the seats fill before the step, say so as plainly as you stated the number.
 
 **When the signals disagree.** A week before the [May] start, [3] of [8] seats are taken and your reserve has dropped under a month of costs. Three moves would each look better by Friday: a count on the page ("only [5] left"), a cap cut to [4] so the start reads [3] of [4], and a quiet gap where May's Fill History line should be. The status line says no count, since [5] seats left is above the [3] your starts usually take in their last fortnight. The cap is Seat Math's, and Seat Math hasn't changed. And the history is worth something only because its thin lines are in it.
 
-So May runs as announced, with its one reminder and no seat count, and [3] of [8] goes up when it closes. Close the cash gap through costs, never through a send. A thin start is information about reach or the door, so read it there.
+So May runs as announced, with its one reminder and no seat count, and [3] of [8] goes up when it closes. Close the cash gap through costs, never through a send, and read the thin start as news about reach or the door.
 
 ## 6. Announcing Dates
 
@@ -243,22 +243,22 @@ Expect New-Year intent, and hold the cap. January is the biggest landmark most p
 
 ## Worked Example: Cole's Six-Month Calendar
 
-Cole is in Growing, with [~18] clients running, the Program at [$2,100] in its opening price band, and monthly entry in place since his founding group. In the last week of September he sets the next six starts in one sitting.
+Cole is in Growing, with [~18] clients running, the Program at [$1,820] in its opening price band. In the last week of September he sets the next six starts in one sitting.
 
-**Late September. The calendar.** Starts sit on first working Mondays. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The October announcement went out on the September start day, when August had closed at [8] of [8] with his close rate in range, so it carried the November step to [$2,200], the top of the opening band. September then closed thin, [4] of [8], but no step reads it. The candidates are January and March, and January would enter the proof band, so it also needs the proof milestone.
+**Late September. The calendar.** Starts sit on first working Mondays. Seat Math gives [8] seats a start, each row carries its last day to join, and each start is announced on the previous start's day. Steps run every second start, gated at send time by the last start to close. The September announcement went out on the August start day, when July had closed full with his close rate in range, so it carried the October step to [$1,910]. September then closed thin, [4] of [8], and the October start day's read will find it, so no December step goes out. The candidates are January and March.
 
 | Start | Seats | Price | Step gate, read at send time |
 |---|---|---|---|
-| October | [8] | [$2,100] | No step due |
-| November | [8] | [$2,200] | Announced on the September start day: August closed full |
-| December | [8] | [$2,200] | No step due |
-| January | [8] | [$2,400] | October's close, read on the November start day, plus the proof milestone |
-| February | [8] | [$2,400] | No step due |
-| March | [8] | [$2,600] | December's close, read on the January start day |
+| October | [8] | [$1,910] | Announced on the August start day: July closed full |
+| November | [8] | [$1,910] | No step due |
+| December | [8] | [$1,910] | Held on the October start day: September closed thin |
+| January | [8] | [$2,000] | October's close, read on the November start day |
+| February | [8] | [$2,000] | No step due |
+| March | [8] | [$2,100] | December's close, read on the January start day |
 
-**Mid-October. October closes full.** October fills [8] of [8] by the end of its late-entry window, Cole's close rate sits in range, and by the November start day his proof milestone is met. So the December announcement, sent that day, carries the January step into the proof band, which adds [a recorded walkthrough of the week-12 re-assessment].
+**Mid-October. October closes full.** October fills [8] of [8], and his close rate since the August start day sits in the upper half. So the December announcement, sent on the November start day, carries the January step, adding [a recorded walkthrough of the week-12 re-assessment]. September's thin start holds it to the bottom of the range, [$2,000], and though his proof milestone is met that month, no single step reaches the proof band from [$1,910].
 
-**Mid-November. Dan's decision point.** Dan *(composite, Struggler)* finishes a Decision Assessment, and the written plan recommends the Program and states the credit terms, once. He reaches for the biggest landmark in view: "January. New year, clean start." Cole states the month and the step once: December starts in under three weeks and is the last start at [$2,200], and January is [$2,400]. Then he asks what changes in January. "Nothing, really. It just feels like the start of something."
+**Mid-November. Dan's decision point.** Dan *(composite, Struggler)* finishes a Decision Assessment, and the written plan recommends the Program and states the credit terms, once. He reaches for the biggest landmark in view: "January. New year, clean start." Cole states the month and the step once: December starts in under three weeks and is the last start at [$1,910], and January is [$2,000]. Then he asks what changes in January. "Nothing, really. It just feels like the start of something."
 
 That's a feeling, so December stays the recommendation. Dan names what another month of [his current routine] without a baseline would cost: "Another month of wondering whether any of it's doing anything." Cole asks for the seat. Dan wants a week, agrees a Decision Date [a week out], well before December's last day to join, and gets a recap naming the date, the start, and the price. On that date he enrolls. Had he held to January after hearing it once, Cole would have dated January then and there.
 

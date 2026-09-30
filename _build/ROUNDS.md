@@ -140,7 +140,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | Part | Modules | 4.1/4.2 agent | 4.1 | 4.2 | 4.3 |
 |---|---|---|---|---|---|
 | I | 01–03 | a69397451ac2b294c | ✅ (53 fixes; 22,562→22,666 w) | ✅ (→22,921 w) | — |
-| II | 04–08 | ae99d68d8580404c2 | ✅ (63 fixes; 37,497→38,049 w) | ✅ (→38,280 w); path v2 in progress | — |
+| II | 04–08 | ae99d68d8580404c2 | ✅ (63 fixes; 37,497→38,049 w) | ✅ (→38,280 w; path v2 applied to 07/08) | — |
 | III | 09–13 | addd2084fdea6cac5 | ✅ (62 fixes; 38,109→38,252 w) | ✅ (→38,276 w) | — |
 | IV | 14–17 | a33211842cf29b5bb | ✅ (47 fixes; 30,309→30,267 w) | ✅ (→30,594 w) | — |
 | V | 18–22 | abf82a230c415badb | ✅ (42 fixes; 37,722→37,963 w) | ✅ (→38,401 w; 18, 19 within 10 w of cap) | — |
@@ -156,3 +156,12 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 4.1 II: 'Stop Rules' capitalized when naming the set (◆), lowercase for one rule; sweep in 4.3. Cole's year-1 price path: 08's brackets align to 07's (07 owns price); canonical path to be logged for 28. Stale open issues in summaries 10, 13, 17, 20, 26, 27 cleared in 4.3. All six Parts through 4.1 (total fixes 312).
 - 4.2 decision (from Part I): Cole's month 8 becomes a screening fix at [4–5] held a week (Band B can't reach the Call Cap's volume trigger by month 8; LEDGER A3; 12's lead counts). No cap at month 8; the cap waits for volume. Fixes sent to 01 (Part I), 04 (Part II), 12 (Part III). LEDGER B derived row adds per-seat care-hour revenue at $50k (Program ≈ $1,200; Program Async ≈ $1,450).
 - 4.2 II flags: gate window counts from the last step's announcement (R4-4; LEDGER B); 07's May step illegal on 09's numbers, so path v2 is being written by Part II (07 owns price); 18's December step, 07-vs-09 composite events, and other modules' Cole prices go to 4.3. DECISIONS R4-1 to R4-7 logged.
+
+| Part | 4.3 reconciler |
+|---|---|
+| I | a1d25c08e574a8f8f |
+| II | a0812d3d5294c769d |
+| III | acc3ec691c0478adc |
+| IV | a993ff82a79063c4c |
+| V | ab82335afa5d93b3c |
+| VI | a74976bd53fe4c9fc |
