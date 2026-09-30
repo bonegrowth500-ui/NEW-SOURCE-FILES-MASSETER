@@ -165,7 +165,7 @@ It reads his record, never his face: his answers, what he's tried and bought, hi
 
 His decision point follows Decision Points, the rule that every assessed buyer meets a real one within about 2–4 weeks. That's a start's last day to join, the end of its second week, or an announced price step, and he gets one check-in on that date. If the plan wasn't useful, the plan-usefulness refund returns his fee on a short written request (Module 7).
 
-The credit is one term, written on the plan once and never beside a date. The fee counts toward a program if he joins, held about 90 days, or up to about 12 months after a "not now".
+The credit is one term, written on the plan once and never beside a date. The fee counts toward a program if he joins, held about 90 days, or up to about 12 months after any advice not to buy now.
 
 ### Six parts, each worth keeping
 
@@ -210,7 +210,7 @@ The written plan is the assessment's deliverable. Every part passes one test: wo
 
 We never read or score your face. Refunded if this plan wasn't useful: [how to ask].
 Credit, stated once: your fee counts toward a program if you join. It's held about
-90 days, or, after a "not now", until you enroll, for up to about 12 months. It's
+90 days, or, after advice not to buy now, until you enroll, for up to about 12 months. It's
 never a reason to decide sooner.
 ```
 
@@ -323,7 +323,7 @@ Signals are "many times a day", "often" on 2 or 3, a booked consultation, and "[
 >
 > Re-check date: [three months out]. If your goal has moved toward how you come across, reply.
 >
-> We never read or score your face, and this fee is refunded if the plan wasn't useful. Credit, stated once: your fee counts toward a program if you ever join, held about 90 days, and it's never a reason to decide sooner.
+> We never read or score your face, and this fee is refunded if the plan wasn't useful. Credit, stated once: your fee counts toward a program if you ever join, held up to about 12 months, and it's never a reason to decide sooner.
 
 ## Checklist: Speed to Lead
 

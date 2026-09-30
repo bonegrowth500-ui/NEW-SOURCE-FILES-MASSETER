@@ -325,7 +325,7 @@ Then return to the decision. Show the tiers premium first and recommend one, the
 
 It's true on day one, wherever it's posted:
 
-> **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates as a labeled small sample, flat results included. Client photos stay private. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
+> **What my face does and doesn't prove.** My face isn't evidence that this works, for you or anyone, and it isn't evidence that it doesn't. It's one face, with no matched baseline, genes I didn't choose, and a seller's reason to look good. It's here so you know who's accountable for every claim and every review. The evidence is my dated log, on the schedule I committed to in [month 1]: process counts from the start, first outcome ranges at 10 graduates as a labeled small sample, flat results included. Client photos stay private without written consent. You'll never see my profile in a thumbnail, a before/after of me, a filter, a flattering jaw light, or a story that my face proves the method.
 
 Update the evidence sentence as the log grows, so the statement never runs ahead of the record.
 
@@ -339,12 +339,13 @@ Update the evidence sentence as the log grows, so the statement never runs ahead
 4. Does the review disclosure match this month's tools and templates? → If not, update it before the next review.
 5. Past about 30 assessments, does the published mix include "don't buy"? → A mix with no refusals means your plans have become pitches.
 
-**Vocabulary swaps.** Run on every page, template, script, caption, and auto-reply:
+**Vocabulary swaps.** Run on every page, template, script, and caption:
 
 1. Does any word from the out list appear outside quotation marks, even negated? → Swap it per the table.
 2. Does a bio, display name, or product name wear a title, even a real one? → Rename it; the exact title lives only inside the fact.
-3. Does any reply name a condition, however kindly? → Keep the validation, drop the label, and refer if a trigger is there.
+3. Does any reply name a condition, however kindly? → Keep the validation, drop the label, and refer if a trigger applies.
 4. Did a buyer or client use a clinical word back to you this month? → Find the surface he learned it from.
+5. Did a freelancer's caption or edit add a word from the out list? → Brief them with the table.
 
 ## Stage Notes
 

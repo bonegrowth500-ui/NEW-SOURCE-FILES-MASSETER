@@ -146,7 +146,7 @@ Its conditions are read at send time, from the last start to close: whether that
 
 ### Credit is held, never a deadline
 
-The Decision Assessment, your paid written plan at $150–250, credits its fee toward the Program, and the written plan states those terms once. The credit is held for about 90 days, at least the next two starts, so a buyer who wants the start after next keeps it without watching a clock. After a "not now" or a recommendation to the Starter Path, your free path for anyone who shouldn't buy yet, it holds until he enrolls, capped at about 12 months. A credit that lapsed while he followed your advice would punish him for taking it.
+The Decision Assessment, your paid written plan at $150–250, credits its fee toward the Program, and the written plan states those terms once. The credit is held for about 90 days, at least the next two starts, so a buyer who wants the start after next keeps it without watching a clock. After a "not now", a "don't buy", or a recommendation to the Starter Path, your free path for anyone who shouldn't buy yet, it holds until he enrolls, capped at about 12 months. A credit that lapsed while he followed your advice would punish him for taking it.
 
 A deadline built on money he has already paid turns his own payment into the pressure. The client at the low end of his range would point to "use your credit before it expires" as the push, and he'd be right. It would also cross the line on vulnerability, which rules out pitches built on money he has already lost. So the credit never appears in a send, in a recap, or beside his Decision Date as a reason to decide.
 
