@@ -56,7 +56,7 @@ He logs his days and submits one check-in on a fixed day, whatever the week held
 
 ### Dan's first month shows the rhythm catching a slide
 
-Dan's check-in is due Sunday at [8 pm]. His review arrives by Tuesday at [8 pm], the [48]-hour point in his written terms. In week 1 he logs [6] of [7] days and rates his effort [4] of [5], and the review states that count back as a fact from his record, never a label, since his fit window is still open. Week 3 is different: the log shows [3] of [7] days and one blocker, [warehouse overtime]. Under "message me anytime", this is the week he goes quiet, because a man who has just missed half his week doesn't volunteer it.
+Dan's check-in is due Sunday at [8 pm]. His review arrives by Tuesday at [8 pm], the [48]-hour point in his written terms. In week 1 he logs [6] of [7] days and rates his effort [4] of [5], and the review states that count back as a fact from his record, never a label, since his fit window, the early full-refund period, is still open. Week 3 is different: the log shows [3] of [7] days and one blocker, [warehouse overtime]. Under "message me anytime", this is the week he goes quiet, because a man who has just missed half his week doesn't volunteer it.
 
 Under the rhythm he doesn't have to. The check-in is due whether the week went well or not, and on Tuesday the review reads the misses as information: every one fell on an overtime shift. It moves one [habit block] to [before his shift], leaves everything else alone, and asks one question back. On Thursday's call the group hears the pattern without his name. In week 4 he logs [6] of [7], and nobody has said a word about his face, because reviews never read it.
 
@@ -97,7 +97,7 @@ So measurement runs on two schedules. Behavior is logged daily and reviewed week
 
 Nothing in between keeps a noisy weekly signal from being read as progress or failure. It also gives him a reason to retire the daily mirror check. And it protects the proof, because an interim photo under a bathroom light is exactly the unmatched before-and-after this category is known for.
 
-Ask clients to skip interim comparison photos, and read a rising urge to check as a cue for a referral conversation. A free baseline he took before buying stays on his own device, and the first capture you see is the one taken on baseline day.
+Ask clients to skip interim comparison photos. A free baseline he took before buying stays on his own device, and the first capture you see is the one taken on baseline day.
 
 ### A capture means something only when the conditions match
 
@@ -207,7 +207,7 @@ The third shows as the right lever, done and showing up in spot-checks, with cle
 
 ### The week-12 re-assessment ends in a verdict
 
-The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side as observations, scores every marker against its threshold, and writes the verdict. Every paid next step it opens starts with the affordability question.
+The week-12 re-assessment, the end-of-program capture and verdict, sets the matched captures side by side as observations, scores every marker against its threshold, and writes the verdict. Every paid next step it opens starts with the affordability question, whether paying is comfortable without new credit.
 
 | His record at week 12 | Verdict | What's offered |
 |---|---|---|

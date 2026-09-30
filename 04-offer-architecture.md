@@ -101,7 +101,7 @@ This module places the rungs, and each owner in the table designs them. Round Tw
 
 Sam *(composite, Ambivalent)* reached the Program through the net, with his Starter logs counting as his week zero. At week 12 he graduates beside Adrian *(composite, Optimizer)* and Maya *(composite, welcome, not targeted)*. The shape decides what each one hears, and it decides from each record, never from the month's revenue.
 
-Sam's record is still climbing: his adherence clears its threshold, [one marker] has reached its own, and [another] improved across its last two readings. That's measured momentum, adherence met with a marker still improving at week 12, so he hears about Round Two, whose job is more reviewed weeks. Adrian's markers moved and his habits hold, so he's told plainly that he doesn't need Round Two. He wants proof that it lasts, which is the Hold's job, and he takes it at [$39–79] a month.
+Sam's record is still climbing: his adherence clears its threshold, [one marker], a measure set at baseline, has reached its own, and [another] improved across its last two readings. That's measured momentum, adherence met with a marker still improving at week 12, so he hears about Round Two, whose job is more reviewed weeks. Adrian's markers moved and his habits hold, so he's told plainly that he doesn't need Round Two. He wants proof that it lasts, which is the Hold's job, and he takes it at [$39–79] a month.
 
 Maya's markers moved, her habits hold, and she wants no more measuring. She hears about the Hold once, declines, and graduates with her full record, a clean finish the shape counts as a success. Each paid step here starts with the affordability question, and none is offered where the record doesn't call for it.
 

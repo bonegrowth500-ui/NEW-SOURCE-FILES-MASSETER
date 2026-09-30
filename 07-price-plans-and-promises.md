@@ -3,7 +3,7 @@
 
 **The shift:** from *"Price by gut, discount to close, and treat guarantees as a risk"* to *"Price sits under three ceilings and steps up on a schedule, plans are priced at cost, and I guarantee what I control, loudly and collectably."*
 
-In his second year, Cole *(composite operator)* has a full [June] start: [8] seats taken and [3] names on the waiting list. His [August] start is priced [about 9%] higher, and the whole case for that step fits in three lines:
+In his second year, Cole *(composite operator)* has a full [June] start: [8] seats taken and [3] names on the waiting list. His [August] start is priced [about 9%] higher, and the case for that step fits in three lines:
 
 1. Before the step: [8] seats × [$2.2k] = [$17.6k] a start.
 2. After it: [8] seats × [$2.4k] = [$19.2k], because the [one or two] buyers the step loses are replaced from the waiting list.
@@ -17,7 +17,7 @@ Three limits decide how far that arithmetic runs: what the core buyer can pay fr
 
 ## 1. Price as Lever and Signal
 
-Price does two jobs, and which one depends on whether your seats or your buyers run out first. At a 75–85% margin, nearly every extra dollar of price is profit, so a 1% raise lifts profit by about 1.2–1.3% if volume holds. Volume holds when the buyers a step loses get replaced, and it breaks when they leave an empty seat.
+Price does two jobs, and which one depends on whether your seats or your buyers run out first. At a 75–85% margin, nearly every extra dollar of price is profit, so a 1% raise lifts profit by about 1.2–1.3% if volume holds. Volume holds when the buyers a step loses get replaced, and breaks when they leave an empty seat.
 
 ### A full start turns a step into profit
 
@@ -86,7 +86,7 @@ The founding group, every early client in one group from the first, pays a price
 
 ## 3. The Price Steps
 
-Price rises in small steps on a published schedule, and every step you announce lands. A step small enough to lose fewer buyers than its percentage keeps the opening's arithmetic working. A schedule you keep also gives every buyer a real date to plan around. It counts for more here, where moving deadlines and slashed prices are the grift's signature.
+Price rises in small steps on a published schedule, and every step you announce lands. A step small enough to lose fewer buyers than its percentage keeps the opening's arithmetic working. A schedule you keep also gives every buyer a real date to plan around, which counts for more where moving deadlines and slashed prices are the grift's signature.
 
 **Small steps on a published schedule, each naming what was added: the proof milestone opens the proof band, and the cash ceiling closes the top.**
 
@@ -176,7 +176,7 @@ Never on the list: his appearance, the one promise nobody can keep (the line on 
 
 ### The hard choices are settled before he pays
 
-The fit window counts from baseline day, the first day of delivery, because a buyer who paid weeks ahead can't judge fit before it begins. Close it just after his [second] weekly review, inside 14–21 days, so he judges on delivered review. A refund he has to talk his way through is a sales call, and a burned buyer knows that pattern.
+The fit window counts from baseline day, the first day of delivery, because a buyer who paid weeks ahead can't judge fit before it begins. Close it just after his [second] weekly review, inside 14–21 days, so he judges on delivered review. A refund he has to talk his way through is a sales call, and a burned buyer knows it.
 
 The service guarantee pays in money, never in store credit, which pays him nothing unless he buys again. It covers your judgment as well as your clock. When a correction comes from your own review error, a signal in his logs you missed or a plan step you set wrong, the weeks it cost come free, up to 6, never as a paid block, and count in your published claims. They run after week 12, which never moves, with their own read at the end. Full-intensity Round Two is priced as a Program only when the misdirection came from outside your plan.
 
@@ -200,7 +200,7 @@ No consistency device, testimonial ask, or written reason is ever timed to his r
 
 ### A clause counts only if he can collect it
 
-Read every clause as Theo would. He bought a device and a course that both promised structural change, and he reads terms before prices. Here's a clause he'd meet on plenty of coaching pages:
+Read every clause as Theo would. He bought a device and a course that both promised structural change, and he reads terms before prices. Here's a clause from plenty of coaching pages:
 
 > "Complete every check-in, and if you don't see results by week 12, we'll extend your coaching free until you do."
 
@@ -226,7 +226,7 @@ A dispute costs you the charge, a fee, and a mark on that ratio, and most proces
 
 ### One dispute, read from the record
 
-A [$1.82k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message to Cole first. At checkout the client accepted the terms, with the Path and Timeline Card above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
+A [$1.82k] charge from Cole's [September] start comes back in week [5] as "not as described", with no message first. At checkout the client accepted the terms, with the Path and Timeline Card, his one-page path and cost, above the pay button, and answered the affordability question yes. His baseline-day record holds the signed Expectation Document, his written terms, and his markers, and [five] timestamped reviews have gone out inside [48] hours. He has logged [4] of [35] days.
 
 The read: no layer fits, since his fit window has closed, he never asked to stop, and everything arrived as described, on time. The default is to contest with the terms he accepted, the page as he saw it, and the timestamps, and to send him one plain message naming what his terms still give him. The evidence never includes his captures or his baseline-day reasons. Had the record shown a gap, such as a late review without its credit, the default flips to refund, since you'd lose on your own record. Left alone: any argument about his effort, and a counter-offer. Dispute rules and evidence deadlines differ by processor and country, so they sit on your Risk Register.
 

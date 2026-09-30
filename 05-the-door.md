@@ -85,7 +85,7 @@ What the call delivers is fixed, however you run it: his stall and goal said bac
 
 Somewhere past 6–8 held conversations a week, the calendar starts eating the business. The volume is the trigger: most weeks above that range, with selling hours cutting into your content minimum. A show rate sliding toward about 60%, or more than half of held conversations ending no-fit, at lower volume means the screening before the call needs work, not a cap.
 
-A free hour isn't worth the same to every buyer. It changes the decision of the uncertain buyer, who wants to talk it through or is wary after a purchase that let him down. It also earns its hour with the buyer near a high-ticket decision, such as Private or the priority tier, where the price per call-hour is highest. A buyer already decided on the Program loses nothing by going straight to the written route. The buyer who'd rather have it in writing loses little by getting a written plan, and he keeps it.
+A free hour isn't worth the same to every buyer. It changes the decision of the uncertain buyer, who wants to talk it through or is wary after a purchase that let him down. It also earns its hour with the buyer near a high-ticket decision, such as Private, the premium seat, or the priority tier, where the price per call-hour is highest. A buyer already decided on the Program, your 12-week flagship, loses nothing by going straight to the written route. The buyer who'd rather have it in writing loses little by getting a written plan, and he keeps it.
 
 That's the logic of the **Call Cap**: free fit conversations stay open up to about 6–8 held a week, reserved by tags for uncertain buyers and those near a high-ticket decision. The overflow goes to the paid or async Decision Assessment. Below the cap, every eligible adult can book free. Once it binds, free slots show only on results carrying those tags, and every other result offers an assessment within days beside the next open slot. Nobody is refused a decision, only a free hour this week.
 
@@ -97,7 +97,7 @@ That's the logic of the **Call Cap**: free fit conversations stay open up to abo
 | Small credited fee to book (~$25–50) | No-shows keep eating selling hours after bookings land inside 24–48 h with a reminder | Friction, and a paid step, so the Fit Check moves to booking |
 | Paid Decision Assessment for everyone | As the overflow only | As the whole door, it cuts conversations you need while every eligible lead counts |
 | Direct checkout only | As a warm route beside the door | As the only door, uncertain buyers stall or refund |
-| Application before any call | Inside the path to Private, the premium seat | Slow, and friction without judgment |
+| Application before any call | Inside the path to Private | Slow, and friction without judgment |
 
 **Default: free, up to the Call Cap.** A fee filters out eligible adults while reach binds, and a burned buyer reads a paid first look as the rating-app pattern he's trying to leave. Switch to the small credited fee only on its row's condition, because lead time and reminders lift show rates without filtering anyone out.
 
@@ -111,7 +111,7 @@ No pay button exists until three checks have passed, because a check that runs a
 
 Warm routes, plan links, and checkout links in a DM take payment with nobody watching, so the checks live in the checkout itself. The order is fixed: the attestation, the affordability question, then the Fit Check's second tier. The pay button appears only after a yes and no signal. The checkout also reads the pause tag, and a paused buyer sees "I'll reply to you personally" in its place until he gives permission again. Buy-now-pay-later and third-party financing stay switched off, because the question itself rules out new credit, so the only plan is your own installments, offered after a yes.
 
-The second tier runs at booking of every paid step, from either assessment tier to the Starter tool, a plan, or a checkout link in a DM. Every item is multiple choice, so the checkout can act before payment, and his words come in the conversation a signal opens. You read the answers, no freelancer sees them, and none reaches a marketing tool.
+The second tier runs at booking of every paid step, from either assessment tier to a plan, a checkout link in a DM, or the Starter tool, the free path's low-cost kit. Every item is multiple choice, so the checkout can act before payment, and his words come in the conversation a signal opens. You read the answers, no freelancer sees them, and none reaches a marketing tool.
 
 Clinical figures explain why you check everyone. Serious appearance concern runs well above the general population's rate among people seeking appearance change, strong in clinics and weak as a transfer to coaching buyers (Module 2). A planning figure says what you'll see: roughly 5–20% of paid-step applicants show at least one signal, most continue after a conversation, and acute signals are rare. After about 30 applicants, your aggregate counts replace that range.
 
@@ -122,7 +122,7 @@ Any signal removes that day's pay button, sets the pause tag, and starts the sig
 | Part of the pause | What it protects |
 |---|---|
 | No payment that day | The decision gets made away from the moment the signal showed |
-| Adjusted expectations, in writing | He decides on what the Program, your 12-week flagship, can and can't do for him, in his words |
+| Adjusted expectations, in writing | He decides on what the Program can and can't do for him, in his words |
 | At least 72 hours to cool off | Urgency has time to pass, and with monthly starts a good-fit buyer loses nothing |
 | No payment plan | A plan eases the stretch for exactly the buyer who should feel the whole decision |
 | The fit window starts on day one of delivery | The pause never eats his full-refund window |
@@ -233,7 +233,7 @@ Every path through the door ends in one recommendation, because a man who came t
 | The Starter Path | Not now, for a reason his record bears out, or not a fit; tool-free after "can't afford" or money that isn't his; reading-only after a fit pause |
 | "Don't buy", or a referral | A goal he's paying for in the never-claimed column; a lever that doesn't move for him; snoring, jaw, bite, or growth questions; checking or fixation |
 
-Your public page still shows every tier, premium first (*Present the price*), while the plan decides for one man: a tier beside the one he's recommended gets a clause saying what it's for, never an ask. At Scaling the Program goes out beside Program Async, one rung at two doses, each priced once, and he picks the tier his week fits (Module 13).
+Your public page still shows every tier, premium first (*Present the price*), while the plan decides for one man: a tier beside the one he's recommended gets a clause saying what it's for, never an ask. At Scaling the Program goes out beside Program Async, the same review without the live call, each priced once, and he picks the tier his week fits (Module 13).
 
 **The page shows every tier; the plan names one, with its reason from his record.**
 
@@ -249,7 +249,7 @@ Left alone: a discount against what the device cost, and any word about whoever 
 
 ### Every route carries the same checks
 
-Any paid recommendation carries the Path and Timeline Card and the Expectation Document before payment (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc (Module 20).
+Any paid recommendation carries the Path and Timeline Card and the Expectation Document, his path, cost, and terms in writing, before payment (Module 6). A decision-stage asset may link to a checkout under the Warmth Ladder's rule for what each asset may ask (Module 18), and a verified adult may get one recommendation and a checkout link by DM, *Sell directly* at full strength. An unverified contact gets the door, and Private needs a call. By Scaling, about 50–70% of enrollments come without a live call, through the Async Arc, the call's arc without a call (Module 20).
 
 However he arrives, the floor holds: his recap within 24 hours names the one recommendation, its price, his Decision Date, and his next step.
 

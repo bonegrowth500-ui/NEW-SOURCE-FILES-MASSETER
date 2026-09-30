@@ -195,7 +195,7 @@ Some buyers describe themselves where others describe a situation, and to them a
 > **You:** "That's a hard way to feel, and it makes sense after [six] months with no answer. You've put in time and money, and you still don't know what's working. That's the guessing, and the guessing is the problem. It's also the part we can end."
 > *[Stop. Let him answer.]*
 
-The client calls he named never come back in the reflection, the summary, or the recap, even though they're his goal, and his summary says he wants to know instead of guess, and to be at ease. The recommendation holds: a Private seat at $[5,000] with [recorded walkthroughs and 24-hour written replies], "We never read or score your face", the price once, the question, and the ask.
+The client calls he named never come back in the reflection, the summary, or the recap, even though they're his goal, and his summary says he wants to know instead of guess, and to be at ease. The recommendation holds: a Private seat at $[6,000] with [recorded walkthroughs and 24-hour written replies], "We never read or score your face", the price once, the question, and the ask.
 
 ### The hard true thing lands on the situation
 
@@ -257,7 +257,7 @@ The stake is lived, forward, and his, so it's said back plainly, gadget money le
 
 **Minute 15. The summary, the straight answer, the true thing.** Dan confirms the summary: taken seriously at work, the cost he named, and the missing baseline and review. The Honest Answer's spoken version follows word for word, as on every call, then the true thing from section 5.
 
-**Minute 18. One recommendation, the tiers, the price.** Cole recommends the Program from [March 2], because Dan wants to know what's moving and nobody has read his record, and walks the Card, yes before no. The tiers come top first: a Private seat at $[5,000] with [recorded walkthroughs and 24-hour written replies], then the Program at $[2,100] in full, or three payments of $[720], $[2,160] in total. [About eight] seconds of silence pass before Dan says, "The Program." He says yes to the affordability question, asked word for word about it.
+**Minute 18. One recommendation, the tiers, the price.** Cole recommends the Program from [March 2], because Dan wants to know what's moving and nobody has read his record, and walks the Card, yes before no. The tiers come top first: a Private seat at $[6,000] with [recorded walkthroughs and 24-hour written replies], then the Program at $[2,100] in full, or three payments of $[720], $[2,160] in total. [About eight] seconds of silence pass before Dan says, "The Program." He says yes to the affordability question, asked word for word about it.
 
 **Minute 21. The sort finds Guide.**
 
@@ -319,7 +319,7 @@ On the Dignity Route, [his destination] is "to know instead of guess, and to be 
 
 4. **The straight answer, then the recommendation.** The Honest Answer's spoken version comes first, word for word.
 
-> **You:** "Then I'd recommend [the Program] from [March 2], because [his reasons]. Here's the whole path: [the Card, yes before no]. There are two real options, top first. Private is $[5,000], with [recorded walkthroughs and 24-hour written replies]. The Program is $[2,100] in full, or three payments of $[720], $[2,160] in total, and it's the one I'd recommend for you."
+> **You:** "Then I'd recommend [the Program] from [March 2], because [his reasons]. Here's the whole path: [the Card, yes before no]. There are two real options, top first. Private is $[6,000], with [recorded walkthroughs and 24-hour written replies]. The Program is $[2,100] in full, or three payments of $[720], $[2,160] in total, and it's the one I'd recommend for you."
 > *[Stop. Say nothing until he speaks.]*
 
 State seat status here only when it could change his start: "This start has [8] seats, and [5] are taken."
