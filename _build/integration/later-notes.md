@@ -31,3 +31,7 @@
 - Clear resolved open issues from summaries 10, 13, 17, 20, 26, 27 (resolved in Part II's 4.1).
 - Run `_build/tools/reconcile.py` (canon, stages, cast, qr, pointer) after 4.2.
 - Align every bracketed Cole price and month to the canonical path in 4.1-partII.md (e.g., 27 §1's month-5 offer page shows [$1,750] / [$1,830]; the path has [$1.8k] from May).
+
+## For 5.2–5.3
+- Glossary: compile from FRAMEWORKS (register) and check each gloss against actual use; Step 4 changed the pause route, protective stop, alumni status, Buyer-Mix Shift, Founding Sprint, Close by Contract, Decision Date, Call Cap, Clip Context Check, Proof Portability Gradient, Start Here Series, and the claims library.
+- Final audits: 18 and 19 sit at 7,695 and 7,691 (cap 7,700); total ~214k words against the SPEC's ~196k target (every module inside the 6,300–7,700 band).

@@ -33,7 +33,7 @@ Rounds = Parts (SPEC §9: one blueprint phase per round; no approval gates). Rou
 | 25 | 25-instagram-and-x.md | ad0e2b404105b0a5b | a7fe4f7646c3ef45b | ✅ 3.5 passed (7,451 w) |
 | 26 | 26-email-the-private-room.md | a300a2c062d1fdab2 | a5a18a892aa925902 | ✅ 3.5 passed (7,558 w) |
 | 27 | 27-the-hub-search-and-paid.md | a3f74005b7529d931 | ac108ae2b0e5a083e | ✅ 3.5 passed (7,445 w) |
-| 28 | 28-the-first-nine-months.md | aea3d56cc8d941e44 | aeeadc75f02e40547 | 4.4: 3.4 rebuild (critique: 0 blocking, 9 major, 13 minor) |
+| 28 | 28-the-first-nine-months.md | aea3d56cc8d941e44 | aeeadc75f02e40547 | ✅ 4.4 passed (7,494 w) |
 
 ## Decisions made during Step 3
 (terms registered, LEDGER additions, rule clarifications)
@@ -172,3 +172,4 @@ Kit: `_build/INTEGRATION.md`. Logs: `_build/integration/4.1-part*.md`.
 - 4.3 I done (5 numbers, 14 terms, 6 cross-refs). Orchestrator fixes: 15 'Decision Date' capitals (2); path v2 Y2 August row records the first below-range read (01 §3's slide-back) and the closing note is dated through Y2 June. Sent: 04 and 10 'refer-out trigger(s)'; 05 L20 adds 'without new credit'; summary 09 open issue cleared.
 - 4.3 III done (9 numbers, 13 terms, 9 cross-refs). Rulings: path v2 year-2 reads corrected (after proof the range is 25–45%: Y2 Jan unreadable [~20–25] held, carried by filling at the bottom; Y2 Apr [~30%] lower half; Y2 Jun [~38%] upper half, so the top step to $2,400 in Y2 Aug); 13's extrapolation appended to path v2 (month 26 $3.2k; crossing month 28; $47–50k by month 36). 01 §3's slide-back becomes a hypothetical ('Say one of Cole's steps inside the proof band…') so it no longer contradicts 13's dated climb. Round Two carries the Program's week-6 exit right at its own week-6 read, pro rata (LEDGER B; 07 clause sent to Part II).
 - 4.3 II done (11 numbers, 20 terms, 5 cross-refs). Bible: Call Cap gloss → 'uncertain buyers and those near a high-ticket decision' (FRAMEWORKS, LEDGER C, BUSINESS); open paid membership only once its moderation line earns what a Program hour earns (LEDGER B; 04 aligned). 4.3 COMPLETE: all 27 modules 0 FAIL; total 206,843 words (7,569–7,695 each); canon/stages/cast/qr/leans clean (canon's 2 hits are line wraps).
+- 4.4 done: Module 28 drafted, critiqued (0 blocking, 9 major, 13 minor), rebuilt, audited (0 FAIL). STEP 4 COMPLETE: 28 modules, 214,337 words, 0 FAIL; canon/stages/cast/qr/leans clean. Rulings R4-8 to R4-13 logged.
